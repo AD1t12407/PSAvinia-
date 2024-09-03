@@ -1,0 +1,453 @@
+{
+    "author": "Tim Salimans",
+    "affiliation": "Google DeepMind Amsterdam",
+    "total_papers": 74,
+    "total_citations": 51825,
+    "publications": [
+        {
+            "title": "Improving language understanding by generative pre-training",
+            "year": "2018",
+            "citations": 11273,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved techniques for training gans",
+            "year": "2016",
+            "citations": 10651,
+            "link": "No link available"
+        },
+        {
+            "title": "Photorealistic text-to-image diffusion models with deep language understanding",
+            "year": "2022",
+            "citations": 4244,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifier-free diffusion guidance",
+            "year": "2022",
+            "citations": 2412,
+            "link": "No link available"
+        },
+        {
+            "title": "Weight normalization: A simple reparameterization to accelerate training of deep neural networks",
+            "year": "2016",
+            "citations": 2281,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved variational inference with inverse autoregressive flow",
+            "year": "2016",
+            "citations": 2101,
+            "link": "No link available"
+        },
+        {
+            "title": "Dota 2 with large scale deep reinforcement learning",
+            "year": "2019",
+            "citations": 1900,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolution strategies as a scalable alternative to reinforcement learning",
+            "year": "2017",
+            "citations": 1774,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational dropout and the local reparameterization trick",
+            "year": "2015",
+            "citations": 1741,
+            "link": "No link available"
+        },
+        {
+            "title": "Image super-resolution via iterative refinement",
+            "year": "2022",
+            "citations": 1419,
+            "link": "No link available"
+        },
+        {
+            "title": "Palette: Image-to-image diffusion models",
+            "year": "2022",
+            "citations": 1132,
+            "link": "No link available"
+        },
+        {
+            "title": "Pixelcnn++: Improving the pixelcnn with discretized logistic mixture likelihood and other modifications",
+            "year": "2017",
+            "citations": 1130,
+            "link": "No link available"
+        },
+        {
+            "title": "Imagen video: High definition video generation with diffusion models",
+            "year": "2022",
+            "citations": 1008,
+            "link": "No link available"
+        },
+        {
+            "title": "Video diffusion models",
+            "year": "2022",
+            "citations": 994,
+            "link": "No link available"
+        },
+        {
+            "title": "Cascaded diffusion models for high fidelity image generation",
+            "year": "2022",
+            "citations": 903,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational diffusion models",
+            "year": "2021",
+            "citations": 840,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational lossy autoencoder",
+            "year": "2016",
+            "citations": 798,
+            "link": "No link available"
+        },
+        {
+            "title": "Progressive distillation for fast sampling of diffusion models",
+            "year": "2022",
+            "citations": 778,
+            "link": "No link available"
+        },
+        {
+            "title": "Markov chain monte carlo and variational inference: Bridging the gap",
+            "year": "2015",
+            "citations": 719,
+            "link": "No link available"
+        },
+        {
+            "title": "Axial attention in multidimensional transformers",
+            "year": "2019",
+            "citations": 563,
+            "link": "No link available"
+        },
+        {
+            "title": "How good is the Bayes posterior in deep neural networks really?",
+            "year": "2020",
+            "citations": 378,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving GANs Using Optimal Transport",
+            "year": "2018",
+            "citations": 349,
+            "link": "No link available"
+        },
+        {
+            "title": "Metnet: A neural weather model for precipitation forecasting",
+            "year": "2020",
+            "citations": 311,
+            "link": "No link available"
+        },
+        {
+            "title": "On distillation of guided diffusion models",
+            "year": "2023",
+            "citations": 283,
+            "link": "No link available"
+        },
+        {
+            "title": "Fixed-form variational posterior approximation through stochastic linear regression",
+            "year": "2013",
+            "citations": 266,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Montezuma\u2019s Revenge from a single demonstration",
+            "year": "2018",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "simple diffusion: End-to-end diffusion for high resolution images",
+            "year": "2023",
+            "citations": 122,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving language understanding by generative pre-training. OpenAI",
+            "year": "2018",
+            "citations": 120,
+            "link": "No link available"
+        },
+        {
+            "title": "Dota 2 with large scale deep reinforcement learning",
+            "year": "2019",
+            "citations": 113,
+            "link": "No link available"
+        },
+        {
+            "title": "Autoregressive diffusion models",
+            "year": "2021",
+            "citations": 109,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "2016",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolution strategies as a scalable alternative to reinforcement learning. arXiv 2017",
+            "year": "2017",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "The k-tied normal distribution: A compact parameterization of Gaussian mean field posteriors in Bayesian neural networks",
+            "year": "2020",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "A spectral energy distance for parallel speech synthesis",
+            "year": "2020",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Blurring diffusion models",
+            "year": "2022",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Lossy compression with gaussian diffusion",
+            "year": "2022",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Milking cowmask for semi-supervised image classification",
+            "year": "2020",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Hydra: Preserving ensemble diversity for model distillation",
+            "year": "2020",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Should EBMs model the energy or the score?",
+            "year": "2021",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Idf++: Analyzing and improving integer discrete flows for lossless compression",
+            "year": "2020",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "OpenAI Post on Generative Models",
+            "year": "2016",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "On Density Estimation with Diffusion Models.",
+            "year": "2021",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Sutskever",
+            "year": "2018",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "On using control variates with stochastic approximation for variational bayes and its connection to stochastic linear regression",
+            "year": "2014",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy gradient search: Online planning and expert iteration without search trees",
+            "year": "2019",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "A structured variational auto-encoder for learning deep hierarchies of sparse features",
+            "year": "2016",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Variable selection and functional form uncertainty in cross-country growth regressions",
+            "year": "2012",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving language understanding by generative pre-training [EB/OL]",
+            "year": "2018",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "The likelihood of mixed hitting times",
+            "year": "2012",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Observing Dark Worlds: A crowdsourcing experiment for dark matter mapping",
+            "year": "2014",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Collaborative learning of preference rankings",
+            "year": "2012",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Photorealistic text-to-image diffusion models with deep language understanding (arXiv: 2205.11487). arXiv",
+            "year": "2022",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Agent-centric representations for multi-agent reinforcement learning",
+            "year": "2021",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient checkpointing",
+            "year": "2017",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "On the relationship between normalising flows and variational-and denoising autoencoders",
+            "year": "2019",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Multistep consistency models",
+            "year": "2024",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Discrete predictor-corrector diffusion models for image synthesis",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Implementing and automating fixed-form variational posterior approximation through stochastic linear regression",
+            "year": "2014",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "How i won the deloitte/fide chess rating challenge",
+            "year": "2012",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Requests For Research 2.0",
+            "year": "Unknown",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Multistep Distillation of Diffusion Models via Moment Matching",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Rolling Diffusion Models",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Predictor-Corrector Sampling for Discrete Diffusion Models",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "EM Distillation for One-step Diffusion Models",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating videos using sequences of generative neural networks",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Image Enhancement via Iterative Refinement based on Machine Learning Models",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Image enhancement via iterative refinement based on machine learning models",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Image enhancement via iterative refinement based on machine learning models",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Diffusion Models Having Improved Accuracy and Reduced Consumption of Computational Resources",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Image-to-Image Mapping by Iterative De-Noising",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Training speech synthesis neural networks using energy scores",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Essays in Likelihood-Based Computational Econometrics",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unconditional Diffusion Guidance",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Materials for: The k-tied Normal Distribution: A Compact Parameterization of Gaussian Mean Field Posteriors in Bayesian Neural Networks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "generative models, reinforcement learning, deep learning, approximate Bayesian inference"
+}

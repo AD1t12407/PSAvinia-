@@ -1,0 +1,1005 @@
+{
+    "author": "Thomas Mikolov",
+    "affiliation": "Senior Researcher, CIIRC CTU",
+    "total_papers": 166,
+    "total_citations": 166658,
+    "publications": [
+        {
+            "title": "Distributed representations of words and phrases and their compositionality",
+            "year": "2013",
+            "citations": 44747,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space",
+            "year": "2013",
+            "citations": 43412,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations of sentences and documents",
+            "year": "2014",
+            "citations": 12867,
+            "link": "No link available"
+        },
+        {
+            "title": "Enriching word vectors with subword information",
+            "year": "2017",
+            "citations": 12680,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent neural network based language model.",
+            "year": "2010",
+            "citations": 8017,
+            "link": "No link available"
+        },
+        {
+            "title": "On the difficulty of training recurrent neural networks",
+            "year": "2013",
+            "citations": 7492,
+            "link": "No link available"
+        },
+        {
+            "title": "Bag of tricks for efficient text classification",
+            "year": "2016",
+            "citations": 6168,
+            "link": "No link available"
+        },
+        {
+            "title": "Linguistic regularities in continuous space word representations",
+            "year": "2013",
+            "citations": 5262,
+            "link": "No link available"
+        },
+        {
+            "title": "Devise: A deep visual-semantic embedding model",
+            "year": "2013",
+            "citations": 3319,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploiting similarities among languages for machine translation",
+            "year": "2013",
+            "citations": 1897,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning word vectors for 157 languages",
+            "year": "2018",
+            "citations": 1847,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in pre-training distributed word representations",
+            "year": "2017",
+            "citations": 1755,
+            "link": "No link available"
+        },
+        {
+            "title": "Extensions of recurrent neural network language model",
+            "year": "2011",
+            "citations": 1684,
+            "link": "No link available"
+        },
+        {
+            "title": "Fasttext. zip: Compressing text classification models",
+            "year": "2016",
+            "citations": 1617,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards ai-complete question answering: A set of prerequisite toy tasks",
+            "year": "2015",
+            "citations": 1282,
+            "link": "No link available"
+        },
+        {
+            "title": "One billion word benchmark for measuring progress in statistical language modeling",
+            "year": "2013",
+            "citations": 1268,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot learning by convex combination of semantic embeddings",
+            "year": "2013",
+            "citations": 1097,
+            "link": "No link available"
+        },
+        {
+            "title": "Statistical Language Models Based on Neural Networks",
+            "year": "2012",
+            "citations": 935,
+            "link": "No link available"
+        },
+        {
+            "title": "Context dependent recurrent neural network language model",
+            "year": "2012",
+            "citations": 779,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding the exploding gradient problem",
+            "year": "2012",
+            "citations": 779,
+            "link": "No link available"
+        },
+        {
+            "title": "Strategies for training large scale neural network language models",
+            "year": "2011",
+            "citations": 719,
+            "link": "No link available"
+        },
+        {
+            "title": "Inferring algorithmic patterns with stack-augmented recurrent nets",
+            "year": "2015",
+            "citations": 477,
+            "link": "No link available"
+        },
+        {
+            "title": "Empirical evaluation and combination of advanced language modeling techniques",
+            "year": "2011",
+            "citations": 417,
+            "link": "No link available"
+        },
+        {
+            "title": "Rnnlm-recurrent neural network language modeling toolkit",
+            "year": "2011",
+            "citations": 376,
+            "link": "No link available"
+        },
+        {
+            "title": "Loss in translation: Learning bilingual word mapping with a retrieval criterion",
+            "year": "2018",
+            "citations": 362,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning longer memory in recurrent neural networks",
+            "year": "2014",
+            "citations": 327,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent Neural Network Based Language Modeling in Meeting Recognition.",
+            "year": "2011",
+            "citations": 266,
+            "link": "No link available"
+        },
+        {
+            "title": "Subword language modeling with neural networks",
+            "year": "2012",
+            "citations": 240,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space. arXiv: 13013781",
+            "year": "2013",
+            "citations": 223,
+            "link": "No link available"
+        },
+        {
+            "title": "Computing numeric representations of words in a high-dimensional space",
+            "year": "2015",
+            "citations": 219,
+            "link": "No link available"
+        },
+        {
+            "title": "Corrado Greg S., and Dean Jeff. 2013",
+            "year": "2013",
+            "citations": 186,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient large-scale multi-modal classification",
+            "year": "2018",
+            "citations": 173,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network based language models for highly inflective languages",
+            "year": "2009",
+            "citations": 168,
+            "link": "No link available"
+        },
+        {
+            "title": "Large language models: A survey",
+            "year": "2024",
+            "citations": 164,
+            "link": "No link available"
+        },
+        {
+            "title": "Ensemble of generative and discriminative techniques for sentiment analysis of movie reviews",
+            "year": "2014",
+            "citations": 160,
+            "link": "No link available"
+        },
+        {
+            "title": "A roadmap towards machine intelligence",
+            "year": "2018",
+            "citations": 155,
+            "link": "No link available"
+        },
+        {
+            "title": "Feature-augmented neural networks and applications of same",
+            "year": "2016",
+            "citations": 153,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations of words and phrases and their compositionality (2013)",
+            "year": "2013",
+            "citations": 148,
+            "link": "No link available"
+        },
+        {
+            "title": "J. \u02c7Cernocky, and S",
+            "year": "2010",
+            "citations": 146,
+            "link": "No link available"
+        },
+        {
+            "title": "Bag of tricks for efficient text classification. arXiv 2016",
+            "year": "2016",
+            "citations": 122,
+            "link": "No link available"
+        },
+        {
+            "title": "Enriching word vectors with subword information. arXiv 2016",
+            "year": "2016",
+            "citations": 122,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning simple algorithms from examples",
+            "year": "2016",
+            "citations": 116,
+            "link": "No link available"
+        },
+        {
+            "title": "word2vec",
+            "year": "2013",
+            "citations": 113,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations of words and phrases and their compositionality. arXiv 2013",
+            "year": "2013",
+            "citations": 96,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining heterogeneous models for measuring relational similarity",
+            "year": "2013",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space. arXiv preprint (2013)",
+            "year": "2019",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space. arXiv e-prints, page",
+            "year": "2013",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning simpler language models with the differential state framework",
+            "year": "2017",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "Variable computation in recurrent neural networks",
+            "year": "2016",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational approximation of long-span language models for LVCSR",
+            "year": "2011",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "Alternative structures for character-level RNNs",
+            "year": "2015",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Fasttext. zip: Compressing text classification models. arXiv 2016",
+            "year": "2016",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space. arXiv. doi: 10.48550",
+            "year": "2013",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "A fast re-scoring strategy to capture long-distance dependencies",
+            "year": "2011",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Enriching word vectors with subword information (2016)",
+            "year": "2016",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Estimation of Word Representations in Vector Space, ArXiv13013781 Cs.(2013)",
+            "year": "2020",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Sutskever I Chen K et al",
+            "year": "2013",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Estimation of Word Representations in Vector Space, arxiv. org",
+            "year": "2013",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploiting similarities among languages for machine translation (2013)",
+            "year": "2022",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "J. \u02c7Cernock\u00fd",
+            "year": "2009",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast linear model for knowledge graph embeddings",
+            "year": "2017",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations of sentences and documents. CoRR abs/1405.4053 (2014)",
+            "year": "2014",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Approximate inference: A sampling based modeling technique to capture complex dependencies in a language model",
+            "year": "2013",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Jan \u02c7Cernocky, and Sanjeev Khudanpur. 2011. Extensions of recurrent neural network language model",
+            "year": "Unknown",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Language modeling for speech recognition in czech",
+            "year": "2007",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Relational similarity measurement",
+            "year": "2014",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in phonotactic language recognition.",
+            "year": "2008",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Data selection and calibration issues in automatic language recognition-investigation with BUT-AGNITIO NIST LRE 2009 system.",
+            "year": "2010",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "word2vec: Tool for computing continuous distributed representations of words",
+            "year": "2015",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "i Jeffrey Dean.\u00bb",
+            "year": "2013",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "BUT language recognition system for NIST 2007 evaluations.",
+            "year": "2008",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Enriching word vectors with subword information. CoRR abs/1607.04606",
+            "year": "2016",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploiting similarities among languages for machine translation. arXiv",
+            "year": "2013",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "BUT system description for NIST LRE 2007",
+            "year": "2007",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "One billion word benchmark for measuring progress in statistical language modeling (2013)",
+            "year": "2013",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "PCA-based Feature Extraction for Phonotactic Language Recognition.",
+            "year": "2010",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Bag of tricks for efficient text classification. CoRR abs/1607.01759 (2016)",
+            "year": "2016",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Jan \u02c7Cernocky. 2011. Strategies for training large scale neural network language models",
+            "year": "Unknown",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in pre-training distributed word representations",
+            "year": "2018",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 2013 conference of the North American Chapter of the Association for Computational Linguistics: Human language technologies",
+            "year": "2013",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning representations of text using neural networks",
+            "year": "2013",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolving structures in complex systems",
+            "year": "2019",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space, CoRR abs/1301.3781",
+            "year": "2019",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "CommAI: Evaluating the first steps towards a useful general AI",
+            "year": "2017",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Tmikolov Google Com. 2014",
+            "year": "2014",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Marc\u2019Aurelio Ranzato, and Yoshua Bengio. 2014. Ensemble of generative and discriminative techniques for sentiment analysis of movie reviews",
+            "year": "2014",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploiting similarities among languages for machine translation. CoRR abs/1309.4168 (2013)",
+            "year": "2013",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Place deduplication with embeddings",
+            "year": "2019",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Fasttext. zip: compressing text classification models. CoRR abs/1612.03651 (2016)",
+            "year": "2016",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploiting similarities among languages for machine translation. CoRR abs/1309.4168",
+            "year": "2013",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "et almbox. 2013. Devise: A deep visual-semantic embedding model",
+            "year": "Unknown",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Updating pre-trained word vectors and text classifiers using monolingual alignment",
+            "year": "2019",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Language models for automatic speech recognition of czech lectures",
+            "year": "2008",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergence of self-reproducing metabolisms as recursive algorithms in an artificial chemistry",
+            "year": "2022",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Using Neural Networks for Modeling and Representing Natural Languages.",
+            "year": "2014",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributedrepre\ue011 sentationsofwordsandphrasesandtheircompositionality",
+            "year": "2013",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "others. 2013. Devise: A deep visual-semantic embedding model",
+            "year": "Unknown",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "word2vec. 2013",
+            "year": "Unknown",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space proceedings of workshop at iclr",
+            "year": "2013",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding the exploding gradient problem (2012)",
+            "year": "2012",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot learning by convex combination of semantic embeddings",
+            "year": "2013",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "BUT-AGNITIO system description for NIST language recognition evaluation 2009",
+            "year": "2009",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Translating terms using numeric representations",
+            "year": "2017",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Es\u2043 timation of Word Representations in Vector Space [OL]",
+            "year": "2013",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Color Reduction Using K-Means Clustering",
+            "year": "2007",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Enriching word vectors with subword information. arXiv preprint (2016)",
+            "year": "Unknown",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "\u00a1, and Sanjeev Khudanpur. 2010. Recurrent neural network based language model",
+            "year": "Unknown",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space. arXiv",
+            "year": "2013",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Computational hierarchy of elementary cellular automata",
+            "year": "2021",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Classification of complex systems based on transients",
+            "year": "2020",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Why is defining artificial intelligence important",
+            "year": "2020",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning the meaning behind words",
+            "year": "2013",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "G, Corrado, & J",
+            "year": "2013",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space. Arxiv J.(2013)",
+            "year": "Unknown",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Preserving semantics in textual adversarial attacks",
+            "year": "2023",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing computation in large-scale cellular automata",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating online continual learning with CALM",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Sutskever I, Chen K, Corrado G, Dean J (2013b) Distributed representations of words and phrases and their compositionality",
+            "year": "2019",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial tasks for artificial intelligence",
+            "year": "2015",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Dean, Jeffrey, 2013, Distributed representations of words and phrases and their compositionality",
+            "year": "Unknown",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Combinatory chemistry: Towards a simple model of emergent evolution",
+            "year": "2020",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space. ICLR workshop",
+            "year": "2013",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient estimation of word representations in vector space. arXiv 2013",
+            "year": "Unknown",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "AI Is Changing the Landscape of Academic Writing: What Can Be Done? Authors\u2019 Reply to: AI Increases the Pressure to Overhaul the Scientific Peer Review Process. Comment on \u2026",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Benchmarking learning efficiency in deep reservoir computing",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Class-agnostic continual learning of alternating languages and domains",
+            "year": "2020",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "rnnlm",
+            "year": "2019",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations of words and phrases and their compositionality. Archiv",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Esti-mation of Word Representations in Vector Space I EB/OL",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed Representations of Words and Phrases and their Compositionality. NIPS\u201913: Proceedings of the 26th International Conference on Neural Information Processing Systems \u2026",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving language models for ASR using translated in-domain data",
+            "year": "2012",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "The RNNLM Toolkit",
+            "year": "2011",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Language modeling of Czech using neural networks",
+            "year": "2007",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Corrado Greg S, Dean Jeff. Distributed representations of words and phrases and their compositionality",
+            "year": "Unknown",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Greg,\u201c",
+            "year": "Unknown",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Classification of Discrete Dynamical Systems Based on Transients",
+            "year": "2021",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Language Modeling and Artificial Intelligence.",
+            "year": "2021",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Modelov\u00e1n\u00ed jazyka v rozpozn\u00e1v\u00e1n\u00ed \u010de\u0161tiny",
+            "year": "2020",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Pouzit\u0131 mluven\u00fdh korpusu ve v\u00fdvoji syst\u00e9mu pro rospozn\u00e1v\u00e1n\u0131 cesk\u00fdch predn\u00e1\u0161ek",
+            "year": "2007",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Collapse of Self-trained Language Models",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergence of Novelty in Evolutionary Algorithms",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying data objects",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Thinking Tokens for Language Modeling",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying data objects",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Computing numeric representations of words in a high-dimensional space",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Perfect detection of computer-generated text faces fundamental challenges",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Advancing State of the Art in Language Modeling",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Computing numeric representations of words in a high-dimensional space",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Computing numeric representations of words in a high-dimensional space",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying data objects",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Translating terms using numeric representations",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sources",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Statistick\u00e9 jazykov\u00e9 modely zalo\u017een\u00e9 na neuronov\u00fdch s\u00edt\u00edch",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Simpler Language Models with the Delta Recurrent Neural Network Framework",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Enriching word vectors with subword information. CoRR abs/1607.04606 (2016)",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ALTERNATIVE STRUCTURES FOR CHARACTER-LEVEL",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ENSEMBLE OF GENERATIVE AND DISCRIMINATIVE TECHNIQUES FOR SENTIMENT ANALYSIS OF MOVIE",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Corrado Greg S, Dean Jeff",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Mspandit Rnnlm Save",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary material: Inferring Algorithmic Patterns with Memory-Augmented Recurrent Nets",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Odyssey 2010: The Speaker and Language Recognition Workshop",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Introducing Encoder-Decoder Relation between Cellular Automata to Uncover Their Computational Structure",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Task-agnostic Continual Learning via Growing Long-Term Memory Networks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Estimation of Word Representations in Vector Space, Vol. abs/1301.3781, 2013",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Mohammad Norouzi",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "RECURRENT NEURAL NETWORK LANGUAGE MODELING APPLIED TO THE BRNO AMI/AMIDA 2009 MEETING RECOGNIZER SETUP",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Artificial Intelligence, Machine Learning, Language Modeling, Natural Language Processing"
+}

@@ -1,0 +1,3861 @@
+{
+    "author": "Pieter Abbeel",
+    "affiliation": "UC Berkeley | Covariant",
+    "total_papers": 642,
+    "total_citations": 161644,
+    "publications": [
+        {
+            "title": "Model-agnostic meta-learning for fast adaptation of deep networks",
+            "year": "2017",
+            "citations": 13209,
+            "link": "No link available"
+        },
+        {
+            "title": "Denoising diffusion probabilistic models",
+            "year": "2020",
+            "citations": 11960,
+            "link": "No link available"
+        },
+        {
+            "title": "Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor",
+            "year": "2018",
+            "citations": 8850,
+            "link": "No link available"
+        },
+        {
+            "title": "Trust Region Policy Optimization",
+            "year": "2015",
+            "citations": 8459,
+            "link": "No link available"
+        },
+        {
+            "title": "Infogan: Interpretable representation learning by information maximizing generative adversarial nets",
+            "year": "2016",
+            "citations": 5447,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-agent actor-critic for mixed cooperative-competitive environments",
+            "year": "2017",
+            "citations": 5127,
+            "link": "No link available"
+        },
+        {
+            "title": "Apprenticeship learning via inverse reinforcement learning",
+            "year": "2004",
+            "citations": 4283,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-end training of deep visuomotor policies",
+            "year": "2016",
+            "citations": 4011,
+            "link": "No link available"
+        },
+        {
+            "title": "High-dimensional continuous control using generalized advantage estimation",
+            "year": "2015",
+            "citations": 3816,
+            "link": "No link available"
+        },
+        {
+            "title": "Domain randomization for transferring deep neural networks from simulation to the real world",
+            "year": "2017",
+            "citations": 3303,
+            "link": "No link available"
+        },
+        {
+            "title": "Hindsight experience replay",
+            "year": "2017",
+            "citations": 2842,
+            "link": "No link available"
+        },
+        {
+            "title": "Soft actor-critic algorithms and applications",
+            "year": "2018",
+            "citations": 2739,
+            "link": "No link available"
+        },
+        {
+            "title": "Benchmarking deep reinforcement learning for continuous control",
+            "year": "2016",
+            "citations": 2055,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple neural attentive meta-learner",
+            "year": "2017",
+            "citations": 1542,
+            "link": "No link available"
+        },
+        {
+            "title": "Sim-to-real transfer of robotic control with dynamics randomization",
+            "year": "2018",
+            "citations": 1537,
+            "link": "No link available"
+        },
+        {
+            "title": "Constrained policy optimization",
+            "year": "2017",
+            "citations": 1491,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning with deep energy-based policies",
+            "year": "2017",
+            "citations": 1448,
+            "link": "No link available"
+        },
+        {
+            "title": "Decision transformer: Reinforcement learning via sequence modeling",
+            "year": "2021",
+            "citations": 1415,
+            "link": "No link available"
+        },
+        {
+            "title": "Bottleneck transformers for visual recognition",
+            "year": "2021",
+            "citations": 1184,
+            "link": "No link available"
+        },
+        {
+            "title": "Guided cost learning: Deep inverse optimal control via policy optimization",
+            "year": "2016",
+            "citations": 1149,
+            "link": "No link available"
+        },
+        {
+            "title": "RL: Fast Reinforcement Learning via Slow Reinforcement Learning",
+            "year": "2016",
+            "citations": 1143,
+            "link": "No link available"
+        },
+        {
+            "title": "Deepmimic: Example-guided deep reinforcement learning of physics-based character skills",
+            "year": "2018",
+            "citations": 1114,
+            "link": "No link available"
+        },
+        {
+            "title": "Curl: Contrastive unsupervised representations for reinforcement learning",
+            "year": "2020",
+            "citations": 1082,
+            "link": "No link available"
+        },
+        {
+            "title": "A survey of research on cloud robotics and automation",
+            "year": "2015",
+            "citations": 1041,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial attacks on neural network policies",
+            "year": "2017",
+            "citations": 1002,
+            "link": "No link available"
+        },
+        {
+            "title": "An application of reinforcement learning to aerobatic helicopter flight",
+            "year": "2006",
+            "citations": 944,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative probabilistic models for relational data",
+            "year": "2012",
+            "citations": 935,
+            "link": "No link available"
+        },
+        {
+            "title": "Overcoming exploration in reinforcement learning with demonstrations",
+            "year": "2018",
+            "citations": 911,
+            "link": "No link available"
+        },
+        {
+            "title": "An algorithmic perspective on imitation learning",
+            "year": "2018",
+            "citations": 901,
+            "link": "No link available"
+        },
+        {
+            "title": "Motion planning with sequential convex optimization and convex collision checking",
+            "year": "2014",
+            "citations": 881,
+            "link": "No link available"
+        },
+        {
+            "title": "Vime: Variational information maximizing exploration",
+            "year": "2016",
+            "citations": 874,
+            "link": "No link available"
+        },
+        {
+            "title": "The ycb object and model set: Towards common benchmarks for manipulation research",
+            "year": "2015",
+            "citations": 852,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating protein transfer learning with TAPE",
+            "year": "2019",
+            "citations": 847,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous helicopter aerobatics through apprenticeship learning",
+            "year": "2010",
+            "citations": 833,
+            "link": "No link available"
+        },
+        {
+            "title": "Benchmarking in manipulation research: Using the Yale-CMU-Berkeley object and model set",
+            "year": "2015",
+            "citations": 829,
+            "link": "No link available"
+        },
+        {
+            "title": "Language models as zero-shot planners: Extracting actionable knowledge for embodied agents",
+            "year": "2022",
+            "citations": 808,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational lossy autoencoder",
+            "year": "2016",
+            "citations": 790,
+            "link": "No link available"
+        },
+        {
+            "title": "One-shot imitation learning",
+            "year": "2017",
+            "citations": 788,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergence of grounded compositional language in multi-agent populations",
+            "year": "2018",
+            "citations": 777,
+            "link": "No link available"
+        },
+        {
+            "title": "Cooperative inverse reinforcement learning",
+            "year": "2016",
+            "citations": 775,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep imitation learning for complex manipulation tasks from virtual reality teleoperation",
+            "year": "2018",
+            "citations": 750,
+            "link": "No link available"
+        },
+        {
+            "title": "Value iteration networks",
+            "year": "2016",
+            "citations": 750,
+            "link": "No link available"
+        },
+        {
+            "title": "Parameter space noise for exploration",
+            "year": "2017",
+            "citations": 737,
+            "link": "No link available"
+        },
+        {
+            "title": "# exploration: A study of count-based exploration for deep reinforcement learning",
+            "year": "2017",
+            "citations": 695,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning with augmented data",
+            "year": "2020",
+            "citations": 689,
+            "link": "No link available"
+        },
+        {
+            "title": "Link prediction in relational data",
+            "year": "2003",
+            "citations": 661,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep spatial autoencoders for visuomotor learning",
+            "year": "2016",
+            "citations": 647,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to adapt in dynamic, real-world environments through meta-reinforcement learning",
+            "year": "2018",
+            "citations": 632,
+            "link": "No link available"
+        },
+        {
+            "title": "The limits and potentials of deep learning for robotics",
+            "year": "2018",
+            "citations": 630,
+            "link": "No link available"
+        },
+        {
+            "title": "One-shot visual imitation learning via meta-learning",
+            "year": "2017",
+            "citations": 623,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning neural network policies with guided policy search under unknown dynamics",
+            "year": "2014",
+            "citations": 615,
+            "link": "No link available"
+        },
+        {
+            "title": "Combined task and motion planning through an extensible planner-independent interface layer",
+            "year": "2014",
+            "citations": 613,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning with opponent-learning awareness",
+            "year": "2017",
+            "citations": 606,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to poke by poking: Experiential learning of intuitive physics",
+            "year": "2016",
+            "citations": 604,
+            "link": "No link available"
+        },
+        {
+            "title": "Finding locally optimal, collision-free trajectories with sequential convex optimization.",
+            "year": "2013",
+            "citations": 603,
+            "link": "No link available"
+        },
+        {
+            "title": "Cloth grasp point detection based on multiple-view geometric cues with application to robotic towel folding",
+            "year": "2010",
+            "citations": 583,
+            "link": "No link available"
+        },
+        {
+            "title": "LQG-MP: Optimized path planning for robots with motion uncertainty and imperfect state information",
+            "year": "2011",
+            "citations": 567,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning deep control policies for autonomous aerial vehicles with mpc-guided policy search",
+            "year": "2016",
+            "citations": 549,
+            "link": "No link available"
+        },
+        {
+            "title": "MSA transformer",
+            "year": "2021",
+            "citations": 547,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient l~ 1 regularized logistic regression",
+            "year": "2006",
+            "citations": 546,
+            "link": "No link available"
+        },
+        {
+            "title": "Incentivizing exploration in reinforcement learning with deep predictive models",
+            "year": "2015",
+            "citations": 544,
+            "link": "No link available"
+        },
+        {
+            "title": "Model-ensemble trust-region policy optimization",
+            "year": "2018",
+            "citations": 535,
+            "link": "No link available"
+        },
+        {
+            "title": "Reverse curriculum generation for reinforcement learning",
+            "year": "2017",
+            "citations": 502,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic adversarial video prediction",
+            "year": "2018",
+            "citations": 498,
+            "link": "No link available"
+        },
+        {
+            "title": "Flow++: Improving flow-based generative models with variational dequantization and architecture design",
+            "year": "2019",
+            "citations": 482,
+            "link": "No link available"
+        },
+        {
+            "title": "Population based augmentation: Efficient learning of augmentation policy schedules",
+            "year": "2019",
+            "citations": 477,
+            "link": "No link available"
+        },
+        {
+            "title": "Inverse reward design",
+            "year": "2017",
+            "citations": 458,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot text-guided object generation with dream fields",
+            "year": "2022",
+            "citations": 454,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient estimation using stochastic computation graphs",
+            "year": "2015",
+            "citations": 454,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic goal generation for reinforcement learning agents",
+            "year": "2018",
+            "citations": 453,
+            "link": "No link available"
+        },
+        {
+            "title": "Benchmarking model-based reinforcement learning",
+            "year": "2019",
+            "citations": 447,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning modular neural network policies for multi-task and multi-robot transfer",
+            "year": "2017",
+            "citations": 437,
+            "link": "No link available"
+        },
+        {
+            "title": "Meta learning shared hierarchies",
+            "year": "2017",
+            "citations": 424,
+            "link": "No link available"
+        },
+        {
+            "title": "Bigbird: A large-scale 3d database of object instances",
+            "year": "2014",
+            "citations": 424,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic latent actor-critic: Deep reinforcement learning with a latent variable model",
+            "year": "2020",
+            "citations": 423,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic neural networks for hierarchical reinforcement learning",
+            "year": "2017",
+            "citations": 422,
+            "link": "No link available"
+        },
+        {
+            "title": "Meta-reinforcement learning of structured exploration strategies",
+            "year": "2018",
+            "citations": 419,
+            "link": "No link available"
+        },
+        {
+            "title": "Continuous adaptation via meta-learning in nonstationary and competitive environments",
+            "year": "2017",
+            "citations": 416,
+            "link": "No link available"
+        },
+        {
+            "title": "A connection between generative adversarial networks, inverse reinforcement learning, and energy-based models",
+            "year": "2016",
+            "citations": 415,
+            "link": "No link available"
+        },
+        {
+            "title": "Putting nerf on a diet: Semantically consistent few-shot view synthesis",
+            "year": "2021",
+            "citations": 411,
+            "link": "No link available"
+        },
+        {
+            "title": "Imitation from observation: Learning to imitate behaviors from raw video via context translation",
+            "year": "2018",
+            "citations": 406,
+            "link": "No link available"
+        },
+        {
+            "title": "Planning to explore via self-supervised world models",
+            "year": "2020",
+            "citations": 405,
+            "link": "No link available"
+        },
+        {
+            "title": "One-shot imitation from observing humans via domain-adaptive meta-learning",
+            "year": "2018",
+            "citations": 402,
+            "link": "No link available"
+        },
+        {
+            "title": "Safe exploration in markov decision processes",
+            "year": "2012",
+            "citations": 395,
+            "link": "No link available"
+        },
+        {
+            "title": "On the utility of learning about humans for human-ai coordination",
+            "year": "2019",
+            "citations": 383,
+            "link": "No link available"
+        },
+        {
+            "title": "Yale-CMU-Berkeley dataset for robotic manipulation research",
+            "year": "2017",
+            "citations": 378,
+            "link": "No link available"
+        },
+        {
+            "title": "2018 IEEE international conference on robotics and automation (ICRA)",
+            "year": "2018",
+            "citations": 377,
+            "link": "No link available"
+        },
+        {
+            "title": "Uncertainty-aware reinforcement learning for collision avoidance",
+            "year": "2017",
+            "citations": 373,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-supervised deep reinforcement learning with generalized computation graphs for robot navigation",
+            "year": "2018",
+            "citations": 357,
+            "link": "No link available"
+        },
+        {
+            "title": "Asymmetric actor critic for image-based robot learning",
+            "year": "2017",
+            "citations": 353,
+            "link": "No link available"
+        },
+        {
+            "title": "Videogpt: Video generation using vq-vae and transformers",
+            "year": "2021",
+            "citations": 341,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining self-supervised learning and imitation for vision-based rope manipulation",
+            "year": "2017",
+            "citations": 341,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning invariant feature spaces to transfer skills with reinforcement learning",
+            "year": "2017",
+            "citations": 335,
+            "link": "No link available"
+        },
+        {
+            "title": "Decoupling representation learning from reinforcement learning",
+            "year": "2021",
+            "citations": 334,
+            "link": "No link available"
+        },
+        {
+            "title": "Equivalence between policy gradients and soft q-learning",
+            "year": "2017",
+            "citations": 334,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning the dynamics of arterial traffic from probe data using a dynamic Bayesian network",
+            "year": "2012",
+            "citations": 329,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploration and apprenticeship learning in reinforcement learning",
+            "year": "2005",
+            "citations": 329,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning for control from multiple demonstrations",
+            "year": "2008",
+            "citations": 318,
+            "link": "No link available"
+        },
+        {
+            "title": "Using inaccurate models in reinforcement learning",
+            "year": "2006",
+            "citations": 317,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal planning networks: Learning generalizable representations for visuomotor control",
+            "year": "2018",
+            "citations": 305,
+            "link": "No link available"
+        },
+        {
+            "title": "Estimating arterial traffic conditions using sparse probe data",
+            "year": "2010",
+            "citations": 301,
+            "link": "No link available"
+        },
+        {
+            "title": "Solar: Deep structured representations for model-based reinforcement learning",
+            "year": "2019",
+            "citations": 294,
+            "link": "No link available"
+        },
+        {
+            "title": "A geometric approach to robotic laundry folding",
+            "year": "2012",
+            "citations": 293,
+            "link": "No link available"
+        },
+        {
+            "title": "Amp: Adversarial motion priors for stylized physics-based character control",
+            "year": "2021",
+            "citations": 290,
+            "link": "No link available"
+        },
+        {
+            "title": "Model-based reinforcement learning via meta-policy optimization",
+            "year": "2018",
+            "citations": 288,
+            "link": "No link available"
+        },
+        {
+            "title": "Frozen pretrained transformers as universal computation engines",
+            "year": "2022",
+            "citations": 286,
+            "link": "No link available"
+        },
+        {
+            "title": "Superhuman performance of surgical tasks by robots using iterative learning from human-guided demonstrations",
+            "year": "2010",
+            "citations": 285,
+            "link": "No link available"
+        },
+        {
+            "title": "Composable deep reinforcement learning for robotic manipulation",
+            "year": "2018",
+            "citations": 283,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolved policy gradients",
+            "year": "2018",
+            "citations": 282,
+            "link": "No link available"
+        },
+        {
+            "title": "Badgr: An autonomous self-supervised learning-based navigation system",
+            "year": "2021",
+            "citations": 281,
+            "link": "No link available"
+        },
+        {
+            "title": "Pixelsnail: An improved autoregressive generative model",
+            "year": "2018",
+            "citations": 281,
+            "link": "No link available"
+        },
+        {
+            "title": "A robot path planning framework that learns from experience",
+            "year": "2012",
+            "citations": 276,
+            "link": "No link available"
+        },
+        {
+            "title": "A berkeley view of systems challenges for ai",
+            "year": "2017",
+            "citations": 271,
+            "link": "No link available"
+        },
+        {
+            "title": "Third-person imitation learning",
+            "year": "2017",
+            "citations": 269,
+            "link": "No link available"
+        },
+        {
+            "title": "Transfer from simulation to real world through learning deep inverse dynamics model",
+            "year": "2016",
+            "citations": 266,
+            "link": "No link available"
+        },
+        {
+            "title": "Responsive safety in reinforcement learning by pid lagrangian methods",
+            "year": "2020",
+            "citations": 265,
+            "link": "No link available"
+        },
+        {
+            "title": "Sfv: Reinforcement learning of physical skills from videos",
+            "year": "2018",
+            "citations": 250,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational discriminator bottleneck: Improving imitation learning, inverse rl, and gans by constraining information flow",
+            "year": "2018",
+            "citations": 249,
+            "link": "No link available"
+        },
+        {
+            "title": "Sunrise: A simple unified framework for ensemble learning in deep reinforcement learning",
+            "year": "2021",
+            "citations": 241,
+            "link": "No link available"
+        },
+        {
+            "title": "Pebble: Feedback-efficient interactive reinforcement learning via relabeling experience and unsupervised pre-training",
+            "year": "2021",
+            "citations": 238,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep unsupervised cardinality estimation",
+            "year": "2019",
+            "citations": 238,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning helicopter dynamics models",
+            "year": "2015",
+            "citations": 235,
+            "link": "No link available"
+        },
+        {
+            "title": "Promp: Proximal meta-policy search",
+            "year": "2018",
+            "citations": 233,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning for robust parameterized locomotion control of bipedal robots",
+            "year": "2021",
+            "citations": 230,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning by observation for surgical subtasks: Multilateral cutting of 3d viscoelastic and 2d orthotropic tissue phantoms",
+            "year": "2015",
+            "citations": 226,
+            "link": "No link available"
+        },
+        {
+            "title": "Latent space policies for hierarchical reinforcement learning",
+            "year": "2018",
+            "citations": 220,
+            "link": "No link available"
+        },
+        {
+            "title": "Tracking deformable objects with point clouds",
+            "year": "2013",
+            "citations": 217,
+            "link": "No link available"
+        },
+        {
+            "title": "Path and travel time inference from GPS probe vehicle data",
+            "year": "2009",
+            "citations": 216,
+            "link": "No link available"
+        },
+        {
+            "title": "Information-Theoretic Planning with Trajectory Optimization for Dense 3D Mapping.",
+            "year": "2015",
+            "citations": 215,
+            "link": "No link available"
+        },
+        {
+            "title": "The path inference filter: model-based low-latency map matching of probe vehicle data",
+            "year": "2013",
+            "citations": 212,
+            "link": "No link available"
+        },
+        {
+            "title": "Mcp: Learning composable hierarchical control with multiplicative compositional policies",
+            "year": "2019",
+            "citations": 210,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning dexterous manipulation for a soft robotic hand from human demonstrations",
+            "year": "2016",
+            "citations": 210,
+            "link": "No link available"
+        },
+        {
+            "title": "Daydreamer: World models for physical robot learning",
+            "year": "2023",
+            "citations": 208,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to manipulate deformable objects without demonstrations",
+            "year": "2019",
+            "citations": 208,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical apprenticeship learning with application to quadruped locomotion",
+            "year": "2007",
+            "citations": 206,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning factor graphs in polynomial time and sample complexity",
+            "year": "2006",
+            "citations": 206,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning on variable impedance controller for high-precision robotic assembly",
+            "year": "2019",
+            "citations": 205,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning plannable representations with causal infogan",
+            "year": "2018",
+            "citations": 204,
+            "link": "No link available"
+        },
+        {
+            "title": "Mastering atari games with limited data",
+            "year": "2021",
+            "citations": 203,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative training of kalman filters.",
+            "year": "2005",
+            "citations": 200,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational option discovery algorithms",
+            "year": "2018",
+            "citations": 194,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning predictive representations for deformable objects using contrastive estimation",
+            "year": "2021",
+            "citations": 193,
+            "link": "No link available"
+        },
+        {
+            "title": "Behavior from the void: Unsupervised active pre-training",
+            "year": "2021",
+            "citations": 190,
+            "link": "No link available"
+        },
+        {
+            "title": "Bringing clothing into desired configurations with limited perception",
+            "year": "2011",
+            "citations": 190,
+            "link": "No link available"
+        },
+        {
+            "title": "Real-world robot learning with masked visual pre-training",
+            "year": "2023",
+            "citations": 184,
+            "link": "No link available"
+        },
+        {
+            "title": "Domain randomization and generative models for robotic grasping",
+            "year": "2018",
+            "citations": 183,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning from demonstrations through the use of non-rigid registration",
+            "year": "2016",
+            "citations": 181,
+            "link": "No link available"
+        },
+        {
+            "title": "Grounding spatial relations for human-robot interaction",
+            "year": "2013",
+            "citations": 181,
+            "link": "No link available"
+        },
+        {
+            "title": "Koala: A dialogue model for academic research",
+            "year": "2023",
+            "citations": 177,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning robotic assembly from cad",
+            "year": "2018",
+            "citations": 177,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to statistical relational learning",
+            "year": "2007",
+            "citations": 177,
+            "link": "No link available"
+        },
+        {
+            "title": "Transition state clustering: Unsupervised surgical trajectory segmentation for robot learning",
+            "year": "2017",
+            "citations": 175,
+            "link": "No link available"
+        },
+        {
+            "title": "Enabling robots to communicate their objectives",
+            "year": "2019",
+            "citations": 174,
+            "link": "No link available"
+        },
+        {
+            "title": "Checkmate: Breaking the memory wall with optimal tensor rematerialization",
+            "year": "2020",
+            "citations": 173,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-consistent trajectory autoencoder: Hierarchical reinforcement learning with trajectory embeddings",
+            "year": "2018",
+            "citations": 173,
+            "link": "No link available"
+        },
+        {
+            "title": "Variance reduction for policy gradient with action-dependent factorized baselines",
+            "year": "2018",
+            "citations": 173,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning force-based manipulation of deformable objects from multiple demonstrations",
+            "year": "2015",
+            "citations": 173,
+            "link": "No link available"
+        },
+        {
+            "title": "One-shot learning of manipulation skills with online dynamics adaptation and neural network priors",
+            "year": "2016",
+            "citations": 171,
+            "link": "No link available"
+        },
+        {
+            "title": "The off-switch game",
+            "year": "2017",
+            "citations": 167,
+            "link": "No link available"
+        },
+        {
+            "title": "A textured object recognition pipeline for color and depth image data",
+            "year": "2012",
+            "citations": 167,
+            "link": "No link available"
+        },
+        {
+            "title": "Plato: Policy learning using adaptive trajectory optimization",
+            "year": "2017",
+            "citations": 165,
+            "link": "No link available"
+        },
+        {
+            "title": "Adapting deep visuomotor representations with weak pairwise constraints",
+            "year": "2020",
+            "citations": 162,
+            "link": "No link available"
+        },
+        {
+            "title": "Meta-learning with temporal convolutions",
+            "year": "2017",
+            "citations": 160,
+            "link": "No link available"
+        },
+        {
+            "title": "Offline-to-online reinforcement learning via balanced replay and pessimistic q-ensemble",
+            "year": "2022",
+            "citations": 157,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-supervised policy adaptation during deployment",
+            "year": "2020",
+            "citations": 156,
+            "link": "No link available"
+        },
+        {
+            "title": "Apprenticeship learning for motion planning with application to parking lot navigation",
+            "year": "2008",
+            "citations": 156,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization through simulation: Integrating simulated and real data into deep reinforcement learning for vision-based autonomous flight",
+            "year": "2019",
+            "citations": 155,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning robotic manipulation through visual planning and acting",
+            "year": "2019",
+            "citations": 154,
+            "link": "No link available"
+        },
+        {
+            "title": "Max-margin Classification of Data with Absent Features.",
+            "year": "2008",
+            "citations": 154,
+            "link": "No link available"
+        },
+        {
+            "title": "Aligning text-to-image models using human feedback",
+            "year": "2023",
+            "citations": 153,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous multilateral debridement with the raven surgical robot",
+            "year": "2014",
+            "citations": 151,
+            "link": "No link available"
+        },
+        {
+            "title": "Soft actor-critic algorithms and applications. arXiv 2018",
+            "year": "1812",
+            "citations": 151,
+            "link": "No link available"
+        },
+        {
+            "title": "Using mobile phones to forecast arterial traffic through statistical learning",
+            "year": "2010",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "The false promise of imitating proprietary llms",
+            "year": "2023",
+            "citations": 142,
+            "link": "No link available"
+        },
+        {
+            "title": "Avid: Learning multi-stage tasks via pixel-level translation of human videos",
+            "year": "2019",
+            "citations": 141,
+            "link": "No link available"
+        },
+        {
+            "title": "Accelerated methods for deep reinforcement learning",
+            "year": "2018",
+            "citations": 140,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning generalized reactive policies using deep neural networks",
+            "year": "2018",
+            "citations": 137,
+            "link": "No link available"
+        },
+        {
+            "title": "Contrastive code representation learning",
+            "year": "2020",
+            "citations": 136,
+            "link": "No link available"
+        },
+        {
+            "title": "Ucb exploration via q-ensembles",
+            "year": "2017",
+            "citations": 134,
+            "link": "No link available"
+        },
+        {
+            "title": "Apprenticeship learning for helicopter control",
+            "year": "2009",
+            "citations": 134,
+            "link": "No link available"
+        },
+        {
+            "title": "Establishing appropriate trust via critical states",
+            "year": "2018",
+            "citations": 133,
+            "link": "No link available"
+        },
+        {
+            "title": "Some considerations on learning to explore via meta-reinforcement learning",
+            "year": "2018",
+            "citations": 133,
+            "link": "No link available"
+        },
+        {
+            "title": "Guiding pretraining in reinforcement learning with large language models",
+            "year": "2023",
+            "citations": 132,
+            "link": "No link available"
+        },
+        {
+            "title": "Aps: Active pretraining with successor features",
+            "year": "2021",
+            "citations": 132,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradescope: a fast, flexible, and fair system for scalable assessment of handwritten work",
+            "year": "2017",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "Urlb: Unsupervised reinforcement learning benchmark",
+            "year": "2021",
+            "citations": 128,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep reinforcement learning for tensegrity robot locomotion",
+            "year": "2017",
+            "citations": 127,
+            "link": "No link available"
+        },
+        {
+            "title": "State entropy maximization with random encoders for efficient exploration",
+            "year": "2021",
+            "citations": 125,
+            "link": "No link available"
+        },
+        {
+            "title": "Multimodal blending for high-accuracy instance recognition",
+            "year": "2013",
+            "citations": 125,
+            "link": "No link available"
+        },
+        {
+            "title": "Parametrized shape models for clothing",
+            "year": "2011",
+            "citations": 123,
+            "link": "No link available"
+        },
+        {
+            "title": "A case study of trajectory transfer through non-rigid registration for a simplified suturing scenario",
+            "year": "2013",
+            "citations": 122,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning vehicular dynamics, with application to modeling helicopters",
+            "year": "2005",
+            "citations": 121,
+            "link": "No link available"
+        },
+        {
+            "title": "Bit-swap: Recursive bits-back coding for lossless compression with hierarchical latent variables",
+            "year": "2019",
+            "citations": 113,
+            "link": "No link available"
+        },
+        {
+            "title": "rlpyt: A research code base for deep reinforcement learning in pytorch",
+            "year": "2019",
+            "citations": 111,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards characterizing divergence in deep q-learning",
+            "year": "2019",
+            "citations": 111,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning universal policies via text-guided video generation",
+            "year": "2024",
+            "citations": 109,
+            "link": "No link available"
+        },
+        {
+            "title": "Foundation models for decision making: Problems, methods, and opportunities",
+            "year": "2023",
+            "citations": 109,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic curriculum learning through value disagreement",
+            "year": "2020",
+            "citations": 108,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling up gaussian belief space planning through covariance-free trajectory optimization and automatic differentiation",
+            "year": "2015",
+            "citations": 108,
+            "link": "No link available"
+        },
+        {
+            "title": "On a connection between importance sampling and the likelihood ratio policy gradient",
+            "year": "2010",
+            "citations": 106,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep object-centric representations for generalizable robot learning",
+            "year": "2018",
+            "citations": 104,
+            "link": "No link available"
+        },
+        {
+            "title": "A single-use haptic palpation probe for locating subcutaneous blood vessels in robot-assisted minimally invasive surgery",
+            "year": "2015",
+            "citations": 104,
+            "link": "No link available"
+        },
+        {
+            "title": "Gravity-based robotic cloth folding",
+            "year": "2011",
+            "citations": 103,
+            "link": "No link available"
+        },
+        {
+            "title": "Geometric programming for aircraft design optimization",
+            "year": "2014",
+            "citations": 102,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic goal generation for reinforcement learning agents",
+            "year": "2018",
+            "citations": 100,
+            "link": "No link available"
+        },
+        {
+            "title": "Chain of hindsight aligns language models with feedback",
+            "year": "2023",
+            "citations": 99,
+            "link": "No link available"
+        },
+        {
+            "title": "Masked world models for visual control",
+            "year": "2023",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "Multimodal masked autoencoders learn transferable representations",
+            "year": "2022",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "B-pref: Benchmarking preference-based reinforcement learning",
+            "year": "2021",
+            "citations": 97,
+            "link": "No link available"
+        },
+        {
+            "title": "Quasi-direct drive for low-cost compliant robotic manipulation",
+            "year": "2019",
+            "citations": 97,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning deep neural network policies with continuous memory states",
+            "year": "2016",
+            "citations": 96,
+            "link": "No link available"
+        },
+        {
+            "title": "Where are we in the search for an artificial visual cortex for embodied intelligence?",
+            "year": "2023",
+            "citations": 95,
+            "link": "No link available"
+        },
+        {
+            "title": "A framework for efficient robotic manipulation",
+            "year": "2021",
+            "citations": 95,
+            "link": "No link available"
+        },
+        {
+            "title": "Model-augmented actor-critic: Backpropagating through paths",
+            "year": "2020",
+            "citations": 95,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning with action-free pre-training from videos",
+            "year": "2022",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust reinforcement learning using adversarial populations",
+            "year": "2020",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to adapt: Meta-learning for model-based control",
+            "year": "2018",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Tsc-dl: Unsupervised trajectory segmentation of multi-modal surgical demonstrations with deep learning",
+            "year": "2016",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning accurate kinematic control of cable-driven surgical robots using data cleaning and gaussian process regression",
+            "year": "2014",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Sub-policy adaptation for hierarchical reinforcement learning",
+            "year": "2019",
+            "citations": 92,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning visual servoing with deep features and fitted q-iteration",
+            "year": "2017",
+            "citations": 90,
+            "link": "No link available"
+        },
+        {
+            "title": "Performance analysis and terrain classification for a legged robot over rough terrain",
+            "year": "2012",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous autorotation of an RC helicopter",
+            "year": "2009",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual imitation made easy",
+            "year": "2021",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "Mutual alignment transfer learning",
+            "year": "2017",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning for fine-tuning text-to-image diffusion models",
+            "year": "2024",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "BagNet: Berkeley analog generator with layout optimizer boosted with deep neural networks",
+            "year": "2019",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Inverse Reinforcement Learning.",
+            "year": "2010",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Guided search for task and motion plans using learned heuristics",
+            "year": "2016",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "Don't change the algorithm, change the data: Exploratory data for offline reinforcement learning",
+            "year": "2022",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalizing skills with semi-supervised reinforcement learning",
+            "year": "2016",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling the Mobile Millennium system in the cloud",
+            "year": "2011",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Curiosity-driven exploration in deep reinforcement learning via bayesian neural networks",
+            "year": "2016",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Attacking machine learning with adversarial examples",
+            "year": "2017",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "LQG-based planning, sensing, and control of steerable needles",
+            "year": "2011",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning visual feature spaces for robotic manipulation with deep spatial autoencoders",
+            "year": "2015",
+            "citations": 80,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning from the hindsight plan\u2014episodic mpc improvement",
+            "year": "2017",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "Gp-gpis-opt: Grasp planning with shape uncertainty using gaussian process implicit surfaces and sequential convex programming",
+            "year": "2015",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial motion priors make good substitutes for complex reward functions",
+            "year": "2022",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalized hindsight for reinforcement learning",
+            "year": "2020",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "Guided meta-policy search",
+            "year": "2019",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "SURF: Semi-supervised reward learning with data augmentation for feedback-efficient preference-based reinforcement learning",
+            "year": "2022",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "Auto-tuned sim-to-real transfer",
+            "year": "2021",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "On the feasibility of learning, rather than assuming, human biases for reward inference",
+            "year": "2019",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep hierarchical planning from pixels",
+            "year": "2022",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Preferences implicit in the state of the world",
+            "year": "2019",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Prediction and control with temporal segment models",
+            "year": "2017",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Toward asymptotically optimal motion planning for kinodynamic systems using a two-point boundary value problem solver",
+            "year": "2015",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining model-based policy search with online model learning for control of physical humanoids",
+            "year": "2016",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Relational markov networks",
+            "year": "2007",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Compression with flows via local bits-back coding",
+            "year": "2019",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Guiding policies with language via meta-learning",
+            "year": "2018",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "One-shot hierarchical imitation learning of compound visuomotor tasks",
+            "year": "2018",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Physics-based trajectory optimization for grasping in cluttered environments",
+            "year": "2015",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Deciphering the role of a coleopteran steering muscle via free flight stimulation",
+            "year": "2015",
+            "citations": 66,
+            "link": "No link available"
+        },
+        {
+            "title": "Managing AI risks in an era of rapid progress",
+            "year": "2023",
+            "citations": 63,
+            "link": "No link available"
+        },
+        {
+            "title": "Ring attention with blockwise transformers for near-infinite context",
+            "year": "2023",
+            "citations": 63,
+            "link": "No link available"
+        },
+        {
+            "title": "Reward uncertainty for exploration in preference-based reinforcement learning",
+            "year": "2022",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-armed bandit models for 2d grasp planning with uncertainty",
+            "year": "2015",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling and perception of deformable one-dimensional objects",
+            "year": "2011",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Active exploration using trajectory optimization for robotic grasping in the presence of occlusions",
+            "year": "2015",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "A biological micro actuator: graded and closed-loop control of insect leg motion by electrical stimulation of muscles",
+            "year": "2014",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Modular architecture for starcraft ii with deep reinforcement learning",
+            "year": "2018",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "EG-RRT: Environment-guided random trees for kinodynamic motion planning with uncertainty and obstacles",
+            "year": "2011",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Doorgym: A scalable door opening environment and baseline agent",
+            "year": "2019",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Risk aversion in Markov decision processes via near optimal Chernoff bounds",
+            "year": "2012",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Vectorfusion: Text-to-svg by abstracting pixel-based diffusion models",
+            "year": "2023",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Land: Learning to navigate from disengagements",
+            "year": "2021",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Modular task and motion planning in belief space",
+            "year": "2015",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Parameterized maneuver learning for autonomous helicopter flight",
+            "year": "2010",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards more generalizable one-shot visual imitation learning",
+            "year": "2022",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization in dexterous manipulation via geometry-aware multi-task learning",
+            "year": "2021",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Sparse graphical memory for robust planning",
+            "year": "2020",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Model-based reinforcement learning with parametrized physical models and optimism-driven exploration",
+            "year": "2016",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Cic: Contrastive intrinsic control for unsupervised skill discovery",
+            "year": "2022",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Using classical planners for tasks with continuous operators in robotics",
+            "year": "2013",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning compound multi-step controllers under unknown dynamics",
+            "year": "2015",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Domain randomization for active pose estimation",
+            "year": "2019",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Leveraging appearance priors in non-rigid registration, with application to manipulation of deformable objects",
+            "year": "2015",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale estimation in cyberphysical systems using streaming data: A case study with arterial traffic estimation",
+            "year": "2013",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative models",
+            "year": "2016",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning from multiple demonstrations using trajectory-aware non-rigid registration with applications to deformable object manipulation",
+            "year": "2015",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning first-order Markov models for control",
+            "year": "2004",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Hallucinative topological memory for zero-shot visual planning",
+            "year": "2020",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Hybrid discriminative-generative training via contrastive learning",
+            "year": "2020",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimism-driven exploration for nonlinear systems",
+            "year": "2015",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Sigma hulls for gaussian belief space planning for imprecise articulated robots amid obstacles",
+            "year": "2013",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Preference transformer: Modeling human preferences using transformers for rl",
+            "year": "2023",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Languages are rewards: Hindsight finetuning using human feedback",
+            "year": "2023",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Safer classification by synthesis",
+            "year": "2017",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy transfer via modularity and reward guiding",
+            "year": "2017",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Data fitting with geometric-programming-compatible softmax functions",
+            "year": "2016",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Perception for the manipulation of socks",
+            "year": "2011",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Reset-free guided policy search: Efficient deep reinforcement learning with stochastic initial states",
+            "year": "2017",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Unifying scene registration and trajectory optimization for learning from demonstrations with application to manipulation of deformable objects",
+            "year": "2014",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Motion planning and control of robotic manipulators on seaborne platforms",
+            "year": "2011",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Reset-free lifelong learning with skill-space planning",
+            "year": "2020",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchically decoupled imitation for morphological transfer",
+            "year": "2020",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Gaussian belief space planning with discontinuities in sensing domains",
+            "year": "2014",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Dichotomy of control: Separating what you can control from what you cannot",
+            "year": "2022",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Arriving on time: estimating travel time distributions on large-scale road networks",
+            "year": "2013",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Managing extreme AI risks amid rapid progress",
+            "year": "2024",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "The wisdom of hindsight makes language models better instruction followers",
+            "year": "2023",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of visual 3d keypoints for control",
+            "year": "2021",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Max-margin classification of incomplete data",
+            "year": "2006",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "World model on million-length video and language with ringattention",
+            "year": "2024",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Trajectory-wise multiple choice learning for dynamics generalization in reinforcement learning",
+            "year": "2020",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Ave: Assistance via empowerment",
+            "year": "2020",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Instruction-following agents with jointly pre-trained vision-language models",
+            "year": "2022",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "The importance of sampling inmeta-reinforcement learning",
+            "year": "2018",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Masked trajectory models for prediction, representation, and control",
+            "year": "2023",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical few-shot imitation with skill transition models",
+            "year": "2021",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Transfer learning for estimating causal effects using neural networks",
+            "year": "2018",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Controllability-aware unsupervised skill discovery",
+            "year": "2023",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Skill preferences: Learning to extract and execute robotic skills from human feedback",
+            "year": "2022",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-view masked world models for visual robotic manipulation",
+            "year": "2023",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting initialization effectiveness for trajectory optimization",
+            "year": "2014",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Masked autoencoding for scalable and generalizable decision making",
+            "year": "2022",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "On the effectiveness of fine-tuning versus meta-reinforcement learning",
+            "year": "2022",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to model the world with language",
+            "year": "2023",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Locally masked convolution for autoregressive models",
+            "year": "2020",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Asynchronous methods for model-based reinforcement learning",
+            "year": "2019",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning latent state representation for speeding up exploration",
+            "year": "2019",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Short-term traffic forecasting: Modeling and learning spatio-temporal relations in transportation networks using graph neural networks",
+            "year": "2015",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "An algorithm for computing customized 3D printed implants with curvature constrained channels for enhancing intracavitary brachytherapy radiation delivery",
+            "year": "2013",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor trust: Interpretable prompt injection attacks from an online game",
+            "year": "2023",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Combinatorial energy learning for image segmentation",
+            "year": "2016",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Label and link prediction in relational data",
+            "year": "2003",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "An empirical investigation of representation learning for imitation",
+            "year": "2022",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Benefits of assistance over reward learning",
+            "year": "2020",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "UCB and infogain exploration via q-ensembles",
+            "year": "2017",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Mutual information state intrinsic control",
+            "year": "2021",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistically safe policy transfer",
+            "year": "2017",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Tractability of planning with loops",
+            "year": "2015",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamics generalization via information bottleneck in deep reinforcement learning",
+            "year": "2020",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Plan2vec: Unsupervised representation learning by latent plans",
+            "year": "2020",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Planning curvature and torsion constrained ribbons in 3D with application to intracavitary brachytherapy",
+            "year": "2015",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust and versatile bipedal jumping control through multi-task reinforcement learning",
+            "year": "2023",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "The MineRL BASALT competition on learning from human feedback",
+            "year": "2021",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Grasping and fixturing as submodular coverage problems",
+            "year": "2017",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Inverse reinforcement learning via deep gaussian process",
+            "year": "2015",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Video language planning",
+            "year": "2023",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Fleet-dagger: Interactive robot fleet learning with scalable human supervision",
+            "year": "2023",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Behavioral priors and dynamics models: Improving performance and domain transfer in offline rl",
+            "year": "2021",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Task-agnostic morphology evolution",
+            "year": "2021",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel training of deep networks with local updates",
+            "year": "2020",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequential quadratic programming for task plan optimization",
+            "year": "2016",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization in robotic manipulation through the use of non-rigid registration",
+            "year": "2013",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning with latent flow",
+            "year": "2021",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Planning locally optimal, curvature-constrained trajectories in 3D using sequential convex optimization",
+            "year": "2014",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "A constraint-aware motion planning algorithm for robotic folding of clothes",
+            "year": "2013",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "On the influence of ship motion prediction accuracy on motion planning and control of robotic manipulators on seaborne platforms",
+            "year": "2010",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Video prediction models as rewards for reinforcement learning",
+            "year": "2024",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised reinforcement learning with contrastive intrinsic control",
+            "year": "2022",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Composable action-conditioned predictors: Flexible off-policy learning for robot navigation",
+            "year": "2018",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning interactive real-world simulators",
+            "year": "2023",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Hindsight task relabelling: Experience replay for sparse reward meta-rl",
+            "year": "2021",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Geometry-aware neural rendering",
+            "year": "2019",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "A strongreject for empty jailbreaks",
+            "year": "2024",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalable diffusion for materials generation",
+            "year": "2023",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Interactive task planning with language models",
+            "year": "2023",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Robopianist: Dexterous piano playing with deep reinforcement learning",
+            "year": "2023",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Reducing variance in temporal-difference value estimation via ensemble of deep networks",
+            "year": "2022",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Selectivity estimation with deep likelihood models",
+            "year": "2019",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Interpretable and pedagogical examples",
+            "year": "2017",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Range sensor and silhouette fusion for high-quality 3d scanning",
+            "year": "2015",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous Helicopter Flight Using Reinforcement Learning.",
+            "year": "2010",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Language quantized autoencoders: Towards unsupervised text-image alignment",
+            "year": "2024",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Gello: A general, low-cost, and intuitive teleoperation framework for robot manipulators",
+            "year": "2023",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust and versatile bipedal jumping control through reinforcement learning",
+            "year": "2023",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Sim-to-real 6d object pose estimation via iterative self-training for robotic bin picking",
+            "year": "2022",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergent agentic transformer from chain of hindsight experience",
+            "year": "2023",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Pretraining graph neural networks for few-shot analog circuit modeling and design",
+            "year": "2022",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Coarse-to-fine q-attention with learned path ranking",
+            "year": "2022",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "It takes four to tango: Multiagent selfplay for automatic curriculum generation",
+            "year": "2022",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Analog circuit generator based on deep neural network enhanced combinatorial optimization",
+            "year": "2019",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Blockwise parallel transformers for large context models",
+            "year": "2024",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Language reward modulation for pretraining reinforcement learning",
+            "year": "2023",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Temporally consistent transformers for video generation",
+            "year": "2023",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Chain of thought imitation with procedure cloning",
+            "year": "2022",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Compositional plan vectors",
+            "year": "2019",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Moka: Open-vocabulary robotic manipulation through mark-based visual prompting",
+            "year": "2024",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning for versatile, dynamic, and robust bipedal locomotion control",
+            "year": "2024",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "On the effectiveness of fine-tuning versus meta-reinforcement learning",
+            "year": "2022",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Harp: Autoregressive latent video prediction with high-fidelity image generator",
+            "year": "2022",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Become a proficient player with limited data through watching pure videos",
+            "year": "2022",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving computational efficiency in visual reinforcement learning via stored embeddings",
+            "year": "2021",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Dimensionality reduction flows",
+            "year": "2019",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy learning with continuous memory states for partially observed robotic control",
+            "year": "2015",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "A non-rigid point and normal registration algorithm with applications to learning from demonstrations",
+            "year": "2015",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Cyborg beetles: The remote radio control of insect flight",
+            "year": "2010",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Stereopose: Category-level 6d transparent object pose estimation from stereo images via back-view nocs",
+            "year": "2023",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning visual robotic control efficiently with contrastive pre-training and data augmentation",
+            "year": "2022",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive online planning for continual lifelong learning",
+            "year": "2019",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Patient-specific temporary implants for accurately guiding local means of tumor control along patient-specific internal channels to treat cancer",
+            "year": "2019",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep reinforcement learning for tensegrity robot locomotion",
+            "year": "2016",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "The berkeley 3d object dataset",
+            "year": "2012",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Train offline, test online: A real robot learning benchmark",
+            "year": "2023",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient empowerment estimation for unsupervised stabilization",
+            "year": "2020",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Blue gripper: a robust, low-cost, and force-controlled robot hand",
+            "year": "2019",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Alpha-Beta Divergences Discover Micro and Macro Structures in Data.",
+            "year": "2015",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised surgical task segmentation with milestone learning",
+            "year": "2015",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Coarse-to-fine q-attention with tree expansion",
+            "year": "2022",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Plan arithmetic: Compositional plan vectors for multi-task control",
+            "year": "2019",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Bingham policy parameterization for 3d rotations in reinforcement learning",
+            "year": "2022",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Quantifying uncertainty in foundation models via ensembles",
+            "year": "2022",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Jumbo: Scalable multi-task bayesian optimization using offline data",
+            "year": "2021",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised active pre-training for reinforcement learning",
+            "year": "2021",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Mutual information maximization for robust plannable representations",
+            "year": "2020",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to adapt: Meta-learning for model-based control",
+            "year": "2019",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimized color models for high-quality 3d scanning",
+            "year": "2015",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Language-conditioned path planning",
+            "year": "2023",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Pretraining for language conditioned imitation with transformers",
+            "year": "2021",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy transfer via modularity",
+            "year": "2017",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "FMB: A functional manipulation benchmark for generalizable robotic learning",
+            "year": "2024",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Instruction-following agents with multimodal transformer",
+            "year": "2022",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Target entropy annealing for discrete soft actor-critic",
+            "year": "2021",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Addressing sample complexity in visual tasks using her and hallucinatory gans",
+            "year": "2019",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual hindsight experience replay",
+            "year": "2019",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Humanoidbench: Simulated humanoid benchmark for whole-body locomotion and manipulation",
+            "year": "2024",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Any-point trajectory modeling for policy learning",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic adaptation of text-to-video models",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Explaining reinforcement learning policies through counterfactual trajectories",
+            "year": "2022",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Troubleshooting deep neural networks",
+            "year": "2021",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Variable skipping for autoregressive range density estimation",
+            "year": "2020",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Ycb benchmarking project: Object set, data set and their applications",
+            "year": "2017",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Beyond lowest-warping cost action selection in trajectory transfer",
+            "year": "2015",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "A modular approach to task and motion planning with an extensible planner-independent interface layer",
+            "year": "2014",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale estimation in cyberphysical systems using streaming data: A case study with smartphone traces",
+            "year": "2012",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Robotics: science and systems VII",
+            "year": "2012",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Chapter 5 A GPS software receiver",
+            "year": "2009",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Computer science",
+            "year": "2004",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Foundation reinforcement learning: towards embodied generalist agents with foundation prior assistance",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-environment pretraining enables transfer to action limited datasets",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Clutr: Curriculum learning via unsupervised task representation learning",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Robopianist: A benchmark for high-dimensional robot control",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Programmatic modeling and generation of real-time strategic soccer environments for reinforcement learning",
+            "year": "2022",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Scenic4rl: Programmatic modeling and generation of reinforcement learning environments",
+            "year": "2021",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Predictive coding for boosting deep reinforcement learning with sparse rewards",
+            "year": "2019",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Cooperative occlusion-aware multi-robot target tracking using optimization",
+            "year": "2015",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Fitting geometric programming models to data",
+            "year": "2014",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale online expectation maximization with spark streaming",
+            "year": "2012",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "SpawnNet: Learning Generalizable Visuomotor Skills from Pre-trained Network",
+            "year": "2024",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Accelerating reinforcement learning with value-conditional state entropy exploration",
+            "year": "2024",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Blockwise parallel transformer for long context large models",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Playful interactions for representation learning",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Explaining robot policies",
+            "year": "2021",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical variational imitation learning of control programs",
+            "year": "2019",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning efficient representation for intrinsic motivation",
+            "year": "2019",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Likelihood contribution based multi-scale architecture for generative flows",
+            "year": "2019",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Safety, risk awareness and exploration in reinforcement learning",
+            "year": "2014",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Twisting lids off with two hands",
+            "year": "2024",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Video as the New Language for Real-World Decision Making",
+            "year": "2024",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "What can AI Learn from Human Exploration? Intrinsically-Motivated Humans and Agents in Open-World Exploration",
+            "year": "2023",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Sim-to-real via sim-to-seg: End-to-end off-road autonomous driving without real data",
+            "year": "2022",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction",
+            "year": "2022",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Imitating, fast and slow: Robust learning from demonstrations via decision-time planning",
+            "year": "2022",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Temporally consistent video transformer for long-term video prediction",
+            "year": "2022",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "A low-cost compliant robot arm and system for manipulation",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Preventing imitation learning with adversarial policy ensembles",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Occlusion-aware multi-robot 3d tracking",
+            "year": "2016",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Gaussian belief space planning for imprecise articulated robots",
+            "year": "2013",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "The false promise of imitating proprietary language models",
+            "year": "2024",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "The power of the senses: Generalizable manipulation from vision and touch through masked multimodal learning",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-supervised instance segmentation by grasping",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving long-horizon imitation through instruction prediction",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Temporal-difference value estimation via uncertainty-guided soft updates",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning what to do by simulating the past",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Addressing distribution shift in online reinforcement learning with offline datasets",
+            "year": "2020",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "One-shot composition of vision-based skills from demonstration",
+            "year": "2019",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Trust Region Policy Optimization (TRPO)",
+            "year": "2015",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Portable GPS Baseband Logging",
+            "year": "2007",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement",
+            "year": "1861",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning a diffusion model policy from rewards via q-score matching",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Motion-conditioned image animation for video editing",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Spending thinking time wisely: Accelerating mcts with virtual expansions",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards Better Few-Shot and Finetuning Performance with Forgetful Causal Language Models",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Patch-based Object-centric Transformers for Efficient Video Generation",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "On the effectiveness of fine-tuning versus meta-RL for robot manipulation",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Gacem: Generalized autoregressive cross entropy method for multi-modal black box constraint satisfaction",
+            "year": "2020",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "VideoGen: generative modeling of videos using VQ-VAE and transformers",
+            "year": "2020",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Algorithmic Foundations of Robotics XII",
+            "year": "2020",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical deep reinforcement learning agent with counter self-play on competitive games",
+            "year": "2018",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Leveraging critical states to develop trust",
+            "year": "2017",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimization-based artifact correction for electron microscopy image stacks",
+            "year": "2014",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Dynamic Manipulation Skills under Unknown Dynamics with Guided Policy Search",
+            "year": "2014",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Insect-machine hybrid system",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "CS 188: Artificial Intelligence",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast wind turbine design via geometric programming",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine Learning for Robotics.",
+            "year": "2012",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning methods to enable automatic tuning of legged robots",
+            "year": "2012",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning with multiple demonstrations",
+            "year": "2007",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration0",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Dreamsmooth: Improving model-based reinforcement learning via reward smoothing",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploration with principles for diverse ai supervision",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional Occupancy Models for Dense Packing of Complex, Novel Objects",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributional Instance Segmentation: Modeling Uncertainty and High Confidence Predictions with Latent-MaskRCNN",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "A study on improving reasoning in language models",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Toph (true retrieval of proteins homologs): Adapting a contrastive question-answering framework for protein search",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Forgetful causal masking makes causal language models better zero-shot learners",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-supervised offline reinforcement learning with pre-trained decision transformers",
+            "year": "2022",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Teachable reinforcement learning via advice distillation",
+            "year": "2021",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Mutual information-based state-control for intrinsically motivated reinforcement learning",
+            "year": "2020",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Inferring reward functions from demonstrators with unknown biases",
+            "year": "2018",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Lifelong few-shot learning",
+            "year": "2017",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Toward a science of autonomy for physical systems: paths",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Reinforcement Learning",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "The Off-Switch",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "On Visual Feature Representations for Transition State Learning in Robotic Task Demonstrations",
+            "year": "2015",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Partially observable markov decision processes (POMDPs)",
+            "year": "2013",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Bilateral Teleoperation of Groups of UAVs with Decentralized Connectivity Maintenance. Robotics: Science & Systems Vii, University of Southern California",
+            "year": "2011",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning for control from multiple demonstrations (Full version)",
+            "year": "2008",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual Representation Learning with Stochastic Frame Prediction",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Functional Graphical Models: Structure Enables Offline Data-Driven Optimization",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Zero-Shot Reinforcement Learning via Functional Reward Encodings",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic Adaptation of Black-Box Text-to-Video Models",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "The Impact of Overall Optimization on Warehouse Automation",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "ALP: Action-Aware Embodied Learning for Perception",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Contrastive intrinsic control for unsupervised reinforcement learning",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-objective policy gradients with topological constraints",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Skill-based reinforcement learning with intrinsic reward matching",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "AdaCat: Adaptive categorical discretization for autoregressive models",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Gem: Group enhanced model for learning dynamical control systems",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Discrete Predictive Representation for Long-Horizon Planning",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "On training robust policies for flow smoothing",
+            "year": "2020",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization via Information Bottleneck in Deep Reinforcement Learning",
+            "year": "2020",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement Learning for Robotic Assembly with Force Control",
+            "year": "2020",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamical System Embedding for Efficient Intrinsically Motivated Artificial Agents",
+            "year": "2019",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Addressing Sample Complexity in Visual Tasks Using Hindsight Experience Replay and Hallucinatory GANs",
+            "year": "2019",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to Reinforcement Learn by Imitation",
+            "year": "2019",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Model-Based Reinforcement Learning via Meta-Policy Optimization",
+            "year": "2018",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical imitation learning via variational inference of control programs",
+            "year": "2018",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "A K-fold method for baseline estimation in policy gradient algorithms",
+            "year": "2017",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Third person imitation learning",
+            "year": "2016",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning for helicopter dynamics models",
+            "year": "2014",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Cyborg Insect: Insect Machine Hybrid System for Locomotion Control",
+            "year": "2013",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Dirichlet Process reinforcement learning",
+            "year": "2013",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Dense Feature Models for Object Detection using RGBD Data",
+            "year": "2013",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "gMapping Overview",
+            "year": "2011",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "An open source AGPS/DGPS capable C-coded software receiver",
+            "year": "2009",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Motion planning for deformable one-dimensional objects",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Body Transformer: Leveraging Robot Embodiment for Policy Learning",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-Supervised One-Shot Imitation Learning",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Offline Imitation Learning Through Graph Search and Retrieval",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Chip Placement with Diffusion",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Position: Video as the New Language for Real-World Decision Making",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "From LLMs to Actions: Latent Codes as Bridges in Hierarchical Robot Control",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Tokenized and Continuous Embedding Compressions of Protein Sequence and Structure",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Functional Graphical Models: Structure Enables Offline Data-Driven Optimization",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "AlberDICE: addressing out-of-distribution joint actions in offline multi-agent RL via alternating stationary distribution correction estimation",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Speed Co-Augmentation for Unsupervised Audio-Visual Pre-training",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Innovation Paths for Machine Learning in Robotics",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "CLUTR: Curriculum Learning via Unsupervised Task Representation Learning",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-Objective Policy Gradients with Topological Constraints",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Style-Augmented Mutual Information for Practical Skill Discovery",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Count-Based Temperature Scheduling for Maximum Entropy Reinforcement Learning",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Scenic4RL: Programmatic Modeling and Generation of Reinforcement Learning Environments",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Self-Supervised Representations of Code Functionality",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Paper Review",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Project Plan: Benchmarking Representation Learning for Imitation Learning",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Algorithms for Multi-task Reinforcement Learning",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Robotic Fabric Manipulation with Deep Imitation Learning and Reinforcement Learning in Simulation",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural Image Manipulation for Autoregressive Models Using Fisher Scores",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Likelihood Contribution based Multi-scale Architecture for Generative Flows",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Editor\u2019s Note: Special Issue on Robotics: Science and Systems",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Reverse Curriculum Generation for Reinforcement Learning",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning to Learn",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-Supervised Learning of Object Motion Through Adversarial Video Prediction",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u6700\u65b0\u65e0\u6a21\u578b\u6df1\u5ea6\u5f3a\u5316\u5b66\u4e60\u7814\u7a76: \u4ece\u96f6\u5f00\u59cb\u8bad\u7ec3\u673a\u5668\u4eba \u201c\u73a9\u4e50\u9ad8\u201d",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Synkhronos: a Multi-GPU Theano Extension for Data Parallelism",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The Off-Switch Game R asw (a) U= U",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequential Quadratic Programming for Task Plan Optimization",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Rotation Plane Doubly Orthogonal Recurrent Neural Networks",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "OPTIMIZING EXPECTATIONS: FROM DEEP REINFORCEMENT LEARNING TO STOCHASTIC COMPUTATION GRAPHS",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "2015 Index IEEE Robotics&Automation Magazine Vol. 22",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Angelina Wang",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "2014 Index IEEE Transactions on Intelligent Transportation Systems Vol. 15",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A biological micro actuator: graded and closed-loop control of insect leg motion by electrical stimulation of muscles.",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to Select Expert Demonstrations for Deformable Object Manipulation",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "2012 Index IEEE Transactions on Intelligent Transportation Systems Vol. 13",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement Learning Methods to Enable Automatic Tuning of Legged Robots",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Safe Exploration in Markov Decision Processes",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The path inference filter: model-based low-latency map matching of probe vehicle data. DRAFT-Do not redistribute.",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "CS 188: Artificial Intelligence Spring 2010",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Behavioral cloning example",
+            "year": "2009",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Today and forthcoming lectures",
+            "year": "2009",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Apprenticeship Learning for Robotic Control, with Applications to Quadruped Locomotion and Autonomous Helicopter Flight",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Closing the design loop in reinforcement learning",
+            "year": "2003",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Compressing the Latent Space of Single-Sequence Protein Predictors for Multimodal Generation",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SELF-SUPERVISED POLICY ADAPTATION DURING DEPLOYMENT",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Advantage-Conditioned Diffusion: Offline RL via Generalization",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Self Guided Exploration for Automatic and Diverse AI Supervision",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Addressing Out-Of-Distribution Joint Actions in Offline Multi-Agent RL via Alternating Stationary Distribution Correction Estimation",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational Option Discovery Algorithms By admin No Comments",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Appendix of InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolved Policy Gradients: Supplementary Materials",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-View Masked Autoencoders for Visual Control",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Connecting representation and generation via masked vision-language transformer",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Content List of IROS 2022",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SpeedAug: A Simple Co-Augmentation Method for Unsupervised Audio-Visual Pre-training",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sim-to-Real 6D Object Pose Estimation via Iterative Self-training for Robotic Bin Picking Supplementary Materials",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "web AdaCat: Adaptive Categorical Discretization for Autoregressive Models",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving Long-Horizon Imitation Through Language Prediction",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis Supplementary Materials",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Data-Efficient Exploration with Self Play for Atari",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Compute-and Memory-Efficient Reinforcement Learning with Latent Experience Replay",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "R-LAtte: Attention Module for Visual Control via Reinforcement Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Weighted Bellman Backups for Improved Signal-to-Noise in Q-Updates",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust Imitation via Decision-Time Planning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Bottleneck Transformers for Visual Recognition-Supplementary",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning from Graphical Replay",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "PatchFormer: A neural architecture for self-supervised representation learning on images",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "CS294-158 Deep Unsupervised Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Torque-Driven Manipulation Primitives with a Multilayer Neural Network",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Imitation Learning of Hierarchical Programs via Variational Inference",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal Planning Networks-Long Version+ Supplementary",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "CS 287, Fall 2013 Optional Extra Credit Problems Extended Kalman Filtering and Gaussian Belief Space Planning through Sequential Convex Programming [40pts]",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ROBOTICS",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Real-time Approximate Optimal Motion Planning via Guided Policy Search Variant Method",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "2013 Index IEEE Transactions on Automation Science and Engineering Vol. 10",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "2015 Index IEEE Transactions on Automation Science and Engineering Vol. 12",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning an Interface to Improve Efficiency in Combined Task and Motion Planning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "OPTIMIZATION-BASED COOPERATIVE MULTI-ROBOT TARGET TRACKING WITH REASONING ABOUT OCCLUSIONS",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-Arm Bandit Models for 2D Sample Based Grasp Planning with Uncertainty [v 16]",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sparse Combinatorial Autoencoders",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to Select Expert Demonstrations for Deformable Object Manipulation",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning 2D Linear Dynamics in Image Space Using Neural Networks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Locomotion Controllers via Trajectory Optimization",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Locomotion Controllers with a Policy Iteration Algorithm",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Biological Flapping and Legged Machine: Insect-Machine Hybrid System",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Support Vector Number Reduction: Survey and Experimental Evaluations.................. HG Jung and G. Kim 463 ITS for Sustainable Mobility: A Survey on Applications and Impact \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Bootstrapping Trajectory Transfer from Multiple Demonstrations with Applications to Deformable Object Manipulation",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Gaussian Belief Space Planning for Articulated Robots",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Environment-Guided RRT for Kinodynamic Motion Planning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "IMPLICIT SOFTMAX FUNCTIONS FOR CONVEX REGRESSION, WITH APPLICATION TO GEOMETRIC PROGRAMMING",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Using Non-Rigid Registration to Generalize Robot Motion",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The path inference filter: model-based low-latency map matching of probe vehicle data Supplementary Materials",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Ballbot: A Low-Cost, Open-Source, Open-Design Robot for Tennis Ball Retrieval",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Parameterized Maneuvers for Autonomous Helicopter Aerobatics from Expert Demonstration",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic sensing policies for monitoring arterial road traffic",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Robotics, Machine Learning, AI"
+}

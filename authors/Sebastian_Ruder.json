@@ -1,0 +1,753 @@
+{
+    "author": "Sebastian Ruder",
+    "affiliation": "Research Scientist, Cohere",
+    "total_papers": 124,
+    "total_citations": 35380,
+    "publications": [
+        {
+            "title": "An overview of gradient descent optimization algorithms",
+            "year": "2016",
+            "citations": 10517,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal Language Model Fine-tuning for Text Classification",
+            "year": "2018",
+            "citations": 5048,
+            "link": "No link available"
+        },
+        {
+            "title": "An Overview of Multi-Task Learning in Deep Neural Networks",
+            "year": "2017",
+            "citations": 3647,
+            "link": "No link available"
+        },
+        {
+            "title": "Gemini: a family of highly capable multimodal models",
+            "year": "2023",
+            "citations": 1300,
+            "link": "No link available"
+        },
+        {
+            "title": "PaLM 2 technical report",
+            "year": "2023",
+            "citations": 1166,
+            "link": "No link available"
+        },
+        {
+            "title": "NusaCrowd: Open Source Initiative for Indonesian NLP Resources",
+            "year": "2023",
+            "citations": 1067,
+            "link": "No link available"
+        },
+        {
+            "title": "XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization",
+            "year": "2020",
+            "citations": 877,
+            "link": "No link available"
+        },
+        {
+            "title": "A Survey of Cross-lingual Word Embedding Models",
+            "year": "2019",
+            "citations": 756,
+            "link": "No link available"
+        },
+        {
+            "title": "Transfer learning in natural language processing",
+            "year": "2019",
+            "citations": 726,
+            "link": "No link available"
+        },
+        {
+            "title": "On the cross-lingual transferability of monolingual representations",
+            "year": "2020",
+            "citations": 710,
+            "link": "No link available"
+        },
+        {
+            "title": "Adapterhub: A framework for adapting transformers",
+            "year": "2020",
+            "citations": 596,
+            "link": "No link available"
+        },
+        {
+            "title": "Long Range Arena: A Benchmark for Efficient Transformers",
+            "year": "2021",
+            "citations": 584,
+            "link": "No link available"
+        },
+        {
+            "title": "MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer",
+            "year": "2020",
+            "citations": 541,
+            "link": "No link available"
+        },
+        {
+            "title": "Latent Multi-task Architecture Learning",
+            "year": "2019",
+            "citations": 537,
+            "link": "No link available"
+        },
+        {
+            "title": "To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks",
+            "year": "2019",
+            "citations": 503,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Transfer Learning for Natural Language Processing",
+            "year": "2019",
+            "citations": 398,
+            "link": "No link available"
+        },
+        {
+            "title": "Compacter: Efficient Low-Rank Hypercomplex Adapter Layers",
+            "year": "2021",
+            "citations": 364,
+            "link": "No link available"
+        },
+        {
+            "title": "A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis",
+            "year": "2016",
+            "citations": 349,
+            "link": "No link available"
+        },
+        {
+            "title": "On the Limitations of Unsupervised Bilingual Dictionary Induction",
+            "year": "2018",
+            "citations": 300,
+            "link": "No link available"
+        },
+        {
+            "title": "A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks",
+            "year": "2019",
+            "citations": 266,
+            "link": "No link available"
+        },
+        {
+            "title": "Parameter-efficient Multi-task Fine-tuning for Transformers via Shared Hypernetworks",
+            "year": "2021",
+            "citations": 247,
+            "link": "No link available"
+        },
+        {
+            "title": "Episodic memory in lifelong language learning",
+            "year": "2019",
+            "citations": 222,
+            "link": "No link available"
+        },
+        {
+            "title": "Strong Baselines for Neural Semi-supervised Learning under Domain Shift",
+            "year": "2018",
+            "citations": 214,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to select data for transfer learning with Bayesian Optimization",
+            "year": "2017",
+            "citations": 209,
+            "link": "No link available"
+        },
+        {
+            "title": "How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models",
+            "year": "2021",
+            "citations": 207,
+            "link": "No link available"
+        },
+        {
+            "title": "How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions",
+            "year": "2019",
+            "citations": 199,
+            "link": "No link available"
+        },
+        {
+            "title": "ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning",
+            "year": "2022",
+            "citations": 191,
+            "link": "No link available"
+        },
+        {
+            "title": "Language models are multilingual chain-of-thought reasoners",
+            "year": "2023",
+            "citations": 180,
+            "link": "No link available"
+        },
+        {
+            "title": "Mind the gap: Assessing temporal generalization in neural language models",
+            "year": "2021",
+            "citations": 169,
+            "link": "No link available"
+        },
+        {
+            "title": "Character-level and multi-channel convolutional neural networks for large-scale authorship attribution",
+            "year": "2016",
+            "citations": 167,
+            "link": "No link available"
+        },
+        {
+            "title": "INSIGHT-1 at SemEval-2016 Task 5: Deep Learning for Multilingual Aspect-based Sentiment Analysis",
+            "year": "2016",
+            "citations": 159,
+            "link": "No link available"
+        },
+        {
+            "title": "XTREME-R: Towards More Challenging and Nuanced Multilingual Evaluation",
+            "year": "2021",
+            "citations": 134,
+            "link": "No link available"
+        },
+        {
+            "title": "Charformer: Fast character transformers via gradient-based subword tokenization",
+            "year": "2022",
+            "citations": 128,
+            "link": "No link available"
+        },
+        {
+            "title": "Rethinking embedding coupling in pre-trained language models",
+            "year": "2021",
+            "citations": 128,
+            "link": "No link available"
+        },
+        {
+            "title": "MultiFiT: Efficient Multi-lingual Language Model Fine-tuning",
+            "year": "2019",
+            "citations": 111,
+            "link": "No link available"
+        },
+        {
+            "title": "Unks everywhere: Adapting multilingual language models to new scripts",
+            "year": "2021",
+            "citations": 94,
+            "link": "No link available"
+        },
+        {
+            "title": "Transfer learning -  Machine Learning\u2019s next frontier",
+            "year": "2017",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-task Learning of Pairwise Sequence Classification Tasks Over Disparate Label Spaces",
+            "year": "2018",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised cross-lingual representation learning",
+            "year": "2019",
+            "citations": 80,
+            "link": "No link available"
+        },
+        {
+            "title": "MAD-G: Multilingual adapter generation for efficient cross-lingual transfer",
+            "year": "2021",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "MasakhaNER: Named Entity Recognition for African Languages",
+            "year": "2021",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "Modular Deep Learning",
+            "year": "2023",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation",
+            "year": "2021",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "Naijasenti: A nigerian twitter sentiment corpus for multilingual sentiment analysis",
+            "year": "2022",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Nl-augmenter: A framework for task-sensitive natural language augmentation",
+            "year": "2021",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "A Call for More Rigor in Unsupervised Cross-lingual Learning",
+            "year": "2020",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Are All Good Word Vector Spaces Isomorphic?",
+            "year": "2020",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Emoji as emotion tags for tweets",
+            "year": "2016",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia",
+            "year": "2022",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "AxCell: Automatic Extraction of Results from Machine Learning Papers",
+            "year": "2020",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "NLP\u2019s ImageNet moment has arrived",
+            "year": "2018",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Knowledge adaptation: Teaching to adapt",
+            "year": "2017",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Memorisation versus generalisation in pre-trained language models",
+            "year": "2022",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Expanding Pretrained Models to Thousands More Languages via Lexicon-based Adaptation",
+            "year": "2022",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Afrisenti: A Twitter Sentiment Analysis Benchmark for African Languages",
+            "year": "2023",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Cross-Lingual Word Embeddings",
+            "year": "2019",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Nusax: Multilingual parallel sentiment dataset for 10 indonesian local languages",
+            "year": "2023",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Why you should do NLP beyond English",
+            "year": "2020",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-view Subword Regularization",
+            "year": "2021",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)",
+            "year": "2023",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Don't Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction",
+            "year": "2019",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction",
+            "year": "2018",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Data selection strategies for multi-domain sentiment analysis",
+            "year": "2017",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Square One Bias in NLP: Towards a Multi-Dimensional Exploration of the Research Manifold",
+            "year": "2022",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "A Discriminative Latent-Variable Model for Bilingual Lexicon Induction",
+            "year": "2018",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Aya dataset: An open-access collection for multilingual instruction tuning",
+            "year": "2024",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "FewNLU: Benchmarking state-of-the-art methods for few-shot natural language understanding",
+            "year": "2022",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "A review of the neural history of natural language processing",
+            "year": "2018",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Adapters: A unified library for parameter-efficient and modular transfer learning",
+            "year": "2023",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Challenges and opportunities in NLP benchmarking",
+            "year": "2021",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "LiRo: Benchmark and leaderboard for Romanian language tasks",
+            "year": "2021",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Test Time Adapter Ensembling for Low-resource Language Varieties",
+            "year": "2021",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "On Memory in Human and Artificial Language Processing Systems",
+            "year": "2020",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Hyper-X: A Unified Hypernetwork for Multi-Task Multilingual Transfer",
+            "year": "2022",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Writing system and speaker metadata for 2,800+ language varieties",
+            "year": "2022",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "QAmeleon: Multilingual QA with Only 5 Examples",
+            "year": "2023",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition",
+            "year": "2022",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "XTREME-S: Evaluating Cross-lingual Speech Representations",
+            "year": "2022",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "On word embeddings - part 2: Approximating the softmax",
+            "year": "2016",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "On word embeddings - Part 1",
+            "year": "2016",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Aya 23: Open weight releases to further multilingual progress",
+            "year": "2024",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "XTREME-UP: A user-centric scarce-data benchmark for under-represented languages",
+            "year": "2023",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "NLP-progress",
+            "year": "2020",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating the Diversity, Equity, and Inclusion of NLP Technology: A Case Study for Indian Languages",
+            "year": "2023",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Recent advances in language model fine-tuning",
+            "year": "2021",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "INSIGHT-1 at SemEval-2016 Task 4: Convolutional Neural Networks for Sentiment Classification and Quantification",
+            "year": "2016",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-domain multilingual question answering",
+            "year": "2021",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "The 4 biggest open problems in nlp",
+            "year": "2019",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "The State of Multilingual AI",
+            "year": "2022",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "360\u00b0 Stance Detection",
+            "year": "2018",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "mmT5: Modular multilingual pre-training solves source language hallucinations",
+            "year": "2023",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Modular and parameter-efficient fine-tuning for nlp models",
+            "year": "2022",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Analogy Training Multilingual Encoders",
+            "year": "2021",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "BERT memorisation and pitfalls in low-resource scenarios",
+            "year": "2021",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for NLP best practices",
+            "year": "2017",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Word embeddings in 2017: Trends and future directions",
+            "year": "2017",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Balancing average and worst-case accuracy in multitask learning",
+            "year": "2021",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards a continuous modeling of natural language domains",
+            "year": "2016",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating and modeling attribution for cross-lingual question answering",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Language and task arithmetic with parameter-efficient layers for zero-shot summarization",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-task learning objectives for natural language processing",
+            "year": "2017",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "AfriQA: Cross-lingual open-retrieval question answering for African languages",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Romanization-based large-scale adaptation of multilingual language models",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "TaTa: A multilingual table-to-text dataset for African languages",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "On word embeddings-Part 3: The secret ingredients of word2vec",
+            "year": "2016",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "BUFFET: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer",
+            "year": "2024",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Empowering Cross-lingual Behavioral Testing of NLP Models with Typological Features",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "What do Deep Networks Like to Read?",
+            "year": "2019",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "An overview of proxy-label approaches for semi-supervised learning",
+            "year": "2018",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding and mitigating language confusion in llms",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Morphologically Aware Word-Level Translation",
+            "year": "2020",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Off-the-Shelf Unsupervised NMT",
+            "year": "2018",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "CHARACTER-LEVEL ATTENTION NEURAL NETWORKS",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "BAM! Just Like That: Simple and Efficient Parameter Upcycling for Mixture of Experts",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "How Does Quantization Affect Multilingual LLMs?",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "LLM See, LLM Do: Guiding Data Generation to Target Non-Differentiable Objectives",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Connecting Language Technologies with Rich, Diverse Data Sources Covering Thousands of Languages",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the Big Picture Workshop",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL)",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language \u2026",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 1st Workshop on Multilingual Representation Learning",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 4th Workshop on Representation Learning for NLP (RepL4NLP-2019)",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural transfer learning for natural language processing",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Natural Language Processing, Machine Learning, Deep Learning, Artificial Intelligence"
+}

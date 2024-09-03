@@ -1,0 +1,2727 @@
+{
+    "author": "Samy Bengio",
+    "affiliation": "Senior Director, AI and Machine Learning Research, Apple",
+    "total_papers": 453,
+    "total_citations": 85519,
+    "publications": [
+        {
+            "title": "Show and tell: A neural image caption generator",
+            "year": "2015",
+            "citations": 7676,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding deep learning requires rethinking generalization",
+            "year": "2017",
+            "citations": 7174,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial examples in the physical world",
+            "year": "2017",
+            "citations": 6556,
+            "link": "No link available"
+        },
+        {
+            "title": "Density estimation using Real NVP",
+            "year": "2017",
+            "citations": 3874,
+            "link": "No link available"
+        },
+        {
+            "title": "Why does unsupervised pre-training help deep learning?",
+            "year": "2010",
+            "citations": 3595,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial machine learning at scale",
+            "year": "2017",
+            "citations": 3577,
+            "link": "No link available"
+        },
+        {
+            "title": "Devise: A deep visual-semantic embedding model",
+            "year": "2013",
+            "citations": 3319,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating sentences from a continuous space",
+            "year": "2015",
+            "citations": 2783,
+            "link": "No link available"
+        },
+        {
+            "title": "Tacotron: Towards end-to-end speech synthesis",
+            "year": "2017",
+            "citations": 2405,
+            "link": "No link available"
+        },
+        {
+            "title": "Scheduled sampling for sequence prediction with recurrent neural networks",
+            "year": "2015",
+            "citations": 2336,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural combinatorial optimization with reinforcement learning",
+            "year": "2017",
+            "citations": 1859,
+            "link": "No link available"
+        },
+        {
+            "title": "Cluster-gcn: An efficient algorithm for training deep and large graph convolutional networks",
+            "year": "2019",
+            "citations": 1409,
+            "link": "No link available"
+        },
+        {
+            "title": "Transfusion: Understanding transfer learning for medical imaging",
+            "year": "2019",
+            "citations": 1300,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 32nd international conference on neural information processing systems",
+            "year": "2018",
+            "citations": 1278,
+            "link": "No link available"
+        },
+        {
+            "title": "SVMTorch: Support vector machines for large-scale regression problems",
+            "year": "2001",
+            "citations": 1244,
+            "link": "No link available"
+        },
+        {
+            "title": "Order matters: Sequence to sequence for sets",
+            "year": "2016",
+            "citations": 1130,
+            "link": "No link available"
+        },
+        {
+            "title": "Show and tell: Lessons learned from the 2015 mscoco image captioning challenge",
+            "year": "2016",
+            "citations": 1106,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot learning by convex combination of semantic embeddings",
+            "year": "2014",
+            "citations": 1097,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale online learning of image similarity through ranking.",
+            "year": "2010",
+            "citations": 1012,
+            "link": "No link available"
+        },
+        {
+            "title": "Wsabie: Scaling up to large vocabulary image annotation",
+            "year": "2011",
+            "citations": 968,
+            "link": "No link available"
+        },
+        {
+            "title": "Revisiting distributed synchronous SGD",
+            "year": "2016",
+            "citations": 926,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-end text-dependent speaker verification",
+            "year": "2016",
+            "citations": 780,
+            "link": "No link available"
+        },
+        {
+            "title": "Sharp minima can generalize for deep nets",
+            "year": "2017",
+            "citations": 774,
+            "link": "No link available"
+        },
+        {
+            "title": "Rapid learning or feature reuse? towards understanding the effectiveness of maml",
+            "year": "2019",
+            "citations": 710,
+            "link": "No link available"
+        },
+        {
+            "title": "Torch: a modular machine learning software library",
+            "year": "2002",
+            "citations": 706,
+            "link": "No link available"
+        },
+        {
+            "title": "The vehicle routing problem with time windows part II: genetic search",
+            "year": "1996",
+            "citations": 653,
+            "link": "No link available"
+        },
+        {
+            "title": "The difficulty of training deep architectures and the effect of unsupervised pre-training",
+            "year": "2009",
+            "citations": 642,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor2tensor for neural machine translation",
+            "year": "2018",
+            "citations": 630,
+            "link": "No link available"
+        },
+        {
+            "title": "The BANCA database and evaluation protocol",
+            "year": "2003",
+            "citations": 621,
+            "link": "No link available"
+        },
+        {
+            "title": "Fantastic generalization measures and where to find them",
+            "year": "2019",
+            "citations": 618,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale image annotation: learning to rank with joint word-image embeddings",
+            "year": "2010",
+            "citations": 567,
+            "link": "No link available"
+        },
+        {
+            "title": "Curran Associates",
+            "year": "2017",
+            "citations": 552,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale object classification using label relation graphs",
+            "year": "2014",
+            "citations": 550,
+            "link": "No link available"
+        },
+        {
+            "title": "A parallel mixture of SVMs for very large scale problems",
+            "year": "2001",
+            "citations": 550,
+            "link": "No link available"
+        },
+        {
+            "title": "Device placement optimization with reinforcement learning",
+            "year": "2017",
+            "citations": 514,
+            "link": "No link available"
+        },
+        {
+            "title": "Label embedding trees for large multi-class tasks",
+            "year": "2010",
+            "citations": 484,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic analysis of multimodal group actions in meetings",
+            "year": "2005",
+            "citations": 474,
+            "link": "No link available"
+        },
+        {
+            "title": "A study on overfitting in deep reinforcement learning",
+            "year": "2018",
+            "citations": 473,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning a synaptic learning rule",
+            "year": "1990",
+            "citations": 451,
+            "link": "No link available"
+        },
+        {
+            "title": "Offline recognition of unconstrained handwritten texts using HMMs and statistical language models",
+            "year": "2004",
+            "citations": 442,
+            "link": "No link available"
+        },
+        {
+            "title": "Links between perceptrons, MLPs and SVMs",
+            "year": "2004",
+            "citations": 440,
+            "link": "No link available"
+        },
+        {
+            "title": "Insights on representational similarity in neural networks with canonical correlation",
+            "year": "2018",
+            "citations": 435,
+            "link": "No link available"
+        },
+        {
+            "title": "A discriminative kernel-based approach to rank images from text queries",
+            "year": "2008",
+            "citations": 430,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-supervised adapted hmms for unusual event detection",
+            "year": "2005",
+            "citations": 422,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to remember rare events",
+            "year": "2017",
+            "citations": 404,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised speech representation learning using wavenet autoencoders",
+            "year": "2019",
+            "citations": 390,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial attacks and defences competition",
+            "year": "2018",
+            "citations": 357,
+            "link": "No link available"
+        },
+        {
+            "title": "On the optimization of a synaptic learning rule",
+            "year": "2013",
+            "citations": 354,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling individual and group actions in meetings with layered HMMs",
+            "year": "2006",
+            "citations": 340,
+            "link": "No link available"
+        },
+        {
+            "title": "Special uses and abuses of the Fiat-Shamir passport protocol",
+            "year": "1988",
+            "citations": 332,
+            "link": "No link available"
+        },
+        {
+            "title": "Large Margin Deep Networks for Classification",
+            "year": "2018",
+            "citations": 319,
+            "link": "No link available"
+        },
+        {
+            "title": "The need for open source software in machine learning",
+            "year": "2007",
+            "citations": 277,
+            "link": "No link available"
+        },
+        {
+            "title": "Group sparse coding",
+            "year": "2009",
+            "citations": 267,
+            "link": "No link available"
+        },
+        {
+            "title": "Database, protocols and tools for evaluating score-level fusion algorithms in biometric authentication",
+            "year": "2006",
+            "citations": 259,
+            "link": "No link available"
+        },
+        {
+            "title": "Reward augmented maximum likelihood for neural structured prediction",
+            "year": "2016",
+            "citations": 253,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting the generalization gap in deep networks with margin distributions",
+            "year": "2018",
+            "citations": 218,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast Decoding in Sequence Models Using Discrete Latent Variables",
+            "year": "2018",
+            "citations": 209,
+            "link": "No link available"
+        },
+        {
+            "title": "A statistical significance test for person authentication",
+            "year": "2004",
+            "citations": 205,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling high-dimensional discrete data with multi-layer neural networks",
+            "year": "1999",
+            "citations": 204,
+            "link": "No link available"
+        },
+        {
+            "title": "Curran Associates",
+            "year": "2018",
+            "citations": 196,
+            "link": "No link available"
+        },
+        {
+            "title": "Word embeddings for speech recognition.",
+            "year": "2014",
+            "citations": 186,
+            "link": "No link available"
+        },
+        {
+            "title": "Are all layers created equal?",
+            "year": "2022",
+            "citations": 173,
+            "link": "No link available"
+        },
+        {
+            "title": "Delay learning and polychronization for reservoir computing",
+            "year": "2008",
+            "citations": 173,
+            "link": "No link available"
+        },
+        {
+            "title": "Characterising bias in compressed models",
+            "year": "2020",
+            "citations": 172,
+            "link": "No link available"
+        },
+        {
+            "title": "Detecting group interest-level in meetings",
+            "year": "2005",
+            "citations": 172,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative keyword spotting",
+            "year": "2009",
+            "citations": 167,
+            "link": "No link available"
+        },
+        {
+            "title": "Context-aware captions from context-agnostic supervision",
+            "year": "2017",
+            "citations": 166,
+            "link": "No link available"
+        },
+        {
+            "title": "User authentication via adapted statistical models of face images",
+            "year": "2005",
+            "citations": 163,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating a playlist",
+            "year": "2018",
+            "citations": 162,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling human interaction in meetings",
+            "year": "2003",
+            "citations": 161,
+            "link": "No link available"
+        },
+        {
+            "title": "Local collaborative ranking",
+            "year": "2014",
+            "citations": 159,
+            "link": "No link available"
+        },
+        {
+            "title": "Taking on the curse of dimensionality in joint distributions using neural networks",
+            "year": "2000",
+            "citations": 155,
+            "link": "No link available"
+        },
+        {
+            "title": "Secure implementation of identification systems",
+            "year": "1991",
+            "citations": 154,
+            "link": "No link available"
+        },
+        {
+            "title": "Face authentication test on the BANCA database",
+            "year": "2004",
+            "citations": 152,
+            "link": "No link available"
+        },
+        {
+            "title": "An online algorithm for large scale image similarity learning",
+            "year": "2009",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning semantic relationships for better action retrieval in images",
+            "year": "2015",
+            "citations": 143,
+            "link": "No link available"
+        },
+        {
+            "title": "HMM and IOHMM modeling of EEG rhythms for asynchronous BCI systems",
+            "year": "2003",
+            "citations": 142,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale content-based audio retrieval from text queries",
+            "year": "2008",
+            "citations": 134,
+            "link": "No link available"
+        },
+        {
+            "title": "Content preserving text generation with attribute controls",
+            "year": "2018",
+            "citations": 132,
+            "link": "No link available"
+        },
+        {
+            "title": "Training highly multiclass classifiers",
+            "year": "2014",
+            "citations": 129,
+            "link": "No link available"
+        },
+        {
+            "title": "An online sequence-to-sequence model using partial conditioning",
+            "year": "2016",
+            "citations": 128,
+            "link": "No link available"
+        },
+        {
+            "title": "Face verification competition on the XM2VTS database",
+            "year": "2003",
+            "citations": 124,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic speech and speaker recognition",
+            "year": "2009",
+            "citations": 123,
+            "link": "No link available"
+        },
+        {
+            "title": "LLORMA: Local low-rank matrix approximation",
+            "year": "2016",
+            "citations": 122,
+            "link": "No link available"
+        },
+        {
+            "title": "Relevance-Based Image Selection",
+            "year": "2011",
+            "citations": 120,
+            "link": "No link available"
+        },
+        {
+            "title": "How do correlation and variance of base-experts affect fusion in biometric authentication tasks?",
+            "year": "2005",
+            "citations": 116,
+            "link": "No link available"
+        },
+        {
+            "title": "The expected performance curve",
+            "year": "2005",
+            "citations": 113,
+            "link": "No link available"
+        },
+        {
+            "title": "Confidence measures for multimodal identity verification",
+            "year": "2002",
+            "citations": 112,
+            "link": "No link available"
+        },
+        {
+            "title": "An Asynchronous Hidden Markov Model for Audio-Visual Speech Recognition",
+            "year": "2003",
+            "citations": 110,
+            "link": "No link available"
+        },
+        {
+            "title": "PRIME: probabilistic initial 3D model generation for single-particle cryo-electron microscopy",
+            "year": "2013",
+            "citations": 107,
+            "link": "No link available"
+        },
+        {
+            "title": "Identity crisis: Memorization and generalization under extreme overparameterization",
+            "year": "2019",
+            "citations": 104,
+            "link": "No link available"
+        },
+        {
+            "title": "You look twice: Gaternet for dynamic filter selection in cnns",
+            "year": "2019",
+            "citations": 99,
+            "link": "No link available"
+        },
+        {
+            "title": "A probabilistic model for chord progressions",
+            "year": "2005",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "The expected performance curve: a new assessment measure for person authentication",
+            "year": "2004",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Can active memory replace attention?",
+            "year": "2016",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving fusion with margin-derived confidence in biometric authentication tasks",
+            "year": "2005",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Face verification using adapted generative models",
+            "year": "2004",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "Time-dependent representation for neural event sequence prediction",
+            "year": "2018",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "Use of genetic programming for the search of a new learning rule for neural networks",
+            "year": "1994",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning influence among interacting Markov chains",
+            "year": "2005",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Sound retrieval and ranking using sparse auditory representations",
+            "year": "2010",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "A multi-sample multi-source model for biometric authentication",
+            "year": "2002",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving face verification using skin color information",
+            "year": "2002",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "Audio classification for information retrieval using sparse features",
+            "year": "2013",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "Semantic redundancies in image-classification datasets: The 10% you don't need",
+            "year": "2019",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "On transforming statistical models for non-frontal face verification",
+            "year": "2006",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "Local machine learning models for spatial data analysis",
+            "year": "2000",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "Learnable fourier features for multi-dimensional spatial positional encoding",
+            "year": "2021",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning the decision function for speaker verification",
+            "year": "2001",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "A comparative study of adaptation methods for speaker verification",
+            "year": "2002",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Training a model using parameter server shards",
+            "year": "2014",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Measuring the performance of face localization systems",
+            "year": "2006",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Writer identification for smart meeting room systems",
+            "year": "2006",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving face authentication using virtual samples",
+            "year": "2003",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Image classification",
+            "year": "2013",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic speech recognition using dynamic Bayesian networks with both acoustic and articulatory variables",
+            "year": "2000",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Multimodal speech processing using asynchronous hidden markov models",
+            "year": "2004",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Discrete autoencoders for sequence models",
+            "year": "2018",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems 30",
+            "year": "2017",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic melodic harmonization",
+            "year": "2006",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for speaker verification",
+            "year": "2018",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Curran Associates",
+            "year": "2017",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Identifying textual terms in response to a visual query",
+            "year": "2015",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "F-ratio client dependent normalisation for biometric authentication tasks",
+            "year": "2005",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "1993",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "A probabilistic interpretation of SVMs with an application to unbalanced classification",
+            "year": "2005",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial machine learning at scale. arXiv 2016",
+            "year": "2016",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-tasking with joint semantic spaces for large-scale music annotation and retrieval",
+            "year": "2011",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Face authentication competition on the BANCA database",
+            "year": "2004",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "What algorithms can transformers learn? a study in length generalization",
+            "year": "2023",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Neurips 2020 competition: Predicting generalization in deep learning",
+            "year": "2020",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Curran Associates, Inc., 2017",
+            "year": "Unknown",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "2018",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "N-gram language modeling using recurrent neural network estimation",
+            "year": "2017",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Writer adaptation techniques in HMM based off-line cursive script recognition",
+            "year": "2002",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Support vector machines for large-scale regression problems",
+            "year": "2000",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Can a professional imitator fool a GMM-based speaker verification system?",
+            "year": "2005",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "On the search for new learning rules for ANNs",
+            "year": "1995",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks trained on natural scenes exhibit gestalt closure",
+            "year": "2021",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling large learning problems with hard parallel mixtures",
+            "year": "2003",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial machine learning at scale (2016)",
+            "year": "2017",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "A unified framework for score normalization techniques applied to text-independent speaker verification",
+            "year": "2005",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Multimodal authentication using asynchronous HMMs",
+            "year": "2003",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint embedding for item association",
+            "year": "2015",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Performance generalization in biometric authentication using joint user-specific and sample bootstraps",
+            "year": "2007",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-end text-to-speech conversion",
+            "year": "2020",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating natural language descriptions of images",
+            "year": "2018",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "A neural transducer",
+            "year": "2015",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Posterior based keyword spotting with a priori thresholds",
+            "year": "2006",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "An EM algorithm for asynchronous input/output hidden Markov models",
+            "year": "1996",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Training scoring models optimized for highly-ranked results",
+            "year": "2012",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluation of biometric technology on XM2VTS",
+            "year": "2001",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "A connectionist system for medium-term horizon time series prediction",
+            "year": "1995",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Can chimeric persons be used in multimodal biometric authentication experiments?",
+            "year": "2005",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Why do multi-stream, multi-band and multi-modal approaches work on biometric user authentication tasks?",
+            "year": "2004",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-modal audio-visual event recognition for football analysis",
+            "year": "2003",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Offline recognition of large vocabulary cursive handwritten text",
+            "year": "2003",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Memory based trajectory-conditioned policies for learning from sparse rewards",
+            "year": "2020",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting human performance in vertical menu selection using deep learning",
+            "year": "2018",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "A kernel trick for sequences applied to text-independent speaker verification systems",
+            "year": "2007",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluation of formant-like features on an automatic vowel classification task",
+            "year": "2004",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust speech recognition and feature extraction using HMM2",
+            "year": "2003",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "On the prediction of solar activity using different neural network models",
+            "year": "1996",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Sharing representations for long tail computer vision problems",
+            "year": "2015",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards computer understanding of human interactions",
+            "year": "2005",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Hmm2-extraction of formant features and their use for robust ASR",
+            "year": "2001",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning semantic image similarity",
+            "year": "2013",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Guest editors' introduction: Special section on learning deep architectures",
+            "year": "2013",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Spectral subband centroids as complementary features for speaker authentication",
+            "year": "2004",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Extreme classification (dagstuhl seminar 18291)",
+            "year": "2019",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Online adaptive policies for ensemble classifiers",
+            "year": "2005",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Multimodal group action clustering in meetings",
+            "year": "2004",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Boosting HMMs with an application to speech recognition",
+            "year": "2004",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization on the Unseen, Logic Reasoning and Degree Curriculum",
+            "year": "2023",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Offline cursive word recognition using continuous density hidden markov models trained with PCA or ICA features",
+            "year": "2002",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "A supervised learning approach based on STDP and polychronization in spiking neuron networks",
+            "year": "2006",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Theme topic mixture model: A graphical model for document representation",
+            "year": "2004",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Speech & face based biometric authentication at idiap",
+            "year": "2003",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Image relevance model",
+            "year": "2013",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Kernel matching pursuit for large datasets",
+            "year": "2005",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "A study of the effects of score normalisation prior to fusion in biometric authentication tasks",
+            "year": "2004",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Experimental protocol on the BANCA database",
+            "year": "2002",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Do neural networks show gestalt phenomena? an exploration of the law of closure",
+            "year": "2019",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Non-linear variance reduction techniques in biometric authentication",
+            "year": "2003",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Tangent vector kernels for invariant image classification with SVMs",
+            "year": "2004",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Using chimeric users to construct fusion classifiers in biometric authentication tasks: An investigation",
+            "year": "2006",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative kernel-based phoneme sequence recognition",
+            "year": "2006",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "A graphical model for chord progressions embedded in a psychoacoustic space",
+            "year": "2005",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Client dependent GMM-SVM models for speaker verification",
+            "year": "2003",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Hybrid generative-discriminative models for speech and speaker recognition",
+            "year": "2002",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Area attention",
+            "year": "2019",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative keyword spotting",
+            "year": "2009",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Estimating the confidence interval of expected performance curve in biometric authentication using joint bootstrap",
+            "year": "2007",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust features for frontal face authentication in difficult image conditions",
+            "year": "2003",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Methods and analysis of the first competition in predicting generalization of deep learning",
+            "year": "2021",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Adios: Architectures deep in output space",
+            "year": "2016",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Using web co-occurrence statistics for improving image categorization",
+            "year": "2013",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Pointer value retrieval: A new benchmark for understanding the limits of neural network generalization",
+            "year": "2021",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel scheduled sampling",
+            "year": "2019",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "On using backpropagation for speech texture generation and voice conversion",
+            "year": "2018",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale music annotation and retrieval: Learning to rank in joint semantic spaces",
+            "year": "2011",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Biometric person authentication is a multiple classifier problem",
+            "year": "2007",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-supervised kernel methods for regression estimation",
+            "year": "2006",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Inferring document similarity from hyperlinks",
+            "year": "2005",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "EER of fixed and trainable fusion classifiers: A theoretical study with application to biometric authentication tasks",
+            "year": "2005",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards using hierarchical posteriors for flexible automatic speech recognition systems",
+            "year": "2004",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "A discriminative approach for the retrieval of images from text queries",
+            "year": "2006",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Conditional gaussian mixture models for environmental risk mapping",
+            "year": "2002",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Hidden markov models and other finite state automata for sequence processing",
+            "year": "2001",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "HMM2-a novel approach to HMM emission probability estimation",
+            "year": "2000",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "A generative model for rhythms",
+            "year": "2007",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning for multimodal interaction",
+            "year": "2005",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Transformers learn through gradual rank increase",
+            "year": "2023",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Estimating the quality of face localization for face verification",
+            "year": "2004",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalability analysis of audio-visual person identity verification",
+            "year": "2003",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Gaternet: Dynamic filter selection in convolutional neural network via a dedicated global gating network",
+            "year": "2018",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic models for melodic prediction",
+            "year": "2009",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "A neural network for text representation",
+            "year": "2005",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploiting hyperlinks to learn a retrieval model",
+            "year": "2005",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Using senses of a query to rank images associated with the query",
+            "year": "2014",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Predictive models for music",
+            "year": "2009",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-supervised meeting event recognition with adapted HMMs",
+            "year": "2005",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Benchmarking non-parametric statistical tests",
+            "year": "2005",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "A gentle hessian for efficient gradient descent",
+            "year": "2004",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint decoding for phoneme-grapheme continuous speech recognition",
+            "year": "2004",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "An EM algorithm for HMMs with emission distributions represented by HMMs",
+            "year": "2000",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Sound ranking using auditory sparse-code representations",
+            "year": "2009",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Invariances in kernel methods: From samples to objects",
+            "year": "2006",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "A score-level fusion benchmark database for biometric authentication",
+            "year": "2005",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Assigning labels to images",
+            "year": "2014",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Label embedding trees for multi-class tasks",
+            "year": "2012",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "A neural network to retrieve images from text queries",
+            "year": "2006",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Investigating lexical substitution scoring for subtitle generation",
+            "year": "2006",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Online policy adaptation for ensemble classifiers",
+            "year": "2005",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Noise-robust multi-stream fusion for text-independent speaker authentication",
+            "year": "2004",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Phoneme-grapheme based speech recognition system",
+            "year": "2003",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "The mnist database of handwritten upper-case letters",
+            "year": "2002",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Speech recognition using advanced HMM2 features",
+            "year": "2001",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Use of modular architectures for time series prediction",
+            "year": "1996",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving anytime prediction with parallel cascaded networks and a temporal-difference loss",
+            "year": "2021",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Auto completion of user interface layout design using transformer-based tree decoders",
+            "year": "2020",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Refining image annotations",
+            "year": "2017",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling interactions from email communication",
+            "year": "2006",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "A Pragmatic View of the Application of HMM2 for ASR",
+            "year": "2001",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "On the convergence of SVMTorch, an algorithm for large-scale regression problems",
+            "year": "2000",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Curran Associates, Inc., 2018",
+            "year": "Unknown",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to reason with neural networks: Generalization, unseen data and boolean measures",
+            "year": "2022",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Refining image relevance models",
+            "year": "2014",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Place holder image detection via image clustering",
+            "year": "2013",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Developing and enhancing posterior based speech recognition systems",
+            "year": "2005",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "An investigation of spectral subband centroids for speaker authentication",
+            "year": "2003",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Using more informative posterior probabilities for speech recognition",
+            "year": "2006",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Increasing speech recognition robustness with HMM2",
+            "year": "2002",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems 30",
+            "year": "2017",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot learning by convex combination of semantic embeddings",
+            "year": "2013",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving single modal and multimodal biometric authentication using f-ratio client-dependent normalisation",
+            "year": "2004",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in Neural Information Processing Systems 31: Annual Conference on Neural Information Processing Systems 2018, NeurIPS 2018, 3-8 December 2018, Montr\u00e9al, Canada",
+            "year": "2018",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Image classification",
+            "year": "2015",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Ranking over hashes",
+            "year": "2015",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Extrapolating single view face models for multi-view recognition",
+            "year": "2004",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Statistical transformations of frontal models for non-frontal face verification",
+            "year": "2004",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Device placement optimization with reinforcement learning",
+            "year": "2020",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient exploration with self-imitation learning via trajectory-conditioned policy",
+            "year": "2019",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Refining image annotations",
+            "year": "2014",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Kernel\u2010Based Text\u2010Independent Speaker Verification",
+            "year": "2009",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Graph-based transformation manifolds for invariant pattern recognition with kernel methods",
+            "year": "2006",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "A new speech recognition baseline system for Numbers 95 Version 1.3 based on Torch",
+            "year": "2004",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards predicting optimal subsets of base-experts in biometric authentication task",
+            "year": "2004",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Continuous Pseudo-Labeling from the Start",
+            "year": "2022",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Label consistency for image analysis",
+            "year": "2017",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Phoneme and sentence-level ensembles for speech recognition",
+            "year": "2011",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "A max kernel for text-independent speaker verification systems",
+            "year": "2006",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Extracting information from multimedia meeting collections",
+            "year": "2005",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "On accuracy/robustness/complexity trade-offs in face verification",
+            "year": "2005",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards predicting optimal fusion candidates: a case study on biometric authentication tasks",
+            "year": "2005",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi channel sequence processing",
+            "year": "2004",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "When can Transformers reason with abstract symbols?",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Image classification",
+            "year": "2014",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "On automatic annotation of meeting databases",
+            "year": "2003",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Fingerprint verification competition (2002)",
+            "year": "2000",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization of a parametric learning rule",
+            "year": "1993",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "A neural network to detect homologies in proteins",
+            "year": "1989",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Provisional draft of the NeurIPS code of ethics",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Three directions for the design of human-centered machine translation",
+            "year": "2021",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Multidisciplinary challenge topic: perspectives on predictive power of multimodal deep learning: surprises and future directions",
+            "year": "2018",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Refining image relevance models",
+            "year": "2015",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning semantic image similarity",
+            "year": "2015",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for distance learning with efficient retrieval",
+            "year": "2015",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Image classification",
+            "year": "2014",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving kernel classifiers for object categorization problems",
+            "year": "2006",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical multi-stream posterior based speech recognition system",
+            "year": "2005",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Boosting word error rates",
+            "year": "2005",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "An investigation of f-ratio client-dependent normalisation on biometric authentication tasks",
+            "year": "2004",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "An alternative to silence removal for text-independent speaker verification",
+            "year": "2003",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling large learning problems with hard parallel mixtures",
+            "year": "2002",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparison of client model adaptation schemes",
+            "year": "2001",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Aspects th eoriques de l'optimisation d'une r egle d'apprentissage",
+            "year": "1992",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Relevance-based image selection",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Training recurrent neural networks to generate sequences",
+            "year": "2019",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning semantic image similarity",
+            "year": "2014",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Revisiting Doddington\u2019s Zoo: Employing User-Dependent Performance Criterion For Multibiometric Fusion",
+            "year": "2006",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "A novel approach to combining client-dependent and confidence information in multimodal biometrics",
+            "year": "2005",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Evidences of equal error rate reduction in biometric authentication fusion",
+            "year": "2004",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "A state-of-the-art Neural Network for robust face verification",
+            "year": "2002",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "IDIAP HMM/HMM2 System: Theoretical Basis and Software Specifications",
+            "year": "2001",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "New approaches towards robust and adaptive speech recognition",
+            "year": "2000",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Special uses and abuses of the Fiat-Shamir passport protocol; Crypto\u201987, LNCS 293",
+            "year": "1988",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Aspects and importance of secure implementations of identification systems",
+            "year": "1987",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Data augmentation via structured adversarial perturbations",
+            "year": "2020",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying images",
+            "year": "2018",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Perspectives on predictive power of multimodal deep learning: Surprises and future directions",
+            "year": "2018",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Identifying textual terms in response to a visual query",
+            "year": "2016",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Image relevance model",
+            "year": "2015",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Training scoring models optimized for highly-ranked results",
+            "year": "2015",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Training scoring models optimized for highly-ranked results",
+            "year": "2013",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Mirex special tagatune evaluation submission",
+            "year": "2009",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to retrieve images from text queries with a discriminative model",
+            "year": "2006",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "A kernel classifier for distributions",
+            "year": "2005",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Compensating User-Specific Information with User-Independent Information in Biometric Authentication Tasks",
+            "year": "2005",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards robust and adaptive speech recognition models",
+            "year": "2004",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Augmenting frontal face models for non-frontal verification",
+            "year": "2003",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Variance reduction techniques in biometric authentication",
+            "year": "2003",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Adapted generative models for face verification",
+            "year": "2003",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 2002 IEEE Workshop on Neural Networks for Signal Processing",
+            "year": "2002",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "The BANCA Database and experimental protocol for speaker verification",
+            "year": "2002",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Process for the renewal--during communication--of the traffic parameters of an ATM network",
+            "year": "2000",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamical resource reservation scheme in an ATM network using neural network-based traffic prediction",
+            "year": "2000",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Shared context probabilistic transducers",
+            "year": "1997",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Continuous Soft Pseudo-Labeling in ASR",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "A margin-based measure of generalization for deep networks",
+            "year": "2019",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Training a model using parameter server shards",
+            "year": "2016",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Applying query based image relevance models",
+            "year": "2015",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Telephone conversation speaker diarization using mealy-HMMs",
+            "year": "2014",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Training scoring models optimized for highly-ranked results",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "A distance model for rhythms",
+            "year": "2008",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning for automatic environmental mapping: when and how",
+            "year": "2005",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint training of multi-stream HMMs",
+            "year": "2005",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Evidences of equal error rate reduction in biometric authentication fusion",
+            "year": "2004",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Significance Tests for\\em Bizarre Measures in 2-Class Classification Tasks",
+            "year": "2004",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "An Introduction to Statistical Machine Learning-Hidden Markov Models",
+            "year": "2002",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic learning of strategic equilibria for auctions",
+            "year": "1999",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "How Far Can Transformers Reason? The Locality Barrier and Inductive Scratchpad",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Training a model using parameter server shards",
+            "year": "2020",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating natural language descriptions of images",
+            "year": "2019",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to the Issue on Statistical Learning Methods for Speech and Language Processing",
+            "year": "2010",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Web scale image annotation: Learning to rank with joint word-image embeddings",
+            "year": "2010",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic Speech and Speaker Recognition: Large Margin and Kernel Methods, chapter Discriminative Keyword Spotting",
+            "year": "2009",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "A multitask learning approach to document representation using unlabeled data",
+            "year": "2006",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Chord representations for probabilistic models",
+            "year": "2005",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient estimates of return",
+            "year": "2005",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards Explaining the Success (Or Failure) of Fusion in Biometric Authentication",
+            "year": "2005",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence classification with input-output hidden markov models",
+            "year": "2004",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Estimates of parameter distributions for optimal action selection",
+            "year": "2004",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Noise Robust Discriminative Models",
+            "year": "2003",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Meeting data collection specifications",
+            "year": "2003",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimisation d'une r\u00e8gle d'apprentissage pour r\u00e9seaux de neurones artificiels",
+            "year": "1993",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptivity and modularity for efficient generalization over task complexity",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Boolformer: Symbolic regression of logic functions with transformers",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Training cascaded networks for speeded decisions using a temporal-difference loss.",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "A closed-form learned pooling for deep classification networks",
+            "year": "2019",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to NIPS 2017 Competition Track",
+            "year": "2018",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Telephone Conversation Speaker Diarization Using Mealy-HMMs.",
+            "year": "2014",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient learning of sparse ranking functions",
+            "year": "2013",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-Scale Visual Semantic Extraction",
+            "year": "2012",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "BRIDGE",
+            "year": "2010",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring contextual information in a layered framework for group action recognition",
+            "year": "2007",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the Second international conference on Machine Learning for Multimodal Interaction",
+            "year": "2005",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient estimates of return distributions",
+            "year": "2005",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Interfaces cerebrales",
+            "year": "2005",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the First international conference on Machine Learning for Multimodal Interaction",
+            "year": "2004",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "From samples to objects in kernel methods",
+            "year": "2003",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "A new margin-based criterion for efficient gradient descent",
+            "year": "2003",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Face verification using synthesized non-Frontal models",
+            "year": "2003",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Training asynchronous input/output hidden markov models",
+            "year": "1996",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating natural language descriptions of images",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying data objects",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Training recurrent neural networks to generate sequences",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Relevance-Based Image Selection",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Relevance-based image selection",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Training a model using parameter server shards",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating a playlist",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Relevance-based image selection",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Training recurrent neural networks to generate sequences",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating natural language descriptions of images",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying data objects",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Label consistency for image analysis",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "14.1 A hope coming with advanced machine learning techniques is that they can benefit science on a larger scale as by automated analysis of big data, natural language \u2026",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "32nd Conference on Neural Information Processing Systems (NeurIPS 2018): Montreal, Canada, 3-8 December 2018: Editors: Samy Bengio, Hanna Wallach, Hugo Larochelle, Kristen \u2026",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Refining image relevance models",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Large Scale Learning of a Joint Embedding Space.",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Statistical machine learning for HCI",
+            "year": "2009",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "2009 Index IEEE Transactions on Pattern Analysis and Machine Intelligence Vol. 31",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "KERNEL-BASED MODEL TO RANK IMAGES FROM TEXT QUERIES",
+            "year": "2007",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Generative Model for Distance Patterns in Music",
+            "year": "2007",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Statistical Machine Learning from Data-References",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine Learning for Multimodal Interaction: Third International Workshop, MLMI 2006, Bethesda, MD, USA, May 1-4, 2006",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Reviewers (2004)\u2013A note of appreciation",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Reviewers (2005)\u2013A note of appreciation",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Yves Grandvalet Johnny Mari\u00e9thoz 2",
+            "year": "2005",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine Learning for Multimodal Interaction: First International Workshop, MLMI 2004, Martigny, Switzerland, June 21-23, 2004, Revised Selected Papers",
+            "year": "2005",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Available online at www. sciencedirect. com",
+            "year": "2005",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "II Structuring and Interaction-Towards Computer Understanding of Human Interactions",
+            "year": "2005",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "2004 Index IEEE Transactions on Pattern Analysis and Machine Intelligence Vol. 26",
+            "year": "2004",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "On Performance/Robustness/Complexity Trade-Offs in Face Verification",
+            "year": "2004",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "IDIAP-RR 03-49",
+            "year": "2003",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Authors Keller, Mikaela",
+            "year": "2003",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Type of publication: Idiap-RR Citation: bengio: 2003: idiap-03-85 Number: Idiap-RR-85-2003 Year: 2003 Institution: IDIAP",
+            "year": "2003",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Authors Dimitrakakis, Christos",
+            "year": "2003",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Textual data representation",
+            "year": "2003",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "EVALUATION OF FORMANT-LIKE",
+            "year": "2002",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Authors Le, Quan",
+            "year": "2002",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Type of publication: Idiap-RR Citation: marietho: 2002: idiap-02-05 Number: Idiap-RR-05-2002 Year: 2002 Institution: IDIAP",
+            "year": "2002",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The Handbook of Brain Theory and Neural Networks",
+            "year": "2002",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Abu-Mostafa, Y. 277 Asharif, MR 51",
+            "year": "2002",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Transforming the feature vectors to improve HMM based cursive word recognition systems",
+            "year": "2002",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Estimation of Conditional Distributions using Gaussian Mixture Models",
+            "year": "2002",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "techniques in HMM based Off-Line Cursive Script Recognition",
+            "year": "2001",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Type of publication: Idiap-RR Citation: bengio: 2001: idiap-01-38 Number: Idiap-RR-38-2001 Year: 2001 Institution: IDIAP",
+            "year": "2001",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Martigny-Valais-Suisse",
+            "year": "2001",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The use of predictive models of breeding bird assemblages for assessing and monitoring forest bird diversity",
+            "year": "2001",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Authors Gilardi, Nicolas",
+            "year": "2000",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Authors Collobert, Ronan",
+            "year": "2000",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamical resource reservation schemes in an ATM network using neural network-based traffic prediction",
+            "year": "1999",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "LAB/RIO/TNT, 2, avenue Pierre Marzin, 22307 Lannion, FRANCE. e-mail:{bengio, fessant, collober}@ lannion. cnet. fr",
+            "year": "1995",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Neural Network to Detect Homologies in Proteins",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "LIST OF REVIEWERS VOLUME 17 (2003)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "LIST OF REVIEWERS VOLUME 21 (2007)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material: Content preserving text generation with attribute controls",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Large Margin Deep Networks for Classification: Supplementary Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning for multimodal interaction (Second international workshop, MLMI 2005, Edinburgh, UK, July 11-13, 2005)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Research Article Phoneme and Sentence-Level Ensembles for Speech Recognition",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Formal Name (English) L'IDIAP Laboratory",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "https://github. com/baidu-research/baidu-allreduce.",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u00d5\u00c3 \u00ab\u2248 \u00c3\u00a1 \u00c0\u00bb\u00bf\u00ab\u2206\u00a1 \u00c3\u00a1\u00ab\u2206 \u00d5\u00c0\u00a1\u2206\u2206\u2248\u00a1 \u00c0\u00a1\u2206\u2206 \u00c3\u0153 \u00ab\u221a \u00c0 \u0153\u00a1 \u00c3\u00bf\u00ab\u00c3\u00bf\u00ab\u00d5\u00c0\u00c3\u00a1\u2206 \u00c3\u00a1 \u00d5\u0192 \u00c3 \u00ab\u0152\u00a1 \u0192 \u00c0",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards Understanding the Effectiveness of MAML",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "14Perspectives on Predictive Power of Multimodal Deep",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Tech. Report: Telephone speaker diarization with Mealy-HMM",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Authentication Using Virtual Samples",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u043a \u0430\u0439 \u0438 \u0433\u0432 \u0433 \u0433\u0431 \u0438\u0436 \u042c \u0432\u0433\u0430\u0433 \u043d \u0433\u0432 \u0425\u041e\u042e\u042c\u042b",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Probabilistic Model for Chord Progressions",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Eigen-Distortions of Hierarchical Representations",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative Keyword Spotting",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sharp Minima Can Generalize For Deep Nets Supplementary Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Spring Issue of The Bridge on Frontiers of Engineering",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-Scale Object Classification using Label Relation Graphs: Supplemental Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Mohammad Norouzi",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "An Introduction to Statistical Machine Learning-Overview",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Tutorial on Statistical Machine Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "FLASH INFORMATIQUE FI",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Spring Issue of The Bridge on Frontiers of Engineering",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "2013 Index IEEE Transactions on Pattern Analysis and Machine Intelligence Vol. 35",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Aspects theoriques de l'optimisation d'une regle d'apprentissage",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u0426\u0433\u0432\u0430 \u0432 \u0436 \u0432 \u0430\u043d\u0437 \u0437 \u0433 \u0433 \u0432 \u0438 \u043a \u0432 \u0425\u0433\u0438\u0433\u0436\u0419\u0436 \u0430 \u0438 \u042b \u0432 \u0430\u0437",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Machine Learning, Deep Learning, Representation Learning"
+}

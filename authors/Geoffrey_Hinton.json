@@ -1,0 +1,4221 @@
+{
+    "author": "Geoffrey Hinton",
+    "affiliation": "Emeritus Prof. Computer Science, University of Toronto",
+    "total_papers": 702,
+    "total_citations": 843730,
+    "publications": [
+        {
+            "title": "Imagenet classification with deep convolutional neural networks",
+            "year": "2012",
+            "citations": 161612,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning",
+            "year": "2015",
+            "citations": 83476,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning internal representations by error-propagation",
+            "year": "1986",
+            "citations": 54757,
+            "link": "No link available"
+        },
+        {
+            "title": "Dropout: a simple way to prevent neural networks from overfitting",
+            "year": "2014",
+            "citations": 52290,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing data using t-SNE",
+            "year": "2008",
+            "citations": 46879,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning representations by back-propagating errors",
+            "year": "1986",
+            "citations": 39225,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning multiple layers of features from tiny images",
+            "year": "2009",
+            "citations": 31390,
+            "link": "No link available"
+        },
+        {
+            "title": "Rectified linear units improve restricted boltzmann machines",
+            "year": "2010",
+            "citations": 25573,
+            "link": "No link available"
+        },
+        {
+            "title": "Reducing the dimensionality of data with neural networks",
+            "year": "2006",
+            "citations": 23354,
+            "link": "No link available"
+        },
+        {
+            "title": "A fast learning algorithm for deep belief nets",
+            "year": "2006",
+            "citations": 21483,
+            "link": "No link available"
+        },
+        {
+            "title": "Distilling the Knowledge in a Neural Network",
+            "year": "2015",
+            "citations": 20802,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple framework for contrastive learning of visual representations",
+            "year": "2020",
+            "citations": 18808,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups",
+            "year": "2012",
+            "citations": 13792,
+            "link": "No link available"
+        },
+        {
+            "title": "Layer normalization",
+            "year": "2016",
+            "citations": 12426,
+            "link": "No link available"
+        },
+        {
+            "title": "Speech recognition with deep recurrent neural networks",
+            "year": "2013",
+            "citations": 11617,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving neural networks by preventing co-adaptation of feature detectors",
+            "year": "2012",
+            "citations": 11503,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 6.5-rmsprop: Divide the gradient by a running average of its recent magnitude",
+            "year": "2012",
+            "citations": 7989,
+            "link": "No link available"
+        },
+        {
+            "title": "Schemata and sequential thought processes in PDP models.",
+            "year": "1986",
+            "citations": 6811,
+            "link": "No link available"
+        },
+        {
+            "title": "Training products of experts by minimizing contrastive divergence",
+            "year": "2002",
+            "citations": 6537,
+            "link": "No link available"
+        },
+        {
+            "title": "On the importance of initialization and momentum in deep learning",
+            "year": "2013",
+            "citations": 6370,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive mixtures of local experts",
+            "year": "1991",
+            "citations": 6099,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic routing between capsules",
+            "year": "2017",
+            "citations": 5989,
+            "link": "No link available"
+        },
+        {
+            "title": "A learning algorithm for Boltzmann machines",
+            "year": "1985",
+            "citations": 5792,
+            "link": "No link available"
+        },
+        {
+            "title": "A practical guide to training restricted Boltzmann machines",
+            "year": "2010",
+            "citations": 4299,
+            "link": "No link available"
+        },
+        {
+            "title": "Phoneme recognition using time-delay neural networks",
+            "year": "2013",
+            "citations": 4207,
+            "link": "No link available"
+        },
+        {
+            "title": "(1986) DE Rumelhart, GE Hinton, and RJ Williams, Learning internal representations by error propagation, Parallel Distributed Processing: Explorations in the Microstructures of \u2026",
+            "year": "1988",
+            "citations": 4048,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Boltzmann machines",
+            "year": "2009",
+            "citations": 3962,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "2019",
+            "citations": 3904,
+            "link": "No link available"
+        },
+        {
+            "title": "A view of the EM algorithm that justifies incremental, sparse, and other variants",
+            "year": "1998",
+            "citations": 3693,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing data using t-sne",
+            "year": "2008",
+            "citations": 3626,
+            "link": "No link available"
+        },
+        {
+            "title": "A general framework for parallel distributed processing",
+            "year": "1986",
+            "citations": 3192,
+            "link": "No link available"
+        },
+        {
+            "title": "Neighbourhood components analysis",
+            "year": "2004",
+            "citations": 2910,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist learning procedures",
+            "year": "1990",
+            "citations": 2705,
+            "link": "No link available"
+        },
+        {
+            "title": "The CIFAR-10 dataset",
+            "year": "2014",
+            "citations": 2666,
+            "link": "No link available"
+        },
+        {
+            "title": "Restricted Boltzmann machines for collaborative filtering",
+            "year": "2007",
+            "citations": 2633,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning and relearning in Boltzmann machines",
+            "year": "1986",
+            "citations": 2382,
+            "link": "No link available"
+        },
+        {
+            "title": "Big self-supervised models are strong semi-supervised learners",
+            "year": "2020",
+            "citations": 2372,
+            "link": "No link available"
+        },
+        {
+            "title": "Acoustic modeling using deep belief networks",
+            "year": "2012",
+            "citations": 2254,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations",
+            "year": "1986",
+            "citations": 2205,
+            "link": "No link available"
+        },
+        {
+            "title": "When does label smoothing help?",
+            "year": "2019",
+            "citations": 2196,
+            "link": "No link available"
+        },
+        {
+            "title": "Outrageously large neural networks: The sparsely-gated mixture-of-experts layer",
+            "year": "2017",
+            "citations": 2153,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic neighbor embedding",
+            "year": "2002",
+            "citations": 2132,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating text with recurrent neural networks",
+            "year": "2011",
+            "citations": 2080,
+            "link": "No link available"
+        },
+        {
+            "title": "Autoencoders, minimum description length and Helmholtz free energy",
+            "year": "1993",
+            "citations": 1916,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving deep neural networks for LVCSR using rectified linear units and dropout",
+            "year": "2013",
+            "citations": 1886,
+            "link": "No link available"
+        },
+        {
+            "title": "How learning can guide evolution",
+            "year": "1987",
+            "citations": 1809,
+            "link": "No link available"
+        },
+        {
+            "title": "Transforming auto-encoders",
+            "year": "2011",
+            "citations": 1762,
+            "link": "No link available"
+        },
+        {
+            "title": "Semantic hashing",
+            "year": "2007",
+            "citations": 1740,
+            "link": "No link available"
+        },
+        {
+            "title": "The helmholtz machine",
+            "year": "1995",
+            "citations": 1722,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel models of associative memory",
+            "year": "1981",
+            "citations": 1645,
+            "link": "No link available"
+        },
+        {
+            "title": "New types of deep neural network learning for speech recognition and related applications: An overview",
+            "year": "2013",
+            "citations": 1599,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for machine learning lecture 6a overview of mini-batch gradient descent",
+            "year": "2012",
+            "citations": 1599,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning distributed representations of concepts",
+            "year": "1986",
+            "citations": 1570,
+            "link": "No link available"
+        },
+        {
+            "title": "International conference on machine learning",
+            "year": "2023",
+            "citations": 1566,
+            "link": "No link available"
+        },
+        {
+            "title": "The\" wake-sleep\" algorithm for unsupervised neural networks",
+            "year": "1995",
+            "citations": 1558,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning multiple layers of representation",
+            "year": "2007",
+            "citations": 1523,
+            "link": "No link available"
+        },
+        {
+            "title": "Keeping the neural networks simple by minimizing the description length of the weights",
+            "year": "1993",
+            "citations": 1509,
+            "link": "No link available"
+        },
+        {
+            "title": "The appeal of parallel distributed processing",
+            "year": "1986",
+            "citations": 1357,
+            "link": "No link available"
+        },
+        {
+            "title": "A scalable hierarchical distributed language model",
+            "year": "2008",
+            "citations": 1305,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot learning with semantic output codes",
+            "year": "2009",
+            "citations": 1291,
+            "link": "No link available"
+        },
+        {
+            "title": "Similarity of neural network representations revisited",
+            "year": "2019",
+            "citations": 1270,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularizing neural networks by penalizing confident output distributions",
+            "year": "2017",
+            "citations": 1246,
+            "link": "No link available"
+        },
+        {
+            "title": "Matrix capsules with EM routing",
+            "year": "2018",
+            "citations": 1227,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep belief networks",
+            "year": "2009",
+            "citations": 1223,
+            "link": "No link available"
+        },
+        {
+            "title": "Grammar as a foreign language",
+            "year": "2015",
+            "citations": 1138,
+            "link": "No link available"
+        },
+        {
+            "title": "A theoretical framework for back-propagation",
+            "year": "1988",
+            "citations": 1084,
+            "link": "No link available"
+        },
+        {
+            "title": "Lesioning an attractor network: investigations of acquired dyslexia.",
+            "year": "1991",
+            "citations": 1071,
+            "link": "No link available"
+        },
+        {
+            "title": "Simplifying neural networks by soft weight sharing",
+            "year": "2018",
+            "citations": 1063,
+            "link": "No link available"
+        },
+        {
+            "title": "On contrastive divergence learning",
+            "year": "2005",
+            "citations": 1033,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling human motion using binary latent variables",
+            "year": "2006",
+            "citations": 1025,
+            "link": "No link available"
+        },
+        {
+            "title": "Feudal reinforcement learning",
+            "year": "1992",
+            "citations": 1008,
+            "link": "No link available"
+        },
+        {
+            "title": "The EM algorithm for mixtures of factor analyzers",
+            "year": "1996",
+            "citations": 1007,
+            "link": "No link available"
+        },
+        {
+            "title": "Three new graphical models for statistical language modelling",
+            "year": "2007",
+            "citations": 947,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional deep belief networks on cifar-10",
+            "year": "2010",
+            "citations": 929,
+            "link": "No link available"
+        },
+        {
+            "title": "A time-delay neural network architecture for isolated word recognition",
+            "year": "1990",
+            "citations": 927,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning: foundations of neural computation",
+            "year": "1999",
+            "citations": 923,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal perceptual inference",
+            "year": "1983",
+            "citations": 896,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple way to initialize recurrent networks of rectified linear units",
+            "year": "2015",
+            "citations": 894,
+            "link": "No link available"
+        },
+        {
+            "title": "Boltzmann machines: Constraint satisfaction networks that learn",
+            "year": "1984",
+            "citations": 894,
+            "link": "No link available"
+        },
+        {
+            "title": "Backpropagation and the brain",
+            "year": "2020",
+            "citations": 877,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic neighbor embedding",
+            "year": "2003",
+            "citations": 789,
+            "link": "No link available"
+        },
+        {
+            "title": "Lookahead optimizer: k steps forward, 1 step back",
+            "year": "2019",
+            "citations": 781,
+            "link": "No link available"
+        },
+        {
+            "title": "Parameter estimation for linear dynamical systems",
+            "year": "1996",
+            "citations": 776,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to detect roads in high-resolution aerial images",
+            "year": "2010",
+            "citations": 763,
+            "link": "No link available"
+        },
+        {
+            "title": "On rectified linear units for speech processing",
+            "year": "2013",
+            "citations": 750,
+            "link": "No link available"
+        },
+        {
+            "title": "Distilling a neural network into a soft decision tree",
+            "year": "2017",
+            "citations": 749,
+            "link": "No link available"
+        },
+        {
+            "title": "How neural networks learn from experience",
+            "year": "1992",
+            "citations": 739,
+            "link": "No link available"
+        },
+        {
+            "title": "Classical and Bayesian inference in neuroimaging: theory",
+            "year": "2002",
+            "citations": 735,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for machine learning",
+            "year": "2012",
+            "citations": 707,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-organizing neural network that discovers surfaces in random-dot stereograms",
+            "year": "1992",
+            "citations": 693,
+            "link": "No link available"
+        },
+        {
+            "title": "Replicated softmax: an undirected topic model",
+            "year": "2009",
+            "citations": 677,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning a nonlinear embedding by preserving class neighbourhood structure",
+            "year": "2007",
+            "citations": 675,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep belief networks for phone recognition",
+            "year": "2009",
+            "citations": 662,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for AI",
+            "year": "2021",
+            "citations": 652,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning\u2014a technology with the potential to transform health care",
+            "year": "2018",
+            "citations": 651,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to combine foveal glimpses with a third-order Boltzmann machine",
+            "year": "2010",
+            "citations": 642,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational learning for switching state-space models",
+            "year": "2000",
+            "citations": 617,
+            "link": "No link available"
+        },
+        {
+            "title": "Exponential family harmoniums with an application to information retrieval",
+            "year": "2004",
+            "citations": 611,
+            "link": "No link available"
+        },
+        {
+            "title": "Experiments on Learning by Back Propagation.",
+            "year": "1986",
+            "citations": 602,
+            "link": "No link available"
+        },
+        {
+            "title": "The recurrent temporal restricted boltzmann machine",
+            "year": "2008",
+            "citations": 601,
+            "link": "No link available"
+        },
+        {
+            "title": "Attend, infer, repeat: Fast scene understanding with generative models",
+            "year": "2016",
+            "citations": 594,
+            "link": "No link available"
+        },
+        {
+            "title": "Glove-talk: A neural network interface between a data-glove and a speech synthesizer",
+            "year": "1993",
+            "citations": 594,
+            "link": "No link available"
+        },
+        {
+            "title": "Application of deep belief networks for natural language understanding",
+            "year": "2014",
+            "citations": 592,
+            "link": "No link available"
+        },
+        {
+            "title": "Using very deep autoencoders for content-based image retrieval.",
+            "year": "2011",
+            "citations": 581,
+            "link": "No link available"
+        },
+        {
+            "title": "SMEM algorithm for mixture models",
+            "year": "2000",
+            "citations": 525,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient-based learning applied to document recognition",
+            "year": "2017",
+            "citations": 516,
+            "link": "No link available"
+        },
+        {
+            "title": "Vocal tract length perturbation (VTLP) improves speech recognition",
+            "year": "2013",
+            "citations": 516,
+            "link": "No link available"
+        },
+        {
+            "title": "Factored conditional restricted Boltzmann machines for modeling motion style",
+            "year": "2009",
+            "citations": 516,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel visual computation",
+            "year": "1983",
+            "citations": 516,
+            "link": "No link available"
+        },
+        {
+            "title": "A distributed connectionist production system",
+            "year": "1988",
+            "citations": 514,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to label aerial images from noisy data",
+            "year": "2012",
+            "citations": 504,
+            "link": "No link available"
+        },
+        {
+            "title": "A fast learning algorithm for deep belief nets",
+            "year": "2006",
+            "citations": 498,
+            "link": "No link available"
+        },
+        {
+            "title": "Binary coding of speech spectrograms using a deep auto-encoder",
+            "year": "2010",
+            "citations": 494,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale distributed neural network training through online distillation",
+            "year": "2018",
+            "citations": 487,
+            "link": "No link available"
+        },
+        {
+            "title": "Distilling the knowledge in a neural network. arXiv 2015",
+            "year": "2015",
+            "citations": 487,
+            "link": "No link available"
+        },
+        {
+            "title": "To recognize shapes, first learn to generate images",
+            "year": "2007",
+            "citations": 484,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling the manifolds of images of handwritten digits",
+            "year": "1997",
+            "citations": 484,
+            "link": "No link available"
+        },
+        {
+            "title": "Mapping part-whole hierarchies into connectionist networks",
+            "year": "1990",
+            "citations": 479,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing data using t-SNE",
+            "year": "2008",
+            "citations": 467,
+            "link": "No link available"
+        },
+        {
+            "title": "Layer normalization. arXiv",
+            "year": "2016",
+            "citations": 463,
+            "link": "No link available"
+        },
+        {
+            "title": "Implementing semantic networks in parallel hardware",
+            "year": "1981",
+            "citations": 462,
+            "link": "No link available"
+        },
+        {
+            "title": "3D object recognition with deep belief nets",
+            "year": "2009",
+            "citations": 449,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural additive models: Interpretable machine learning with neural nets",
+            "year": "2021",
+            "citations": 448,
+            "link": "No link available"
+        },
+        {
+            "title": "Neuroanimator: Fast neural network emulation and control of physics-based models",
+            "year": "1998",
+            "citations": 447,
+            "link": "No link available"
+        },
+        {
+            "title": "Phone recognition with the mean-covariance restricted Boltzmann machine",
+            "year": "2010",
+            "citations": 446,
+            "link": "No link available"
+        },
+        {
+            "title": "An alternative model for mixtures of experts",
+            "year": "1994",
+            "citations": 432,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning translation invariant recognition in a massively parallel networks",
+            "year": "1987",
+            "citations": 425,
+            "link": "No link available"
+        },
+        {
+            "title": "Using fast weights to improve persistent contrastive divergence",
+            "year": "2009",
+            "citations": 417,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep belief networks using discriminative features for phone recognition",
+            "year": "2011",
+            "citations": 404,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding how deep belief networks perform acoustic modelling",
+            "year": "2012",
+            "citations": 378,
+            "link": "No link available"
+        },
+        {
+            "title": "Some demonstrations of the effects of structural descriptions in mental imagery",
+            "year": "1979",
+            "citations": 373,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel distributed processing: Explorations in the microstructure of cognition",
+            "year": "1986",
+            "citations": 362,
+            "link": "No link available"
+        },
+        {
+            "title": "A parallel computation that assigns canonical object-based frames of reference",
+            "year": "1981",
+            "citations": 340,
+            "link": "No link available"
+        },
+        {
+            "title": "Using fast weights to deblur old memories",
+            "year": "1987",
+            "citations": 339,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative models for discovering sparse distributed representations",
+            "year": "1997",
+            "citations": 330,
+            "link": "No link available"
+        },
+        {
+            "title": "Stacked capsule autoencoders",
+            "year": "2019",
+            "citations": 327,
+            "link": "No link available"
+        },
+        {
+            "title": "Models of information processing in the brain",
+            "year": "2014",
+            "citations": 326,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to represent spatial transformations with factored higher-order Boltzmann machines",
+            "year": "2010",
+            "citations": 326,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing non-metric similarities in multiple maps",
+            "year": "2012",
+            "citations": 323,
+            "link": "No link available"
+        },
+        {
+            "title": "Neurocomputing: Foundations of research",
+            "year": "1988",
+            "citations": 323,
+            "link": "No link available"
+        },
+        {
+            "title": "Global coordination of local linear models",
+            "year": "2001",
+            "citations": 311,
+            "link": "No link available"
+        },
+        {
+            "title": "& Kingsbury, B.(2012). Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups",
+            "year": "Unknown",
+            "citations": 310,
+            "link": "No link available"
+        },
+        {
+            "title": "Symbols among the neurons: Details of a connectionist inference architecture",
+            "year": "1985",
+            "citations": 309,
+            "link": "No link available"
+        },
+        {
+            "title": "Pix2seq: A language modeling framework for object detection",
+            "year": "2021",
+            "citations": 305,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling pixel means and covariances using factorized third-order Boltzmann machines",
+            "year": "2010",
+            "citations": 303,
+            "link": "No link available"
+        },
+        {
+            "title": "Factored 3-way restricted boltzmann machines for modeling natural images",
+            "year": "2010",
+            "citations": 299,
+            "link": "No link available"
+        },
+        {
+            "title": "Using deep belief nets to learn covariance kernels for Gaussian processes",
+            "year": "2007",
+            "citations": 299,
+            "link": "No link available"
+        },
+        {
+            "title": "Deterministic Boltzmann learning performs steepest descent in weight-space",
+            "year": "1989",
+            "citations": 299,
+            "link": "No link available"
+        },
+        {
+            "title": "On deep generative models with applications to recognition",
+            "year": "2011",
+            "citations": 297,
+            "link": "No link available"
+        },
+        {
+            "title": "Assessing the scalability of biologically-motivated deep learning algorithms and architectures",
+            "year": "2018",
+            "citations": 290,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning multilevel distributed representations for high-dimensional sequences",
+            "year": "2007",
+            "citations": 290,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 27th international conference on machine learning (ICML-10)",
+            "year": "2010",
+            "citations": 289,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning a better representation of speech soundwaves using restricted boltzmann machines",
+            "year": "2011",
+            "citations": 287,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 6a overview of mini\u2013batch gradient descent",
+            "year": "2012",
+            "citations": 286,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning representations by recirculation",
+            "year": "1987",
+            "citations": 275,
+            "link": "No link available"
+        },
+        {
+            "title": "Cvxnet: Learnable convex decomposition",
+            "year": "2020",
+            "citations": 271,
+            "link": "No link available"
+        },
+        {
+            "title": "Using fast weights to attend to the recent past",
+            "year": "2016",
+            "citations": 271,
+            "link": "No link available"
+        },
+        {
+            "title": "Using generative models for handwritten digit recognition",
+            "year": "1996",
+            "citations": 271,
+            "link": "No link available"
+        },
+        {
+            "title": "Using expectation-maximization for reinforcement learning",
+            "year": "1997",
+            "citations": 269,
+            "link": "No link available"
+        },
+        {
+            "title": "Boltzmann machine",
+            "year": "2007",
+            "citations": 267,
+            "link": "No link available"
+        },
+        {
+            "title": "Layer normalization",
+            "year": "2016",
+            "citations": 266,
+            "link": "No link available"
+        },
+        {
+            "title": "Energy-based models for sparse overcomplete representations",
+            "year": "2003",
+            "citations": 261,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist architectures for artificial intelligence",
+            "year": "1987",
+            "citations": 260,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of image transformations",
+            "year": "2007",
+            "citations": 257,
+            "link": "No link available"
+        },
+        {
+            "title": "Phoneme recognition: neural networks vs. hidden Markov models vs. hidden Markov models",
+            "year": "1988",
+            "citations": 255,
+            "link": "No link available"
+        },
+        {
+            "title": "Glove-TalkII-a neural-network interface which maps gestures to parallel formant speech synthesizer controls",
+            "year": "1998",
+            "citations": 252,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning with factored states and actions",
+            "year": "2004",
+            "citations": 241,
+            "link": "No link available"
+        },
+        {
+            "title": "Nasa neural articulated shape approximation",
+            "year": "2020",
+            "citations": 239,
+            "link": "No link available"
+        },
+        {
+            "title": "Who said what: Modeling individual labelers improves classification",
+            "year": "2018",
+            "citations": 238,
+            "link": "No link available"
+        },
+        {
+            "title": "The forward-forward algorithm: Some preliminary investigations",
+            "year": "2022",
+            "citations": 229,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling documents with deep boltzmann machines",
+            "year": "2013",
+            "citations": 228,
+            "link": "No link available"
+        },
+        {
+            "title": "Frames of reference and mental imagery",
+            "year": "1981",
+            "citations": 226,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust boltzmann machines for recognition and denoising",
+            "year": "2012",
+            "citations": 224,
+            "link": "No link available"
+        },
+        {
+            "title": "Rate-coded restricted Boltzmann machines for face recognition",
+            "year": "2000",
+            "citations": 218,
+            "link": "No link available"
+        },
+        {
+            "title": "How to represent part-whole hierarchies in a neural network",
+            "year": "2023",
+            "citations": 210,
+            "link": "No link available"
+        },
+        {
+            "title": "Varieties of Helmholtz machine",
+            "year": "1996",
+            "citations": 203,
+            "link": "No link available"
+        },
+        {
+            "title": "The development of the time-delay neural network architecture for speech recognition",
+            "year": "1988",
+            "citations": 203,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning sparse topographic representations with products of student-t distributions",
+            "year": "2002",
+            "citations": 199,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamical binary latent variable models for 3d human pose tracking",
+            "year": "2010",
+            "citations": 198,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 25th international conference on neural information processing systems",
+            "year": "2012",
+            "citations": 197,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep belief nets for natural language call-routing",
+            "year": "2011",
+            "citations": 194,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep, narrow sigmoid belief networks are universal approximators",
+            "year": "2008",
+            "citations": 193,
+            "link": "No link available"
+        },
+        {
+            "title": "Analog bits: Generating discrete data using diffusion models with self-conditioning",
+            "year": "2022",
+            "citations": 191,
+            "link": "No link available"
+        },
+        {
+            "title": "A new learning algorithm for mean field Boltzmann machines",
+            "year": "2002",
+            "citations": 191,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised discovery of nonlinear structure using contrastive backpropagation",
+            "year": "2006",
+            "citations": 190,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluation of adaptive mixtures of competing experts",
+            "year": "1990",
+            "citations": 185,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning sets of filters using back-propagation",
+            "year": "1987",
+            "citations": 185,
+            "link": "No link available"
+        },
+        {
+            "title": "Divide the gradient by a running average of its recent magnitude. coursera: Neural networks for machine learning",
+            "year": "2017",
+            "citations": 184,
+            "link": "No link available"
+        },
+        {
+            "title": "Shape representation in parallel systems",
+            "year": "1981",
+            "citations": 183,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive elastic models for hand-printed character recognition",
+            "year": "1991",
+            "citations": 182,
+            "link": "No link available"
+        },
+        {
+            "title": "A better way to pretrain deep boltzmann machines",
+            "year": "2012",
+            "citations": 180,
+            "link": "No link available"
+        },
+        {
+            "title": "Conditional Restricted Boltzmann Machines for Structured Output Prediction",
+            "year": "2011",
+            "citations": 177,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating facial expressions with deep belief nets",
+            "year": "2008",
+            "citations": 174,
+            "link": "No link available"
+        },
+        {
+            "title": "Analyzing cooperative computation",
+            "year": "1983",
+            "citations": 172,
+            "link": "No link available"
+        },
+        {
+            "title": "Analyzing and improving representations with the soft nearest neighbor loss",
+            "year": "2019",
+            "citations": 171,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning symmetry groups with hidden units: Beyond the perceptron",
+            "year": "1986",
+            "citations": 168,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel distributed processing: Foundations",
+            "year": "1986",
+            "citations": 167,
+            "link": "No link available"
+        },
+        {
+            "title": "Separating figure from ground with a parallel network",
+            "year": "1986",
+            "citations": 166,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet classification with deep convolutional neural networks",
+            "year": "2012",
+            "citations": 162,
+            "link": "No link available"
+        },
+        {
+            "title": "Two Distributed-State Models For Generating High-Dimensional Time Series.",
+            "year": "2011",
+            "citations": 161,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling image patches with a directed hierarchy of Markov random fields",
+            "year": "2007",
+            "citations": 158,
+            "link": "No link available"
+        },
+        {
+            "title": "Recognizing handwritten digits using mixtures of linear models",
+            "year": "1994",
+            "citations": 156,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple framework for contrastive learning of visual representations. arXiv 2020",
+            "year": "2023",
+            "citations": 155,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks: Tricks of the trade",
+            "year": "2012",
+            "citations": 154,
+            "link": "No link available"
+        },
+        {
+            "title": "Cifar-10 (canadian institute for advanced research). 2009",
+            "year": "2009",
+            "citations": 152,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning sequential structure in simple recurrent networks",
+            "year": "1986",
+            "citations": 152,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing similarity data with a mixture of maps",
+            "year": "2007",
+            "citations": 151,
+            "link": "No link available"
+        },
+        {
+            "title": "May. Speech recognition with deep recurrent neural networks",
+            "year": "2013",
+            "citations": 150,
+            "link": "No link available"
+        },
+        {
+            "title": "Representing part-whole hierarchies in connectionist networks",
+            "year": "1988",
+            "citations": 149,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to represent visual input",
+            "year": "2010",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning distributed representations of concepts using linear relational embedding",
+            "year": "2001",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "Relaxation and its role in vision",
+            "year": "1978",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "Phone recognition using restricted boltzmann machines",
+            "year": "2010",
+            "citations": 144,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering binary codes for documents by learning deep generative models",
+            "year": "2011",
+            "citations": 142,
+            "link": "No link available"
+        },
+        {
+            "title": "Gated softmax classification",
+            "year": "2010",
+            "citations": 141,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning in graphical models",
+            "year": "1998",
+            "citations": 140,
+            "link": "No link available"
+        },
+        {
+            "title": "Scene-based and viewer-centered representations for comparing shapes",
+            "year": "1988",
+            "citations": 138,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel computations for controlling an arm",
+            "year": "1984",
+            "citations": 138,
+            "link": "No link available"
+        },
+        {
+            "title": "Switching state-space models",
+            "year": "1996",
+            "citations": 137,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "1994",
+            "citations": 135,
+            "link": "No link available"
+        },
+        {
+            "title": "Simulating brain damage",
+            "year": "1993",
+            "citations": 135,
+            "link": "No link available"
+        },
+        {
+            "title": "Does the wake-sleep algorithm produce good density estimators?",
+            "year": "1995",
+            "citations": 132,
+            "link": "No link available"
+        },
+        {
+            "title": "Topographic product models applied to natural scene statistics",
+            "year": "2006",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "The EM algorithm for factor analyzers",
+            "year": "1997",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "Shape recognition and illusory conjunctions.",
+            "year": "1985",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "Imputer: Sequence modelling via imputation and dynamic programming",
+            "year": "2020",
+            "citations": 123,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning sparse networks using targeted dropout",
+            "year": "2019",
+            "citations": 123,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist symbol processing",
+            "year": "1991",
+            "citations": 122,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Machine Learning-A New Frontier in Artificial Intelligence Research",
+            "year": "2006",
+            "citations": 121,
+            "link": "No link available"
+        },
+        {
+            "title": "A unified sequence interface for vision tasks",
+            "year": "2022",
+            "citations": 116,
+            "link": "No link available"
+        },
+        {
+            "title": "The toronto face database",
+            "year": "2010",
+            "citations": 116,
+            "link": "No link available"
+        },
+        {
+            "title": "Where do features come from?",
+            "year": "2014",
+            "citations": 115,
+            "link": "No link available"
+        },
+        {
+            "title": "Implicit mixtures of restricted Boltzmann machines",
+            "year": "2008",
+            "citations": 114,
+            "link": "No link available"
+        },
+        {
+            "title": "A comparison of statistical learning methods on the GUSTO database",
+            "year": "1998",
+            "citations": 114,
+            "link": "No link available"
+        },
+        {
+            "title": "Split and merge EM algorithm for improving Gaussian mixture density estimates",
+            "year": "2000",
+            "citations": 113,
+            "link": "No link available"
+        },
+        {
+            "title": "Preface to the special issue on connectionist symbol processing",
+            "year": "1990",
+            "citations": 113,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallelizing neural networks during training",
+            "year": "2017",
+            "citations": 111,
+            "link": "No link available"
+        },
+        {
+            "title": "Recognizing hand-written digits using hierarchical products of experts",
+            "year": "2000",
+            "citations": 111,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative versus discriminative training of RBMs for classification of fMRI images",
+            "year": "2008",
+            "citations": 108,
+            "link": "No link available"
+        },
+        {
+            "title": "The DELVE manual",
+            "year": "1996",
+            "citations": 108,
+            "link": "No link available"
+        },
+        {
+            "title": "The CIFAR-10 dataset (2014)",
+            "year": "2017",
+            "citations": 107,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 7th International Joint Conference on Artificial Intelligence",
+            "year": "1981",
+            "citations": 107,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust and data-efficient generalization of self-supervised machine learning for diagnostic imaging",
+            "year": "2023",
+            "citations": 106,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to the special section on deep learning for speech and language processing",
+            "year": "2011",
+            "citations": 106,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational learning in nonlinear Gaussian belief networks",
+            "year": "1999",
+            "citations": 105,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating more realistic images using gated mrf\u2019s",
+            "year": "2010",
+            "citations": 103,
+            "link": "No link available"
+        },
+        {
+            "title": "Distinguishing text from graphics in on-line handwritten ink",
+            "year": "2004",
+            "citations": 103,
+            "link": "No link available"
+        },
+        {
+            "title": "Glove-TalkII: an adaptive gesture-to-formant interface",
+            "year": "1995",
+            "citations": 101,
+            "link": "No link available"
+        },
+        {
+            "title": "Cifar-10",
+            "year": "2009",
+            "citations": 100,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel models of associative memory",
+            "year": "1981",
+            "citations": 100,
+            "link": "No link available"
+        },
+        {
+            "title": "Separating figure from ground with a Boltzmann machine",
+            "year": "1987",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "A mobile robot that learns its place",
+            "year": "1997",
+            "citations": 97,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep lambertian networks",
+            "year": "2012",
+            "citations": 96,
+            "link": "No link available"
+        },
+        {
+            "title": "Developing population codes by minimizing description length",
+            "year": "1993",
+            "citations": 95,
+            "link": "No link available"
+        },
+        {
+            "title": "Detecting and diagnosing adversarial images with class-conditional capsule reconstructions",
+            "year": "2019",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "A soft decision-directed LMS algorithm for blind equalization",
+            "year": "1993",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep mixtures of factor analysers",
+            "year": "2012",
+            "citations": 91,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning multiple layers of features from tiny images. Vol. 1",
+            "year": "2009",
+            "citations": 91,
+            "link": "No link available"
+        },
+        {
+            "title": "What kind of graphical model is the brain?",
+            "year": "2005",
+            "citations": 90,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for addressing overfitting in a neural network",
+            "year": "2016",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "2012 AlexNet",
+            "year": "2012",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "Inferring motor programs from images of handwritten digits",
+            "year": "2005",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "NIPS",
+            "year": "2012",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "A generalist framework for panoptic segmentation of images and videos",
+            "year": "2023",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Canonical capsules: Self-supervised capsules in canonical pose",
+            "year": "2021",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the national conference on artificial intelligence",
+            "year": "1983",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to parse images",
+            "year": "1999",
+            "citations": 84,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet classification with deep convolutional neural networks. 2012: 1097\u20131105",
+            "year": "2019",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Matrix capsules with EM routing",
+            "year": "2018",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 24th international conference on Machine learning",
+            "year": "2007",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "GTM through time",
+            "year": "1997",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for machine learning, lecture 15a",
+            "year": "2019",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "A desktop input device and interface for interactive 3d character animation",
+            "year": "2002",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling natural images using gated MRFs",
+            "year": "2013",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Layer normalization. CoRR abs/1607.06450 (2016)",
+            "year": "2016",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Building adaptive interface with neural networks: the glove-talk pilot study",
+            "year": "1990",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning",
+            "year": "2015",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "2013 IEEE international conference on acoustics, speech and signal processing",
+            "year": "2013",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "Distilling the knowledge in a neural network. arXiv preprint arXiv: 150302531",
+            "year": "2015",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor analyzers",
+            "year": "2013",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "The Toronto face dataset",
+            "year": "2010",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "RMSprop gradient optimization",
+            "year": "2014",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling the joint density of two images under a variety of transformations",
+            "year": "2011",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Belief Nets.",
+            "year": "2010",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Mean field networks that learn to discriminate temporally distorted strings",
+            "year": "1991",
+            "citations": 66,
+            "link": "No link available"
+        },
+        {
+            "title": "The bootstrap Widrow-Hoff rule as a cluster-formation algorithm",
+            "year": "1990",
+            "citations": 66,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust and efficient medical imaging with self-supervision",
+            "year": "2022",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic routing between capsules",
+            "year": "2017",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Managing AI risks in an era of rapid progress",
+            "year": "2023",
+            "citations": 63,
+            "link": "No link available"
+        },
+        {
+            "title": "Distilling the knowledge in a neural network. CoRR abs/1503.02531 (2015)",
+            "year": "2015",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing data using t-SNE",
+            "year": "2008",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Self supervised boosting",
+            "year": "2002",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "G\u2010maximization: an unsupervised learning procedure for discovering regularities",
+            "year": "1986",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Darccc: Detecting adversaries by reconstruction from class conditional capsules",
+            "year": "2018",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Steps toward artificial intelligence",
+            "year": "1986",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning mixture models of spatial coherence",
+            "year": "1993",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Illustrative language understanding: Large-scale visual grounding with image search",
+            "year": "2018",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Cnn \u5b9e\u9645\u8bad\u7ec3\u7684",
+            "year": "2012",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Temporal-kernel recurrent neural networks",
+            "year": "2010",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic routing between capsules. arXiv 2017",
+            "year": "Unknown",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "nature",
+            "year": "2015",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Salakhutdinov",
+            "year": "2012",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing high-dimensional data using t-sne. journal of machine learning research",
+            "year": "2008",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "A hierarchical community of experts",
+            "year": "1998",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering viewpoint-invariant relationships that characterize objects",
+            "year": "1990",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic routing between capsules. arXiv",
+            "year": "2017",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Vinyals O Dean J Distilling the knowledge in a neural network Comput",
+            "year": "2015",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 6d-a separate, adaptive learning rate for each connection",
+            "year": "2012",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Neighbourhood component analysis",
+            "year": "2004",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Spatial Coherence as an Internal Teacher for a Neural Network",
+            "year": "1995",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Dimensionality reduction and prior knowledge in e-set recognition",
+            "year": "1989",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparing classification methods for longitudinal fMRI studies",
+            "year": "2010",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Spiking boltzmann machines",
+            "year": "2000",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive soft weight tying using gaussian mixtures",
+            "year": "1991",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "International conference on machine learning",
+            "year": "2013",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "How to do backpropagation in a brain",
+            "year": "2007",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Dark knowledge",
+            "year": "2014",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning representations by backpropagating errors. nature, 323 (6088), 533-536",
+            "year": "1986",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Analysis-by-synthesis by learning to invert generative black boxes",
+            "year": "2008",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Multiple relational embedding",
+            "year": "2004",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised part representation by flow capsules",
+            "year": "2021",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel distributed processing: Explorations in the microstructure of cognition, vol. 1. chap. Learning Internal Representations by Error Propagation",
+            "year": "1986",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning internal representations through error propagation",
+            "year": "Unknown",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Subclass distillation",
+            "year": "2020",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Products of hidden markov models",
+            "year": "2001",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "The relative accuracy of a variety of medical diagnostic programs",
+            "year": "1994",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling forward gradient with local losses",
+            "year": "2022",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Solving random-dot stereograms using the heat equation",
+            "year": "1985",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial intelligence and statistics",
+            "year": "2009",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "RR Salakhutdinov Reducing the dimensionality of data with neural networks., 2006, 313",
+            "year": "Unknown",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "GEMINI: gradient estimation through matrix inversion after noise injection",
+            "year": "1988",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Why the islands move",
+            "year": "1984",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating the interface of a document processor: a comparison of expert judgement and user observation",
+            "year": "1984",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Managing extreme AI risks amid rapid progress",
+            "year": "2024",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering multiple constraints that are frequently approximately satisfied",
+            "year": "2013",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Multiple Layers of Features from Tiny Images. University of Toronto; Toronto, ON",
+            "year": "2009",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "TRAFFIC: Recognizing objects using hierarchical reference frame transformations",
+            "year": "1989",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning representations by back-propagation errors",
+            "year": "1986",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Wie neuronale Netze aus Erfahrung lernen",
+            "year": "1992",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "When does label smoothing help",
+            "year": "2019",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning. nature 521, 7553 (2015), 436\u2013444",
+            "year": "2015",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning generative texture models with extended Fields-of-Experts",
+            "year": "2009",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolution of artificial neural network architecture: prediction of depression after mania",
+            "year": "1998",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the Ninth Annual Cognitive Science Society Conference",
+            "year": "1987",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Some computational solutions to Bernstein's problems",
+            "year": "1984",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "An unsupervised learning procedure that discovers surfaces in random-dot stereograms",
+            "year": "1990",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "On the importance of momentum and initialization in deep learning",
+            "year": "2013",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning nonlinear constraints with contrastive backpropagation",
+            "year": "2005",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Using free energies to represent Q-values in a multiagent reinforcement learning task",
+            "year": "2000",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical non-linear factor analysis and topographic maps",
+            "year": "1997",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning causally linked markov random fields",
+            "year": "2005",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Entering the black box of neural networks",
+            "year": "2003",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Targeted dropout",
+            "year": "2018",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient stochastic source coding and an application to a Bayesian network source model",
+            "year": "1997",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "A mode-hopping MCMC sampler",
+            "year": "2003",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Local physical models for interactive character animation",
+            "year": "2002",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for labelling aerial images",
+            "year": "2017",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Guest editorial: Deep learning",
+            "year": "2015",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Teaching with commentaries",
+            "year": "2020",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning",
+            "year": "2015",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving a statistical language model through non-linear prediction",
+            "year": "2009",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Using matrices to model symbolic relationship",
+            "year": "2008",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Parameter estimation for linear dynamical systems (Technical Report CRG-TR-96\u20132)",
+            "year": "1996",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "An efficient learning procedure for deep Boltzmann machines",
+            "year": "2012",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Delve data sets",
+            "year": "1996",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Deterministic Boltzmann learning in networks with asymmetric connectivity",
+            "year": "1991",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing data using t-sne journal of machine learning research",
+            "year": "2008",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning hierarchical structures with linear relational embedding",
+            "year": "2002",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the Ninth International Joint Conference on Artificial Intelligence",
+            "year": "1985",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for speech recognition and related applications",
+            "year": "2009",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "The ups and downs of Hebb synapses.",
+            "year": "2003",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Coaching variables for regression and classification",
+            "year": "1998",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Using relaxation to find a puppet",
+            "year": "1976",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "When does label smoothing help? arXiv 2019",
+            "year": "Unknown",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Training distilled machine learning models",
+            "year": "2019",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Using an autoencoder with deformable templates to discover features for automated speech recognition.",
+            "year": "2013",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep boltzmann machines",
+            "year": "2009",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Free energy coding",
+            "year": "1996",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Morgan-Kaufmann: Burlington",
+            "year": "1989",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the connectionist models summer school",
+            "year": "1989",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet classification with deep convolutional neural networks. Curran Associates",
+            "year": "2012",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning for neuroscience",
+            "year": "2011",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "A new view of ICA",
+            "year": "2001",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Computer-supported diagnosis of melanoma in profilometry",
+            "year": "1999",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 1988 connectionist models summer school",
+            "year": "1989",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Symbols among the neurons: of a connectionist inference architecture",
+            "year": "1985",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Imagery without arrays",
+            "year": "1979",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for parallelizing convolutional neural networks",
+            "year": "2017",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Distilling the knowledge in a neural network. arXiv preprint, 2015",
+            "year": "2015",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Autoregressive product of multi-frame predictions can improve the accuracy of hybrid models",
+            "year": "2014",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling pigeon behavior using a Conditional Restricted Boltzmann Machine.",
+            "year": "2009",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing data using t-SNE. journal of Machine Learning Research 9",
+            "year": "2008",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple algorithm that discovers efficient perceptual codes",
+            "year": "1997",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Does the brain do inverse graphics",
+            "year": "2012",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Wormholes improve contrastive divergence",
+            "year": "2003",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel Distrilmted Processing",
+            "year": "1986",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Rumelhart",
+            "year": "1977",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for generating training cases for image classification",
+            "year": "2016",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "A better way to learn features: technical perspective",
+            "year": "2011",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Instantiating deformable models with a neural net",
+            "year": "1997",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Using pairs of data-points to define splits for decision trees",
+            "year": "1995",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Deflecting adversarial attacks",
+            "year": "2020",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "//Proc. Advances in Neural Inform.",
+            "year": "2012",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving dimensionality reduction with spectral gradient descent",
+            "year": "2005",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Computation by neural networks",
+            "year": "2000",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Semantic hashing",
+            "year": "2009",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Extracting distributed representations of concepts and relations from positive and negative propositions",
+            "year": "2000",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Glove-TalkII: Mapping hand gestures to speech using neural networks",
+            "year": "1994",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist models summer school",
+            "year": "1988",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Une nouvelle approche de la cognition: le connexionnisme",
+            "year": "1987",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "A new way to learn acoustic events",
+            "year": "2011",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Hand-printed digit recognition using deformable models",
+            "year": "1993",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "by Error Propagation",
+            "year": "1990",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning semantic features",
+            "year": "1984",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional Deep Belief Networks on Cifar-10; 2010",
+            "year": "Unknown",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "PDP: Computational models of cognition and perception, I",
+            "year": "1986",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "The role of spatial working memory in shape perception",
+            "year": "1981",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Lookahead optimizer: K steps forward, 1 step back. arXiv 2019",
+            "year": "Unknown",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Nasa: Neural articulated shape approximation",
+            "year": "2020",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Acoustics, speech and signal processing (icassp), 2013 ieee international conference on",
+            "year": "2013",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving neural networks by preventing co-adaptation of feature detectors. arXiv preprint arXiv",
+            "year": "2012",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning multiple layers of features from tiny images",
+            "year": "2009",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing data using t-SNE visualizing data using t-SNE",
+            "year": "2008",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "The EM algorithm for factor analyzers Technical Report CRG-TR-96-1",
+            "year": "1997",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "The Helmholtz machine through time",
+            "year": "1995",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "TRAFFIC: A model of object recognition based on transformations of feature instances",
+            "year": "1988",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "rahman Mohamed A, Jaitly N, Senior A, Vanhoucke V, Nguyen P, Sainath T, Kingsbury B (2012) Deep neural networks for acoustic modeling in speech recognition",
+            "year": "Unknown",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Sejnows ki, TJ (1 9 85)",
+            "year": "Unknown",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Gaussian-bernoulli rbms without tears",
+            "year": "2022",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Big self-supervised models are strong semi-supervised learners. arXiv 2020",
+            "year": "2006",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Using connectionist modules for decision support",
+            "year": "1990",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Phoneme recognition using time-delay neural networks (Technical Report TR-I-0006)",
+            "year": "1987",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "&amp; Teh, Y.-W.(2006). A fast learning algorithm for deep belief nets",
+            "year": "Unknown",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 6.5-rmsprop. COURSERA Neural Netw",
+            "year": "2012",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Minimizing description length in an unsupervised neural network",
+            "year": "1997",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Neurocomputing: Foundations of Research, Learning Representations by Back-Propagating Errors",
+            "year": "1988",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel Distributed Processing. Exploration of the Microstructure of Cognition. vol. 1: Foundations, DE Rumelhart and JL McClelland",
+            "year": "1986",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Inferring the meaning of direct perception",
+            "year": "1980",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Developing deep learning applications for life science and pharma industry",
+            "year": "2018",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for machine learning",
+            "year": "2012",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Relaxing the hyperplane assumption in the analysis and modification of back-propagation neural networks",
+            "year": "1994",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to make coherent predictions in domains with discontinuities",
+            "year": "1991",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network architectures for artificial intelligence",
+            "year": "1988",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Readings in cognitive science",
+            "year": "1988",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Dropout: 509 A Simple Way to Prevent Neural Networks from Overfitting",
+            "year": "Unknown",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Separation of HCM and LQT cardiac diseases with machine learning of Ca2+ transient profiles",
+            "year": "2019",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Aprendizagem profunda",
+            "year": "2015",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Products of hidden Markov models: It takes N> 1 to tango",
+            "year": "2012",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Imagenet",
+            "year": "2012",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Divide the gradient by a running average of its recent magnitude",
+            "year": "2011",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the Tenth International Workshop on Artificial Intelligence and Statistics",
+            "year": "2005",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic sequential independent components analysis",
+            "year": "2004",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Delve data for evaluating learning in valid experiments, 1995\u20131996",
+            "year": "2003",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Using a neural net to instantiate a deformable model",
+            "year": "1994",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering high order features with mean field modules",
+            "year": "1990",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Pattern matching and variable binding in a stochastic neural network",
+            "year": "1987",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Processing text using neural networks",
+            "year": "2021",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Distilling the knowledge in a neural network [EB/OL]",
+            "year": "2015",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Csc321: Introduction to neural networks and machine learning",
+            "year": "2010",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "for Deep Belief Nets., 2006, 18",
+            "year": "2006",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Data for evaluating learning in valid experiments (delve)",
+            "year": "2003",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Training many small hidden markov models",
+            "year": "2001",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast neural network emulation of dynamical systems for computer animation",
+            "year": "1998",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Parameter estimation for linear dynamical systems University of Toronto technical report",
+            "year": "1996",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Lesioning a connectionist network: investigations of acquired dyslexia",
+            "year": "1990",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "In DE Rumelhart & JL McClelland",
+            "year": "1986",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Distilling the knowledge in a neural network, 2 (7)(2015)",
+            "year": "Unknown",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "r Mohamed A, Jaitly N, Senior A, Vanhoucke V, Nguyen P, Sainath TN, Kingsbury B (2012) Deep neural networks for acoustic modeling in speech recognition: The shared views of \u2026",
+            "year": "Unknown",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple framework for contrastive learning of visual",
+            "year": "2020",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Prediction of postoperative length of hospital stay based on differences in nursing narratives in elderly patients with epithelial ovarian cancer",
+            "year": "2019",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Lookahead Optimizer: k steps forward, 1 step back. arXiv",
+            "year": "2019",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 6.5-RMSprop: Divide the gradient by a running average of its recent magnitude, COURSERA: Neural Networks for Machine Learning",
+            "year": "2012",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Networks for Machine Learning, Lecture 6.5\u2014RMSProp",
+            "year": "2012",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing Data using t-SNE Laurens van der Maaten",
+            "year": "2008",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "On contrastive divergence learning. 10th Int",
+            "year": "2005",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic neighbor embedding",
+            "year": "2002",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Learning: Foundations of Neural Computation (Computational Neuroscience)",
+            "year": "1999",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Technical report",
+            "year": "1996",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Simplifying neural networks by soft weight sharing",
+            "year": "1994",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Using mixtures of deformable models to capture variations in hand printed digits",
+            "year": "1993",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Novice use of interactive graph-plotting system",
+            "year": "1983",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for contrastive learning of visual representations",
+            "year": "2022",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "The next generation of neural networks",
+            "year": "2020",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Matrix capsules with em routing",
+            "year": "2018",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Coursera: Neural networks for machine learning-Lecture 6.5: RMSprop",
+            "year": "2012",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Transforming auto-encoders",
+            "year": "2011",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep belief networks",
+            "year": "2009",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Big Self-Supervised Models are Strong Semi-Supervised Learners. 2020. doi: 10.48550",
+            "year": "2006",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Distributed Representations by Mapping Concepts and Relations into a Linear Space.",
+            "year": "2000",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "The EM algorithm for mixtures of factor analyzers (Tech. Rep. No. CRG-TR-96-1)",
+            "year": "1997",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Abductive machine learning for modeling and predicting the educational score in school health surveys",
+            "year": "1996",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Potholes in the road to professionalism in medical informatics",
+            "year": "1995",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Phoneme recognition using time-delay networks",
+            "year": "1988",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist learning procedures (CMU-CS-87-115)",
+            "year": "1987",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Cerberus: A multi-headed derenderer",
+            "year": "2019",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Geoff Hinton: on Radiology",
+            "year": "2016",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning, vol. 521, no. 7553",
+            "year": "2015",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 4a, Learning to predict the next word",
+            "year": "2015",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "COURSERA: Neural Networks Mach",
+            "year": "2012",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 6.5-rmsprop",
+            "year": "2012",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "RMSProp adaptive learning",
+            "year": "2012",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "TEH Y WA fast learning alforithm for deep beliefnets [J]",
+            "year": "2010",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "andR. R. Salakhutdinov,\u201cReducingtheDimensionalityofDatawithNeuralNetG works\u201d",
+            "year": "2006",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling high-dimensional data by combining simple experts",
+            "year": "2000",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining two methods of recognizing hand-printed digits",
+            "year": "1992",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning in massively parallel nets",
+            "year": "1986",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Representation and control in vision",
+            "year": "1978",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple framework for contrastive learning of visual representations. 453 In",
+            "year": "Unknown",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "The EM Algorithm for Mixtures of Factor Analyzers. CRG; 1996",
+            "year": "Unknown",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Meta-learning fast weight language models",
+            "year": "2022",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Rmsprop: Divide the Gradient by a Running Average of Its Recent Magnitude, 2012",
+            "year": "2018",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Rmsprop: Divide the gradient by a running average of its recent magnitude [COURSERA: Neural Networks for Machine Learning]",
+            "year": "2018",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing data using t-sne laurens van der maaten micc-ikat",
+            "year": "2017",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Layer normalization arxiv 1607.06450",
+            "year": "2016",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning. Nat. 521, 7553 (2015), 436\u2013444",
+            "year": "2015",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "A. Kri he sk, I. S ske er, and R. Salakh dino, Dropoff: a simple ao pre en ne ral ne orks from o erfi ing",
+            "year": "2014",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Taking inverse graphics seriously",
+            "year": "2013",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep belief networks, Scholarpedia 4 (5)(2009) 5947",
+            "year": "2009",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing Data using t-SNE Laurens van der Maaten",
+            "year": "2008",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "User\u2019s Guide for t-SNE Software",
+            "year": "2008",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Relative density nets: a new way to combine backpropagation with HMM's",
+            "year": "2001",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for computer-human interfaces: Glove-TalkII",
+            "year": "1996",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "El atractivo del procesamiento distribuido en paralelo",
+            "year": "1992",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Rmsprop gradient optimization (2014)",
+            "year": "2020",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Non-linear dimensionality reduction",
+            "year": "2013",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for machine learning. Lecture slides",
+            "year": "2012",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "University of Toronto",
+            "year": "2012",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "An efficient learning procedure for deep machines",
+            "year": "2012",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Training products of experts by minimizing contrastive divergence",
+            "year": "2012",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep belief networks. Scholarpedia, 4, 5947",
+            "year": "2009",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Greedy layer-wise algorithm",
+            "year": "2009",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing Data using t-SNE",
+            "year": "2008",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving a statistical language model by modulating the effects of context words.",
+            "year": "2008",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "A Fast Learning Algorithm for Deep Belief Nets, Neural Computing, 18 (7), 1527\u20131554",
+            "year": "2006",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning distributed representations of relational data using linear relational embedding",
+            "year": "2002",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Nonlinear dimensionality reduction using neural networks",
+            "year": "2000",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling in a hierarchical unsupervised network",
+            "year": "1999",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "La simulazione dei danni cerebrali",
+            "year": "1993",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Mental simulation",
+            "year": "1990",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative back-propagation",
+            "year": "1988",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "The horizontal\u2014vertical delusion",
+            "year": "1987",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning and relearning in boltzman machines",
+            "year": "1986",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Massively parallel architectures for Al: NETL, Thistle, and Boltzmann machines",
+            "year": "1983",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing high-dimensional data using t-sne. 2008",
+            "year": "Unknown",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Parametric Projection Pursuit Density Estimation",
+            "year": "Unknown",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for contrastive learning of visual representations",
+            "year": "2022",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Training distilled machine learning models",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple framework for contrastive learning of visual representations. In: International conference on machine learning. PMLR",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "ICML",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple framework for contrastive learning of visual representations. ICML",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "When does label smoothing help? arXiv preprint",
+            "year": "2019",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "The deep learning revolution",
+            "year": "2019",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Grammar as a foreign language",
+            "year": "2015",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "The rmsprop optimizer",
+            "year": "2014",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Distilling the knowledge in a neural net-580 work",
+            "year": "2014",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "RMSprop Gradient Optimization",
+            "year": "2014",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Speech recognition with deep recurrent neural networks. IEEE Int. Conf. on Acoustics, Speech and Signal Processing",
+            "year": "2013",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Speech recog-nition with deep recurrent neural networks, ICASSP, 2013",
+            "year": "2013",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for machine learning: Lecture 6A overview of mini-batch gradient descent course",
+            "year": "2012",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimization: How to make the learning go faster",
+            "year": "2012",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving neural networks by preventing co-adaptation of feature detectors. arXiv: Neural and Evolutionary Computing",
+            "year": "2012",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep belief networks for phone recognition",
+            "year": "2009",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "International Conference on Artificial Intelligence and Statistics",
+            "year": "2009",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing highdimensional data using t-SNE",
+            "year": "2008",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "A Simple Framework for Contrastive Learning of Visual Representations.\u201d arXiv, Jun. 30, 2020. Accessed: Jan. 23, 2024",
+            "year": "2002",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "A Simple Framework for Contrastive Learning of Visual Representations. arXiv [cs. LG]. 2020",
+            "year": "2002",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Cascaded redundancy reduction",
+            "year": "1998",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "The EM algorithm for mixtures of factor analyzers Univ. Toronto, Toronto, ON",
+            "year": "1997",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Using spatial coherence as an internal teacher for a neural network",
+            "year": "1995",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "La simulation des l\u00e9sions c\u00e9r\u00e9brales",
+            "year": "1993",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Special Issue of Journal Artificial Intelligence on Connectionist Symbol Processing (edited by Hinton, GE)",
+            "year": "1990",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Considerations in dynamic time warping algorithms for discrete word recognition",
+            "year": "1989",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Lang K",
+            "year": "1987",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel distributed processing. Volume 1: Foundations",
+            "year": "1986",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Sejnowski",
+            "year": "1985",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel computation and the mass-spring model of motor control",
+            "year": "1984",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel stochastic search in early vision",
+            "year": "1984",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Similarity of Neural Network Representations Revisited. arXiv. 2019 doi: 10.48550",
+            "year": "1905",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Testing GLOM's ability to infer wholes from ambiguous parts",
+            "year": "2022",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple framework for contrastive learning of visual representations. CoRR",
+            "year": "2020",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Guest editorial: Deep learning",
+            "year": "2015",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Krizhevsky A et al Improving neural networks by preventing co-adaptation of feature detectors",
+            "year": "2012",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Recent developments in deep learning",
+            "year": "2009",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Caching and replay of place sequences in a Temporal Restricted Boltzmann Machine model of the hippocampus",
+            "year": "2007",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "SO sindero, and Y",
+            "year": "2006",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Embedding via clustering: using spectral information to guide dimensionality reduction",
+            "year": "2005",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Switching state-space models (Technical Report)",
+            "year": "1998",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "A Time-Delay Neural Network Architecture for Isolated Word Recognition",
+            "year": "1992",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Respectively Reconsidered",
+            "year": "1978",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "1., and Revow, MD (1992a). Adaptive elastic models for hand-printed character recognition",
+            "year": "Unknown",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet classification with deep convolutional neural networks (AlexNet) ImageNet classification with deep convolutional neural networks (AlexNet)",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Capsule neural networks",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Training distilled machine learning models",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for addressing overfitting in a neural network",
+            "year": "2019",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast inference and learning for modeling documents with a deep boltzmann machine",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Journal of Machine Learning Research 9",
+            "year": "2008",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to use spike timing in a restricted Boltzmann machine",
+            "year": "2002",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Pattern classification using a mixture of factor analyzers",
+            "year": "1999",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "The unity of consciousness: A connectionist account",
+            "year": "1991",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Morgan-Kaufmann",
+            "year": "1990",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Phoneme recognition: neural networks vs hidden markov models",
+            "year": "1988",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "the PDP Research Group: Parallel Distributed Processing, 1",
+            "year": "1986",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "8: McClel1and, JL (I986). A general framework for parallel distributed processing",
+            "year": "Unknown",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "DELVE team members (1995). Assessing learning procedures using DELVE",
+            "year": "Unknown",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Convex representation of objects using neural network",
+            "year": "2022",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent neural networks with rectified linear units",
+            "year": "2020",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "From Photographic Image to Computer Vision",
+            "year": "2019",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Preface to \u201cSimplifying Neural Networks by Soft Weight Sharing\u201d",
+            "year": "2018",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Attend, infer, repeat: Fast scene understanding with generative models",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to the updated edition",
+            "year": "2014",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Restricted Boltzmann Machines",
+            "year": "2013",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Rmsprop: Divide the gradient by a running average of its recent magnitude. Coursera",
+            "year": "2012",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "A comparison of classification methods for longitudinal fmri studies",
+            "year": "2009",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Modelling the statistics of natural images with topographic product of student-t models",
+            "year": "2006",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Population Codes by Minimizing Description Length",
+            "year": "1999",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Using mixtures of factor analyzers for segmentation and pose estimation",
+            "year": "1998",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "E cient stochastic source coding and an application to a Bayesian network source model",
+            "year": "1997",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for pattern recognition. Advanced texts in econometrics",
+            "year": "1995",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Developing population codes for object instantiation parameters",
+            "year": "1993",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Phoneme Recognition using Time-Delay Neural Network IEEE Trans",
+            "year": "1989",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Models of human inference",
+            "year": "1987",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel Distributed Emergence",
+            "year": "1986",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "A.% J A. in neural information processing systems Krizhevsky,\u201cImagenet classification with deep convolutional neural networks",
+            "year": "Unknown",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "On importance of initialization and momentum in deep learning, Int. Conf",
+            "year": "Unknown",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "38; Williams, RJ (1986)",
+            "year": "Unknown",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network training using the soft nearest neighbor loss",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for parallelizing convolutional neural networks",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling RBMs to High Dimensional Data with Invertible Neural Networks",
+            "year": "2020",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Simulating brain damage",
+            "year": "2013",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Technical Perspective-A Better Way to Learn Features",
+            "year": "2011",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning and Evaluaing Deep Bolztmann Machines",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Generative Models for Modeling Animate Motion",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial Intelligence: Neural Networks",
+            "year": "2005",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning fast neural network emulators for physics-based models",
+            "year": "1997",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Using neural networks to monitor for rare failures",
+            "year": "1996",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Using neural networks to learn intractable generative models",
+            "year": "1994",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "SCENE-BASED AND VIEWER-CENTERED REPRESENTATIONS FOR COMPARING SHAPE",
+            "year": "1988",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Technical Report CMU-Cs 84-119",
+            "year": "1984",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "When does label smoothing help?[C]. When does label smoothing help",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Convex representation of objects using neural network",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Training distilled machine learning models",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Training distilled machine learning models",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for contrastive learning of visual representations",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for addressing overfitting in a neural network",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and Methods for Contrastive Learning of Visual Representations",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Capsule neural networks",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence modeling using imputation",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Object discovery in images through categorizing object parts",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for addressing overfitting in a neural network",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Additive Models: Interpretable Machine Learning with Neural Networks",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for parallelizing convolutional neural networks",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Illustrative Language Understanding: Large-Scale Visual Grounding with Google Image Search",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deterministic Boltzmann Learning in Networks with Asymmetric Connectivity",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "THE PHYSICISTS ARRIVE",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Comments on Chapter 6",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Simulating brain damage (Scientific American, October 1993, 58\u201365)",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling Semantic Similarities in Multiple Maps",
+            "year": "2009",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Workshop summary: Workshop on learning feature hierarchies",
+            "year": "2009",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing Data using t-SNE",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "3AR, UK",
+            "year": "2001",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The DELVE user manual",
+            "year": "1996",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Alexander Waibel Computer Science Department, Carnegie Mellon University Toshiyuki Hanazawa ATR Interpreting Telephony Research Laboratories, Osaka, Japan",
+            "year": "1995",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Adults with brain damage make some bizarre errors when reading",
+            "year": "1993",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The Fifteenth Annual Conference of the Cognitive Science Society Conference Chair Walter Kintsch Director, Institute of Cognitive Science (ICS)",
+            "year": "1993",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "KEVIN J. LANG AND ALEX H. WAIBEL",
+            "year": "1992",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning spatially coherent properties of the visual world in connectionist networks",
+            "year": "1991",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial Neural Networks, 2 I. Aleksander and J. Taylor (Editors)\u00a9 1992 Elsevier Science Publishers BV All rights reserved.",
+            "year": "1991",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The development of the time-delayed neural network architecture(Final Report)",
+            "year": "1990",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the Connectionists Models Summer School Held in Pittsburgh, Pennsylvania on June 17-26, 1988",
+            "year": "1989",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist Models: Summer School: Selected Revised Papers",
+            "year": "1989",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "(1985) David H. Ackley, Geoffrey E. Hinton, and Terrence J. Sejnowski, A learning algorithm for Boltzmann machines, Cognitive Science 9: 147-169",
+            "year": "1988",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "(1986) David E. Rumelhart, Geoffrey E. Hinton, and Ronald J. Williams,\" Learning representations by back-propagating errors,\" Nature 323: 533-536",
+            "year": "1988",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "DAVID H. ACKLEY",
+            "year": "1988",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel Distributed Processing",
+            "year": "1987",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A New Approach to Cognition\u2014Connectionism",
+            "year": "1987",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "List of Systems Comparative Problem Solving Systems 15-880: Advanced Topics in Al: Problem Solving Fall 1985",
+            "year": "1985",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Notes for Comparative Problem Solving Systems 15-880: Advanced Topics in Al: Problem Solving FalM 985",
+            "year": "1985",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Three frames suffice",
+            "year": "1985",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionism Versus Rules: The Nature of Theory on Cognitive Science",
+            "year": "1984",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The Origins of Artificial Intelligence: A Comprehensive Overview",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "First workshop (1990): Eric B. Baum (NEC Research Labs); Thomas",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Geoffrey Hinton, The Neural Network Innovator",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning for AI How can neural networks learn the rich internal representations required for difficult tasks such as recognizing objects or understanding language?",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u6df1\u5ea6\u5b66\u4e60\u7ecf\u5178\u8bba\u6587\u7ffb\u8bd1 \u4e13\u680f\u6536\u5f55\u8be5\u5185\u5bb9",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "DL \u4e13\u680f\u6536\u5f55\u8be5\u5185\u5bb9",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Tim Kalman Marks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u9996\u9875> Web \u5f00\u53d1> \u8be6\u7ec6",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "THE TENSIONS OF ALGORITHMIC THINKING",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "AI> ML> deep> DNN supervised (regression, classification), unsupervised, reinforcement neuroscience diverge, converge Hasson, Uri, Samuel A. Nastase, and Ariel Goldstein \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "373 Simplifying Neural Networks by Soft Weight Sharing",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "AlexNet \u8bba\u6587\u7ffb\u8bd1-ImageNet Classification with Deep Convolutional Neural Networks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "And the Turing Award goes to\u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing Data using t-SNE source A practical computo example",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ican Society of Mechanical Engineers, ASME Press, 1992.",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequential Thought Processes in PDP Models",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Attend, Infer, Repeat: Fast Scene Understanding with Deep Generative Models",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "AlexNet \u8bba\u6587\u7ffb\u8bd1-ImageNet Classification with Deep Convolutional Neural Networks-\u7a0b\u5e8f\u5458\u5b85\u57fa\u5730",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "WJ CLANCEY",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u6df1\u5ea6\u5377\u79ef\u795e\u7ecf\u7f51\u7edc\u7684 ImageNet \u5206\u7c7b",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Inverting Generative Black Boxes with Breeder Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Parametric Projection Pursuit Density Estimation",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "THROUGH MATRIX INVERSION AFTER NOISE INJECTION",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "machine learning, psychology, artificial intelligence, cognitive science, computer science"
+}

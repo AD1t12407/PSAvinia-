@@ -1,0 +1,75 @@
+{
+    "author": "Andrej Karpathy",
+    "affiliation": "Computer Science PhD student, Stanford University",
+    "total_papers": 11,
+    "total_citations": 67739,
+    "publications": [
+        {
+            "title": "Imagenet large scale visual recognition challenge",
+            "year": "2015",
+            "citations": 46397,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale video classification with convolutional neural networks",
+            "year": "2014",
+            "citations": 8640,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep visual-semantic alignments for generating image descriptions",
+            "year": "2015",
+            "citations": 7046,
+            "link": "No link available"
+        },
+        {
+            "title": "Densecap: Fully convolutional localization networks for dense captioning",
+            "year": "2016",
+            "citations": 1455,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing and Understanding Recurrent Networks",
+            "year": "2015",
+            "citations": 1443,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep fragment embeddings for bidirectional image sentence mapping",
+            "year": "2014",
+            "citations": 1099,
+            "link": "No link available"
+        },
+        {
+            "title": "Grounded Compositional Semantics for Finding and Describing Images with Sentences",
+            "year": "2014",
+            "citations": 1045,
+            "link": "No link available"
+        },
+        {
+            "title": "Locomotion skills for simulated quadrupeds",
+            "year": "2011",
+            "citations": 243,
+            "link": "No link available"
+        },
+        {
+            "title": "Object discovery in 3d scenes via shape analysis",
+            "year": "2013",
+            "citations": 219,
+            "link": "No link available"
+        },
+        {
+            "title": "Curriculum learning for motor skills",
+            "year": "2012",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergence of Object-Selective Features in Unsupervised Feature Learning.",
+            "year": "2012",
+            "citations": 76,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Machine Learning, Computer Vision, Artificial Intelligence"
+}

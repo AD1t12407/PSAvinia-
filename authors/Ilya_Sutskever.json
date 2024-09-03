@@ -1,0 +1,993 @@
+{
+    "author": "Ilya Sutskever",
+    "affiliation": "Co-Founder and Chief Scientist of OpenAI",
+    "total_papers": 164,
+    "total_citations": 541778,
+    "publications": [
+        {
+            "title": "Imagenet classification with deep convolutional neural networks",
+            "year": "2012",
+            "citations": 162364,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensorflow: Large-scale machine learning on heterogeneous distributed systems",
+            "year": "2016",
+            "citations": 55739,
+            "link": "No link available"
+        },
+        {
+            "title": "Dropout: a simple way to prevent neural networks from overfitting",
+            "year": "2014",
+            "citations": 52250,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations of words and phrases and their compositionality",
+            "year": "2013",
+            "citations": 44703,
+            "link": "No link available"
+        },
+        {
+            "title": "Language models are few-shot learners",
+            "year": "2020",
+            "citations": 30912,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence to Sequence Learning with Neural Networks",
+            "year": "2014",
+            "citations": 27327,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning transferable visual models from natural language supervision",
+            "year": "2021",
+            "citations": 20630,
+            "link": "No link available"
+        },
+        {
+            "title": "Mastering the game of Go with deep neural networks and tree search",
+            "year": "2016",
+            "citations": 19725,
+            "link": "No link available"
+        },
+        {
+            "title": "Intriguing properties of neural networks",
+            "year": "2013",
+            "citations": 17361,
+            "link": "No link available"
+        },
+        {
+            "title": "Language models are unsupervised multitask learners",
+            "year": "2019",
+            "citations": 13039,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving neural networks by preventing co-adaptation of feature detectors",
+            "year": "2012",
+            "citations": 11503,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving language understanding by generative pre-training",
+            "year": "2018",
+            "citations": 10558,
+            "link": "No link available"
+        },
+        {
+            "title": "Infogan: Interpretable representation learning by information maximizing generative adversarial nets",
+            "year": "2016",
+            "citations": 6638,
+            "link": "No link available"
+        },
+        {
+            "title": "On the importance of initialization and momentum in deep learning",
+            "year": "2013",
+            "citations": 6370,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot text-to-image generation",
+            "year": "2021",
+            "citations": 4388,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent neural network regularization",
+            "year": "2014",
+            "citations": 3748,
+            "link": "No link available"
+        },
+        {
+            "title": "Gpt-4 technical report",
+            "year": "2023",
+            "citations": 3239,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating large language models trained on code",
+            "year": "2021",
+            "citations": 2695,
+            "link": "No link available"
+        },
+        {
+            "title": "Glide: Towards photorealistic image generation and editing with text-guided diffusion models",
+            "year": "2021",
+            "citations": 2658,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust speech recognition via large-scale weak supervision",
+            "year": "2023",
+            "citations": 2470,
+            "link": "No link available"
+        },
+        {
+            "title": "An empirical exploration of recurrent network architectures",
+            "year": "2015",
+            "citations": 2425,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved variational inference with inverse autoregressive flow",
+            "year": "2016",
+            "citations": 2088,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating text with recurrent neural networks",
+            "year": "2011",
+            "citations": 2080,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploiting similarities among languages for machine translation",
+            "year": "2013",
+            "citations": 1897,
+            "link": "No link available"
+        },
+        {
+            "title": "Dota 2 with large scale deep reinforcement learning",
+            "year": "2019",
+            "citations": 1863,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating long sequences with sparse transformers",
+            "year": "2019",
+            "citations": 1765,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolution strategies as a scalable alternative to reinforcement learning",
+            "year": "2017",
+            "citations": 1756,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative pretraining from pixels",
+            "year": "2020",
+            "citations": 1639,
+            "link": "No link available"
+        },
+        {
+            "title": "Continuous deep q-learning with model-based acceleration",
+            "year": "2016",
+            "citations": 1277,
+            "link": "No link available"
+        },
+        {
+            "title": "RL: Fast Reinforcement Learning via Slow Reinforcement Learning",
+            "year": "2016",
+            "citations": 1143,
+            "link": "No link available"
+        },
+        {
+            "title": "Grammar as a foreign language",
+            "year": "2015",
+            "citations": 1138,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep double descent: Where bigger models and more data hurt",
+            "year": "2021",
+            "citations": 1027,
+            "link": "No link available"
+        },
+        {
+            "title": "Addressing the rare word problem in neural machine translation",
+            "year": "2014",
+            "citations": 998,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-task sequence to sequence learning",
+            "year": "2015",
+            "citations": 954,
+            "link": "No link available"
+        },
+        {
+            "title": "Ffjord: Free-form continuous dynamics for scalable reversible generative models",
+            "year": "2018",
+            "citations": 867,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning recurrent neural networks with hessian-free optimization",
+            "year": "2011",
+            "citations": 822,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational lossy autoencoder",
+            "year": "2016",
+            "citations": 790,
+            "link": "No link available"
+        },
+        {
+            "title": "One-shot imitation learning",
+            "year": "2017",
+            "citations": 788,
+            "link": "No link available"
+        },
+        {
+            "title": "Jukebox: A generative model for music",
+            "year": "2020",
+            "citations": 750,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving language understanding with unsupervised learning",
+            "year": "2018",
+            "citations": 721,
+            "link": "No link available"
+        },
+        {
+            "title": "Training recurrent neural networks",
+            "year": "2013",
+            "citations": 701,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to execute",
+            "year": "2014",
+            "citations": 654,
+            "link": "No link available"
+        },
+        {
+            "title": "The recurrent temporal restricted boltzmann machine",
+            "year": "2008",
+            "citations": 601,
+            "link": "No link available"
+        },
+        {
+            "title": "Adding gradient noise improves learning for very deep networks",
+            "year": "2015",
+            "citations": 596,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to generate reviews and discovering sentiment",
+            "year": "2017",
+            "citations": 571,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient-based learning applied to document recognition",
+            "year": "2017",
+            "citations": 516,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow: large-scale machine learning on heterogeneous distributed systems (2016)",
+            "year": "2015",
+            "citations": 502,
+            "link": "No link available"
+        },
+        {
+            "title": "Consistency models",
+            "year": "2023",
+            "citations": 486,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergent complexity via multi-agent competition",
+            "year": "2017",
+            "citations": 480,
+            "link": "No link available"
+        },
+        {
+            "title": "AI and Compute",
+            "year": "2018",
+            "citations": 445,
+            "link": "No link available"
+        },
+        {
+            "title": "Language Models are Few-Shot Learners, arxiv, 2020",
+            "year": "2005",
+            "citations": 436,
+            "link": "No link available"
+        },
+        {
+            "title": "Continuous adaptation via meta-learning in nonstationary and competitive environments",
+            "year": "2017",
+            "citations": 416,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural gpus learn algorithms",
+            "year": "2015",
+            "citations": 414,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensorflow: Large-scale machine learning on heterogeneous distributed systems. CoRR abs/1603.04467 (2016)",
+            "year": "2016",
+            "citations": 333,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning factored representations in a deep mixture of experts",
+            "year": "2013",
+            "citations": 321,
+            "link": "No link available"
+        },
+        {
+            "title": "Modelling relational data using bayesian clustered tensor factorization",
+            "year": "2009",
+            "citations": 310,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning neural turing machines-revised",
+            "year": "2015",
+            "citations": 304,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural programmer: Inducing latent programs with gradient descent",
+            "year": "2015",
+            "citations": 294,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning multilevel distributed representations for high-dimensional sequences",
+            "year": "2007",
+            "citations": 291,
+            "link": "No link available"
+        },
+        {
+            "title": "Let's verify step by step",
+            "year": "2023",
+            "citations": 289,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow: Large-scale machine learning on heterogeneous systems (2015), software available from tensorflow. org",
+            "year": "2019",
+            "citations": 287,
+            "link": "No link available"
+        },
+        {
+            "title": "Better language models and their implications",
+            "year": "2019",
+            "citations": 273,
+            "link": "No link available"
+        },
+        {
+            "title": "Third-person imitation learning",
+            "year": "2017",
+            "citations": 269,
+            "link": "No link available"
+        },
+        {
+            "title": "Training deep and recurrent networks with hessian-free optimization",
+            "year": "2012",
+            "citations": 259,
+            "link": "No link available"
+        },
+        {
+            "title": "Subword language modeling with neural networks",
+            "year": "2012",
+            "citations": 240,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative language modeling for automated theorem proving",
+            "year": "2020",
+            "citations": 219,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale machine learning on heterogeneous distributed systems",
+            "year": "2016",
+            "citations": 200,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 25th international conference on neural information processing systems",
+            "year": "2012",
+            "citations": 197,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent neural network regularization. arXiv",
+            "year": "2014",
+            "citations": 195,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep, narrow sigmoid belief networks are universal approximators",
+            "year": "2008",
+            "citations": 193,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural random-access machines",
+            "year": "2015",
+            "citations": 192,
+            "link": "No link available"
+        },
+        {
+            "title": "Move evaluation in Go using deep convolutional neural networks",
+            "year": "2014",
+            "citations": 187,
+            "link": "No link available"
+        },
+        {
+            "title": "Language Models are Few-Shot Learners. 2020. doi: 10.48550",
+            "year": "2005",
+            "citations": 187,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent neural network regularization. arXiv 2014",
+            "year": "2014",
+            "citations": 173,
+            "link": "No link available"
+        },
+        {
+            "title": "Muprop: Unbiased backpropagation for stochastic neural networks",
+            "year": "2015",
+            "citations": 170,
+            "link": "No link available"
+        },
+        {
+            "title": "Some considerations on learning to explore via meta-reinforcement learning",
+            "year": "2018",
+            "citations": 168,
+            "link": "No link available"
+        },
+        {
+            "title": "Language models can explain neurons in language models",
+            "year": "2023",
+            "citations": 165,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet classification with deep convolutional neural networks",
+            "year": "2012",
+            "citations": 162,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow: Large-scale machine learning on heterogeneous systems. arXiv 2015",
+            "year": "2016",
+            "citations": 154,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing similarity data with a mixture of maps",
+            "year": "2007",
+            "citations": 151,
+            "link": "No link available"
+        },
+        {
+            "title": "On the convergence properties of contrastive divergence",
+            "year": "2010",
+            "citations": 150,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations of words and phrases and their compositionality (2013)",
+            "year": "2013",
+            "citations": 148,
+            "link": "No link available"
+        },
+        {
+            "title": "GE Hinton Imagenet classification with deep convolutional neural networks., 2017, 60",
+            "year": "Unknown",
+            "citations": 132,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalable reversible generative models with free-form continuous dynamics",
+            "year": "2019",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "An online sequence-to-sequence model using partial conditioning",
+            "year": "2016",
+            "citations": 128,
+            "link": "No link available"
+        },
+        {
+            "title": "Formal mathematics statement curriculum learning",
+            "year": "2022",
+            "citations": 121,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving language understanding by generative pre-training. OpenAI",
+            "year": "2018",
+            "citations": 120,
+            "link": "No link available"
+        },
+        {
+            "title": "Dota 2 with large scale deep reinforcement learning",
+            "year": "2019",
+            "citations": 113,
+            "link": "No link available"
+        },
+        {
+            "title": "Gamepad: A learning environment for theorem proving",
+            "year": "2018",
+            "citations": 108,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence to sequence learning with neural networks. arXiv 2014",
+            "year": "2014",
+            "citations": 107,
+            "link": "No link available"
+        },
+        {
+            "title": "Weak-to-strong generalization: Eliciting strong capabilities with weak supervision",
+            "year": "2023",
+            "citations": 105,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations of words and phrases and their compositionality. arXiv 2013",
+            "year": "2013",
+            "citations": 96,
+            "link": "No link available"
+        },
+        {
+            "title": "DALL\u00b7 E: Creating images from text",
+            "year": "2021",
+            "citations": 92,
+            "link": "No link available"
+        },
+        {
+            "title": "Estimating the hessian by back-propagating curvature",
+            "year": "2012",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "2012 AlexNet",
+            "year": "2012",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "NIPS",
+            "year": "2012",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet classification with deep convolutional neural networks. 2012: 1097\u20131105",
+            "year": "2019",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "& Zheng",
+            "year": "2016",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow",
+            "year": "2015",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning transferable visual models from natural language supervision. arXiv",
+            "year": "2021",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "AI and compute, 2018",
+            "year": "2018",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards principled unsupervised learning",
+            "year": "2015",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Language models are few-shot learners",
+            "year": "2020",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "GE Hinton Imagenet classification with deep convolutional neural networks., 2012, 25",
+            "year": "2024",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolution strategies as a scalable alternative to reinforcement learning. arXiv 2017",
+            "year": "2017",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Mimicking go experts with convolutional neural networks",
+            "year": "2008",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating long sequences with sparse transformers. arXiv 2019",
+            "year": "1904",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensorflow: Large-scale machine learning on heterogeneous distributed systems",
+            "year": "2016",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Distribution augmentation for generative modeling",
+            "year": "2020",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic k-neighborhood selection for supervised and unsupervised learning",
+            "year": "2013",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Cnn \u5b9e\u9645\u8bad\u7ec3\u7684",
+            "year": "2012",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Temporal-kernel recurrent neural networks",
+            "year": "2010",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust speech recognition via large-scale weak supervision. arXiv 2022",
+            "year": "2022",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Language models are unsupervised multitask learners. OpenAI blog (2019)",
+            "year": "2022",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "International conference on machine learning",
+            "year": "2013",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning online alignments with continuous rewards policy gradient",
+            "year": "2017",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow: Large-scale machine learning on heterogeneous systems, software available from tensorflow. org",
+            "year": "2015",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Salakhutdinov",
+            "year": "2012",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative models",
+            "year": "2016",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence to sequence learning with neural networks. NIPS",
+            "year": "2014",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "A neural transducer",
+            "year": "2015",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Cardinality restricted boltzmann machines",
+            "year": "2012",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating large language models trained on code. arXiv 2021",
+            "year": "2021",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Data normalization in the learning of restricted Boltzmann machines",
+            "year": "2011",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Using matrices to model symbolic relationship",
+            "year": "2008",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallelizable sampling of markov random fields",
+            "year": "2010",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Extensions and limitations of the neural gpu",
+            "year": "2016",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised neural machine translation with generative language models only",
+            "year": "2021",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Martin wa enberg, martin wicke, yuan yu, and xiaoqiang zheng. 2015. tensorflow: Large-scale machine learning on heterogeneous systems.(2015). hp",
+            "year": "2015",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Introducing OpenAI",
+            "year": "2015",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "A simpler unified analysis of budget perceptrons",
+            "year": "2009",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Developing deep learning applications for life science and pharma industry",
+            "year": "2018",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "In Z. Ghahramani, M. Welling, C. Cortes, ND Lawrence, K., & Q. Weinberger",
+            "year": "2014",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling and evaluating sparse autoencoders",
+            "year": "2024",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "An online sequence-to-sequence model for noisy speech recognition",
+            "year": "2017",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Grammar as a foreign language",
+            "year": "2015",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving neural networks by preventing co-adaptation of feature detectors. arXiv: Neural and Evolutionary Computing",
+            "year": "2012",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet classification with deep convolutional neural networks (AlexNet) ImageNet classification with deep convolutional neural networks (AlexNet)",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Thore Graepel, Thore and Demis Hassabis",
+            "year": "2016",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations of words and phrases and their compositionality. Archiv",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "G, Corrado, & J",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed Representations of Words and Phrases and their Compositionality. NIPS\u201913: Proceedings of the 26th International Conference on Neural Information Processing Systems \u2026",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "From Photographic Image to Computer Vision",
+            "year": "2019",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensorflow: large-scale machine learning on heterogeneous distributed systems. CoRR [Online], abs/1603.04467",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning recurrent neural networks with hessian-free optimization. Proceedings of the 28th International Conference on Machine Learning.",
+            "year": "2011",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "& Hassabis, D.(2016). Mastering the game of Go with deep neural networks and tree search",
+            "year": "Unknown",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for parallelizing convolutional neural networks",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Third person imitation learning",
+            "year": "2016",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for generating natural language using language models trained on computer code",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting likelihoods of conditions being satisfied using recurrent neural networks",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for generating code using language models trained on computer code",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for addressing overfitting in a neural network",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting likelihoods of conditions being satisfied using recurrent neural networks",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative Models for Alignment and Data Efficiency in Language",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to the Virtual Collection on Machine Learning in Aerospace",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet Classification with Deep Convolutional Neural Networks \u6df1\u5ea6\u5377\u79ef\u795e\u7ecf\u7f51\u7edc\u7684 ImageNet \u5206\u7c7b",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u6df1\u5ea6\u5b66\u4e60\u7ecf\u5178\u8bba\u6587\u7ffb\u8bd1 \u4e13\u680f\u6536\u5f55\u8be5\u5185\u5bb9",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u9996\u9875> Web \u5f00\u53d1> \u8be6\u7ec6",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "AlexNet \u8bba\u6587\u7ffb\u8bd1-ImageNet Classification with Deep Convolutional Neural Networks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust Speech Recognition via Large-Scale Weak Supervision By admin No Comments",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Presentors: Adam Kutchak, George Lu, Fernando Trevi\u00f1o, and Sarah Wilson",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "AlexNet \u8bba\u6587\u7ffb\u8bd1-ImageNet Classification with Deep Convolutional Neural Networks-\u7a0b\u5e8f\u5458\u5b85\u57fa\u5730",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u6df1\u5ea6\u5377\u79ef\u795e\u7ecf\u7f51\u7edc\u7684 ImageNet \u5206\u7c7b",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Feature-Matching Auto-Encoders",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Machine Learning, Neural Networks, Artificial Intelligence, Deep Learning"
+}

@@ -1,0 +1,675 @@
+{
+    "author": "Alex Graves",
+    "affiliation": "University of Toronto",
+    "total_papers": 111,
+    "total_citations": 145352,
+    "publications": [
+        {
+            "title": "Human-level control through deep reinforcement learning",
+            "year": "2015",
+            "citations": 31410,
+            "link": "No link available"
+        },
+        {
+            "title": "Playing atari with deep reinforcement learning",
+            "year": "2013",
+            "citations": 15538,
+            "link": "No link available"
+        },
+        {
+            "title": "Speech recognition with deep recurrent neural networks",
+            "year": "2013",
+            "citations": 11617,
+            "link": "No link available"
+        },
+        {
+            "title": "Asynchronous Methods for Deep Reinforcement Learning",
+            "year": "2016",
+            "citations": 11483,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks",
+            "year": "2006",
+            "citations": 6890,
+            "link": "No link available"
+        },
+        {
+            "title": "Framewise phoneme classification with bidirectional LSTM and other neural network architectures",
+            "year": "2005",
+            "citations": 6289,
+            "link": "No link available"
+        },
+        {
+            "title": "Supervised sequence labelling",
+            "year": "2012",
+            "citations": 5575,
+            "link": "No link available"
+        },
+        {
+            "title": "Wavenet: A generative model for raw audio",
+            "year": "2016",
+            "citations": 5549,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating sequences with recurrent neural networks",
+            "year": "2013",
+            "citations": 5368,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent models of visual attention",
+            "year": "2014",
+            "citations": 4783,
+            "link": "No link available"
+        },
+        {
+            "title": "Long short-term memory",
+            "year": "2012",
+            "citations": 3767,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Turing Machines",
+            "year": "2014",
+            "citations": 3061,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards end-to-end speech recognition with recurrent neural networks",
+            "year": "2014",
+            "citations": 2988,
+            "link": "No link available"
+        },
+        {
+            "title": "Conditional image generation with pixelcnn decoders",
+            "year": "2016",
+            "citations": 2802,
+            "link": "No link available"
+        },
+        {
+            "title": "A novel connectionist system for unconstrained handwriting recognition",
+            "year": "2008",
+            "citations": 2711,
+            "link": "No link available"
+        },
+        {
+            "title": "Draw: A recurrent neural network for image generation",
+            "year": "2015",
+            "citations": 2488,
+            "link": "No link available"
+        },
+        {
+            "title": "Hybrid speech recognition with deep bidirectional LSTM",
+            "year": "2013",
+            "citations": 2284,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence transduction with recurrent neural networks",
+            "year": "2012",
+            "citations": 2095,
+            "link": "No link available"
+        },
+        {
+            "title": "Hybrid computing using a neural network with dynamic external memory",
+            "year": "2016",
+            "citations": 1915,
+            "link": "No link available"
+        },
+        {
+            "title": "WaveNet: A Generative Model for Raw Audio",
+            "year": "2016",
+            "citations": 1764,
+            "link": "No link available"
+        },
+        {
+            "title": "Offline handwriting recognition with multidimensional recurrent neural networks",
+            "year": "2008",
+            "citations": 1584,
+            "link": "No link available"
+        },
+        {
+            "title": "Bidirectional LSTM networks for improved phoneme classification and recognition",
+            "year": "2005",
+            "citations": 1185,
+            "link": "No link available"
+        },
+        {
+            "title": "Playing atari with deep reinforcement learning. arXiv 2013",
+            "year": "2013",
+            "citations": 1012,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel wavenet: Fast high-fidelity speech synthesis",
+            "year": "2018",
+            "citations": 978,
+            "link": "No link available"
+        },
+        {
+            "title": "Framewise phoneme classification with bidirectional LSTM networks",
+            "year": "2005",
+            "citations": 723,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural machine translation in linear time",
+            "year": "2016",
+            "citations": 701,
+            "link": "No link available"
+        },
+        {
+            "title": "Automated curriculum learning for neural networks",
+            "year": "2017",
+            "citations": 624,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive computation time for recurrent neural networks",
+            "year": "2016",
+            "citations": 554,
+            "link": "No link available"
+        },
+        {
+            "title": "Video pixel networks",
+            "year": "2017",
+            "citations": 492,
+            "link": "No link available"
+        },
+        {
+            "title": "Grid long short-term memory",
+            "year": "2015",
+            "citations": 451,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-dimensional recurrent neural networks",
+            "year": "2007",
+            "citations": 430,
+            "link": "No link available"
+        },
+        {
+            "title": "Decoupled neural interfaces using synthetic gradients",
+            "year": "2017",
+            "citations": 418,
+            "link": "No link available"
+        },
+        {
+            "title": "An application of recurrent neural networks to discriminative keyword spotting",
+            "year": "2007",
+            "citations": 403,
+            "link": "No link available"
+        },
+        {
+            "title": "Unconstrained on-line handwriting recognition with recurrent neural networks",
+            "year": "2007",
+            "citations": 379,
+            "link": "No link available"
+        },
+        {
+            "title": "Parameter-exploring policy gradients",
+            "year": "2010",
+            "citations": 360,
+            "link": "No link available"
+        },
+        {
+            "title": "A novel approach to on-line handwriting recognition based on bidirectional long short-term memory networks",
+            "year": "2007",
+            "citations": 318,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning acoustic frame labeling for speech recognition with recurrent neural networks",
+            "year": "2015",
+            "citations": 228,
+            "link": "No link available"
+        },
+        {
+            "title": "Memory-efficient backpropagation through time",
+            "year": "2016",
+            "citations": 226,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal onset detection with bidirectional long-short term memory neural networks",
+            "year": "2010",
+            "citations": 226,
+            "link": "No link available"
+        },
+        {
+            "title": "Wavenet: A generative model for raw audio",
+            "year": "2016",
+            "citations": 222,
+            "link": "No link available"
+        },
+        {
+            "title": "Associative long short-term memory",
+            "year": "2016",
+            "citations": 199,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling memory-augmented neural networks with sparse reads and writes",
+            "year": "2016",
+            "citations": 184,
+            "link": "No link available"
+        },
+        {
+            "title": "Strategic attentive writer for learning macro-actions",
+            "year": "2016",
+            "citations": 178,
+            "link": "No link available"
+        },
+        {
+            "title": "On-line emotion recognition in a 3-D activation-valence-time continuum using acoustic and linguistic cues",
+            "year": "2010",
+            "citations": 170,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist temporal classification",
+            "year": "2012",
+            "citations": 152,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "2011",
+            "citations": 152,
+            "link": "No link available"
+        },
+        {
+            "title": "May. Speech recognition with deep recurrent neural networks",
+            "year": "2013",
+            "citations": 150,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating sequences with recurrent neural networks. arXiv 2013",
+            "year": "2013",
+            "citations": 146,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence labelling in structured domains with hierarchical recurrent neural networks",
+            "year": "2007",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "Biologically plausible speech recognition with LSTM neural nets",
+            "year": "2004",
+            "citations": 124,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic diacritization of Arabic text using recurrent neural networks",
+            "year": "2015",
+            "citations": 121,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating sequences with recurrent neural networks (2013)",
+            "year": "2013",
+            "citations": 107,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating sequences with recurrent neural networks. arXiv",
+            "year": "2013",
+            "citations": 105,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy gradients with parameter-based exploration for control",
+            "year": "2008",
+            "citations": 105,
+            "link": "No link available"
+        },
+        {
+            "title": "RNNLIB: A recurrent neural network library for sequence learning problems",
+            "year": "2013",
+            "citations": 102,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust discriminative keyword spotting for emotionally colored spontaneous speech using bidirectional LSTM networks",
+            "year": "2009",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "Bidirectional LSTM networks for context-sensitive keyword detection in a cognitive virtual agent framework",
+            "year": "2010",
+            "citations": 95,
+            "link": "No link available"
+        },
+        {
+            "title": "2013 IEEE international conference on acoustics, speech and signal processing",
+            "year": "2013",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "From speech to letters-using a novel neural network architecture for grapheme based ASR",
+            "year": "2009",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "S. Fern andez, R. Bertolami, H. Bunke, and J. Schmidhuber,\u201cA novel connectionist system for unconstrained handwriting recognition,\u201d",
+            "year": "2009",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Asynchronous methods for deep reinforcement learning. arXiv 2016",
+            "year": "1783",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Phoneme recognition in TIMIT with BLSTM-CTC",
+            "year": "2008",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Human-level control through deep reinforcement learning., 2015, 518",
+            "year": "Unknown",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Facial expression recognition with recurrent neural networks",
+            "year": "2008",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "The kanerva machine: A generative distributed memory",
+            "year": "2018",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Studies in Computational Intelligence",
+            "year": "2012",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural turing machines (2014)",
+            "year": "2014",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic backpropagation through mixture density distributions",
+            "year": "2016",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "S. Fern andez, F. Gomez, and J. Schmidhuber,\u201cConnectionist temporal classification: Labelling unsegmented sequence data with recurrent neural networks,\u201d",
+            "year": "2006",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "On fast deep nets for AGI vision",
+            "year": "2011",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "others (2015). Human-level control through deep reinforcement learning",
+            "year": "Unknown",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Wind power prediction using mixture density recurrent neural networks",
+            "year": "2010",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "A practical sparse approximation for real time recurrent learning",
+            "year": "2020",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for handwriting recognition",
+            "year": "2012",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Grabska-Barwi nska",
+            "year": "2016",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Multimodal parameter-exploring policy gradients",
+            "year": "2010",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "A Tandem BLSTM-DBN architecture for keyword spotting with enhanced context modeling",
+            "year": "2009",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Steps against recurrent stroke plus: patient transition program",
+            "year": "2014",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Rapid retraining on speech data with lstm recurrent networks",
+            "year": "2005",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Playing atari with deep reinforcement learning",
+            "year": "2013",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "A comparison between spiking and differentiable recurrent neural networks on spoken digit recognition",
+            "year": "2004",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Human-level control through deep reinforcement learning. nature, 518 (7540): 529\u2013533, 2015",
+            "year": "Unknown",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Bayesian flow networks",
+            "year": "2023",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Practical real time recurrent learning with a sparse approximation",
+            "year": "2021",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying unprompted speech by retraining LSTM nets",
+            "year": "2005",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving keyword spotting with a tandem BLSTM-DBN architecture",
+            "year": "2010",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "RNN-based learning of compact maps for efficient robot localization",
+            "year": "2007",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical subsampling networks",
+            "year": "2012",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Associative compression networks for representation learning",
+            "year": "2018",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "A new approach to continuous speech recognition using LSTM recurrent neural networks",
+            "year": "2003",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "How to learn programs with artificial recurrent neural networks",
+            "year": "2009",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Strategic attentive writer for learning macro-actions",
+            "year": "2016",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "A comparison of network architectures",
+            "year": "2012",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Hidden markov model hybrids",
+            "year": "2012",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-dimensional Recurrent Neural Networks. In (de S\u00e1 JM, Alexandre LA, Duch W., Mandic D.): Artificial Neural Networks\u2013ICANN 2007",
+            "year": "2007",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "LSTM and Timewarping: Spoken Digit Recognition with a Recurrent Neural Network",
+            "year": "2003",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Plenary talks: Frontiers in recurrent neural network research",
+            "year": "2017",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Special Session: Non-linear Predictive Models for Speech Processing-Bidirectional LSTM Networks for Improved Phoneme Classification and Recognition",
+            "year": "2005",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparing LSTM Recurrent Networks with Spiking Recurrent Networks on the Recognition of Spoken Digits",
+            "year": "2003",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "35TH INTERNATIONAL CONFERENCE ON MACHINE LEARNING, ICML 2018",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Principles of Systems Biology, No. 11",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Multidimensional Networks",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "On-line Emotion Recognition in a 3-D Activation-Valence-Time Continuum",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Going from Speech to Letters-Using a novel Neural Network Architecture for grapheme based ASR.",
+            "year": "2009",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving Keyword Spotting with a Tandem",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u5f53\u524d\u4f4d\u7f6e: \u7f51\u7ad9\u9996\u9875> Paper:\u300a Generating Sequences With Recurrent Neural Networks\u300b \u7684\u7ffb\u8bd1\u548c\u89e3\u8bfb",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u0420\u0443\u0441\u0441\u043a\u0438\u0435 \u0411\u043b\u043e\u0433\u0438",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u5f53\u524d\u4f4d\u7f6e: \u7f51\u7ad9\u9996\u9875> Paper: translation and interpretation of generating sequences with recurrent neural networks Paper: translation and interpretation of generating sequences \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\u300a Generating Sequences With Recurrent Neural Networks\u300b \u7684\u7ffb\u8bd1\u548c\u89e3\u8bfb",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Feed Forward Neural Networks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "PHONEME RECOGNITION IN CONTINUOUS, SPONTANEOUS, AND HIGHLY EMOTIONAL SPEECH USING BLSTM CONNECTIONIST TEMPORAL CLASSIFICATION",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Artificial Intelligence, Recurrent Neural Networks, Handwriting Recognition, Speech recognition"
+}
