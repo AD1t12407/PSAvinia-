@@ -1,105 +1,102 @@
 import streamlit as st
+import json
+import os
+import matplotlib.pyplot as plt
+import plotly.express as px
 import pandas as pd
-from io import BytesIO
-from utils import generate_summary, export_summary
-from scraping import scrape_google_scholar
-from docx import Document
 
-st.set_page_config(page_title="Publications Summary Generator", layout="wide")
+# Define the path to the authors folder
+AUTHORS_FOLDER = 'authors'
 
-st.title("📚 Publications Summary Generator")
-st.write("Easily generate summaries of faculty publications for profiles and reports.")
+def read_json_file(file_path):
+    """Reads a JSON file and returns its content."""
+    with open(file_path, 'r') as file:
+        return json.load(file)
 
-# Sidebar for file upload and options
-st.sidebar.header("Upload and Options")
+def scrape_google_scholar(name):
+    """Placeholder function to scrape Google Scholar."""
+    # Replace this with actual scraping logic
+    return {
+        "name": name,
+        "papers": 0,
+        "citations": 0,
+        "publications": []
+    }
 
-uploaded_file = st.sidebar.file_uploader("Upload Excel File", type=["xlsx"])
+def main():
+    st.title("Name to JSON Viewer")
 
-if uploaded_file:
-    try:
-        df = pd.read_excel(uploaded_file)
-        st.success("File uploaded successfully!")
-    except Exception as e:
-        st.error(f"Error reading the file: {e}")
-        st.stop()
-else:
-    st.warning("Please upload an Excel file to proceed.")
-    st.stop()
+    # List all JSON files in the authors folder
+    files = [f for f in os.listdir(AUTHORS_FOLDER) if f.endswith('.json')]
+    names = [os.path.splitext(f)[0] for f in files]
+    
+    # Create a dropdown for selecting names
+    selected_name = st.selectbox("Select a name", names)
 
-st.header("Publication Data Preview")
-st.dataframe(df)
+    # If a name is selected, try to read the JSON file
+    if selected_name:
+        file_path = os.path.join(AUTHORS_FOLDER, f"{selected_name}.json")
+        
+        if os.path.exists(file_path):
+            # Read and display the JSON data from the file
+            json_data = read_json_file(file_path)
+        else:
+            # Scrape data if file does not exist
+            json_data = scrape_google_scholar(selected_name)
+            # Optionally, you could save this data to a file for future use
+            with open(file_path, 'w') as file:
+                json.dump(json_data, file, indent=4)
 
-# Filter Options
-st.sidebar.subheader("Filter Publications")
+        st.json(json_data)
+        
+        # Display charts
+        if 'publications' in json_data:
+            # Extract data for charts
+            total_paers = json_data['total_papers']
+            total_citations = json_data['total_citations']
 
-authors = df['Author Name'].unique()
-selected_authors = st.sidebar.multiselect("Select Authors", options=authors, default=authors)
+            # Number of papers and citations
+            st.write(f"Total Papers: {total_paers}")
+            st.write(f"Total Citations: {total_citations}")
 
-years = df['Year'].unique()
-selected_years = st.sidebar.multiselect("Select Years", options=years, default=years)
+            # Create a bar chart for the number of papers and citations
+            data = {
+                "Metrics": ["Total Papers", "Total Citations"],
+                "Count": [total_paers, total_citations]
+            }
+            df = pd.DataFrame(data)
+            fig = px.bar(df, x="Metrics", y="Count", title=f"Research Metrics for {selected_name}")
+            st.plotly_chart(fig)
+            
+            # Find the years of publication and citations
+            publicationDict = {}
+            for publication in json_data['publications']:
+                year = publication['year']
+                if year in publicationDict:
+                    publicationDict[year] += 1
+                else:
+                    publicationDict[year] = 1
+            
+            # Create a line chart for the number of publications per year
+            years = list(publicationDict.keys())
+            counts = list(publicationDict.values())
+            data = {
+                "Year": years,
+                "Publications": counts
+            }
+            df = pd.DataFrame(data)
+            fig = px.line(df, x="Year", y="Publications", title=f"Publications per Year for {selected_name}")
+            st.plotly_chart(fig)
+            
+            
+            
+                
+                
+            
 
-pub_types = df['Publication Type'].unique()
-selected_types = st.sidebar.multiselect("Select Publication Types", options=pub_types, default=pub_types)
+            
+        else:
+            st.write("No publication data available.")
 
-# Apply Filters
-filtered_df = df[
-    (df['Author Name'].isin(selected_authors)) &
-    (df['Year'].isin(selected_years)) &
-    (df['Publication Type'].isin(selected_types))
-]
-
-st.header("Filtered Publication Data")
-st.dataframe(filtered_df)
-
-st.sidebar.subheader("Generate Summary")
-
-summary_format = st.sidebar.selectbox("Select Output Format", options=["Word Document", "Excel File"])
-
-if st.sidebar.button("Generate Summary"):
-    if filtered_df.empty:
-        st.error("No data available to generate summary. Adjust your filters.")
-    else:
-        if summary_format == "Word Document":
-            # Generate Word Document
-            doc = Document()
-            doc.add_heading('Publication Summary', 0)
-
-            for author in selected_authors:
-                author_df = filtered_df[filtered_df['Author Name'] == author]
-                if not author_df.empty:
-                    doc.add_heading(author, level=1)
-                    for index, row in author_df.iterrows():
-                        p = doc.add_paragraph()
-                        p.add_run(f"Title: ").bold = True
-                        p.add_run(f"{row['Title']}\n")
-                        p.add_run(f"Year: ").bold = True
-                        p.add_run(f"{row['Year']}\n")
-                        p.add_run(f"Publication Type: ").bold = True
-                        p.add_run(f"{row['Publication Type']}\n")
-                        p.add_run(f"Journal/Conference Name: ").bold = True
-                        p.add_run(f"{row['Journal/Conference Name']}\n")
-
-            buffer = BytesIO()
-            doc.save(buffer)
-            buffer.seek(0)
-
-            st.download_button(
-                label="📥 Download Summary as Word Document",
-                data=buffer,
-                file_name="publication_summary.docx",
-                mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
-            )
-            st.success("Word Document generated successfully!")
-
-        elif summary_format == "Excel File":
-            output = BytesIO()
-            filtered_df.to_excel(output, index=False)
-            output.seek(0)
-
-            st.download_button(
-                label="📥 Download Summary as Excel File",
-                data=output,
-                file_name="publication_summary.xlsx",
-                mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-            )
-            st.success("Excel File generated successfully!")
+if __name__ == "__main__":
+    main()

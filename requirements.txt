@@ -12,3 +12,5 @@ openpyxl
 python-docx
 scholarly
 nltk
+matplotlib 
+plotly
