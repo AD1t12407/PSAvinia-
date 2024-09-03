@@ -1,0 +1,3441 @@
+{
+    "author": "Christopher Manning",
+    "affiliation": "Professor of Computer Science and Linguistics, Stanford University",
+    "total_papers": 572,
+    "total_citations": 275972,
+    "publications": [
+        {
+            "title": "GloVe: Global vectors for word representation",
+            "year": "2014",
+            "citations": 42200,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to information retrieval",
+            "year": "2008",
+            "citations": 29915,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to Information Retrieval",
+            "year": "2008",
+            "citations": 18134,
+            "link": "No link available"
+        },
+        {
+            "title": "Foundations of Statistical Natural Language Processing",
+            "year": "1999",
+            "citations": 17557,
+            "link": "No link available"
+        },
+        {
+            "title": "Effective approaches to attention-based neural machine translation",
+            "year": "2015",
+            "citations": 10745,
+            "link": "No link available"
+        },
+        {
+            "title": "The Stanford CoreNLP Natural Language Processing Toolkit",
+            "year": "2014",
+            "citations": 9457,
+            "link": "No link available"
+        },
+        {
+            "title": "Recursive deep models for semantic compositionality over a sentiment treebank",
+            "year": "2013",
+            "citations": 9313,
+            "link": "No link available"
+        },
+        {
+            "title": "A large annotated corpus for learning natural language inference",
+            "year": "2015",
+            "citations": 4808,
+            "link": "No link available"
+        },
+        {
+            "title": "Feature-rich part-of-speech tagging with a cyclic dependency network",
+            "year": "2003",
+            "citations": 4499,
+            "link": "No link available"
+        },
+        {
+            "title": "Incorporating non-local information into information extraction systems by Gibbs sampling",
+            "year": "2005",
+            "citations": 4203,
+            "link": "No link available"
+        },
+        {
+            "title": "Electra: Pre-training text encoders as discriminators rather than generators",
+            "year": "2020",
+            "citations": 4140,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved semantic representations from tree-structured long short-term memory networks",
+            "year": "2015",
+            "citations": 4080,
+            "link": "No link available"
+        },
+        {
+            "title": "Accurate unlexicalized parsing",
+            "year": "2003",
+            "citations": 4074,
+            "link": "No link available"
+        },
+        {
+            "title": "On the opportunities and risks of foundation models",
+            "year": "2021",
+            "citations": 3617,
+            "link": "No link available"
+        },
+        {
+            "title": "Get to the point: Summarization with pointer-generator networks",
+            "year": "2017",
+            "citations": 3570,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating typed dependency parses from phrase structure parses",
+            "year": "2006",
+            "citations": 3161,
+            "link": "No link available"
+        },
+        {
+            "title": "A fast and accurate dependency parser using neural networks",
+            "year": "2014",
+            "citations": 2502,
+            "link": "No link available"
+        },
+        {
+            "title": "Reasoning with neural tensor networks for knowledge base completion",
+            "year": "2013",
+            "citations": 2464,
+            "link": "No link available"
+        },
+        {
+            "title": "HotpotQA: A dataset for diverse, explainable multi-hop question answering",
+            "year": "2018",
+            "citations": 1980,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in natural language processing",
+            "year": "2015",
+            "citations": 1958,
+            "link": "No link available"
+        },
+        {
+            "title": "Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora",
+            "year": "2009",
+            "citations": 1894,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanza: A python natural language processing toolkit for many human languages",
+            "year": "2020",
+            "citations": 1870,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing natural scenes and natural language with recursive neural networks",
+            "year": "2011",
+            "citations": 1865,
+            "link": "No link available"
+        },
+        {
+            "title": "Semantic compositionality through recursive matrix-vector spaces",
+            "year": "2012",
+            "citations": 1806,
+            "link": "No link available"
+        },
+        {
+            "title": "Baselines and bigrams: Simple, good sentiment and topic classification",
+            "year": "2012",
+            "citations": 1751,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions",
+            "year": "2011",
+            "citations": 1750,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot learning through cross-modal transfer",
+            "year": "2013",
+            "citations": 1741,
+            "link": "No link available"
+        },
+        {
+            "title": "What does BERT look at? An analysis of BERT's attention",
+            "year": "2019",
+            "citations": 1719,
+            "link": "No link available"
+        },
+        {
+            "title": "GQA: A new dataset for real-world visual reasoning and compositional question answering",
+            "year": "2019",
+            "citations": 1664,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal dependencies v1: A multilingual treebank collection",
+            "year": "2016",
+            "citations": 1656,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving word representations via global context and multiple word prototypes",
+            "year": "2012",
+            "citations": 1621,
+            "link": "No link available"
+        },
+        {
+            "title": "Enriching the knowledge sources used in a maximum entropy part-of-speech tagger",
+            "year": "2000",
+            "citations": 1552,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep biaffine attention for neural dependency parsing",
+            "year": "2017",
+            "citations": 1380,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing with compositional vector grammars",
+            "year": "2013",
+            "citations": 1227,
+            "link": "No link available"
+        },
+        {
+            "title": "Coqa: A conversational question answering challenge",
+            "year": "2019",
+            "citations": 1209,
+            "link": "No link available"
+        },
+        {
+            "title": "A structural probe for finding syntax in word representations",
+            "year": "2019",
+            "citations": 1173,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic pooling and unfolding recursive autoencoders for paraphrase detection",
+            "year": "2011",
+            "citations": 1166,
+            "link": "No link available"
+        },
+        {
+            "title": "The Stanford typed dependencies representation",
+            "year": "2008",
+            "citations": 1162,
+            "link": "No link available"
+        },
+        {
+            "title": "Direct preference optimization: Your language model is secretly a reward model",
+            "year": "2024",
+            "citations": 1161,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford typed dependencies manual",
+            "year": "2008",
+            "citations": 1123,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast Exact Inference with a Factored Model for Natural Language Parsing",
+            "year": "2003",
+            "citations": 1114,
+            "link": "No link available"
+        },
+        {
+            "title": "Grounded Compositional Semantics for Finding and Describing Images with Sentences.",
+            "year": "2014",
+            "citations": 1045,
+            "link": "No link available"
+        },
+        {
+            "title": "Position-aware attention and supervised data improve slot filling",
+            "year": "2017",
+            "citations": 975,
+            "link": "No link available"
+        },
+        {
+            "title": "Beyond the imitation game: Quantifying and extrapolating the capabilities of language models",
+            "year": "2022",
+            "citations": 956,
+            "link": "No link available"
+        },
+        {
+            "title": "Graph convolution over pruned dependency trees improves relation extraction",
+            "year": "2018",
+            "citations": 955,
+            "link": "No link available"
+        },
+        {
+            "title": "Leveraging Linguistic Structure For Open Domain Information Extraction",
+            "year": "2015",
+            "citations": 937,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-instance multi-label learning for relation extraction",
+            "year": "2012",
+            "citations": 914,
+            "link": "No link available"
+        },
+        {
+            "title": "Holistic evaluation of language models",
+            "year": "2022",
+            "citations": 880,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional-recursive deep learning for 3d object classification",
+            "year": "2012",
+            "citations": 836,
+            "link": "No link available"
+        },
+        {
+            "title": "From instance-level constraints to space-level constraints: Making the most of prior knowledge in data clustering",
+            "year": "2002",
+            "citations": 794,
+            "link": "No link available"
+        },
+        {
+            "title": "Bilingual word embeddings for phrase-based machine translation",
+            "year": "2013",
+            "citations": 769,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal Stanford dependencies: A cross-linguistic typology.",
+            "year": "2014",
+            "citations": 745,
+            "link": "No link available"
+        },
+        {
+            "title": "A thorough examination of the CNN/Daily Mail reading comprehension task",
+            "year": "2016",
+            "citations": 683,
+            "link": "No link available"
+        },
+        {
+            "title": "Extrapolation methods for accelerating PageRank computations",
+            "year": "2003",
+            "citations": 677,
+            "link": "No link available"
+        },
+        {
+            "title": "Part-of-speech tagging from 97% to 100%: is it time for some linguistics?",
+            "year": "2011",
+            "citations": 671,
+            "link": "No link available"
+        },
+        {
+            "title": "Studying the history of ideas using topic models",
+            "year": "2008",
+            "citations": 670,
+            "link": "No link available"
+        },
+        {
+            "title": "CoNLL 2017 shared task: multilingual parsing from raw text to universal dependencies",
+            "year": "2017",
+            "citations": 654,
+            "link": "No link available"
+        },
+        {
+            "title": "Termite: Visualization techniques for assessing textual topic models",
+            "year": "2012",
+            "citations": 648,
+            "link": "No link available"
+        },
+        {
+            "title": "Corpus-based induction of syntactic structure: Models of dependency and constituency",
+            "year": "2004",
+            "citations": 636,
+            "link": "No link available"
+        },
+        {
+            "title": "Foundations of statistical language processing",
+            "year": "1999",
+            "citations": 633,
+            "link": "No link available"
+        },
+        {
+            "title": "Contrastive learning of medical visual representations from paired images and text",
+            "year": "2020",
+            "citations": 625,
+            "link": "No link available"
+        },
+        {
+            "title": "Compositional attention networks for machine reasoning",
+            "year": "2018",
+            "citations": 617,
+            "link": "No link available"
+        },
+        {
+            "title": "Ergativity: Argument structure and grammatical relations",
+            "year": "1994",
+            "citations": 609,
+            "link": "No link available"
+        },
+        {
+            "title": "A conditional random field word segmenter for Sighan Bakeoff 2005",
+            "year": "2005",
+            "citations": 601,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast dropout training",
+            "year": "2013",
+            "citations": 584,
+            "link": "No link available"
+        },
+        {
+            "title": "A multi-pass sieve for coreference resolution",
+            "year": "2010",
+            "citations": 573,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford Neural Machine Translation Systems for Spoken Language Domains",
+            "year": "2015",
+            "citations": 557,
+            "link": "No link available"
+        },
+        {
+            "title": "SUTime: A library for recognizing and normalizing time expressions.",
+            "year": "2012",
+            "citations": 556,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal dependencies",
+            "year": "2021",
+            "citations": 553,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal dependencies v2: An evergrowing multilingual treebank collection",
+            "year": "2020",
+            "citations": 545,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic models of language processing and acquisition",
+            "year": "2006",
+            "citations": 537,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploiting the block structure of the web for computing pagerank",
+            "year": "2003",
+            "citations": 516,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep reinforcement learning for mention-ranking coreference models",
+            "year": "2016",
+            "citations": 497,
+            "link": "No link available"
+        },
+        {
+            "title": "Text classification and Naive Bayes",
+            "year": "2008",
+            "citations": 488,
+            "link": "No link available"
+        },
+        {
+            "title": "Achieving open vocabulary neural machine translation with hybrid word-character models",
+            "year": "2016",
+            "citations": 484,
+            "link": "No link available"
+        },
+        {
+            "title": "Spectral learning",
+            "year": "2003",
+            "citations": 480,
+            "link": "No link available"
+        },
+        {
+            "title": "Key-Value Retrieval Networks for Task-Oriented Dialogue",
+            "year": "2017",
+            "citations": 456,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning continuous phrase representations and syntactic parsing with recursive neural networks",
+            "year": "2010",
+            "citations": 447,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving coreference resolution by learning entity-level distributed representations",
+            "year": "2016",
+            "citations": 444,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-supervised sequence modeling with cross-view training",
+            "year": "2018",
+            "citations": 443,
+            "link": "No link available"
+        },
+        {
+            "title": "A fast unified model for parsing and sentence understanding",
+            "year": "2016",
+            "citations": 420,
+            "link": "No link available"
+        },
+        {
+            "title": "Bilingual word representations with monolingual quality in mind",
+            "year": "2015",
+            "citations": 419,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimizing Chinese word segmentation for machine translation performance",
+            "year": "2008",
+            "citations": 415,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic syntax",
+            "year": "2003",
+            "citations": 413,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluation in information retrieval",
+            "year": "2008",
+            "citations": 399,
+            "link": "No link available"
+        },
+        {
+            "title": "DetectGPT: Zero-shot machine-generated text detection using probability curvature",
+            "year": "2023",
+            "citations": 391,
+            "link": "No link available"
+        },
+        {
+            "title": "Scoring, term weighting and the vector space model",
+            "year": "2008",
+            "citations": 390,
+            "link": "No link available"
+        },
+        {
+            "title": "Finding contradictions in text",
+            "year": "2008",
+            "citations": 390,
+            "link": "No link available"
+        },
+        {
+            "title": "Nested named entity recognition",
+            "year": "2009",
+            "citations": 387,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple and effective hierarchical phrase reordering model",
+            "year": "2008",
+            "citations": 386,
+            "link": "No link available"
+        },
+        {
+            "title": "Methods and apparatus for using a modified index to provide search results in response to an ambiguous search query",
+            "year": "2003",
+            "citations": 386,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating semantically precise scene graphs from textual descriptions for improved image retrieval",
+            "year": "2015",
+            "citations": 367,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic acquisition of a large subcategorization dictionary from corpora",
+            "year": "1993",
+            "citations": 361,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergent linguistic structure in artificial neural networks trained by self-supervision",
+            "year": "2020",
+            "citations": 355,
+            "link": "No link available"
+        },
+        {
+            "title": "Is it harder to parse Chinese, or the Chinese Treebank?",
+            "year": "2003",
+            "citations": 352,
+            "link": "No link available"
+        },
+        {
+            "title": "Clustering the tagged web",
+            "year": "2009",
+            "citations": 350,
+            "link": "No link available"
+        },
+        {
+            "title": "Interpretation and trust: Designing model-driven visualizations for text analysis",
+            "year": "2012",
+            "citations": 349,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast model editing at scale",
+            "year": "2021",
+            "citations": 340,
+            "link": "No link available"
+        },
+        {
+            "title": "Computational linguistics and deep learning",
+            "year": "2015",
+            "citations": 337,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal dependency parsing from scratch",
+            "year": "2018",
+            "citations": 336,
+            "link": "No link available"
+        },
+        {
+            "title": "A Gold Standard Dependency Corpus for English.",
+            "year": "2014",
+            "citations": 334,
+            "link": "No link available"
+        },
+        {
+            "title": "Enhanced English Universal Dependencies: An improved representation for natural language understanding tasks",
+            "year": "2016",
+            "citations": 329,
+            "link": "No link available"
+        },
+        {
+            "title": "A generative constituent-context model for improved grammar induction",
+            "year": "2002",
+            "citations": 328,
+            "link": "No link available"
+        },
+        {
+            "title": "Partially labeled topic models for interpretable text mining",
+            "year": "2011",
+            "citations": 326,
+            "link": "No link available"
+        },
+        {
+            "title": "Soft constraints mirror hard constraints: Voice and person in English and Lummi",
+            "year": "2001",
+            "citations": 322,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for NLP (without magic)",
+            "year": "2012",
+            "citations": 315,
+            "link": "No link available"
+        },
+        {
+            "title": "A* parsing: fast exact Viterbi parse selection",
+            "year": "2003",
+            "citations": 302,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning by abstraction: The neural state machine",
+            "year": "2019",
+            "citations": 299,
+            "link": "No link available"
+        },
+        {
+            "title": "The efficacy of human post-editing for language translation",
+            "year": "2013",
+            "citations": 297,
+            "link": "No link available"
+        },
+        {
+            "title": "Max-Margin Parsing",
+            "year": "2004",
+            "citations": 296,
+            "link": "No link available"
+        },
+        {
+            "title": "Named entity recognition with character-level models",
+            "year": "2003",
+            "citations": 286,
+            "link": "No link available"
+        },
+        {
+            "title": "Topic modeling for the social sciences",
+            "year": "2009",
+            "citations": 271,
+            "link": "No link available"
+        },
+        {
+            "title": "An extended model of natural logic",
+            "year": "2009",
+            "citations": 270,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint parsing and named entity recognition",
+            "year": "2009",
+            "citations": 269,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural logic for textual inference",
+            "year": "2007",
+            "citations": 266,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford\u2019s graph-based neural dependency parser at the CoNLL 2017 shared task",
+            "year": "2017",
+            "citations": 265,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient, Feature-based, Conditional Random Field Parsing.",
+            "year": "2008",
+            "citations": 263,
+            "link": "No link available"
+        },
+        {
+            "title": "LinGO Redwoods: A Rich and Dynamic Treebank for HPSG",
+            "year": "2002",
+            "citations": 262,
+            "link": "No link available"
+        },
+        {
+            "title": "Entity-centric coreference resolution with model stacking",
+            "year": "2015",
+            "citations": 261,
+            "link": "No link available"
+        },
+        {
+            "title": "A global joint model for semantic role labeling",
+            "year": "2008",
+            "citations": 260,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling biological processes for reading comprehension",
+            "year": "2014",
+            "citations": 259,
+            "link": "No link available"
+        },
+        {
+            "title": "WikiWalk: random walks on Wikipedia for semantic relatedness",
+            "year": "2009",
+            "citations": 253,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling semantic containment and exclusion in natural language inference",
+            "year": "2008",
+            "citations": 248,
+            "link": "No link available"
+        },
+        {
+            "title": "Lexical semantic relatedness with random graph walks",
+            "year": "2007",
+            "citations": 248,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint learning improves semantic role labeling",
+            "year": "2005",
+            "citations": 245,
+            "link": "No link available"
+        },
+        {
+            "title": "Log-linear models for label ranking",
+            "year": "2003",
+            "citations": 244,
+            "link": "No link available"
+        },
+        {
+            "title": "Better Arabic parsing: Baselines, evaluations, and analysis",
+            "year": "2010",
+            "citations": 240,
+            "link": "No link available"
+        },
+        {
+            "title": "An effective two-stage model for exploiting non-local dependencies in named entity recognition",
+            "year": "2006",
+            "citations": 239,
+            "link": "No link available"
+        },
+        {
+            "title": "Event extraction as dependency parsing",
+            "year": "2011",
+            "citations": 235,
+            "link": "No link available"
+        },
+        {
+            "title": "Which words are hard to recognize? Prosodic, lexical, and disfluency factors that increase speech recognition error rates",
+            "year": "2010",
+            "citations": 234,
+            "link": "No link available"
+        },
+        {
+            "title": "GreaseLM: Graph REASoning Enhanced Language Models",
+            "year": "2022",
+            "citations": 228,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical bayesian domain adaptation",
+            "year": "2009",
+            "citations": 226,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal Dependencies 2.1",
+            "year": "2017",
+            "citations": 225,
+            "link": "No link available"
+        },
+        {
+            "title": "Compression of neural machine translation models via pruning",
+            "year": "2016",
+            "citations": 223,
+            "link": "No link available"
+        },
+        {
+            "title": "BAM! Born-Again Multi-Task Networks for Natural Language Understanding",
+            "year": "2019",
+            "citations": 222,
+            "link": "No link available"
+        },
+        {
+            "title": "Memory-Based Model Editing at Scale",
+            "year": "2022",
+            "citations": 221,
+            "link": "No link available"
+        },
+        {
+            "title": "Recursive neural networks can learn logical semantics",
+            "year": "2015",
+            "citations": 217,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploiting context for biomedical entity recognition: From syntax to the web",
+            "year": "2004",
+            "citations": 217,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative reordering with Chinese grammatical relations features",
+            "year": "2009",
+            "citations": 209,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing to Stanford Dependencies: Trade-offs between speed and accuracy",
+            "year": "2010",
+            "citations": 208,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust textual inference via graph matching",
+            "year": "2005",
+            "citations": 205,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic tree-edit models with structured latent variables for textual entailment and question answering",
+            "year": "2010",
+            "citations": 202,
+            "link": "No link available"
+        },
+        {
+            "title": "The lexical integrity of Japanese causatives",
+            "year": "1999",
+            "citations": 201,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing and hypergraphs",
+            "year": "2005",
+            "citations": 197,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning spatial knowledge for text to 3D scene generation",
+            "year": "2014",
+            "citations": 196,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning language games through interaction",
+            "year": "2016",
+            "citations": 195,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining distant and partial supervision for relation extraction",
+            "year": "2014",
+            "citations": 195,
+            "link": "No link available"
+        },
+        {
+            "title": "Simpler but more accurate semantic dependency parsing",
+            "year": "2018",
+            "citations": 194,
+            "link": "No link available"
+        },
+        {
+            "title": "Did it happen? The pragmatic complexity of veridicality assessment",
+            "year": "2012",
+            "citations": 193,
+            "link": "No link available"
+        },
+        {
+            "title": "Voice and grammatical relations in Indonesian: A new perspective",
+            "year": "1998",
+            "citations": 187,
+            "link": "No link available"
+        },
+        {
+            "title": "Dissociations between argument structure and grammatical relations",
+            "year": "1999",
+            "citations": 186,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimization, maxent models, and conditional estimation without magic",
+            "year": "2003",
+            "citations": 184,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Bidirectional Language-Knowledge Graph Pretraining",
+            "year": "2022",
+            "citations": 183,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimizing the factual correctness of a summary: A study of summarizing radiology reports",
+            "year": "2019",
+            "citations": 183,
+            "link": "No link available"
+        },
+        {
+            "title": "Differentiating language usage through topic models",
+            "year": "2013",
+            "citations": 180,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved pattern learning for bootstrapped entity extraction",
+            "year": "2014",
+            "citations": 178,
+            "link": "No link available"
+        },
+        {
+            "title": "Analyzing the Dynamics of Research by Extracting Key Aspects of Scientific Papers",
+            "year": "2011",
+            "citations": 176,
+            "link": "No link available"
+        },
+        {
+            "title": "A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue",
+            "year": "2017",
+            "citations": 172,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to recognize features of valid textual entailments",
+            "year": "2006",
+            "citations": 172,
+            "link": "No link available"
+        },
+        {
+            "title": "A phrase-based alignment model for natural language inference",
+            "year": "2008",
+            "citations": 170,
+            "link": "No link available"
+        },
+        {
+            "title": "The LinGO Redwoods treebank motivation and preliminary applications",
+            "year": "2002",
+            "citations": 169,
+            "link": "No link available"
+        },
+        {
+            "title": "Solving the problem of cascading errors: Approximate Bayesian inference for linguistic annotation pipelines",
+            "year": "2006",
+            "citations": 164,
+            "link": "No link available"
+        },
+        {
+            "title": "Do Massively Pretrained Language Models Make Better Storytellers?",
+            "year": "2019",
+            "citations": 162,
+            "link": "No link available"
+        },
+        {
+            "title": "Complex predicates and information spreading in LFG",
+            "year": "1999",
+            "citations": 162,
+            "link": "No link available"
+        },
+        {
+            "title": "Topic model diagnostics: Assessing domain relevance via topical alignment",
+            "year": "2013",
+            "citations": 159,
+            "link": "No link available"
+        },
+        {
+            "title": "Methods and apparatus for using a modified index to provide search results in response to an ambiguous search query",
+            "year": "2005",
+            "citations": 158,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to summarize radiology findings",
+            "year": "2018",
+            "citations": 157,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring sentiment summarization",
+            "year": "2004",
+            "citations": 153,
+            "link": "No link available"
+        },
+        {
+            "title": "NaturalLI: Natural logic inference for common sense reasoning",
+            "year": "2014",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing three German treebanks: Lexicalized and unlexicalized baselines",
+            "year": "2008",
+            "citations": 146,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring the boundaries: gene and protein identification in biomedical text",
+            "year": "2005",
+            "citations": 140,
+            "link": "No link available"
+        },
+        {
+            "title": "Answering Complex Open-domain Questions Through Iterative Query Generation",
+            "year": "2019",
+            "citations": 139,
+            "link": "No link available"
+        },
+        {
+            "title": "Multiword Expression Identification with Tree Substitution Grammars: A Parsing tour de force with French",
+            "year": "2011",
+            "citations": 136,
+            "link": "No link available"
+        },
+        {
+            "title": "Conditional structure versus conditional estimation in NLP models",
+            "year": "2002",
+            "citations": 136,
+            "link": "No link available"
+        },
+        {
+            "title": "Biomedical and clinical English model packages in the Stanza Python NLP library",
+            "year": "2020",
+            "citations": 135,
+            "link": "No link available"
+        },
+        {
+            "title": "Enforcing transitivity in coreference resolution",
+            "year": "2008",
+            "citations": 133,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning alignments and leveraging natural logic",
+            "year": "2007",
+            "citations": 133,
+            "link": "No link available"
+        },
+        {
+            "title": "Human language understanding & reasoning",
+            "year": "2022",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "A generative model for semantic role labeling",
+            "year": "2003",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "Text to 3d scene generation with rich lexical grounding",
+            "year": "2015",
+            "citations": 128,
+            "link": "No link available"
+        },
+        {
+            "title": "TokensRegex: Defining cascaded regular expressions over tokens",
+            "year": "2014",
+            "citations": 128,
+            "link": "No link available"
+        },
+        {
+            "title": "Interpreting and extending classical agglomerative clustering algorithms using a model-based approach",
+            "year": "2002",
+            "citations": 127,
+            "link": "No link available"
+        },
+        {
+            "title": "Random walks for text semantic similarity",
+            "year": "2009",
+            "citations": 126,
+            "link": "No link available"
+        },
+        {
+            "title": "Just ask for calibration: Strategies for eliciting calibrated confidence scores from language models fine-tuned with human feedback",
+            "year": "2023",
+            "citations": 124,
+            "link": "No link available"
+        },
+        {
+            "title": "Named entity recognition with bilingual constraints",
+            "year": "2013",
+            "citations": 124,
+            "link": "No link available"
+        },
+        {
+            "title": "Argument structure, valence, and binding",
+            "year": "1998",
+            "citations": 124,
+            "link": "No link available"
+        },
+        {
+            "title": "Aspect specific sentiment analysis using hierarchical deep learning",
+            "year": "2014",
+            "citations": 122,
+            "link": "No link available"
+        },
+        {
+            "title": "\u201cWithout the clutter of unimportant words\u201d Descriptive keyphrases for text visualization",
+            "year": "2012",
+            "citations": 118,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust machine translation evaluation with entailment features",
+            "year": "2009",
+            "citations": 118,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust textual inference via learning and abductive reasoning",
+            "year": "2005",
+            "citations": 117,
+            "link": "No link available"
+        },
+        {
+            "title": "Extensions to HMM-based statistical word alignment models",
+            "year": "2002",
+            "citations": 117,
+            "link": "No link available"
+        },
+        {
+            "title": "Forum77: An analysis of an online health forum dedicated to addiction recovery",
+            "year": "2015",
+            "citations": 115,
+            "link": "No link available"
+        },
+        {
+            "title": "Computing PageRank using power extrapolation",
+            "year": "2003",
+            "citations": 113,
+            "link": "No link available"
+        },
+        {
+            "title": "Morphological features help POS tagging of unknown words across language varieties",
+            "year": "2005",
+            "citations": 112,
+            "link": "No link available"
+        },
+        {
+            "title": "Ensemble models for dependency parsing: cheap and good?",
+            "year": "2010",
+            "citations": 111,
+            "link": "No link available"
+        },
+        {
+            "title": "Word Segmentation of Informal Arabic with Domain Adaptation",
+            "year": "2014",
+            "citations": 110,
+            "link": "No link available"
+        },
+        {
+            "title": "Model combination for event extraction in BioNLP 2011",
+            "year": "2011",
+            "citations": 107,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning random walk models for inducing word dependency distributions",
+            "year": "2004",
+            "citations": 104,
+            "link": "No link available"
+        },
+        {
+            "title": "Cross-lingual projected expectation regularization for weakly supervised learning",
+            "year": "2014",
+            "citations": 101,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic HPSG parse disambiguation using the Redwoods corpus",
+            "year": "2005",
+            "citations": 101,
+            "link": "No link available"
+        },
+        {
+            "title": "Viterbi training improves unsupervised dependency parsing",
+            "year": "2010",
+            "citations": 99,
+            "link": "No link available"
+        },
+        {
+            "title": "A system for identifying named entities in biomedical text: how results from two evaluations reflect on both the system and the evaluations",
+            "year": "2005",
+            "citations": 97,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial intelligence definitions",
+            "year": "2020",
+            "citations": 96,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining heterogeneous classifiers for word sense disambiguation",
+            "year": "2002",
+            "citations": 94,
+            "link": "No link available"
+        },
+        {
+            "title": "The infinite tree",
+            "year": "2007",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of field segmentation models for information extraction",
+            "year": "2005",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural language grammar induction using a constituent-context model",
+            "year": "2001",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Mind your outliers! Investigating the negative impact of outliers on active learning for visual question answering",
+            "year": "2021",
+            "citations": 91,
+            "link": "No link available"
+        },
+        {
+            "title": "Human effort and machine learnability in computer aided translation",
+            "year": "2014",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "MQuAKE: Assessing knowledge editing in language models via multi-hop questions",
+            "year": "2023",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning new facts from knowledge bases with neural tensor networks and semantic word vectors",
+            "year": "2013",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Naturalizing a programming language via interactive learning",
+            "year": "2017",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple distant supervision approach for the TAC-KBP slot filling task",
+            "year": "2010",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural language grammar induction with a generative constituent-context model",
+            "year": "2005",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Pre-Training Transformers as Energy-Based Cloze Models",
+            "year": "2020",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Tree-structured composition in neural networks without tree-structured architectures",
+            "year": "2015",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "\u201cWas it good? It was provocative.\u201d Learning the meaning of scalar adjectives",
+            "year": "2010",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Predictive translation memory: A mixed-initiative system for human language translation",
+            "year": "2014",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "Finding Universal Grammatical Relations in Multilingual BERT",
+            "year": "2020",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised discovery of a statistical verb lexicon",
+            "year": "2006",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep dependencies from context-free statistical parsers: correcting the surface dependency approximation",
+            "year": "2004",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic parsing using left corner language models",
+            "year": "2000",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating word embeddings using a representative suite of practical tasks",
+            "year": "2016",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "Effect of non-linear deep architecture in sequence labeling",
+            "year": "2013",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing time: Learning to interpret time expressions",
+            "year": "2012",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "ContractNLI: A dataset for document-level natural language inference for contracts",
+            "year": "2021",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "Phrasal: a toolkit for statistical machine translation with facilities for extraction and incorporation of arbitrary model features",
+            "year": "2010",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "The best lexical metric for phrase-based statistical MT system optimization",
+            "year": "2010",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "Fine-tuning language models for factuality",
+            "year": "2023",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical joint learning: Improving joint parsing and named entity recognition with non-jointly labeled data",
+            "year": "2010",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Accurate non-hierarchical phrase-based translation",
+            "year": "2010",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "A theory of non-constituent coordination based on finite-state rules",
+            "year": "1996",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Induced lexico-syntactic patterns improve information extraction from online medical forums",
+            "year": "2014",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to distinguish valid textual entailments",
+            "year": "2006",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint word alignment and bilingual named entity recognition using dual decomposition",
+            "year": "2013",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical clustering",
+            "year": "2008",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Using feature conjunctions across examples for learning pairwise classifiers",
+            "year": "2004",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Parse disambiguation for a rich HPSG grammar",
+            "year": "2002",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing with treebank grammars: Empirical bounds, theoretical models, and the structure of the Penn treebank",
+            "year": "2001",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Global belief recursive neural networks",
+            "year": "2014",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Pile of Law: Learning Responsible Data Filtering from the Law and a 256GB Open-Source Legal Dataset",
+            "year": "2022",
+            "citations": 66,
+            "link": "No link available"
+        },
+        {
+            "title": "SceneSeer: 3D scene design with natural language",
+            "year": "2017",
+            "citations": 63,
+            "link": "No link available"
+        },
+        {
+            "title": "Event extraction as dependency parsing for bionlp 2011",
+            "year": "2011",
+            "citations": 63,
+            "link": "No link available"
+        },
+        {
+            "title": "Measuring machine translation quality as semantic equivalence: A metric based on entailment features",
+            "year": "2009",
+            "citations": 63,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning distributed representations for multilingual text sequences",
+            "year": "2015",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Collocations",
+            "year": "1999",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Phrasal: A toolkit for new directions in statistical machine translation",
+            "year": "2014",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust subgraph generation improves abstract meaning representation parsing",
+            "year": "2015",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularization and search for minimum error rate training",
+            "year": "2008",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Lexical acquisition",
+            "year": "1999",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford\u2019s Distantly Supervised Slot Filling Systems for KBP 2014",
+            "year": "2014",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast and adaptive online training of feature-rich translation models",
+            "year": "2013",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Effective bilingual constraints for semi-supervised learning of named entity recognizers",
+            "year": "2013",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Local textual inference: it\u2019s hard to circumscribe, but you know it when you see it\u2013and NLP needs it",
+            "year": "2006",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Analyzing the verbal noun: Internal and external constraints",
+            "year": "1993",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "An exploration of sentiment summarization",
+            "year": "2003",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributional phrase structure induction",
+            "year": "2001",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "RNNs can generate bounded hierarchical languages with optimal memory",
+            "year": "2020",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep neural language models for machine translation",
+            "year": "2015",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Quadratic-time dependency parsing for machine translation",
+            "year": "2009",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Answering Open-Domain Questions of Varying Reasoning Steps from Text",
+            "year": "2021",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Syn-QG: Syntactic and shallow semantic rules for question generation",
+            "year": "2020",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Spectral Chinese Restaurant Processes: Nonparametric Clustering Based on Similarities",
+            "year": "2011",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Legal docket classification: Where machine learning stumbles",
+            "year": "2008",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural language processing",
+            "year": "2012",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust textual inference using diverse knowledge sources",
+            "year": "2005",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Solving logic puzzles: From robust processing to precise semantics",
+            "year": "2004",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Semantic parsing for text to 3d scene generation",
+            "year": "2014",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "More constructions, more genres: Extending Stanford dependencies",
+            "year": "2013",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford's distantly supervised slot-filling system",
+            "year": "2011",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Flat clustering",
+            "year": "2008",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "The leaf path projection view of parse trees: Exploring string kernels for HPSG parse selection",
+            "year": "2004",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Conditional probing: measuring usable information beyond a baseline",
+            "year": "2021",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural generation meets real people: Towards emotionally engaging mixed-initiative conversations",
+            "year": "2020",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Spied: Stanford pattern based information extraction and diagnostics",
+            "year": "2014",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning distributed representations for structured output prediction",
+            "year": "2014",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 2015 conference on empirical methods in natural language processing",
+            "year": "2015",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Interactive learning of spatial knowledge for text to 3D scene generation",
+            "year": "2014",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust logistic regression using shift parameters",
+            "year": "2014",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Aligning semantic graphs for textual inference and machine reading",
+            "year": "2007",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Event Extraction Using Distant Supervision",
+            "year": "2014",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining joint models for biomedical event extraction",
+            "year": "2012",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to information retrieval",
+            "year": "2010",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Hindsight: Posterior-guided training of retrievers for improved open-ended generation",
+            "year": "2021",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Bootstrapped Self Training for Knowledge Base Population.",
+            "year": "2015",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "SLM: Learning a discourse language representation with sentence unshuffling",
+            "year": "2020",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining Natural Logic and Shallow Reasoning for Question Answering",
+            "year": "2016",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Philosophers are mortal: Inferring the truth of unseen facts",
+            "year": "2013",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine translation evaluation and optimization",
+            "year": "2011",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "\u7edf\u8ba1\u81ea\u7136\u8bed\u8a00\u5904\u7406\u57fa\u7840",
+            "year": "2005",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "How useful and usable are dictionaries for speakers of Australian indigenous languages?",
+            "year": "2004",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Truncation Sampling as Language Model Desmoothing",
+            "year": "2022",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "The EOS Decision and Length Extrapolation",
+            "year": "2020",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards ecologically valid research on language user interfaces",
+            "year": "2020",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Sutime: Evaluation in tempeval-3",
+            "year": "2013",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Customizing an information extraction system to a new domain",
+            "year": "2011",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "TopicFlow Model: Unsupervised Learning of Topic-specific Influences of Hyperlinked Documents",
+            "year": "2011",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved models of distortion cost for statistical machine translation",
+            "year": "2010",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Short message communications: users, topics, and in-language processing",
+            "year": "2012",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Disambiguating \u201cDE\u201d for Chinese-English machine translation",
+            "year": "2009",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Kirrkirr: Software for browsing and visual exploration of a structured Warlpiri dictionary",
+            "year": "2001",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference",
+            "year": "2022",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural Language Translation at the Intersection of AI and HCI",
+            "year": "2015",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Textual entailment features for machine translation evaluation",
+            "year": "2009",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Feature selection for a rich HPSG grammar using decision trees",
+            "year": "2002",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural logic and natural language inference",
+            "year": "2014",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Stay hungry, stay focused: Generating informative and specific questions in information-seeking conversations",
+            "year": "2020",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed representations of words to guide bootstrapped entity classifiers",
+            "year": "2015",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Deciding Entailment and Contradiction with Stochastic and Edit Distance-based Alignment.",
+            "year": "2008",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Matrix decompositions and latent semantic indexing",
+            "year": "2008",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Logistic regression (with R)",
+            "year": "2007",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning distributed word representations for natural logic reasoning",
+            "year": "2015",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic information retrieval",
+            "year": "2009",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Architectures, rules, and preferences: variations on themes by Joan W. Bresnan",
+            "year": "2007",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding human language: Can NLP and deep learning help?",
+            "year": "2016",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Feature noising for log-linear structured prediction",
+            "year": "2013",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Fixing model bugs with natural language patches",
+            "year": "2022",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Support vector machines and machine learning on documents",
+            "year": "2008",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Characterizing intrinsic compositionality in transformers with tree projections",
+            "year": "2022",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding and predicting user dissatisfaction in a neural generative chatbot",
+            "year": "2021",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "On-the-job learning with bayesian decision theory",
+            "year": "2015",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularization, adaptation, and non-independent features improve hidden conditional random fields for phone classification",
+            "year": "2007",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Dictionaries and endangered languages",
+            "year": "2002",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford log-linear part-of-speech tagger",
+            "year": "2000",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Information spreading and levels of representation in LFG",
+            "year": "1993",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Entity clustering across languages",
+            "year": "2012",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Romance is so complex",
+            "year": "1992",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford-UBC at TAC-KBP.",
+            "year": "2009",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Which words are hard to recognize? Prosodic, lexical, and disfluency factors that increase ASR error rates",
+            "year": "2008",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Factored A* Search for Models over Sequences and Trees",
+            "year": "2003",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-destructing models: Increasing the costs of harmful dual uses of foundation models",
+            "year": "2023",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "A comparison of named-entity disambiguation and word sense disambiguation",
+            "year": "2016",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Legal claim identification: Information extraction with hierarchically labeled data",
+            "year": "2010",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "\u4fe1\u606f\u68c0\u7d22\u5bfc\u8bba",
+            "year": "2010",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Vector space classification",
+            "year": "2008",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Bilingual Dictionaries for Australian Languages: User studies on the place of paper and electronic dictionaries",
+            "year": "2000",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Grokking of hierarchical structure in vanilla transformers",
+            "year": "2023",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Sentences with Gapping: Parsing and Reconstructing Elided Predicates",
+            "year": "2018",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "NP subject detection in verb-initial Arabic clauses",
+            "year": "2009",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Language models for information retrieval",
+            "year": "2008",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "DReCa: A general task augmentation strategy for few-shot natural language inference",
+            "year": "2021",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal Dependencies 1.0",
+            "year": "2015",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Biological Processes with Global Constraints",
+            "year": "2013",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford-UBC Entity Linking at TAC-KBP.",
+            "year": "2010",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Raptor: Recursive abstractive processing for tree-organized retrieval",
+            "year": "2024",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Arc-swift: A novel transition system for dependency parsing",
+            "year": "2017",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "On being the right scale: Sizing large collections of 3D models",
+            "year": "2014",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Rethinking text segmentation models: An information extraction case study",
+            "year": "1998",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Importance sampling for unbiased on-demand evaluation of knowledge base population",
+            "year": "2017",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Subword variation in text message classification",
+            "year": "2010",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Argument structure as a locus for binding theory",
+            "year": "1996",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Textual analogy parsing: What's shared and what's compared among analogous facts",
+            "year": "2018",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "An empirical comparison of features and tuning for phrase-based machine translation",
+            "year": "2014",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning constraints for consistent timeline extraction",
+            "year": "2012",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Risk analysis for intellectual property litigation",
+            "year": "2011",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Relevance feedback and query expansion",
+            "year": "2008",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "An O(n\u00b3) Agenda-Based Chart Parser for Arbitrary Probabilistic Context-Free Grammars",
+            "year": "2001",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "BioMedLM: A 2.7B parameter language model trained on biomedical text",
+            "year": "2024",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "You only need one model for open-domain question answering",
+            "year": "2021",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Does universal dependencies need a parsing representation? An investigation of English",
+            "year": "2015",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Mapping the increasing use of LLMs in scientific papers",
+            "year": "2024",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Synthetic Disinformation Attacks on Automated Fact Verification Systems",
+            "year": "2022",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "A dictionary of nonsubsective adjectives",
+            "year": "2014",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Two knives cut better than one: Chinese word segmentation with dual decomposition",
+            "year": "2014",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Simple MAP inference via low-rank relaxations",
+            "year": "2014",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Accurate unsupervised joint named-entity extraction from unaligned parallel text",
+            "year": "2012",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "SPEDE: Probabilistic edit distance metrics for MT evaluation",
+            "year": "2012",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Finding educational resources on the web: Exploiting automatic extraction of metadata",
+            "year": "2003",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford at TAC KBP 2016: Sealing Pipeline Leaks and Understanding Chinese.",
+            "year": "2016",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Document Exploration with Topic Modeling: Designing Interactive Visualizations to Support Effective Analysis Workflows",
+            "year": "2013",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalized Linear Mixed Models (illustrated with R on Bresnan et al.\u2019s datives data)",
+            "year": "2007",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "An emulator for fine-tuning large language models using small language models",
+            "year": "2023",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Meta-learning online adaptation of language models",
+            "year": "2023",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Transphoner: Automated mnemonic keyword generation",
+            "year": "2014",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Maxent Models, Conditional Estimation, and Optimization",
+            "year": "2003",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Gapping constructions in universal dependencies v2",
+            "year": "2017",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "TinkerBell: Cross-lingual Cold-Start Knowledge Base Construction.",
+            "year": "2017",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-word expressions in textual inference: Much ado about nothing?",
+            "year": "2009",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying unknown proper noun phrases without context",
+            "year": "2002",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "The segmentation problem in morphology learning",
+            "year": "1998",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Paris and Stanford at EPE 2017: Downstream evaluation of graph-based dependency representations",
+            "year": "2017",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Which universities lead and lag? Toward university rankings based on scholarly output",
+            "year": "2010",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Verb sense and subcategorization: Using joint inference to improve performance on complementary task",
+            "year": "2004",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford's 2013 KBP System",
+            "year": "2013",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Vvedenie v informacionnyj poisk",
+            "year": "2011",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Template sampling for leveraging domain knowledge in information extraction",
+            "year": "2005",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Kirrkirr: Interactive visualisation and multimedia from a structured Warlpiri dictionary",
+            "year": "1999",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Detecting Label Errors using Pre-Trained Language Models",
+            "year": "2022",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Human-like informative conversations: Better acknowledgements using conditional mutual information",
+            "year": "2021",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "ReFT: Representation finetuning for language models",
+            "year": "2024",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Backpack Language Models",
+            "year": "2023",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Presupposed content and entailments in natural language inference",
+            "year": "2009",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Web search basics: Near-duplicates and shingling",
+            "year": "2008",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "ReCOGS: How incidental details of a logical form overshadow an evaluation of semantic interpretation",
+            "year": "2023",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Blind domain transfer for named entity recognition using generative latent topic models",
+            "year": "2010",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Effective social chatbot strategies for increasing user initiative",
+            "year": "2021",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+            "year": "2017",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "The snli corpus",
+            "year": "2015",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Veridicality and utterance understanding",
+            "year": "2011",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluation of unranked retrieval sets",
+            "year": "2009",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Corractive learning: Learning from noisy data through human interaction",
+            "year": "2009",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "What's related? Generalizing approaches to related articles in medicine.",
+            "year": "2000",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Romance Complex Predicates: In defence of the right-branching structure",
+            "year": "1996",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural, neural everywhere: Controlled generation meets scaffolded, structured dialogue",
+            "year": "2021",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Qsrl: A semantic role-labeling schema for quantitative facts",
+            "year": "2018",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Positive diversity tuning for machine translation system combination",
+            "year": "2013",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Maxent models and discriminative estimation",
+            "year": "2005",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "The stanford parser: A statistical parser",
+            "year": "2002",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Using XSL and XQL for efficient, customised access to dictionary information",
+            "year": "2000",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "\u60c5\u5831\u691c\u7d22\u306e\u57fa\u790e",
+            "year": "2012",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "The stanford natural language processing group",
+            "year": "2008",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "On the three subjects in Indonesian: Evidence from binding",
+            "year": "1998",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Dissociating functor-argument structure from surface phrase structure: the relationship of HPSG Order Domains to LFG",
+            "year": "1995",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Challenges for information extraction from dialogue in criminal law",
+            "year": "2021",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating the factual correctness for abstractive summarization",
+            "year": "2019",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating the word-expert approach for named-entity disambiguation",
+            "year": "2016",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford University\u2019s submissions to the WMT 2014 translation task",
+            "year": "2014",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale examination of academic publications using statistical models",
+            "year": "2012",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford-UBC Entity Linking at TAC-KBP, Again.",
+            "year": "2011",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Identifying conflicting information in texts",
+            "year": "2011",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Graphical model representations of word lattices",
+            "year": "2006",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "pyvene: A library for understanding and improving PyTorch models via interventions",
+            "year": "2024",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Pushdown layers: Encoding recursive structure in transformer language models",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Generation Meets Real People: Building a Social, Informative Open-Domain Dialogue Agent",
+            "year": "2022",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning from limited labels for long legal dialogue",
+            "year": "2021",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploration and initial development of text classification models to identify health information technology usability-related patient safety event reports",
+            "year": "2019",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Feature-rich phrase-based translation: Stanford University\u2019s submission to the WMT 2013 translation task",
+            "year": "2013",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford's system for parsing the English web",
+            "year": "2012",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimizing local probability models for statistical parsing",
+            "year": "2003",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools",
+            "year": "2024",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "JamPatoisNLI: A Jamaican Patois Natural Language Inference Dataset",
+            "year": "2022",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale quantitative evaluation of dialogue agents\u2019 response strategies against offensive users",
+            "year": "2021",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Mapping Three Decades of Intellectual Change in Academia",
+            "year": "2020",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford at TAC KBP 2017: Building a Trilingual Relational Knowledge Graph.",
+            "year": "2017",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Faster Phrase-Based Decoding by Refining Feature State",
+            "year": "2014",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Relaxations for inference in restricted Boltzmann machines",
+            "year": "2013",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford University\u2019s Arabic-to-English Statistical Machine Translation System for the 2009 NIST MT Open Evaluation",
+            "year": "2010",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Topics in information retrieval",
+            "year": "1999",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Mini but mighty: Efficient multilingual pretraining with linguistically-informed data selection",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "On Measuring the Intrinsic Few-Shot Hardness of Datasets",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Challenges of acquiring compositional inductive biases via meta-learning",
+            "year": "2021",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for natural language processing (without magic)",
+            "year": "2013",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Term frequency and weighting",
+            "year": "2008",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Language learning: Beyond thunderdome",
+            "year": "2004",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Rens Bod, Beyond grammar: an experience-based theory of language. Stanford, CA: CSLI Publications, 1998. Pp. xiii+168.",
+            "year": "2002",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "The proceedings of the LFG'98 Conference",
+            "year": "1998",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Markov Models",
+            "year": "1996",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Language model detectors are easily optimized against",
+            "year": "2023",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Dialogue Distillery: Crafting Interpolable, Interpretable, and Introspectable Dialogue from LLMs",
+            "year": "2023",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "A close examination of factual correctness evaluation in abstractive summarization",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine translation from text",
+            "year": "2011",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Knowledge Representation and Management: Benefits and Challenges of the Semantic Web for the Fields of KRM and NLP",
+            "year": "2011",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for natural language processing",
+            "year": "2010",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Microvariation in LFG and OT",
+            "year": "2007",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Statistical approaches to natural language processing",
+            "year": "2003",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Using dictionaries of Australian Aboriginal languages",
+            "year": "2000",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluation measures",
+            "year": "1999",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Dirty Hands",
+            "year": "1999",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "A dictionary database template for Australian languages",
+            "year": "1998",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Mistral\u2013a journey towards reproducible language model training",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Hidden conditional random fields for speech recognition",
+            "year": "2010",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving Chinese-English machine translation through better source-side linguistic processing",
+            "year": "2009",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Web crawling and indexes",
+            "year": "2009",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford University\u2019s Chinese-to-English statistical machine translation system for the 2008 NIST evaluation",
+            "year": "2008",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "What\u2019s needed for lexical databases? Experiences with Kirrkirr",
+            "year": "2001",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic models in computational linguistics",
+            "year": "2000",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Valency versus binding: On the distinctness of argument structure",
+            "year": "1995",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Semgrex and Ssurgeon, searching and manipulating dependency graphs",
+            "year": "2024",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Model editing with canonical examples",
+            "year": "2024",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "When can I Speak? Predicting initiation points for spoken dialogue agents",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Capturing logical structure of visually structured documents with multimodal transition parser",
+            "year": "2021",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Software document terminology recognition",
+            "year": "2015",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning a product of experts with elitist lasso",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic finite state machines for regression-based MT evaluation",
+            "year": "2012",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast dropout training for logistic regression",
+            "year": "2012",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Coling 2008: Proceedings of the workshop on cross-framework and cross-domain parser evaluation",
+            "year": "2008",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford Parser 1.6",
+            "year": "2007",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Word Sense Disambiguation (Chapter 7)",
+            "year": "1999",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Presents embedded under pasts",
+            "year": "1992",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Assessing The Potential Of Mid-Sized Language Models For Clinical QA",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine Translation for Nko: Tools, Corpora and Baseline Results",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "PragmatiCQA: A Dataset for Pragmatic Question Answering in Conversations",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Training language models to follow instructions with human feedback",
+            "year": "2022",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Latent dirichlet allocation",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Identifying focus, techniques and domain of scientific papers",
+            "year": "2010",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring the Utility of ResearchCyc for Reasoning from Natural Language",
+            "year": "2006",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Using feature conjunctions across examples for learning pairwise classifiers",
+            "year": "2005",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Parse selection on the Redwoods corpus: 3rd growth results",
+            "year": "2003",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Review: Foundations of statistical natural language processing, christopher d",
+            "year": "2000",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic Grammars",
+            "year": "1999",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Part-of-speech tagging",
+            "year": "1999",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Clustering",
+            "year": "1999",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Synonym Retrieval Using Word Vectors from Text Data",
+            "year": "1998",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Grammatical relations versus binding: On the distinctness of argument structure",
+            "year": "1997",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Romance complex predicates: phrasal and functional structure",
+            "year": "1996",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Lexical Conceptual Structure and Marathi",
+            "year": "1993",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Do \"English\" Named Entity Recognizers Work Well on Global Englishes?",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "An NLP benchmark dataset for assessing corporate climate policy engagement",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural abstructions: Abstractions that support construction for grounded language learning",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural Language Processing with Deep Learning CS224N/Ling284",
+            "year": "2019",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 3rd Workshop on Continuous Vector Space Models and their Compositionality",
+            "year": "2015",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "The case for universal dependencies",
+            "year": "2015",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the Fifteenth Conference on Computational Natural Language Learning",
+            "year": "2011",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural Language Processing Tools for the Digital Humanities.",
+            "year": "2011",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Lexicon schemas and related data models: When standards meet users",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning of entity recognizers for modular retargetable natural language processing",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust Graph Alignment Methods for Textual Inference and Machine Reading.",
+            "year": "2007",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Programming for linguists: Java\u2122 technology for language researchers by Michael Hammond",
+            "year": "2005",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Inducing Novel Gene-Drug Interactions from the Biomedical Literature",
+            "year": "2003",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Kirrkirr: Experiences with a flexible software interface to indigenous dictionaries",
+            "year": "1999",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental spectral classification for weakly supervised text learning",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent Neural Networks Learn to Store and Generate Sequences using Non-Linear Representations",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten Code Recognition for Pen-and-Paper CS Education",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting Narratives of Climate Obstruction in Social Media Advertising",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten Code Recognition for Pen-and-Paper CS Education",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Statistical Uncertainty in Word Embeddings: GloVe-V",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "MoEUT: Mixture-of-Experts Universal Transformers",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "BAGEL: Bootstrapping Agents by Guiding Exploration with Language",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "In-Order Transition-Based Parsing for Vietnamese",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "CS224n: Natural Language Processing with Deep Learning1",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal Dependencies Treebanks 1.2 (see http://universaldependencies. org/)",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 2nd Workshop on Continuous Vector Space Models and their Compositionality (CVSC)",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford Universal dependencies",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Distillation",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the NAACL HLT 2010 First International Workshop on Formalisms and Methodology for Learning by Reading",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer)",
+            "year": "2009",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating MT output with entailment technology",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Books and Journals Received",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Alon Lischinsky",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Human Language Technology Conference of the North American Chapter of the Association of Computational Linguistics",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the Human Language Technology Conference of the NAACL, Companion Volume: Tutorial Abstracts",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "LinGO redwoods",
+            "year": "2004",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "BioLINK SIG: Text Mining in Biology",
+            "year": "2004",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring the boundaries: Gene and protein identification in biomedical text",
+            "year": "2004",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing and Graphs",
+            "year": "2001",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Applying Hierarchical Classification Techniques Without A Hierarchy",
+            "year": "2001",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Likelihood ratios",
+            "year": "1999",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Linguistics in an Age of Engineering",
+            "year": "1999",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero Syntax: Experiencers and Cascades",
+            "year": "1997",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Word and Compound Clustering for Natural",
+            "year": "1997",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ReportParse: A Unified NLP Tool for Extracting Document Structure and Semantics of Corporate Sustainability Reporting",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast deterministic dropout training",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Kirrkirr",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Infiltrazioni di intelligenza artificiale",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Teaching language models with canonical examples",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "QuASI: Question Answering using Statistics, Semantics, and Inference",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Incorporating Structure into Language Models",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unification-based lexicalist frameworks: An overview",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning of Hierarchical Structure",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Kirrkirr: Software for the Flexible and Interactive Visualisation of a Structured Warlpiri Dictionary",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning for IR ranking",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "EXPLOITING LONG-DISTANCE CONTEXT IN TRANSITION-BASED DEPENDENCY PARSING WITH RECURRENT NEURAL NETWORKS",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Annotation guidelines for marking contradictions",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material: Modeling Biological Processes for Reading Comprehension",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "State-of-the-Art Multilingual NER Using Loosely Aligned Text Whitepaper Stanford University, 2012",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Topic Model Diagnostics: Assessing Domain Relevance via Topical Alignment (Supplementary Materials)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Language varieties",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating MT output with entailment features",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Accurate Unsupervised Learning of Field Structure Models for Information Extraction",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Conditional Estimation of HMMs for Information Extraction",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "LFG within King\u2019s descriptive formalism",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Section 5: Searching for Better Automatic MT Metrics",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic Head-driven parsing of natural language",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Gibbs Sampler for Spatial Clustering with the Distance-dependent Chinese Restaurant Process",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicate-argument structure from broad-coverage parse trees: Improving on the context-free approximation",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Inducing Syntactic Structure: Constituency and Dependency",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributional Models for Corpus-Based Syntax Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Natural Language Processing, Computational Linguistics, Deep Learning"
+}

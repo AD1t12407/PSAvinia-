@@ -1,0 +1,3531 @@
+{
+    "author": "Fei-Fei Li",
+    "affiliation": "Professor of Computer Science, Stanford University",
+    "total_papers": 587,
+    "total_citations": 266303,
+    "publications": [
+        {
+            "title": "Imagenet: A large-scale hierarchical image database",
+            "year": "2009",
+            "citations": 73361,
+            "link": "No link available"
+        },
+        {
+            "title": "Imagenet large scale visual recognition challenge",
+            "year": "2015",
+            "citations": 46397,
+            "link": "No link available"
+        },
+        {
+            "title": "Perceptual losses for real-time style transfer and super-resolution",
+            "year": "2016",
+            "citations": 11837,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale video classification with convolutional neural networks",
+            "year": "2014",
+            "citations": 8640,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep visual-semantic alignments for generating image descriptions",
+            "year": "2015",
+            "citations": 7046,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual genome: Connecting language and vision using crowdsourced dense image annotations",
+            "year": "2017",
+            "citations": 5741,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning generative visual models from few training examples: An incremental bayesian approach tested on 101 object categories",
+            "year": "2004",
+            "citations": 5588,
+            "link": "No link available"
+        },
+        {
+            "title": "A bayesian hierarchical model for learning natural scene categories",
+            "year": "2005",
+            "citations": 5088,
+            "link": "No link available"
+        },
+        {
+            "title": "3d object representations for fine-grained categorization",
+            "year": "2013",
+            "citations": 4022,
+            "link": "No link available"
+        },
+        {
+            "title": "On the opportunities and risks of foundation models",
+            "year": "2021",
+            "citations": 3593,
+            "link": "No link available"
+        },
+        {
+            "title": "Social lstm: Human trajectory prediction in crowded spaces",
+            "year": "2016",
+            "citations": 3576,
+            "link": "No link available"
+        },
+        {
+            "title": "One-shot learning of object categories",
+            "year": "2006",
+            "citations": 3106,
+            "link": "No link available"
+        },
+        {
+            "title": "Clevr: A diagnostic dataset for compositional language and elementary visual reasoning",
+            "year": "2017",
+            "citations": 2422,
+            "link": "No link available"
+        },
+        {
+            "title": "Progressive neural architecture search",
+            "year": "2018",
+            "citations": 2366,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of human action categories using spatial-temporal words",
+            "year": "2008",
+            "citations": 2275,
+            "link": "No link available"
+        },
+        {
+            "title": "Social gan: Socially acceptable trajectories with generative adversarial networks",
+            "year": "2018",
+            "citations": 2246,
+            "link": "No link available"
+        },
+        {
+            "title": "Target-driven visual navigation in indoor scenes using deep reinforcement learning",
+            "year": "2017",
+            "citations": 1847,
+            "link": "No link available"
+        },
+        {
+            "title": "Novel dataset for fine-grained image categorization: Stanford dogs",
+            "year": "2011",
+            "citations": 1687,
+            "link": "No link available"
+        },
+        {
+            "title": "Mentornet: Learning data-driven curriculum for very deep neural networks on corrupted labels",
+            "year": "2018",
+            "citations": 1685,
+            "link": "No link available"
+        },
+        {
+            "title": "Densecap: Fully convolutional localization networks for dense captioning",
+            "year": "2016",
+            "citations": 1455,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing and understanding recurrent networks",
+            "year": "2015",
+            "citations": 1443,
+            "link": "No link available"
+        },
+        {
+            "title": "Scene graph generation by iterative message passing",
+            "year": "2017",
+            "citations": 1376,
+            "link": "No link available"
+        },
+        {
+            "title": "Dense-captioning events in videos",
+            "year": "2017",
+            "citations": 1358,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual relationship detection with language priors",
+            "year": "2016",
+            "citations": 1292,
+            "link": "No link available"
+        },
+        {
+            "title": "Image retrieval using scene graphs",
+            "year": "2015",
+            "citations": 1236,
+            "link": "No link available"
+        },
+        {
+            "title": "Object bank: A high-level image representation for scene classification and semantic feature sparsification",
+            "year": "2010",
+            "citations": 1231,
+            "link": "No link available"
+        },
+        {
+            "title": "Auto-deeplab: Hierarchical neural architecture search for semantic image segmentation",
+            "year": "2019",
+            "citations": 1204,
+            "link": "No link available"
+        },
+        {
+            "title": "What\u2019s the point: Semantic segmentation with point supervision",
+            "year": "2016",
+            "citations": 1161,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep fragment embeddings for bidirectional image sentence mapping",
+            "year": "2014",
+            "citations": 1099,
+            "link": "No link available"
+        },
+        {
+            "title": "Densefusion: 6d object pose estimation by iterative dense fusion",
+            "year": "2019",
+            "citations": 1088,
+            "link": "No link available"
+        },
+        {
+            "title": "What, where and who? classifying events by scene and object recognition",
+            "year": "2007",
+            "citations": 1060,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling temporal structure of decomposable motion segments for activity classification",
+            "year": "2010",
+            "citations": 1002,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual7w: Grounded question answering in images",
+            "year": "2016",
+            "citations": 994,
+            "link": "No link available"
+        },
+        {
+            "title": "Rapid natural scene categorization in the near absence of attention",
+            "year": "2002",
+            "citations": 984,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning object categories from Google's image search",
+            "year": "2005",
+            "citations": 977,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Object Categories from Googles Image Search. Computer Vision, 2005. ICCV 2005",
+            "year": "2005",
+            "citations": 977,
+            "link": "No link available"
+        },
+        {
+            "title": "Image generation from scene graphs",
+            "year": "2018",
+            "citations": 908,
+            "link": "No link available"
+        },
+        {
+            "title": "A Bayesian approach to unsupervised one-shot learning of object categories",
+            "year": "2003",
+            "citations": 845,
+            "link": "No link available"
+        },
+        {
+            "title": "One-shot learning of object categories",
+            "year": "2006",
+            "citations": 815,
+            "link": "No link available"
+        },
+        {
+            "title": "HiDDeN: hiding data with deep networks",
+            "year": "2018",
+            "citations": 811,
+            "link": "No link available"
+        },
+        {
+            "title": "Human action recognition by learning bases of action attributes and parts",
+            "year": "2011",
+            "citations": 778,
+            "link": "No link available"
+        },
+        {
+            "title": "Simultaneous image classification and annotation",
+            "year": "2009",
+            "citations": 759,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling mutual context of object and human pose in human-object interaction activities",
+            "year": "2010",
+            "citations": 756,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-end learning of action detection from frame glimpses in videos",
+            "year": "2016",
+            "citations": 735,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards total scene understanding: Classification, annotation and segmentation in an automatic framework",
+            "year": "2009",
+            "citations": 695,
+            "link": "No link available"
+        },
+        {
+            "title": "What does classifying more than 10,000 image categories tell us?",
+            "year": "2010",
+            "citations": 694,
+            "link": "No link available"
+        },
+        {
+            "title": "Segment anything in medical images",
+            "year": "2024",
+            "citations": 693,
+            "link": "No link available"
+        },
+        {
+            "title": "Online detection of unusual events in videos via dynamic sparse coding",
+            "year": "2011",
+            "citations": 654,
+            "link": "No link available"
+        },
+        {
+            "title": "Inferring and executing programs for visual reasoning",
+            "year": "2017",
+            "citations": 629,
+            "link": "No link available"
+        },
+        {
+            "title": "2009 IEEE conference on computer vision and pattern recognition",
+            "year": "2009",
+            "citations": 599,
+            "link": "No link available"
+        },
+        {
+            "title": "What do we perceive in a glance of a real-world scene?",
+            "year": "2007",
+            "citations": 599,
+            "link": "No link available"
+        },
+        {
+            "title": "A hierarchical model of shape and appearance for human action classification",
+            "year": "2007",
+            "citations": 589,
+            "link": "No link available"
+        },
+        {
+            "title": "Fine-grained recognition without part annotations",
+            "year": "2015",
+            "citations": 580,
+            "link": "No link available"
+        },
+        {
+            "title": "Using deep learning and Google Street View to estimate the demographic makeup of neighborhoods across the United States",
+            "year": "2017",
+            "citations": 562,
+            "link": "No link available"
+        },
+        {
+            "title": "3D generic object categorization, localization and pose estimation",
+            "year": "2007",
+            "citations": 554,
+            "link": "No link available"
+        },
+        {
+            "title": "Every moment counts: Dense detailed labeling of actions in complex videos",
+            "year": "2018",
+            "citations": 517,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning latent temporal structure for complex event detection",
+            "year": "2012",
+            "citations": 502,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimol: automatic online picture collection via incremental model learning",
+            "year": "2010",
+            "citations": 499,
+            "link": "No link available"
+        },
+        {
+            "title": "Peeking into the future: Predicting future person activities and locations in videos",
+            "year": "2019",
+            "citations": 461,
+            "link": "No link available"
+        },
+        {
+            "title": "A hierarchical approach for generating descriptive image paragraphs",
+            "year": "2017",
+            "citations": 445,
+            "link": "No link available"
+        },
+        {
+            "title": "Finding task-relevant features for few-shot learning by category traversal",
+            "year": "2019",
+            "citations": 439,
+            "link": "No link available"
+        },
+        {
+            "title": "The unreasonable effectiveness of noisy data for fine-grained recognition",
+            "year": "2016",
+            "citations": 432,
+            "link": "No link available"
+        },
+        {
+            "title": "Grouplet: a structured image representation for recognizing human and object interactions",
+            "year": "2010",
+            "citations": 431,
+            "link": "No link available"
+        },
+        {
+            "title": "Thoracic disease identification and localization with limited supervision",
+            "year": "2018",
+            "citations": 423,
+            "link": "No link available"
+        },
+        {
+            "title": "Eidetic 3D LSTM: A model for video prediction and beyond",
+            "year": "2018",
+            "citations": 420,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural scene categories revealed in distributed patterns of activity in the human brain",
+            "year": "2009",
+            "citations": 408,
+            "link": "No link available"
+        },
+        {
+            "title": "Fine-grained crowdsourcing for fine-grained recognition",
+            "year": "2013",
+            "citations": 389,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining randomization and discrimination for fine-grained image categorization",
+            "year": "2011",
+            "citations": 386,
+            "link": "No link available"
+        },
+        {
+            "title": "Making sense of vision and touch: Self-supervised learning of multimodal representations for contact-rich tasks",
+            "year": "2019",
+            "citations": 385,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic task prioritization for multitask learning",
+            "year": "2018",
+            "citations": 385,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards fairer datasets: Filtering and balancing the distribution of the people subtree in the imagenet hierarchy",
+            "year": "2020",
+            "citations": 376,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating semantically precise scene graphs from textual descriptions for improved image retrieval",
+            "year": "2015",
+            "citations": 367,
+            "link": "No link available"
+        },
+        {
+            "title": "Crowdsourcing annotations for visual object detection",
+            "year": "2012",
+            "citations": 366,
+            "link": "No link available"
+        },
+        {
+            "title": "Composing text and image for image retrieval-an empirical odyssey",
+            "year": "2019",
+            "citations": 364,
+            "link": "No link available"
+        },
+        {
+            "title": "Action genome: Actions as compositions of spatio-temporal scene graphs",
+            "year": "2020",
+            "citations": 358,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed cosegmentation via submodular optimization on anisotropic diffusion",
+            "year": "2011",
+            "citations": 354,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural mechanisms of rapid natural scene categorization in human visual cortex",
+            "year": "2009",
+            "citations": 354,
+            "link": "No link available"
+        },
+        {
+            "title": "Spatially coherent latent topic model for concurrent segmentation and classification of objects and scenes",
+            "year": "2007",
+            "citations": 351,
+            "link": "No link available"
+        },
+        {
+            "title": "Imagenet: A large-scale hierarchical image database",
+            "year": "2009",
+            "citations": 347,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to decompose and disentangle representations for video prediction",
+            "year": "2018",
+            "citations": 346,
+            "link": "No link available"
+        },
+        {
+            "title": "Revision: Automated classification, analysis and redesign of chart images",
+            "year": "2011",
+            "citations": 338,
+            "link": "No link available"
+        },
+        {
+            "title": "Reconstruction of natural scenes from ensemble responses in the lateral geniculate nucleus",
+            "year": "1999",
+            "citations": 335,
+            "link": "No link available"
+        },
+        {
+            "title": "Label efficient learning of transferable representations acrosss domains and tasks",
+            "year": "2017",
+            "citations": 332,
+            "link": "No link available"
+        },
+        {
+            "title": "Tool detection and operative skill assessment in surgical videos using region-based convolutional neural networks",
+            "year": "2018",
+            "citations": 325,
+            "link": "No link available"
+        },
+        {
+            "title": "Connecting modalities: Semi-supervised segmentation and annotation of images using unaligned text corpora",
+            "year": "2010",
+            "citations": 323,
+            "link": "No link available"
+        },
+        {
+            "title": "Reasoning about object affordances in a knowledge base representation",
+            "year": "2014",
+            "citations": 306,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet: Constructing a large-scale image database",
+            "year": "2009",
+            "citations": 306,
+            "link": "No link available"
+        },
+        {
+            "title": "What matters in learning from offline human demonstrations for robot manipulation",
+            "year": "2021",
+            "citations": 305,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical semantic indexing for large scale image retrieval",
+            "year": "2011",
+            "citations": 300,
+            "link": "No link available"
+        },
+        {
+            "title": "Voxposer: Composable 3d value maps for robotic manipulation with language models",
+            "year": "2023",
+            "citations": 282,
+            "link": "No link available"
+        },
+        {
+            "title": "Flexible neural representation for physics prediction",
+            "year": "2018",
+            "citations": 278,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist temporal modeling for weakly supervised action labeling",
+            "year": "2016",
+            "citations": 278,
+            "link": "No link available"
+        },
+        {
+            "title": "Best of both worlds: human-machine collaboration for object annotation",
+            "year": "2015",
+            "citations": 277,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-end, single-stream temporal action detection in untrimmed videos",
+            "year": "2019",
+            "citations": 275,
+            "link": "No link available"
+        },
+        {
+            "title": "Recognizing human-object interactions in still images by modeling the mutual context of objects and human poses",
+            "year": "2012",
+            "citations": 275,
+            "link": "No link available"
+        },
+        {
+            "title": "Spatial-temporal correlatons for unsupervised action classification",
+            "year": "2008",
+            "citations": 275,
+            "link": "No link available"
+        },
+        {
+            "title": "Attribute learning in large-scale datasets",
+            "year": "2010",
+            "citations": 267,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast and balanced: Efficient label tree learning for large scale object recognition",
+            "year": "2011",
+            "citations": 261,
+            "link": "No link available"
+        },
+        {
+            "title": "Iterative visual reasoning beyond convolutions",
+            "year": "2018",
+            "citations": 259,
+            "link": "No link available"
+        },
+        {
+            "title": "Simple line drawings suffice for functional MRI decoding of natural scene categories",
+            "year": "2011",
+            "citations": 259,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances, challenges and opportunities in creating data for trustworthy AI",
+            "year": "2022",
+            "citations": 258,
+            "link": "No link available"
+        },
+        {
+            "title": "Socially-aware large-scale crowd forecasting",
+            "year": "2014",
+            "citations": 258,
+            "link": "No link available"
+        },
+        {
+            "title": "Detecting events and key actors in multi-person videos",
+            "year": "2016",
+            "citations": 257,
+            "link": "No link available"
+        },
+        {
+            "title": "Roboturk: A crowdsourcing platform for robotic skill learning through imitation",
+            "year": "2018",
+            "citations": 247,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of long-term motion dynamics for videos",
+            "year": "2017",
+            "citations": 247,
+            "link": "No link available"
+        },
+        {
+            "title": "Object-centric spatial pooling for image classification",
+            "year": "2012",
+            "citations": 247,
+            "link": "No link available"
+        },
+        {
+            "title": "Hedging your bets: Optimizing accuracy-specificity trade-offs in large scale visual recognition",
+            "year": "2012",
+            "citations": 246,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient image and video co-localization with frank-wolfe algorithm",
+            "year": "2014",
+            "citations": 244,
+            "link": "No link available"
+        },
+        {
+            "title": "Co-localization in real-world images",
+            "year": "2014",
+            "citations": 237,
+            "link": "No link available"
+        },
+        {
+            "title": "Shifting weights: Adapting object detectors from image to video",
+            "year": "2012",
+            "citations": 236,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning task-oriented grasping for tool manipulation from simulated self-supervision",
+            "year": "2020",
+            "citations": 233,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards viewpoint invariant 3d human pose estimation",
+            "year": "2016",
+            "citations": 229,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural task programming: Learning to generalize across hierarchical tasks",
+            "year": "2018",
+            "citations": 228,
+            "link": "No link available"
+        },
+        {
+            "title": "Faster cryptonets: Leveraging sparsity for real-world encrypted inference",
+            "year": "2018",
+            "citations": 226,
+            "link": "No link available"
+        },
+        {
+            "title": "Illuminating the dark spaces of healthcare with ambient intelligence",
+            "year": "2020",
+            "citations": 221,
+            "link": "No link available"
+        },
+        {
+            "title": "Object discovery in 3d scenes via shape analysis",
+            "year": "2013",
+            "citations": 219,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning a dense multi-view representation for detection, viewpoint classification and synthesis of object categories",
+            "year": "2009",
+            "citations": 217,
+            "link": "No link available"
+        },
+        {
+            "title": "Objects as attributes for scene classification",
+            "year": "2012",
+            "citations": 214,
+            "link": "No link available"
+        },
+        {
+            "title": "Interactive gibson benchmark: A benchmark for interactive navigation in cluttered environments",
+            "year": "2020",
+            "citations": 211,
+            "link": "No link available"
+        },
+        {
+            "title": "Making sense of vision and touch: Learning multimodal representations for contact-rich tasks",
+            "year": "2020",
+            "citations": 209,
+            "link": "No link available"
+        },
+        {
+            "title": "Cs231n: Convolutional neural networks for visual recognition",
+            "year": "2015",
+            "citations": 208,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalable multi-label annotation",
+            "year": "2014",
+            "citations": 207,
+            "link": "No link available"
+        },
+        {
+            "title": "Embodied intelligence via learning and evolution",
+            "year": "2021",
+            "citations": 206,
+            "link": "No link available"
+        },
+        {
+            "title": "Using dependent regions for object categorization in a generative framework",
+            "year": "2006",
+            "citations": 205,
+            "link": "No link available"
+        },
+        {
+            "title": "A codebook-free and annotation-free approach for fine-grained image categorization",
+            "year": "2012",
+            "citations": 203,
+            "link": "No link available"
+        },
+        {
+            "title": "Recognizing and learning object categories",
+            "year": "2007",
+            "citations": 202,
+            "link": "No link available"
+        },
+        {
+            "title": "Scene memory transformer for embodied agents in long-horizon tasks",
+            "year": "2019",
+            "citations": 200,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarially robust policy learning: Active construction of physically-plausible perturbations",
+            "year": "2017",
+            "citations": 198,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent attention models for depth-based person identification",
+            "year": "2016",
+            "citations": 195,
+            "link": "No link available"
+        },
+        {
+            "title": "Spatially coherent latent topic model for concurrent object segmentation and classification",
+            "year": "2007",
+            "citations": 193,
+            "link": "No link available"
+        },
+        {
+            "title": "Fine-grained recognition in the wild: A multi-task domain adaptation approach",
+            "year": "2017",
+            "citations": 189,
+            "link": "No link available"
+        },
+        {
+            "title": "D3tw: Discriminative differentiable dynamic time warping for weakly supervised action alignment and segmentation",
+            "year": "2019",
+            "citations": 185,
+            "link": "No link available"
+        },
+        {
+            "title": "Surreal: Open-source reinforcement learning framework and robot manipulation benchmark",
+            "year": "2018",
+            "citations": 184,
+            "link": "No link available"
+        },
+        {
+            "title": "Differential connectivity within the parahippocampal place area",
+            "year": "2013",
+            "citations": 182,
+            "link": "No link available"
+        },
+        {
+            "title": "igibson 2.0: Object-centric simulation for robot learning of everyday household tasks",
+            "year": "2021",
+            "citations": 177,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling Human\u2010Object Interaction Recognition in the Video through Zero\u2010Shot Learning",
+            "year": "2021",
+            "citations": 176,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards scalable dataset construction: An active learning approach",
+            "year": "2008",
+            "citations": 176,
+            "link": "No link available"
+        },
+        {
+            "title": "Object bank: An object-level image representation for high-level visual recognition",
+            "year": "2014",
+            "citations": 173,
+            "link": "No link available"
+        },
+        {
+            "title": "U-mamba: Enhancing long-range dependency for biomedical image segmentation",
+            "year": "2024",
+            "citations": 170,
+            "link": "No link available"
+        },
+        {
+            "title": "Building and using a semantivisual image hierarchy",
+            "year": "2010",
+            "citations": 169,
+            "link": "No link available"
+        },
+        {
+            "title": "Crowdsourcing in computer vision",
+            "year": "2016",
+            "citations": 168,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual semantic planning using deep successor representations",
+            "year": "2017",
+            "citations": 166,
+            "link": "No link available"
+        },
+        {
+            "title": "6-pack: Category-level 6d pose tracker with anchor-based keypoints",
+            "year": "2020",
+            "citations": 163,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet: A large-scale hierarchical image database. 248\u2013255",
+            "year": "2009",
+            "citations": 163,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative segment annotation in weakly labeled video",
+            "year": "2013",
+            "citations": 160,
+            "link": "No link available"
+        },
+        {
+            "title": "A study of face obfuscation in imagenet",
+            "year": "2022",
+            "citations": 158,
+            "link": "No link available"
+        },
+        {
+            "title": "What makes a video a video: Analyzing temporal information in video understanding models and datasets",
+            "year": "2018",
+            "citations": 158,
+            "link": "No link available"
+        },
+        {
+            "title": "A multi-view probabilistic model for 3d object classes",
+            "year": "2009",
+            "citations": 158,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural task graphs: Generalizing to unseen tasks from a single video demonstration",
+            "year": "2019",
+            "citations": 156,
+            "link": "No link available"
+        },
+        {
+            "title": "Why does natural scene categorization require little attention? Exploring attentional requirements for natural and synthetic stimuli",
+            "year": "2005",
+            "citations": 155,
+            "link": "No link available"
+        },
+        {
+            "title": "Vima: General robot manipulation with multimodal prompts",
+            "year": "2022",
+            "citations": 153,
+            "link": "No link available"
+        },
+        {
+            "title": "Love thy neighbors: Image annotation by exploiting image metadata",
+            "year": "2015",
+            "citations": 153,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning features and parts for fine-grained recognition",
+            "year": "2014",
+            "citations": 153,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving image classification with location context",
+            "year": "2015",
+            "citations": 152,
+            "link": "No link available"
+        },
+        {
+            "title": "Hype: A benchmark for human eye perceptual evaluation of generative models",
+            "year": "2019",
+            "citations": 151,
+            "link": "No link available"
+        },
+        {
+            "title": "Rethinking architecture design for tackling data heterogeneity in federated learning",
+            "year": "2022",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "Structure of Dicer and mechanistic implications for RNAi",
+            "year": "2006",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "Action recognition with exemplar based 2.5 d graph matching",
+            "year": "2012",
+            "citations": 146,
+            "link": "No link available"
+        },
+        {
+            "title": "Distinct contributions of functional and deep neural network features to representational similarity of scenes in human brain and behavior",
+            "year": "2018",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "igibson 1.0: A simulation environment for interactive tasks in large realistic scenes",
+            "year": "2021",
+            "citations": 144,
+            "link": "No link available"
+        },
+        {
+            "title": "Linking people in videos with \u201ctheir\u201d names using coreference resolution",
+            "year": "2014",
+            "citations": 144,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning semantic relationships for better action retrieval in images",
+            "year": "2015",
+            "citations": 143,
+            "link": "No link available"
+        },
+        {
+            "title": "Social role discovery in human events",
+            "year": "2013",
+            "citations": 142,
+            "link": "No link available"
+        },
+        {
+            "title": "Conceptual metaphors impact perceptions of human-ai collaboration",
+            "year": "2020",
+            "citations": 141,
+            "link": "No link available"
+        },
+        {
+            "title": "Characterizing and improving stability in neural style transfer",
+            "year": "2017",
+            "citations": 141,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to play with intrinsically-motivated, self-aware agents",
+            "year": "2018",
+            "citations": 140,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale visual recognition challenge 2010",
+            "year": "2010",
+            "citations": 139,
+            "link": "No link available"
+        },
+        {
+            "title": "Measuring depression symptom severity from spoken language and 3D facial expressions",
+            "year": "2018",
+            "citations": 133,
+            "link": "No link available"
+        },
+        {
+            "title": "Behavior: Benchmark for everyday household activities in virtual, interactive, and ecological environments",
+            "year": "2022",
+            "citations": 131,
+            "link": "No link available"
+        },
+        {
+            "title": "Revisiting the\" video\" in video-language understanding",
+            "year": "2022",
+            "citations": 131,
+            "link": "No link available"
+        },
+        {
+            "title": "Graph distillation for action detection with privileged modalities",
+            "year": "2018",
+            "citations": 129,
+            "link": "No link available"
+        },
+        {
+            "title": "Two distinct scene-processing networks connecting vision and memory",
+            "year": "2016",
+            "citations": 126,
+            "link": "No link available"
+        },
+        {
+            "title": "Bedside computer vision\u2014moving artificial intelligence from driver assistance to patient safety",
+            "year": "2018",
+            "citations": 125,
+            "link": "No link available"
+        },
+        {
+            "title": "Collecting a large-scale dataset of fine-grained cars",
+            "year": "2013",
+            "citations": 124,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning generative visual models from few training examples",
+            "year": "2004",
+            "citations": 124,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural graph matching networks for fewshot 3d action recognition",
+            "year": "2018",
+            "citations": 119,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+            "year": "2014",
+            "citations": 119,
+            "link": "No link available"
+        },
+        {
+            "title": "Iris: Implicit reinforcement without interaction at scale for learning control from offline robot manipulation data",
+            "year": "2020",
+            "citations": 118,
+            "link": "No link available"
+        },
+        {
+            "title": "Behavior-1k: A benchmark for embodied ai with 1,000 everyday activities and realistic simulation",
+            "year": "2023",
+            "citations": 117,
+            "link": "No link available"
+        },
+        {
+            "title": "Greedy hierarchical variational autoencoders for large-scale video prediction",
+            "year": "2021",
+            "citations": 116,
+            "link": "No link available"
+        },
+        {
+            "title": "Referring relationships",
+            "year": "2018",
+            "citations": 116,
+            "link": "No link available"
+        },
+        {
+            "title": "A computer vision system for deep learning-based detection of patient mobilization activities in the ICU",
+            "year": "2019",
+            "citations": 115,
+            "link": "No link available"
+        },
+        {
+            "title": "Fine-grained car detection for visual census estimation",
+            "year": "2017",
+            "citations": 115,
+            "link": "No link available"
+        },
+        {
+            "title": "Detecting avocados to zucchinis: what have we done, and where are we going?",
+            "year": "2013",
+            "citations": 115,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning object categories from internet image searches",
+            "year": "2010",
+            "citations": 114,
+            "link": "No link available"
+        },
+        {
+            "title": "Task-set switching with natural scenes: Measuring the cost of deploying top-down attention",
+            "year": "2007",
+            "citations": 114,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale category structure aware image categorization",
+            "year": "2011",
+            "citations": 112,
+            "link": "No link available"
+        },
+        {
+            "title": "Crowdsourcing, benchmarking & other cool things",
+            "year": "2010",
+            "citations": 112,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to generalize across long-horizon tasks from human demonstrations",
+            "year": "2020",
+            "citations": 111,
+            "link": "No link available"
+        },
+        {
+            "title": "Scene graph prediction with limited labels",
+            "year": "2019",
+            "citations": 109,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining the right features for complex event recognition",
+            "year": "2013",
+            "citations": 107,
+            "link": "No link available"
+        },
+        {
+            "title": "Imagenet large scale visual recognition competition 2012 (ILSVRC2012)",
+            "year": "2012",
+            "citations": 106,
+            "link": "No link available"
+        },
+        {
+            "title": "Maskvit: Masked visual pre-training for video prediction",
+            "year": "2022",
+            "citations": 105,
+            "link": "No link available"
+        },
+        {
+            "title": "Keto: Learning keypoint representations for tool manipulation",
+            "year": "2020",
+            "citations": 104,
+            "link": "No link available"
+        },
+        {
+            "title": "Information maximizing visual question generation",
+            "year": "2019",
+            "citations": 104,
+            "link": "No link available"
+        },
+        {
+            "title": "European conference on computer vision",
+            "year": "2016",
+            "citations": 104,
+            "link": "No link available"
+        },
+        {
+            "title": "Finding\" it\": Weakly-supervised reference-aware visual grounding in instructional videos",
+            "year": "2018",
+            "citations": 103,
+            "link": "No link available"
+        },
+        {
+            "title": "Online developmental science to foster innovation, access, and impact",
+            "year": "2020",
+            "citations": 101,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual scenes are categorized by function.",
+            "year": "2016",
+            "citations": 100,
+            "link": "No link available"
+        },
+        {
+            "title": "Embracing error to enable rapid crowdsourcing",
+            "year": "2016",
+            "citations": 99,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring functional connectivity of the human brain using multivariate information analysis",
+            "year": "2009",
+            "citations": 97,
+            "link": "No link available"
+        },
+        {
+            "title": "Representation learning with statistical independence to mitigate bias",
+            "year": "2021",
+            "citations": 96,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning temporal embeddings for complex video analysis",
+            "year": "2015",
+            "citations": 96,
+            "link": "No link available"
+        },
+        {
+            "title": "Procedure planning in instructional videos",
+            "year": "2020",
+            "citations": 94,
+            "link": "No link available"
+        },
+        {
+            "title": "Mind your outliers! investigating the negative impact of outliers on active learning for visual question answering",
+            "year": "2021",
+            "citations": 91,
+            "link": "No link available"
+        },
+        {
+            "title": "What you see is what you expect: rapid scene understanding benefits from prior experience",
+            "year": "2015",
+            "citations": 91,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning physical graph representations from visual scenes",
+            "year": "2020",
+            "citations": 90,
+            "link": "No link available"
+        },
+        {
+            "title": "Temporal modular networks for retrieving complex compositional activities in videos",
+            "year": "2018",
+            "citations": 90,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards vision-based smart hospitals: a system for tracking and monitoring hand hygiene compliance",
+            "year": "2017",
+            "citations": 90,
+            "link": "No link available"
+        },
+        {
+            "title": "Ethical issues in using ambient intelligence in health-care settings",
+            "year": "2021",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Videoset: Video summary evaluation through text",
+            "year": "2014",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "View synthesis for recognizing unseen poses of object classes",
+            "year": "2008",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "Knowledge transfer in learning to recognize visual objects classes",
+            "year": "2006",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling robot supervision to hundreds of hours with roboturk: Robotic manipulation dataset through human reasoning and dexterity",
+            "year": "2019",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Jointly learning energy expenditures and activities using egocentric multimodal signals",
+            "year": "2017",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Imagenet large scale visual recognition challenge",
+            "year": "2015",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Automated abnormality detection in lower extremity radiographs using deep learning",
+            "year": "2019",
+            "citations": 80,
+            "link": "No link available"
+        },
+        {
+            "title": "Vima: Robot manipulation with multimodal prompts",
+            "year": "2023",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "Tackling over-pruning in variational autoencoders",
+            "year": "2017",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "Large margin learning of upstream scene understanding models",
+            "year": "2010",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "RGB-W: When vision meets wireless",
+            "year": "2015",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "Mimicplay: Long-horizon imitation learning by watching human play",
+            "year": "2023",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Construction and analysis of a large scale image ontology",
+            "year": "2009",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Extracting moving people from internet videos",
+            "year": "2008",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "On the opportunities and risks of foundation models. arXiv 2021",
+            "year": "2023",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep affordance foresight: Planning through what can be done in the future",
+            "year": "2021",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Rubiksnet: Learnable 3d-shift for efficient video action recognition",
+            "year": "2020",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+            "year": "2009",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Toward more gender diversity in CS through an artificial intelligence summer program for high school girls",
+            "year": "2016",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "Building a large-scale multimodal knowledge base system for answering visual queries",
+            "year": "2015",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale visual recognition challenge (ILSVRC), 2010",
+            "year": "2010",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual categorization is automatic and obligatory: Evidence from Stroop-like paradigm",
+            "year": "2014",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "Vision-Based Estimation of MDS-UPDRS Gait Scores for Assessing Parkinson\u2019s Disease Motor Severity",
+            "year": "2020",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "Objectfolder: A dataset of objects with implicit visual, auditory, and tactile representations",
+            "year": "2021",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Computer vision-based descriptive analytics of seniors\u2019 daily activities for long-term health monitoring",
+            "year": "2018",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet: A large-scale hierarchical image database",
+            "year": "2009",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed asynchronous optimization with unbounded delays: How slow can you go?",
+            "year": "2018",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Caltech 101",
+            "year": "2022",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Metamorph: Learning universal controllers with transformers",
+            "year": "2022",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Quantifying Parkinson\u2019s disease motor severity under uncertainty using MDS-UPDRS videos",
+            "year": "2021",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Situational fusion of visual representation for visual navigation",
+            "year": "2019",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Leveraging the wisdom of the crowd for fine-grained recognition",
+            "year": "2015",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Video event understanding using natural language descriptions",
+            "year": "2013",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Motion segment decomposition of RGB-D sequences for human behavior understanding",
+            "year": "2017",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional neural networks for visual recognition",
+            "year": "2015",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual relationships as functions: Enabling few-shot scene graph prediction",
+            "year": "2019",
+            "citations": 66,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering object functionality",
+            "year": "2013",
+            "citations": 66,
+            "link": "No link available"
+        },
+        {
+            "title": "Human\u2013object interactions are more than the sum of their parts",
+            "year": "2017",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Parcellating connectivity in spatial maps",
+            "year": "2015",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Image segmentation with topic random field",
+            "year": "2010",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Physion: Evaluating physical prediction from vision in humans and machines",
+            "year": "2021",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Causal induction from visual observations for goal directed tasks",
+            "year": "2019",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Cs231n: Convolutional neural networks for visual recognition",
+            "year": "2018",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Human-in-the-loop imitation learning using remote teleoperation",
+            "year": "2020",
+            "citations": 63,
+            "link": "No link available"
+        },
+        {
+            "title": "Audio-linguistic embeddings for spoken sentences",
+            "year": "2019",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Regression planning networks",
+            "year": "2019",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to predict human behavior in crowded scenes",
+            "year": "2017",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised visual-linguistic reference resolution in instructional videos",
+            "year": "2017",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Photorealistic video generation with diffusion models",
+            "year": "2023",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Secant: Self-expert cloning for zero-shot generalization of visual policies",
+            "year": "2021",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying actions and measuring action similarity by modeling the mutual context of objects and human poses",
+            "year": "2011",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Cs231n convolutional neural networks for visual recognition (2016)",
+            "year": "2017",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "ILSVRC-2012, 2012",
+            "year": "2012",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "A glimpse far into the future: Understanding long-term crowd worker quality",
+            "year": "2017",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Integration or Erasure?: Modernizing Medicine at Lhasa's Mentsikhang",
+            "year": "2012",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Holistic evaluation of text-to-image models",
+            "year": "2024",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Assessing the accuracy of automatic speech recognition for psychotherapy",
+            "year": "2020",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Privacy-preserving action recognition for smart hospitals using low-resolution depth images",
+            "year": "2018",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Basic level category structure emerges gradually across human ventral visual cortex",
+            "year": "2015",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Mindagent: Emergent gaming interaction",
+            "year": "2023",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalable differential privacy with sparse network finetuning",
+            "year": "2021",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Knowledge acquisition for visual question answering via iterative querying",
+            "year": "2017",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Implicit causal models for genome-wide association studies",
+            "year": "2017",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Objectfolder 2.0: A multisensory object dataset for sim2real transfer",
+            "year": "2022",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamics learning with cascaded variational inference for multi-step manipulation",
+            "year": "2019",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Retrospectives on the embodied ai workshop",
+            "year": "2022",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Socially situated artificial intelligence enables learning from human interaction",
+            "year": "2022",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Good exemplars of natural scene categories elicit clearer patterns than bad exemplars but not greater BOLD activity",
+            "year": "2013",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Free your Camera: 3D Indoor Scene Understanding from Arbitrary Camera Motion.",
+            "year": "2013",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic detection of hand hygiene using computer vision technology",
+            "year": "2020",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding the 3D layout of a cluttered room from multiple images",
+            "year": "2014",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient extraction of human motion volumes by tracking",
+            "year": "2010",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "What do reflections tell us about the shape of a mirror?",
+            "year": "2004",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Cs231n: Convolutional neural networks for visual recognition 2016",
+            "year": "2016",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Vision-based classification of developmental disorders using eye-movements",
+            "year": "2016",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Pinpointing the peripheral bias in neural scene-processing networks during natural viewing",
+            "year": "2016",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Continuous relaxation of symbolic planner for one-shot imitation learning",
+            "year": "2019",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning multi-arm manipulation through collaborative teleoperation",
+            "year": "2021",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet large scale visual recognition challenge 2010",
+            "year": "2011",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Building a large-scale multimodal knowledge base for visual question answering",
+            "year": "2015",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Computer Vision and Pattern Recognition, 2009. CVPR 2009",
+            "year": "2009",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Error-aware imitation learning from teleoperation data for mobile manipulation",
+            "year": "2022",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Typicality sharpens category representations in object-selective cortex",
+            "year": "2016",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Binding is a local problem for natural objects and scenes",
+            "year": "2005",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Marc\u2019Aurelio Ranzato, and Pietro Perona",
+            "year": "2022",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Co-gail: Learning diverse strategies for human-robot collaboration",
+            "year": "2022",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Voxel-level functional connectivity using spatial regularization",
+            "year": "2012",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "What, where and who? telling the story of an image by activity classification, scene recognition and object categorization",
+            "year": "2010",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Siamese masked autoencoders",
+            "year": "2023",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "See, hear, and feel: Smart sensory fusion for robotic manipulation",
+            "year": "2022",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Zeronvs: Zero-shot 360-degree view synthesis from a single real image",
+            "year": "2023",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to learn from noisy web videos",
+            "year": "2017",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical mixture of classification experts uncovers interactions between brain regions",
+            "year": "2009",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing and understanding recurrent networks",
+            "year": "2015",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "What do we see in a glance of a scene",
+            "year": "2007",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "AdaPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems",
+            "year": "2019",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Ddrprog: A clevr differentiable dynamic reasoning programmer",
+            "year": "2018",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet: a Large-Scale Hierarchical Image Database Shrimp Project View project hybrid intrusion detction systems View project ImageNet: A Large-Scale Hierarchical Image Database",
+            "year": "2009",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Visualizing and understanding recurrent networks. arXiv 2015",
+            "year": "Unknown",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Agent ai: Surveying the horizons of multimodal interaction",
+            "year": "2024",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive procedural task generation for hard-exploration problems",
+            "year": "2020",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Categorization influences detection: A perceptual advantage for representative exemplars of natural scene categories",
+            "year": "2017",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Conditional gradient algorithms for machine learning",
+            "year": "2012",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Evidence for similar patterns of neural activity elicited by picture-and word-based representations of natural scenes",
+            "year": "2017",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering the signatures of joint attention in child-caregiver interaction",
+            "year": "2014",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient euclidean projections onto the intersection of norm balls",
+            "year": "2012",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-view object categorization and pose estimation",
+            "year": "2010",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Metadata normalization",
+            "year": "2021",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Vision-based gait analysis for senior care",
+            "year": "2018",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford cs class cs231n: Convolutional neural networks for visual recognition",
+            "year": "2017",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Example-driven model-based reinforcement learning for solving long-horizon visuomotor tasks",
+            "year": "2021",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergence of structured behaviors from curiosity-based intrinsic motivation",
+            "year": "2018",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 11: Detection and segmentation",
+            "year": "2017",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalizable task planning through representation pretraining",
+            "year": "2022",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Vision-Based Hand Hygiene Monitoring in Hospitals.",
+            "year": "2016",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale visual recognition challenge",
+            "year": "2012",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Moma: Multi-object multi-actor activity parsing",
+            "year": "2021",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "AI-based request augmentation to increase crowdsourcing participation",
+            "year": "2019",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalable annotation of fine-grained categories without experts",
+            "year": "2017",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Perceptual losses for real-time style transfer and super-resolution. CoRR abs/1603.08155 (2016)",
+            "year": "2016",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Searching for computer vision north stars",
+            "year": "2022",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural architecture search using a performance prediction neural network",
+            "year": "2021",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Bias-resilient neural network",
+            "year": "2019",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Privhar: Recognizing human actions from privacy-preserving lens",
+            "year": "2022",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Gaitforemer: Self-supervised pre-training of transformers via human motion forecasting for few-shot gait impairment severity estimation",
+            "year": "2022",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional neural networks",
+            "year": "2017",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequential dexterity: Chaining dexterous policies for long-horizon manipulation",
+            "year": "2023",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "To err is human: correlating fMRI decoding and behavioral errors to probe the neural representation of natural scene categories",
+            "year": "2011",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Chain of code: Reasoning with a language model-augmented code emulator",
+            "year": "2023",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Gibson env v2: Embodied simulation environments for interactive navigation",
+            "year": "2019",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "BURNED: towards efficient and accurate burn prognosis using deep learning",
+            "year": "2017",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Tracking millions of humans in crowded spaces",
+            "year": "2017",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "The objectfolder benchmark: Multisensory learning with neural and real objects",
+            "year": "2023",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization through hand-eye coordination: An action space for learning spatially-invariant visuomotor control",
+            "year": "2021",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Web image prediction using multivariate point processes",
+            "year": "2012",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual Recognition: Computational Models and Human Psychophysics",
+            "year": "2005",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Elign: Expectation alignment as a multi-agent intrinsic reward",
+            "year": "2022",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Audio-visual speaker localization using graphical models",
+            "year": "2006",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Dexcap: Scalable and portable mocap data collection system for dexterous manipulation",
+            "year": "2024",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Cryo-EM structure and electrophysiological characterization of ALMT from Glycine max reveal a previously uncharacterized class of anion channels",
+            "year": "2022",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Motion reasoning for goal-based imitation learning",
+            "year": "2020",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating facial recognition technology: a protocol for performance assessment in new domains",
+            "year": "2020",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Bayesian active learning for multiple correct outputs",
+            "year": "2019",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "3d point cloud-based visual prediction of icu mobility care activities",
+            "year": "2018",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 5: Convolutional Neural Networks",
+            "year": "2016",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale visual recognition challenge 2012",
+            "year": "2012",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "DFields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation",
+            "year": "2023",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Dualsmc: Tunneling differentiable filtering and planning under continuous pomdps",
+            "year": "2019",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Cell cycle-regulated transcription of CENP-A by the MBF complex ensures optimal level of CENP-A for centromere formation",
+            "year": "2019",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "CS231n Convolutional Neural Networks for Visual Recognition Lecture Notes",
+            "year": "2017",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Method and system for optimizing accuracy-specificity trade-offs in large scale visual recognition",
+            "year": "2015",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Imagenet large scale visual recognition challenge 2012 (ilsvrc2012)",
+            "year": "2012",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Caltech101 image dataset",
+            "year": "2003",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering generalizable skills via automated generation of diverse tasks",
+            "year": "2021",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "AI will change the world, so it\u2019s time to change AI",
+            "year": "2020",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Antibody pull-down experiments in fission yeast",
+            "year": "2018",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "M-ember: Tackling long-horizon mobile manipulation via factorized domain transfer",
+            "year": "2023",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Moma-lrg: Language-refined graphs for multi-object multi-actor activity parsing",
+            "year": "2022",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Recent insights into mechanisms preventing ectopic centromere formation",
+            "year": "2021",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised camera localization in crowded spaces",
+            "year": "2017",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Perceptual losses for real-time style transfer and super-resolution. Department of Computer Science",
+            "year": "2016",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Rbm10 facilitates heterochromatin assembly via the Clr6 HDAC complex",
+            "year": "2021",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent neural networks",
+            "year": "2017",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale visual recognition challenge 2017",
+            "year": "2017",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual noise from natural scene statistics reveals human scene category representations",
+            "year": "2014",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Mid-level features improve recognition of interactive activities",
+            "year": "2012",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural scene categorization in the near absence of attention: further explorations",
+            "year": "2003",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic-resolution model learning for object pile manipulation",
+            "year": "2023",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional neural networks (cnns/convnets)",
+            "year": "2018",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional neural networks",
+            "year": "2018",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "GENIE TRECVID 2011 Multimedia Event Detection: Late-Fusion Approaches to Combine Multiple Audio-Visual features.",
+            "year": "2011",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "An interactive agent foundation model",
+            "year": "2024",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Noir: Neural signal operated intelligent robots for everyday activities",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling dynamic environments with scene graph memory",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Rendering humans from object-occluded monocular videos",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural event semantics for grounded language understanding",
+            "year": "2021",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Dri1 mediates heterochromatin assembly via RNAi and histone deacetylation",
+            "year": "2021",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Object-centric spatial pooling for image classification",
+            "year": "2014",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "ILSVRC-2013",
+            "year": "2013",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering voxel-level functional connectivity between cortical regions",
+            "year": "2012",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Mentornet: Regularizing very deep neural networks on corrupted labels",
+            "year": "Unknown",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards curiosity-driven learning of physical dynamics",
+            "year": "2020",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Networks Part 2: Setting up the data and the loss",
+            "year": "2017",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Epitomic Variational Autoencoders",
+            "year": "2016",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Perceptual losses for real-time style transfer and super-resolution. CoRR, abs/1603.08155",
+            "year": "2016",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford University CS231n: Convolutional neural networks for visual recognition",
+            "year": "2016",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Two distinct scene processing networks connecting vision and memory",
+            "year": "2015",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep fragment embeddings for bidirectional image sentence mapping Advances in Neural Information Processing Systems. 1889--1897",
+            "year": "2014",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-level structured image coding on high-dimensional image representation",
+            "year": "2013",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Method for Implementing a High-Level Image Representation for Image Analysis",
+            "year": "2012",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Categorization of good and bad examples of natural scene categories",
+            "year": "2009",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction",
+            "year": "2024",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Model-based control with sparse neural dynamics",
+            "year": "2024",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "A dual representation framework for robot learning with human guidance",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Active task randomization: Learning visuomotor skills for sequential manipulation by proposing feasible and novel tasks",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Affordances provide a fundamental categorization principle for visual scenes",
+            "year": "2014",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Integrating randomization and discrimination for classifying human-object interaction activities",
+            "year": "2014",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Using \u201cfair forfeit\u201d to prevent truncation attacks on mobile agents",
+            "year": "2005",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Position Paper: Agent AI Towards a Holistic Intelligence",
+            "year": "2024",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Task-driven graph attention for hierarchical relational object navigation",
+            "year": "2023",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Sonicverse: A multisensory simulation platform for embodied household agents that see and hear",
+            "year": "2023",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Ccp1-Ndc80 switch at the N terminus of CENP-T regulates kinetochore assembly",
+            "year": "2021",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual intelligence through human interaction",
+            "year": "2021",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Dual sequential monte carlo: Tunneling filtering and planning in continuous pomdps",
+            "year": "2019",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarially robust policy learning through active construction of physically-plausible perturbations",
+            "year": "2017",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Bag of words models",
+            "year": "2011",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet Large Scale Visual Recognition Challenge. 21",
+            "year": "2010",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Can we see the shape of a mirror?",
+            "year": "2003",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Behavior-1k: A human-centered, embodied ai benchmark with 1,000 everyday activities and realistic simulation",
+            "year": "2024",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Primitive Skill-based Robot Learning from Human Evaluative Feedback",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Cell cycle control of kinetochore assembly",
+            "year": "2022",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Scene memory transformer for embodied agents in long time horizon tasks",
+            "year": "2019",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Computer Vision-based Approach to Maintain Independent Living for Seniors.",
+            "year": "2017",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Locally-optimized inter-subject alignment of functional cortical regions",
+            "year": "2016",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual genome: Connecting language and vision using crowdsourced dense image annotations. CoRR abs/1602.07332",
+            "year": "2016",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual census: Using cars to study people and society",
+            "year": "2015",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Mining discriminative adjectives and prepositions for natural scene recognition",
+            "year": "2009",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural Scene Categorization: from Humans to Computers",
+            "year": "2007",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Detection of objects in natural scenes with minimal or no attention",
+            "year": "2002",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual genome: Connecting language and vision using crowdsourced dense image annotations. arXiv preprint. 2016",
+            "year": "Unknown",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative Models for Visual Objects and Object Recognition via Bayesian Interference",
+            "year": "Unknown",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Image",
+            "year": "2024",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "33 automated burn assessment using deep learning and computer vision",
+            "year": "2019",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Social Role Recognition for Human Event Understanding",
+            "year": "2014",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Trecvid 2013 genie: Multimedia event detection and recounting",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet: A large-scale hierarchical image database. 2009 IEEE Conference on Computer Vision and Pattern Recognition. Miami",
+            "year": "2009",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration0",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Wild2Avatar: Rendering Humans Behind Occlusions",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Rex1BD and the 14-3-3 protein control heterochromatin organization at tandem repeats by linking RNAi and HDAC",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Mini-BEHAVIOR: A Procedurally Generated Benchmark for Long-horizon Decision-Making in Embodied AI",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Active Task Randomization: Learning Robust Skills via Unsupervised Generation of Diverse and Feasible Tasks",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "BEHAVIOR in Habitat 2.0: Simulator-Independent Logical Task Description for Benchmarking Embodied AI Agents",
+            "year": "2022",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Surreal-system: Fully-integrated stack for distributed deep reinforcement learning",
+            "year": "2019",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "A fully private pipeline for deep learning on electronic health records",
+            "year": "2018",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling the scientist in the crib",
+            "year": "2018",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "In Situ Chromatin-Binding Assay Using Epifluorescent Microscopy in S. pombe",
+            "year": "2018",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Tracking millions of humans in crowded space in crowded spaces",
+            "year": "2017",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Method for Implementing a High-Level Image Representation for Image Analysis",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Egocentric multi-modal dataset with visual and physiological signals",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Calculation of Flicker Parameters Using Voltage Interharmonics",
+            "year": "2012",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "ReVision",
+            "year": "2011",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "INTERNET VISION",
+            "year": "2010",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Perceptual differences between natural scene categories",
+            "year": "2010",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Finding \u201cgood\u201d features for natural scene classification",
+            "year": "2009",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Recognizing and learning object categories: Year 2009",
+            "year": "2009",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Making sense",
+            "year": "2008",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "One Step Beyond Histogram: Image Representation by Markov Stationary Features",
+            "year": "2008",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational shift invariant probabilistic PCA for face recognition",
+            "year": "2006",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "3D object representations for fine-grained categorization: supplementary material",
+            "year": "2004",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Heterochromatin repeat organization at an individual level: Rex1BD and the 14\u20103\u20103 protein coordinate to shape the epigenetic landscape within heterochromatin repeats",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating Large Language Models in Echocardiography Reporting: Opportunities and Challenges",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Methods and Systems to Remotely Operate Robotic Devices",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "HomE: Homography-Equivariant Video Representation Learning",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparative eminence: Foundation versus domain-specific model for cardiac ultrasound segmentation",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Molecular basis for the R-type anion channel QUAC1 activity in guard cells",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural abstructions: Abstractions that support construction for grounded language learning",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning predicates as functions to enable few-shot scene graph prediction",
+            "year": "2019",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Engagement Learning: Expanding Visual Knowledge by Engaging Online Participants",
+            "year": "2018",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Viewpoint invariant convolutional networks for identifying risky hand hygiene scenarios",
+            "year": "2017",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Method for Implementing a High-Level Image Representation for Image Analysis",
+            "year": "2017",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Depth-based activity recognition in ICUs using convolutional and recurrent neural networks",
+            "year": "2017",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Supervoxel parcellation of visual cortex connectivity",
+            "year": "2014",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual categorization is automatic and obligatory: Evidence from Stroop-like",
+            "year": "2014",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Oddness at a glance: Unraveling the time course of typical and atypical scene perception",
+            "year": "2013",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Real-world objects acquire basic-level advantage in occipito-temporal cortex",
+            "year": "2013",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Representations of Object Categories at Multiple Taxonomic Levels",
+            "year": "2012",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple method of voltage flicker estimation based on interharmonics",
+            "year": "2011",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Translation Invariance of Natural Scene Categories",
+            "year": "2011",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Decoding objects undergoing contextual violations",
+            "year": "2011",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Searchlight analysis reveals brain areas involved in scene categorization",
+            "year": "2009",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Construction and Analysis of a Large Scale Image Ontology",
+            "year": "2009",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational transform invariant mixture of probabilistic pca",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "5 Integration or erasure?",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "OPTIMOL: a framework for online picture collection via incremental model learning",
+            "year": "2007",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "A Hierarchical Approach for Generating Descriptive Image Paragraphs",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "CVPR. 2013",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "A method of voltage flicker estimation based on interharmonic pairs",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Data-driven discovery of movement-linked heterogeneity in neurodegenerative diseases",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "OccFusion: Rendering Occluded Humans with Generative Diffusion Priors",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Few-Shot Classification of Interactive Activities of Daily Living (InteractADL)",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The SUN-family protein Sad1 mediates heterochromatin spatial organization through interaction with histone H2A-H2B",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and Methods for Recognizing Human Actions from Privacy-Preserving Optics",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Differentially Private Video Activity Recognition",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Guest Editorial: Introduction to the Special Section on Graphs in Vision and Pattern Analysis",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Quantifying the Effect of Visual Impairments on Daily Activities in Virtual, Interactive Environments",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Eye-BEHAVIOR: An Eye-Tracking Dataset for Everyday Household Activities in Virtual, Interactive, and Ecological Environments",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Phase separation of Dri1 contributes to heterochromatin formation in Schizosaccharomyces pombe",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolution Process and influence Factors of Dianchi Lake Water Pollution",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural architecture search using a performance prediction neural network",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "GENETICS, Vol. 211, March 2019, Copyright\u00a9 2019",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Computer Vision System to Detect Bedside Patient Mobilization",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Splicing factor Rbm10 facilitates heterochromatin assembly in fission yeast",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional neural networks best predict representational dissimilarity in scene-selective cortex: comparing computational, object and functional models",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Categorization influences detection: A perceptual advantage",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist Temporal Modeling for Weakly Supervised Action Labeling 153",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual and Semantic Neural Representations For Animate and Inanimate Object",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Locally-Optimized Inter-Subject Alignment of Functional Cortical Regions",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Pushing the Boundaries of Fine-Grained Object Classification with fMRI Decoding in Human Occipito-Temporal Cortex",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Category Boundaries and Typicality Warp the Neural Representation Space of Real-World Object Categories",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Functions Provide a Fundamental Categorization Principle for Scenes",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SentenceRacer: A Game with a Purpose for Image Sentence Annotation",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual And Semantic Representations Of Scenes",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering mental representations of complex natural scenes",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Typicality Sharpens Object Representations in Object-Selective Cortex",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Simple line drawings",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "INTERNAL REPRESENTATIONS OF REAL-WORLD SCENE CATEGORIES",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "NATURAL STIMULI ACQUIRE BASIC-LEVEL ADVANTAGE IN OBJECT-SELECTIVE CORTEX",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic basic-level object and scene categorization",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Representation of Human-Object Interactions",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A large-scale taxonomy of real-world scenes",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The role of attention in the perception of good and bad exemplars of natural scene categories",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Special Editors' Introduction to the Special Issue on Award-Winning Papers from the IEEE Conference on Computer Vision and Pattern Recognition 2010 (CVPR 2010)",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The effect of load shedding on the constant of dynamic security region critical hyper plane",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural scenes are robust to bubbling",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "IEEE Computer Vision and Pattern Recognition (CVPR)",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Research of calculation of flicker values based on inter-harmonics measurement",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "fMRI Decoding of Natural Scene Categories from Line Drawings",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The Good, the Bad, and the Scrambled: A Perceptual Advantage for Good Examples of Natural Scene Categories",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Extraction of Human Motion Volumes by Tracking",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Human search strategies are informed by complex target distribution statistics",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Decoding of natural scene categories from transformed images using distributed patterns of fMRI activity",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Decoding scene categories using distributed patterns of fMRI activity",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Decoding distributed patterns of activity associated with natural scene categorization",
+            "year": "2007",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Task-set switching with natural scenes: Measuring the cost of deploying top",
+            "year": "2007",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Measuring the cost of deploying top-down visual attention",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Rapid natural scene categorization requires little or no attention",
+            "year": "2002",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "RESEARCH JOURNAL",
+            "year": "1970",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 13: k-means and mean-shift clustering",
+            "year": "1923",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "EVALUATING FACIAL RECOGNITION TECHNOLOGY",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Rendering Humans from Object-Occluded Monocular Videos Supplementary Materials",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "MOMA-LRG: Language-Refined Graphs for Multi-Object Multi-Actor Activity Parsing Supplementary Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to Decompose and Disentangle Representations for Video Prediction (Supplementary)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Les nouveaut\u00e9s de HAL v3. 0 de A \u00e0 Z (14/10/2014)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material PrivHAR: Recognizing Human Actions From Privacy-preserving Lens",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation (Supplementary Materials)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Transfer Learning for the ICU: Comparing the Performance of YOLOv5 and Faster R-CNN X101-FPN",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "OBJECTFOLDER 2.0: A Multisensory Object Dataset for Sim2Real Transfer (Supplementary Materials)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "GENETICS, Vol. 198, DECEMBER 2014, Copyright\u00a9 2014",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SECANT: Supplementary Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "DISTRIBUTED ASYNCHRONOUS OPTIMIZATION WITH UNBOUNDED DELAYS: HOW SLOW CAN YOU GO?[SUPPLEMENTARY MATERIAL]",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic Neural Physics Predictor",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "IEEE TRANSACTIONS ONPATTERN ANALYSIS AND MACHINE INTELLIGENCE S",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material-Peeking into the Future: Predicting Future Person Activities and Locations in Videos",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material for Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Characterizing and Improving Stability in Neural Style Transfer Supplementary Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Progressive Neural Architecture Search (Supplementary Material)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Inferring and Executing Programs for Visual Reasoning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Thursday, 1 February",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical Task Generalization with Neural Programs",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Social Role Discovery in Human Events",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 10: Multi-view geometry",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture 18: Human Motion Recognition",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "WEEK DATE TOPIC INSTRUCTOR Chromatin and chromosome dynamics",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "IEEE Computer Society Publishing Services Staff",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sources",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Part 1: Bag-of-words models",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Section: Video Event Understanding using Natural Language Descriptions",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Real-world objects acquire basic-level advantage in object-selective cortex",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Olga Russakovsky",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Perceptual Losses for Real-Time Style Transfer and Super-Resolution: Supplementary Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "DISCOVERING VOXEL-LEVEL FUNCTIONAL CONNECTIVITY BETWEEN CORTICAL REGIONS",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material: Hierarchical Semantic Indexing for Large Scale Image Retrieval",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary material for Best of both worlds: human-machine collaboration for object annotation",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Best of both worlds: human-machine collaboration for object annotation (preliminary version)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplemental Material: Image Segmentation with Topic Random Field",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "I ncremental",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Free your Camera: 3D Indoor Scene Understanding from Arbitrary Camera Motion Supplementary Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Linking people in videos with \u201ctheir\u201d names using coreference resolution (Supplementary Material)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "To\u00e1err\u00e1is\u00e1human: \u00e1correlating\u00e1fMRI\u00e1decoding\u00e1and\u00e1behavioral\u00e1errors\u00e1to\u00e1 probe\u00e1the\u00e1neural\u00e1representation\u00e1of\u00e1natural\u00e1scene\u00e1categories\u00e1",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Hedging Your Bets: Optimizing Accuracy-Specificity Trade-offs in Large Scale Visual Recognition Supplementary Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "School of Computer Science, Carnegie Mellon University 2 Computer Science Department, Stanford University",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Attention Influences the Neural Representation of Natural Scene Category",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Decoding Perceived Natural Scene Categories from fMRI Activity in PPA and RSC",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Tuesday, June 15, 2010",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "TRECVID 2012 GENIE",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Learning of Human Action Categories",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Artificial Intelligence, Machine Learning, Computer Vision, Neuroscience"
+}

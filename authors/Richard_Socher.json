@@ -1,0 +1,2085 @@
+{
+    "author": "Richard Socher",
+    "affiliation": "you.com",
+    "total_papers": 346,
+    "total_citations": 190588,
+    "publications": [
+        {
+            "title": "Imagenet: A large-scale hierarchical image database",
+            "year": "2009",
+            "citations": 73354,
+            "link": "No link available"
+        },
+        {
+            "title": "Glove: Global vectors for word representation",
+            "year": "2014",
+            "citations": 42263,
+            "link": "No link available"
+        },
+        {
+            "title": "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+            "year": "2013",
+            "citations": 9310,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved semantic representations from tree-structured long short-term memory networks",
+            "year": "2015",
+            "citations": 4069,
+            "link": "No link available"
+        },
+        {
+            "title": "Reasoning with neural tensor networks for knowledge base completion",
+            "year": "2013",
+            "citations": 2464,
+            "link": "No link available"
+        },
+        {
+            "title": "Pointer sentinel mixture models",
+            "year": "2016",
+            "citations": 2193,
+            "link": "No link available"
+        },
+        {
+            "title": "A deep reinforced model for abstractive summarization",
+            "year": "2018",
+            "citations": 1945,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing natural scenes and natural language with recursive neural networks",
+            "year": "2011",
+            "citations": 1865,
+            "link": "No link available"
+        },
+        {
+            "title": "Knowing when to look: Adaptive attention via a visual sentinel for image captioning",
+            "year": "2017",
+            "citations": 1810,
+            "link": "No link available"
+        },
+        {
+            "title": "Semantic compositionality through recursive matrix-vector spaces",
+            "year": "2012",
+            "citations": 1806,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-supervised recursive autoencoders for predicting sentiment distributions",
+            "year": "2011",
+            "citations": 1748,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot learning through cross-modal transfer",
+            "year": "2013",
+            "citations": 1741,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving word representations via global context and multiple word prototypes",
+            "year": "2012",
+            "citations": 1621,
+            "link": "No link available"
+        },
+        {
+            "title": "Ask me anything: Dynamic memory networks for natural language processing",
+            "year": "2015",
+            "citations": 1549,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularizing and optimizing LSTM language models",
+            "year": "2017",
+            "citations": 1313,
+            "link": "No link available"
+        },
+        {
+            "title": "Learned in translation: Contextualized word vectors",
+            "year": "2017",
+            "citations": 1254,
+            "link": "No link available"
+        },
+        {
+            "title": "Ctrl: A conditional transformer language model for controllable generation",
+            "year": "2019",
+            "citations": 1233,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing with compositional vector grammars",
+            "year": "2013",
+            "citations": 1227,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic pooling and unfolding recursive autoencoders for paraphrase detection",
+            "year": "2011",
+            "citations": 1166,
+            "link": "No link available"
+        },
+        {
+            "title": "Seq2sql: Generating structured queries from natural language using reinforcement learning",
+            "year": "2017",
+            "citations": 1128,
+            "link": "No link available"
+        },
+        {
+            "title": "Better Word Representations with Recursive Neural Networks for Morphology",
+            "year": "2013",
+            "citations": 1107,
+            "link": "No link available"
+        },
+        {
+            "title": "Dividemix: Learning with noisy labels as semi-supervised learning",
+            "year": "2020",
+            "citations": 1090,
+            "link": "No link available"
+        },
+        {
+            "title": "Grounded Compositional Semantics for Finding and Describing Images with Sentences",
+            "year": "2014",
+            "citations": 1045,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic memory networks for visual and textual question answering",
+            "year": "2016",
+            "citations": 899,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning-enabled medical computer vision",
+            "year": "2021",
+            "citations": 894,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional-recursive deep learning for 3d object classification",
+            "year": "2012",
+            "citations": 836,
+            "link": "No link available"
+        },
+        {
+            "title": "Non-autoregressive neural machine translation",
+            "year": "2017",
+            "citations": 831,
+            "link": "No link available"
+        },
+        {
+            "title": "Bilingual word embeddings for phrase-based machine translation",
+            "year": "2013",
+            "citations": 769,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic coattention networks for question answering",
+            "year": "2016",
+            "citations": 721,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards total scene understanding: Classification, annotation and segmentation in an automatic framework",
+            "year": "2009",
+            "citations": 695,
+            "link": "No link available"
+        },
+        {
+            "title": "The natural language decathlon: Multitask learning as question answering",
+            "year": "2018",
+            "citations": 683,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating the factual consistency of abstractive text summarization",
+            "year": "2019",
+            "citations": 675,
+            "link": "No link available"
+        },
+        {
+            "title": "A joint many-task model: Growing a neural network for multiple nlp tasks",
+            "year": "2016",
+            "citations": 665,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving generalization performance by switching from adam to sgd",
+            "year": "2017",
+            "citations": 664,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-end dense video captioning with masked transformer",
+            "year": "2018",
+            "citations": 647,
+            "link": "No link available"
+        },
+        {
+            "title": "Quasi-recurrent neural networks",
+            "year": "2016",
+            "citations": 623,
+            "link": "No link available"
+        },
+        {
+            "title": "ERASER: A benchmark to evaluate rationalized NLP models",
+            "year": "2019",
+            "citations": 603,
+            "link": "No link available"
+        },
+        {
+            "title": "2009 IEEE conference on computer vision and pattern recognition",
+            "year": "2009",
+            "citations": 599,
+            "link": "No link available"
+        },
+        {
+            "title": "Summeval: Re-evaluating summarization evaluation",
+            "year": "2021",
+            "citations": 598,
+            "link": "No link available"
+        },
+        {
+            "title": "Explain yourself! leveraging language models for commonsense reasoning",
+            "year": "2019",
+            "citations": 535,
+            "link": "No link available"
+        },
+        {
+            "title": "A simple language model for task-oriented dialogue",
+            "year": "2020",
+            "citations": 513,
+            "link": "No link available"
+        },
+        {
+            "title": "Large language models generate functional protein sequences across diverse families",
+            "year": "2023",
+            "citations": 489,
+            "link": "No link available"
+        },
+        {
+            "title": "Transferable multi-domain state generator for task-oriented dialogue systems",
+            "year": "2019",
+            "citations": 477,
+            "link": "No link available"
+        },
+        {
+            "title": "A neural network for factoid question answering over paragraphs",
+            "year": "2014",
+            "citations": 460,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning continuous phrase representations and syntactic parsing with recursive neural networks",
+            "year": "2010",
+            "citations": 447,
+            "link": "No link available"
+        },
+        {
+            "title": "Tying word vectors and word classifiers: A loss framework for language modeling",
+            "year": "2016",
+            "citations": 432,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-hop knowledge graph reasoning with reward shaping",
+            "year": "2018",
+            "citations": 419,
+            "link": "No link available"
+        },
+        {
+            "title": "Learn to grow: A continual structure learning framework for overcoming catastrophic forgetting",
+            "year": "2019",
+            "citations": 412,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural text summarization: A critical evaluation",
+            "year": "2019",
+            "citations": 403,
+            "link": "No link available"
+        },
+        {
+            "title": "Gedi: Generative discriminator guided sequence generation",
+            "year": "2020",
+            "citations": 348,
+            "link": "No link available"
+        },
+        {
+            "title": "Imagenet: A large-scale hierarchical image database",
+            "year": "2009",
+            "citations": 347,
+            "link": "No link available"
+        },
+        {
+            "title": "TOD-BERT: Pre-trained natural language understanding for task-oriented dialogue",
+            "year": "2020",
+            "citations": 324,
+            "link": "No link available"
+        },
+        {
+            "title": "Connecting modalities: Semi-supervised segmentation and annotation of images using unaligned text corpora",
+            "year": "2010",
+            "citations": 323,
+            "link": "No link available"
+        },
+        {
+            "title": "A closer look at deep learning heuristics: Learning rate restarts, warmup and distillation",
+            "year": "2018",
+            "citations": 312,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to retrieve reasoning paths over wikipedia graph for question answering",
+            "year": "2019",
+            "citations": 304,
+            "link": "No link available"
+        },
+        {
+            "title": "Bertology meets biology: Interpreting attention in protein language models",
+            "year": "2020",
+            "citations": 291,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-monitoring navigation agent via auxiliary progress estimation",
+            "year": "2019",
+            "citations": 286,
+            "link": "No link available"
+        },
+        {
+            "title": "Kai Li; and Li Fei-Fei. 2009. ImageNet: A large-scale hierarchical image database",
+            "year": "2009",
+            "citations": 271,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for NLP (without magic)",
+            "year": "2012",
+            "citations": 259,
+            "link": "No link available"
+        },
+        {
+            "title": "Progen: Language modeling for protein generation",
+            "year": "2020",
+            "citations": 256,
+            "link": "No link available"
+        },
+        {
+            "title": "Dye-sensitized solar cells under ambient light powering machine learning: towards autonomous smart sensors for the internet of things",
+            "year": "2020",
+            "citations": 256,
+            "link": "No link available"
+        },
+        {
+            "title": "Global-locally self-attentive encoder for dialogue state tracking",
+            "year": "2018",
+            "citations": 230,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaframe: Adaptive frame selection for fast video recognition",
+            "year": "2019",
+            "citations": 223,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)",
+            "year": "2014",
+            "citations": 220,
+            "link": "No link available"
+        },
+        {
+            "title": "Global-to-local memory pointer networks for task-oriented dialogue",
+            "year": "2019",
+            "citations": 217,
+            "link": "No link available"
+        },
+        {
+            "title": "Bridging textual and tabular data for cross-domain text-to-SQL semantic parsing",
+            "year": "2020",
+            "citations": 198,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning-enabled breast cancer hormonal receptor status determination from base-level H&E stains",
+            "year": "2020",
+            "citations": 198,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving abstraction in text summarization",
+            "year": "2018",
+            "citations": 193,
+            "link": "No link available"
+        },
+        {
+            "title": "An analysis of neural language modeling at multiple scales",
+            "year": "2018",
+            "citations": 191,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "2009",
+            "citations": 187,
+            "link": "No link available"
+        },
+        {
+            "title": "Find or classify? dual strategy for slot-value predictions on multi-domain dialog state tracking",
+            "year": "2019",
+            "citations": 181,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient and robust question answering from minimal context over documents",
+            "year": "2018",
+            "citations": 175,
+            "link": "No link available"
+        },
+        {
+            "title": "The ai economist: Improving equality and productivity with ai-driven tax policies",
+            "year": "2020",
+            "citations": 170,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical and interpretable skill acquisition in multi-task reinforcement learning",
+            "year": "2017",
+            "citations": 169,
+            "link": "No link available"
+        },
+        {
+            "title": "Weighted transformer network for machine translation",
+            "year": "2017",
+            "citations": 165,
+            "link": "No link available"
+        },
+        {
+            "title": "Large language models: A survey",
+            "year": "2024",
+            "citations": 164,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet: A large-scale hierarchical image database. 248\u2013255",
+            "year": "2009",
+            "citations": 163,
+            "link": "No link available"
+        },
+        {
+            "title": "COVID-19 information retrieval with deep-learning based semantic search, question answering, and abstractive summarization",
+            "year": "2021",
+            "citations": 162,
+            "link": "No link available"
+        },
+        {
+            "title": "Dart: Open-domain structured data record to text generation",
+            "year": "2020",
+            "citations": 160,
+            "link": "No link available"
+        },
+        {
+            "title": "Recursive deep learning for natural language processing and computer vision",
+            "year": "2014",
+            "citations": 159,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep neural network-based decision network",
+            "year": "2022",
+            "citations": 153,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic memory network",
+            "year": "2021",
+            "citations": 148,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic Memory Network",
+            "year": "2016",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "Training a joint many-task neural network model using successive regularization",
+            "year": "2021",
+            "citations": 144,
+            "link": "No link available"
+        },
+        {
+            "title": "Sentinel gate for modulating auxiliary information in a long short-term memory (lstm) neural network",
+            "year": "2020",
+            "citations": 143,
+            "link": "No link available"
+        },
+        {
+            "title": "Explore, discover and learn: Unsupervised discovery of state-covering skills",
+            "year": "2020",
+            "citations": 140,
+            "link": "No link available"
+        },
+        {
+            "title": "The AI Economist: Taxation policy design via two-level deep multiagent reinforcement learning",
+            "year": "2022",
+            "citations": 133,
+            "link": "No link available"
+        },
+        {
+            "title": "Dcn+: Mixed objective and deep residual coattention for question answering",
+            "year": "2017",
+            "citations": 133,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating dual sequence inferences using a neural network model",
+            "year": "2021",
+            "citations": 126,
+            "link": "No link available"
+        },
+        {
+            "title": "Aspect specific sentiment analysis using hierarchical deep learning",
+            "year": "2014",
+            "citations": 122,
+            "link": "No link available"
+        },
+        {
+            "title": "Spatial attention model for image captioning",
+            "year": "2020",
+            "citations": 121,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network combined image and text evaluator and classifier",
+            "year": "2017",
+            "citations": 120,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic coattention network for question answering",
+            "year": "2021",
+            "citations": 119,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint many-task neural network model for multiple natural language processing (NLP) tasks",
+            "year": "2020",
+            "citations": 118,
+            "link": "No link available"
+        },
+        {
+            "title": "Pointer sentinel mixture architecture",
+            "year": "2020",
+            "citations": 117,
+            "link": "No link available"
+        },
+        {
+            "title": "Quasi-recurrent neural network",
+            "year": "2018",
+            "citations": 117,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive attention model for image captioning",
+            "year": "2020",
+            "citations": 115,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network based translation of natural language queries to database queries",
+            "year": "2020",
+            "citations": 114,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence-to-sequence prediction using a neural network model",
+            "year": "2024",
+            "citations": 113,
+            "link": "No link available"
+        },
+        {
+            "title": "Keeping your distance: Solving sparse reward tasks using self-balancing shaped rewards",
+            "year": "2019",
+            "citations": 112,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep neural network model for processing data through multiple linguistic task hierarchies",
+            "year": "2022",
+            "citations": 110,
+            "link": "No link available"
+        },
+        {
+            "title": "Quasi-recurrent neural network based encoder-decoder model",
+            "year": "2021",
+            "citations": 110,
+            "link": "No link available"
+        },
+        {
+            "title": "It's Morphin'time! combating linguistic discrimination with inflectional perturbations",
+            "year": "2020",
+            "citations": 110,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning from noisy anchors for one-stage object detection",
+            "year": "2020",
+            "citations": 109,
+            "link": "No link available"
+        },
+        {
+            "title": "Sparc: Cross-domain semantic parsing in context",
+            "year": "2019",
+            "citations": 108,
+            "link": "No link available"
+        },
+        {
+            "title": "Engagement estimator",
+            "year": "2017",
+            "citations": 106,
+            "link": "No link available"
+        },
+        {
+            "title": "Domain specific language for generation of recurrent neural network architectures",
+            "year": "2024",
+            "citations": 103,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularization techniques for end-to-end speech recognition",
+            "year": "2019",
+            "citations": 102,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical and interpretable skill acquisition in multi-task reinforcement learning",
+            "year": "2023",
+            "citations": 100,
+            "link": "No link available"
+        },
+        {
+            "title": "Probability-based guider",
+            "year": "2022",
+            "citations": 100,
+            "link": "No link available"
+        },
+        {
+            "title": "Taming maml: Efficient unbiased meta-reinforcement learning",
+            "year": "2019",
+            "citations": 100,
+            "link": "No link available"
+        },
+        {
+            "title": "Dense video captioning",
+            "year": "2020",
+            "citations": 99,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network combined image and text evaluator and classifier",
+            "year": "2018",
+            "citations": 99,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural language processing using a neural network",
+            "year": "2020",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "Interpretable counting in visual question answering",
+            "year": "2020",
+            "citations": 94,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural language processing using context specific word vectors",
+            "year": "2020",
+            "citations": 92,
+            "link": "No link available"
+        },
+        {
+            "title": "Multitask learning as question answering",
+            "year": "2022",
+            "citations": 90,
+            "link": "No link available"
+        },
+        {
+            "title": "Tree-structured attention with hierarchical accumulation",
+            "year": "2020",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "BERT is not an interlingua and the bias of tokenization",
+            "year": "2019",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "Cosql: A conversational text-to-sql challenge towards cross-domain natural language interfaces to databases",
+            "year": "2019",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning new facts from knowledge bases with neural tensor networks and semantic word vectors",
+            "year": "2013",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Grappa: Grammar-augmented pre-training for table semantic parsing",
+            "year": "2020",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "Multitask learning as question answering",
+            "year": "2020",
+            "citations": 84,
+            "link": "No link available"
+        },
+        {
+            "title": "Xlda: Cross-lingual data augmentation for natural language inference and question answering",
+            "year": "2019",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling Short-answer Grading by Combining Peer Assessment with Algorithmic Scoring",
+            "year": "2014",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Wslln: Weakly supervised natural language localization networks",
+            "year": "2019",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "Question answering from minimal context over documents",
+            "year": "2022",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative nearest neighbor few-shot intent detection by transferring natural language inference",
+            "year": "2020",
+            "citations": 80,
+            "link": "No link available"
+        },
+        {
+            "title": "Coarse-grain fine-grain coattention network for multi-evidence question answering",
+            "year": "2019",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the IEEE conference on computer vision and pattern recognition",
+            "year": "2009",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Prostate cancer therapy personalization via multi-modal deep learning on randomized phase III clinical trials",
+            "year": "2022",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet: A large-scale hierarchical image database",
+            "year": "2009",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Genie: A generator of natural language semantic parsers for virtual assistant commands",
+            "year": "2019",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal natural language processing with limited annotations: Try few-shot textual entailment as a start",
+            "year": "2020",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Li Kai, and Fei-Fei Li,\u201c",
+            "year": "2009",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for learning for domain adaptation",
+            "year": "2021",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Interpretable counting for visual question answering",
+            "year": "2017",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised non-parallel speech domain adaptation using a multi-discriminator adversarial network",
+            "year": "2020",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Global-locally self-attentive dialogue state tracker",
+            "year": "2018",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Glove: Global vectors forword representation",
+            "year": "2015",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Global belief recursive neural networks",
+            "year": "2014",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Editing-based SQL query generation for cross-domain context-dependent questions",
+            "year": "2019",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Augmented cyclic adversarial learning for low resource domain adaptation",
+            "year": "2018",
+            "citations": 66,
+            "link": "No link available"
+        },
+        {
+            "title": "Theory-inspired path-regularized differential network architecture search",
+            "year": "2020",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Competitive experience replay",
+            "year": "2019",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Catastrophic fisher explosion: Early phase fisher matrix impacts generalization",
+            "year": "2021",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Non-autoregressive dialog state tracking",
+            "year": "2020",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep neural language modeling enables functional protein generation across families",
+            "year": "2021",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "A multi-discriminator cyclegan for unsupervised non-parallel speech domain adaptation",
+            "year": "2018",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Startnet: Online detection of action start in untrimmed videos",
+            "year": "2019",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved semantic representations from tree-structured long short-term memory networks. arXiv 2015",
+            "year": "Unknown",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for NLP",
+            "year": "2012",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Spectral chinese restaurant processes: Nonparametric clustering based on similarities",
+            "year": "2011",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Revisiting activation regularization for language rnns",
+            "year": "2017",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Woad: Weakly supervised online action detection in untrimmed videos",
+            "year": "2021",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "A Bayesian analysis of dynamics in free recall",
+            "year": "2009",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards understanding hierarchical learning: Benefits of neural representations",
+            "year": "2020",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Identifying generalization properties in neural networks",
+            "year": "2018",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving end-to-end speech recognition with policy learning",
+            "year": "2018",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "COVID-19 growth rate decreases with social capital",
+            "year": "2020",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Pointer sentinel mixture models",
+            "year": "2017",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "An investigation of phone-based subword units for end-to-end speech recognition",
+            "year": "2020",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Photon: A robust cross-domain text-to-SQL system",
+            "year": "2020",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet: A large-scale hierarchical image database. 2010",
+            "year": "2009",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving out-of-distribution generalization via multi-task self-supervised pretraining",
+            "year": "2020",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Computer Vision and Pattern Recognition, 2009. CVPR 2009",
+            "year": "2009",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "On the generalization gap in reparameterizable reinforcement learning",
+            "year": "2019",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Fei-Fei, L.(2009). ImageNet: A large-scale hierarchical image database",
+            "year": "Unknown",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Unifying question answering, text classification, and regression via span extraction",
+            "year": "2019",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "ChristopherManning,\u201c",
+            "year": "2014",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Online structured meta-learning",
+            "year": "2020",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for unifying question answering and text classification via span extraction",
+            "year": "2022",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Composed variational natural language generation for few-shot intents",
+            "year": "2020",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "A learning based hierarchical model for vessel segmentation",
+            "year": "2008",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Explaining and improving model behavior with k nearest neighbor representations",
+            "year": "2020",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "ProGen: language modeling for protein generation. arXiv",
+            "year": "2020",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Methods and apparatus for virtual coronary mapping",
+            "year": "2013",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Prediction-correction approach to zero shot learning",
+            "year": "2021",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Method and system for vessel segmentation in fluoroscopic images",
+            "year": "2012",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet: a Large-Scale Hierarchical Image Database Shrimp Project View project hybrid intrusion detction systems View project ImageNet: A Large-Scale Hierarchical Image Database",
+            "year": "2009",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Using mode connectivity for loss landscape analysis",
+            "year": "2018",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Manning Christopher D., Ng Andrew Y., and Potts Christopher. 2013",
+            "year": "2013",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Cer, and Christopher D",
+            "year": "2013",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards noise-resistant object detection with noisy annotations",
+            "year": "2020",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Seq2sql: Generating structured queries from natural language using reinforcement learning. arXiv 2017",
+            "year": "2017",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Oct. 2014. Glove: Global vectors for word representation",
+            "year": "Unknown",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Biological data annotation via a human-augmenting AI-based labeling system",
+            "year": "2021",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Dense video captioning",
+            "year": "2021",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Structured text translation",
+            "year": "2021",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Unifying question answering and text classification via span extraction",
+            "year": "2019",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "J, Li K, Fei\u2010Fei L",
+            "year": "2009",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Two-stage online detection of action start in untrimmed videos",
+            "year": "2021",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning world graphs to accelerate hierarchical reinforcement learning",
+            "year": "2019",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Attentive student meets multi-task teacher: Improved knowledge distillation for pretrained models",
+            "year": "2019",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "A flexible approach to automated RNN architecture generation",
+            "year": "2017",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularizing and optimizing LSTM language models. arXiv 2017",
+            "year": "2017",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Taylorized training: Towards better approximation of neural network training at finite width",
+            "year": "2020",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved regularization techniques for end-to-end speech recognition",
+            "year": "2017",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Two-stage online detection of action start in untrimmed videos",
+            "year": "2022",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Explicit memory tracker with coarse-to-fine reasoning for conversational machine reading",
+            "year": "2020",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Mkd: a multi-task knowledge distillation approach for pretrained language models",
+            "year": "2019",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient off-policy credit assignment",
+            "year": "2023",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "ESPRIT: Explaining solutions to physical reasoning tasks",
+            "year": "2020",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "The natural language decathlon: Multitask learning as question answering. arXiv 2018",
+            "year": "Unknown",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Limits of detecting text generated by large-scale language models",
+            "year": "2020",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards neural machine translation with latent tree attention",
+            "year": "2017",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "MetaMind neural machine translation system for WMT 2016",
+            "year": "2016",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for unifying question answering and text classification via span extraction",
+            "year": "2023",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Block-diagonal hessian-free optimization for training neural networks",
+            "year": "2017",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Pointer sentinel mixture models. CoRR abs/1609.07843 (2016)",
+            "year": "2016",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "A high-quality multilingual dataset for structured documentation translation",
+            "year": "2020",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network based translation of natural language queries to database queries",
+            "year": "2022",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving generalization performance by switching from Adam to SGD. 2017",
+            "year": "2020",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Pretrained AI models: performativity, mobility, and change",
+            "year": "2019",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularizing and optimizing LSTM language models",
+            "year": "2018",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Correction networks: Meta-learning for zero-shot learning",
+            "year": "2018",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning when to skim and when to read",
+            "year": "2017",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for unsupervised autoregressive text compression",
+            "year": "2022",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Spatial attention model for image captioning",
+            "year": "2020",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural language processing with deep learning",
+            "year": "2017",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "CS224n: natural language processing with deep learning",
+            "year": "2017",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "others. 2013. Recursive deep models for semantic compositionality over a sentiment treebank",
+            "year": "Unknown",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Multitask learning as question answering",
+            "year": "2023",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks. CoRR abs/1503.00075 (2015)",
+            "year": "2015",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Manifold learning and dimensionality reduction with diffusion maps",
+            "year": "2008",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford glove: Global vectors for word representation",
+            "year": "2017",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "A way out of the odyssey: Analyzing and combining recent insights for lstms",
+            "year": "2016",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Glove: Global Vectors for Word Representation. EMNLP 14, 1532\u20131543",
+            "year": "2014",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Wu; jason chuang; christopher d",
+            "year": "2013",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "The thieves on sesame street are polyglots-extracting multilingual models from monolingual APIs",
+            "year": "2020",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Sketch-Fill-AR: A persona-grounded chit-chat generation framework",
+            "year": "2019",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning.(2017), 1\u201312",
+            "year": "2017",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Quasi-recurrent neural networks",
+            "year": "2017",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Converse: A tree-based modular task-oriented dialogue system",
+            "year": "2022",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating state-of-the-art classification models against bayes optimality",
+            "year": "2021",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial intelligence for streamlined immunofluorescence-based biomarker discovery in prostate cancer.",
+            "year": "2020",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Deleter: Leveraging BERT to perform unsupervised successive text compression",
+            "year": "2019",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalable language modeling: Wikitext-103 on a single gpu in 12 hours",
+            "year": "2018",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "jia Li",
+            "year": "2009",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Quasi-recurrent neural networks. 2016",
+            "year": "Unknown",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Christopher Po s. 2013. Recursive deep models for semantic compositionality over a sentiment treebank",
+            "year": "Unknown",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient determination of user intent for natural language expressions based on machine learning",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting with high correlation features",
+            "year": "2019",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "The natural language decathlon: Multitask learning as question answering. arXiv",
+            "year": "2018",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularizing and optimizing LSTM language models. CoRR abs/1708.02182 (2017)",
+            "year": "2017",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic memory networks for visual and textual question answering. arXiv 1603",
+            "year": "2016",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning for Sentiment Analysis-Invited Talk.",
+            "year": "2016",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Stanford\u2019s system for parsing the English web",
+            "year": "2012",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving Generalization Performance by Switching from Adam to SGD. CoRR abs/1712.07628 (2017)",
+            "year": "2017",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Knowing when to look: Adaptive attention via A visual sentinel for image captioning. arXiv 2016",
+            "year": "2016",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Wallace Byron C.. 2020. ERASER: A benchmark to evaluate rationalized NLP models",
+            "year": "Unknown",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "DIME: An information-theoretic difficulty measure for AI datasets",
+            "year": "2020",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Co-search: Covid-19 information retrieval with semantic search, question answering, and abstractive summarization",
+            "year": "2020",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Explore, discover and learn: unsupervised discovery of state-covering skills",
+            "year": "2020",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Editing-based SQL query generation for cross-domain context-dependent questions",
+            "year": "2019",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Ai\u2019s next great challenge: Understanding the nuances of language",
+            "year": "2018",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Quasi-recurrent neural networks. CoRR abs/1611.01576 (2016)",
+            "year": "2016",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "GloVe: Global Vectors for Word Embeddings",
+            "year": "2014",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Davis Larry S.. 2019",
+            "year": "Unknown",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for natural language processing using neural network",
+            "year": "2021",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Simple data augmentation with the mask token improves domain adaptation for dialog act tagging",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Interactive visualizations for deep learning",
+            "year": "2014",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Training a joint many-task neural network model using successive regularization",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Weakly supervised natural language localization networks for video proposal prediction based on a text query",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Diversity and Explainability Parameters for Recommendation Accuracy in Machine Learning Recommendation Systems",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Explaining creative artifacts",
+            "year": "2020",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Global capacity measures for deep relu networks via path sampling",
+            "year": "2019",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot image classification guided by natural language descriptions of classes: A meta-learning approach",
+            "year": "2018",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards the imagenet-cnn of nlp: Pretraining sentence encoders with machine translation",
+            "year": "2017",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for domain adaptation in dialog act tagging",
+            "year": "2021",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Bayes: A Generic Parameterization Method for Unsupervised Representation Learning",
+            "year": "2020",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Tying word vectors and word classifiers: a loss framework for language modeling. CoRR, vol. abs/1611.01462 (2016)",
+            "year": "2016",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining contexts in lexicon learning for semantic parsing",
+            "year": "2007",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for safe policy improvement for task oriented dialogues",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for real-time search based generative artificial intelligence",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for structured text translation with tag alignment",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for unsupervised density based table structure identification",
+            "year": "2022",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Central Yup'ik and Machine Translation of Low-Resource Polysynthetic Languages",
+            "year": "2020",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Assessing local generalization capability in deep models",
+            "year": "2020",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust domain adaptation by augmented cyclic adversarial learning",
+            "year": "2018",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Cs224d deep learning for natural language processing Lecture 2: Word vectors",
+            "year": "Unknown",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-hop knowledge graph reasoning with reward shaping",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Multitask learning as question answering",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Author Correction: Prostate cancer therapy personalization via multi-modal deep learning on randomized phase III clinical trials",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Structured text translation",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep neural network-based decision network",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating word embeddings with a word embedder and a character embedder neural network models",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural Language Processing with Deep Learning CS224N/Ling284",
+            "year": "2019",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Entropy Penalty: Towards Generalization Beyond the IID Assumption",
+            "year": "2019",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep neural network model for processing data through multiple linguistic task hierarchies",
+            "year": "2018",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving Generalization Performance by Switching from Adam to SGD",
+            "year": "2017",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 3rd Workshop on Continuous Vector Space Models and their Compositionality",
+            "year": "2015",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for search application development",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for a customized search platform",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for a language model-based customized search platform",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for a search tool of code snippets",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and Methods for Reading Comprehension for a Question Answering Task",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint many-task neural network model for multiple natural language processing (NLP) tasks",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for reading comprehension for a question answering task",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "System and methods for training task-oriented dialogue (TOD) language models",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Prediction-correction approach to zero shot learning",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for learning for domain adaptation",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Robustness evaluation via natural typos",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for a customized search platform",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Intelligent training set augmentation for natural language processing tasks",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Prostate cancer therapy personalization via multi-modal deep learning on randomized phase III clinical trials (vol 5, 71, 2022)",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Pointer sentinel mixture architecture",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Data privacy protected machine learning systems",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Track: Machine Learning in Protein Science Deep neural language modeling enables functional protein generation across families",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Three-dimensional (3D) convolution with 3D batch normalization",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural language processing using context-specific word vectors",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Hybrid training of deep networks",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Interpretable counting in visual question answering",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating dual sequence inferences using a neural network model",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for safe policy improvement for task oriented dialogues",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Agent persona grounded chit-chat generation framework",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Quasi-recurrent neural network based encoder-decoder model",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Biological data annotation via a human-augmenting AI-based labeling interface",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Multitask learning as question answering",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "NEURONAL NETWORK-BASED TRANSLATION OF NATURAL LANGUAGE INQUIRIES IN DATABASE INQUIRIES",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Explaining and Improving Model Behavior with k Nearest Neighbor Representations",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Theory-Inspired Path-Regularized Differential Network Architecture Search",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ESPRIT: Explaining Solutions to Physical Reasoning Tasks",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Multitask learning as question answering",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Explain Yourself! Leveraging Language Models for Commonsense Reasoning",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unifying Question Answering, Text Classification, and Regression via Span Extraction",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "MP28-01 ARTIFICIAL INTELLIGENCE (AI) ACCURATELY AUTOMATE AND SPEED IMMUNOFLUORESCENCE (IF)-BASED DISCOVERY AND VALIDATION OF NOVEL PROGNOSTIC AND PREDICTIVE BIOMARKERS IN \u2026",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Contextual Salience for Fast and Accurate Sentence Vectors",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning when to skim and when to read",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "CS224n: Natural Language Processing with Deep Learning1",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Glove: Global vectors forword representation",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 2013 NAACL HLT Student Research Workshop",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Synthia-A Parser for French",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Progen: language modeling for protein generation. arXiv 2020",
+            "year": "2004",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SummEval: Re-evaluating Summarization Evaluation",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Biological data annotation via a human-augmenting AI-based labeling interface",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Gibbs Sampler for Spatial Clustering with the Distance-dependent Chinese Restaurant Process",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Slides by",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Guided Adaptive Credit Assignment for Sample Efficient Policy Optimization",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Glove: Global vectors for word representation [J/OL]",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning World Graph Decompositions To Accelerate Reinforcement Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Tackling the Limits of Deep Learning for NLP",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Continual Learning via Explicit Structure Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material for Submission \u201cEnd-to-End Dense Video Captioning with Masked Transformer\u201d",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Models for Learning Spatial Interactions in Natural Images for Context-Based Classification",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "natural language processing, deep learning, machine learning, artificial intelligence, computer vision"
+}

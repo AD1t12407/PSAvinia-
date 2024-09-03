@@ -1,0 +1,3123 @@
+{
+    "author": "Andrew Ng",
+    "affiliation": "Stanford University",
+    "total_papers": 519,
+    "total_citations": 261961,
+    "publications": [
+        {
+            "title": "Latent dirichlet allocation",
+            "year": "2003",
+            "citations": 54439,
+            "link": "No link available"
+        },
+        {
+            "title": "ROS: an open-source Robot Operating System",
+            "year": "2009",
+            "citations": 12800,
+            "link": "No link available"
+        },
+        {
+            "title": "On spectral clustering: Analysis and an algorithm",
+            "year": "2001",
+            "citations": 12433,
+            "link": "No link available"
+        },
+        {
+            "title": "Rectifier nonlinearities improve neural network acoustic models",
+            "year": "2013",
+            "citations": 9570,
+            "link": "No link available"
+        },
+        {
+            "title": "Recursive deep models for semantic compositionality over a sentiment treebank",
+            "year": "2013",
+            "citations": 9310,
+            "link": "No link available"
+        },
+        {
+            "title": "Reading digits in natural images with unsupervised feature learning",
+            "year": "2011",
+            "citations": 6204,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning word vectors for sentiment analysis",
+            "year": "2011",
+            "citations": 6069,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale distributed deep networks",
+            "year": "2012",
+            "citations": 4890,
+            "link": "No link available"
+        },
+        {
+            "title": "An analysis of single-layer networks in unsupervised feature learning",
+            "year": "2011",
+            "citations": 4545,
+            "link": "No link available"
+        },
+        {
+            "title": "Apprenticeship learning via inverse reinforcement learning",
+            "year": "2004",
+            "citations": 4195,
+            "link": "No link available"
+        },
+        {
+            "title": "Algorithms for inverse reinforcement learning.",
+            "year": "2000",
+            "citations": 4132,
+            "link": "No link available"
+        },
+        {
+            "title": "Multimodal deep learning",
+            "year": "2011",
+            "citations": 4082,
+            "link": "No link available"
+        },
+        {
+            "title": "Distance metric learning with application to clustering with side-information",
+            "year": "2002",
+            "citations": 4032,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep speech 2: End-to-end speech recognition in english and mandarin",
+            "year": "2016",
+            "citations": 3731,
+            "link": "No link available"
+        },
+        {
+            "title": "On discriminative vs. generative classifiers: A comparison of logistic regression and naive bayes",
+            "year": "2001",
+            "citations": 3660,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient sparse coding algorithms",
+            "year": "2006",
+            "citations": 3521,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations",
+            "year": "2009",
+            "citations": 3506,
+            "link": "No link available"
+        },
+        {
+            "title": "Chexnet: Radiologist-level pneumonia detection on chest x-rays with deep learning",
+            "year": "2017",
+            "citations": 3126,
+            "link": "No link available"
+        },
+        {
+            "title": "Building high-level features using large scale unsupervised learning",
+            "year": "2013",
+            "citations": 3098,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy invariance under reward transformations: Theory and application to reward shaping",
+            "year": "1999",
+            "citations": 3001,
+            "link": "No link available"
+        },
+        {
+            "title": "Cheap and fast\u2013but is it good? evaluating non-expert annotations for natural language tasks",
+            "year": "2008",
+            "citations": 2746,
+            "link": "No link available"
+        },
+        {
+            "title": "Feature selection, L1 vs. L2 regularization, and rotational invariance",
+            "year": "2004",
+            "citations": 2666,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Speech: Scaling up end-to-end speech recognition",
+            "year": "2014",
+            "citations": 2665,
+            "link": "No link available"
+        },
+        {
+            "title": "Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison",
+            "year": "2019",
+            "citations": 2566,
+            "link": "No link available"
+        },
+        {
+            "title": "Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network",
+            "year": "2019",
+            "citations": 2467,
+            "link": "No link available"
+        },
+        {
+            "title": "Reasoning with neural tensor networks for knowledge base completion",
+            "year": "2013",
+            "citations": 2464,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-taught learning: transfer learning from unlabeled data",
+            "year": "2007",
+            "citations": 2201,
+            "link": "No link available"
+        },
+        {
+            "title": "Make3d: Learning 3d scene structure from a single still image",
+            "year": "2008",
+            "citations": 2075,
+            "link": "No link available"
+        },
+        {
+            "title": "Map-reduce for machine learning on multicore",
+            "year": "2006",
+            "citations": 1891,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing natural scenes and natural language with recursive neural networks",
+            "year": "2011",
+            "citations": 1865,
+            "link": "No link available"
+        },
+        {
+            "title": "Semantic compositionality through recursive matrix-vector spaces",
+            "year": "2012",
+            "citations": 1806,
+            "link": "No link available"
+        },
+        {
+            "title": "Sparse autoencoder",
+            "year": "2011",
+            "citations": 1795,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-supervised recursive autoencoders for predicting sentiment distributions",
+            "year": "2011",
+            "citations": 1748,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero-shot learning through cross-modal transfer",
+            "year": "2013",
+            "citations": 1741,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving word representations via global context and multiple word prototypes",
+            "year": "2012",
+            "citations": 1621,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised feature learning for audio classification using convolutional deep belief networks",
+            "year": "2009",
+            "citations": 1572,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning depth from single monocular images",
+            "year": "2005",
+            "citations": 1428,
+            "link": "No link available"
+        },
+        {
+            "title": "Sparse deep belief net model for visual area V2",
+            "year": "2007",
+            "citations": 1361,
+            "link": "No link available"
+        },
+        {
+            "title": "On optimization methods for deep learning",
+            "year": "2011",
+            "citations": 1358,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning hierarchical invariant spatio-temporal features for action recognition with independent subspace analysis",
+            "year": "2011",
+            "citations": 1356,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-end text recognition with convolutional neural networks",
+            "year": "2012",
+            "citations": 1251,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous inverted helicopter flight via reinforcement learning",
+            "year": "2006",
+            "citations": 1231,
+            "link": "No link available"
+        },
+        {
+            "title": "Parsing with compositional vector grammars",
+            "year": "2013",
+            "citations": 1227,
+            "link": "No link available"
+        },
+        {
+            "title": "Robotic grasping of novel objects using vision",
+            "year": "2008",
+            "citations": 1191,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for chest radiograph diagnosis: A retrospective comparison of the CheXNeXt algorithm to practicing radiologists",
+            "year": "2018",
+            "citations": 1180,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic pooling and unfolding recursive autoencoders for paraphrase detection",
+            "year": "2011",
+            "citations": 1166,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale deep unsupervised learning using graphics processors",
+            "year": "2009",
+            "citations": 1121,
+            "link": "No link available"
+        },
+        {
+            "title": "Simultaneous localization and mapping with sparse extended information filters",
+            "year": "2004",
+            "citations": 1069,
+            "link": "No link available"
+        },
+        {
+            "title": "Grounded compositional semantics for finding and describing images with sentences",
+            "year": "2014",
+            "citations": 1045,
+            "link": "No link available"
+        },
+        {
+            "title": "Tackling climate change with machine learning",
+            "year": "2022",
+            "citations": 1031,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning syntactic patterns for automatic hypernym discovery",
+            "year": "2004",
+            "citations": 1023,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning with COTS HPC systems",
+            "year": "2013",
+            "citations": 976,
+            "link": "No link available"
+        },
+        {
+            "title": "Cardiologist-level arrhythmia detection with convolutional neural networks",
+            "year": "2017",
+            "citations": 962,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning feature representations with k-means",
+            "year": "2012",
+            "citations": 946,
+            "link": "No link available"
+        },
+        {
+            "title": "An application of reinforcement learning to aerobatic helicopter flight",
+            "year": "2006",
+            "citations": 944,
+            "link": "No link available"
+        },
+        {
+            "title": "An empirical evaluation of deep learning on highway driving",
+            "year": "2015",
+            "citations": 940,
+            "link": "No link available"
+        },
+        {
+            "title": "3-d depth reconstruction from a single still image",
+            "year": "2008",
+            "citations": 872,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional-recursive deep learning for 3d object classification",
+            "year": "2012",
+            "citations": 836,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous helicopter aerobatics through apprenticeship learning",
+            "year": "2010",
+            "citations": 833,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep voice: Real-time neural text-to-speech",
+            "year": "2017",
+            "citations": 816,
+            "link": "No link available"
+        },
+        {
+            "title": "A sparse sampling algorithm for near-optimal planning in large Markov decision processes",
+            "year": "2002",
+            "citations": 785,
+            "link": "No link available"
+        },
+        {
+            "title": "The importance of encoding versus training with sparse coding and vector quantization",
+            "year": "2011",
+            "citations": 781,
+            "link": "No link available"
+        },
+        {
+            "title": "Risk allocation in the private provision of public infrastructure",
+            "year": "2007",
+            "citations": 776,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving text classification by shrinkage in a hierarchy of classes",
+            "year": "1998",
+            "citations": 728,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep-learning-assisted diagnosis for knee magnetic resonance imaging: development and retrospective validation of MRNet",
+            "year": "2018",
+            "citations": 653,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-end people detection in crowded scenes",
+            "year": "2016",
+            "citations": 636,
+            "link": "No link available"
+        },
+        {
+            "title": "Semantic taxonomy induction from heterogenous evidence",
+            "year": "2006",
+            "citations": 612,
+            "link": "No link available"
+        },
+        {
+            "title": "High speed obstacle avoidance using monocular vision and reinforcement learning",
+            "year": "2005",
+            "citations": 603,
+            "link": "No link available"
+        },
+        {
+            "title": "PEGASUS: A policy search method for large MDPs and POMDPs",
+            "year": "2013",
+            "citations": 602,
+            "link": "No link available"
+        },
+        {
+            "title": "Measuring invariances in deep networks",
+            "year": "2009",
+            "citations": 596,
+            "link": "No link available"
+        },
+        {
+            "title": "Tuned models of peer assessment in MOOCs",
+            "year": "2013",
+            "citations": 579,
+            "link": "No link available"
+        },
+        {
+            "title": "Text detection and character recognition in scene images with unsupervised feature learning",
+            "year": "2011",
+            "citations": 573,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient l~ 1 regularized logistic regression",
+            "year": "2006",
+            "citations": 546,
+            "link": "No link available"
+        },
+        {
+            "title": "On random weights and unsupervised feature learning.",
+            "year": "2011",
+            "citations": 536,
+            "link": "No link available"
+        },
+        {
+            "title": "Retention and intention in massive open online courses: In depth",
+            "year": "2013",
+            "citations": 529,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of hierarchical representations with convolutional deep belief networks",
+            "year": "2011",
+            "citations": 522,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised deep learning applied to breast density segmentation and mammographic risk scoring",
+            "year": "2016",
+            "citations": 520,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative learning of markov random fields for segmentation of 3d scan data",
+            "year": "2005",
+            "citations": 512,
+            "link": "No link available"
+        },
+        {
+            "title": "Energy disaggregation via discriminative sparse coding",
+            "year": "2010",
+            "citations": 491,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving palliative care with deep learning",
+            "year": "2018",
+            "citations": 468,
+            "link": "No link available"
+        },
+        {
+            "title": "ICA with reconstruction cost for efficient overcomplete feature learning",
+            "year": "2011",
+            "citations": 456,
+            "link": "No link available"
+        },
+        {
+            "title": "Tiled convolutional neural networks",
+            "year": "2010",
+            "citations": 454,
+            "link": "No link available"
+        },
+        {
+            "title": "Data-Intensive Question Answering.",
+            "year": "2001",
+            "citations": 448,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning continuous phrase representations and syntactic parsing with recursive neural networks",
+            "year": "2010",
+            "citations": 447,
+            "link": "No link available"
+        },
+        {
+            "title": "Web question answering: Is more always better?",
+            "year": "2002",
+            "citations": 446,
+            "link": "No link available"
+        },
+        {
+            "title": "Constructing informative priors using transfer learning",
+            "year": "2006",
+            "citations": 434,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent neural networks for noise reduction in robust asr.",
+            "year": "2012",
+            "citations": 428,
+            "link": "No link available"
+        },
+        {
+            "title": "Online and batch learning of pseudo-metrics",
+            "year": "2004",
+            "citations": 415,
+            "link": "No link available"
+        },
+        {
+            "title": "Stable algorithms for link analysis",
+            "year": "2001",
+            "citations": 387,
+            "link": "No link available"
+        },
+        {
+            "title": "Ngboost: Natural gradient boosting for probabilistic prediction",
+            "year": "2020",
+            "citations": 377,
+            "link": "No link available"
+        },
+        {
+            "title": "Preventing\" overfitting\" of cross-validation data",
+            "year": "1997",
+            "citations": 374,
+            "link": "No link available"
+        },
+        {
+            "title": "Sparse filtering",
+            "year": "2011",
+            "citations": 362,
+            "link": "No link available"
+        },
+        {
+            "title": "Shift-invariance sparse coding for audio classification",
+            "year": "2012",
+            "citations": 351,
+            "link": "No link available"
+        },
+        {
+            "title": "Depth Estimation Using Monocular and Stereo Cues.",
+            "year": "2007",
+            "citations": 344,
+            "link": "No link available"
+        },
+        {
+            "title": "Mura: Large dataset for abnormality detection in musculoskeletal radiographs",
+            "year": "2017",
+            "citations": 343,
+            "link": "No link available"
+        },
+        {
+            "title": "Near-Bayesian exploration in polynomial time",
+            "year": "2009",
+            "citations": 335,
+            "link": "No link available"
+        },
+        {
+            "title": "A dynamic bayesian network model for autonomous 3d reconstruction from a single indoor image",
+            "year": "2006",
+            "citations": 332,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploration and apprenticeship learning in reinforcement learning",
+            "year": "2005",
+            "citations": 329,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning 3-d scene structure from a single still image",
+            "year": "2007",
+            "citations": 321,
+            "link": "No link available"
+        },
+        {
+            "title": "Classification with hybrid generative/discriminative models",
+            "year": "2003",
+            "citations": 320,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning for control from multiple demonstrations",
+            "year": "2008",
+            "citations": 318,
+            "link": "No link available"
+        },
+        {
+            "title": "Using inaccurate models in reinforcement learning",
+            "year": "2006",
+            "citations": 317,
+            "link": "No link available"
+        },
+        {
+            "title": "Link analysis, eigenvectors and stability",
+            "year": "2001",
+            "citations": 312,
+            "link": "No link available"
+        },
+        {
+            "title": "Transfer learning for text classification",
+            "year": "2005",
+            "citations": 310,
+            "link": "No link available"
+        },
+        {
+            "title": "An information-theoretic analysis of hard and soft assignment methods for clustering",
+            "year": "1998",
+            "citations": 299,
+            "link": "No link available"
+        },
+        {
+            "title": "Data noising as smoothing in neural network language models",
+            "year": "2017",
+            "citations": 298,
+            "link": "No link available"
+        },
+        {
+            "title": "An experimental and theoretical comparison of model selection methods",
+            "year": "1995",
+            "citations": 283,
+            "link": "No link available"
+        },
+        {
+            "title": "Selecting receptive fields in deep networks",
+            "year": "2011",
+            "citations": 276,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning yearning",
+            "year": "2017",
+            "citations": 269,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularization and feature selection in least-squares temporal difference learning",
+            "year": "2009",
+            "citations": 262,
+            "link": "No link available"
+        },
+        {
+            "title": "A control architecture for quadruped locomotion over rough terrain",
+            "year": "2008",
+            "citations": 257,
+            "link": "No link available"
+        },
+        {
+            "title": "CS229 Lecture notes",
+            "year": "2000",
+            "citations": 252,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXbert: combining automatic labelers and expert annotations for accurate radiology report labeling using BERT",
+            "year": "2020",
+            "citations": 250,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy search by dynamic programming",
+            "year": "2003",
+            "citations": 243,
+            "link": "No link available"
+        },
+        {
+            "title": "Contextual search and name disambiguation in email using graphs",
+            "year": "2006",
+            "citations": 233,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning deep energy models",
+            "year": "2011",
+            "citations": 227,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "2012",
+            "citations": 226,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning\u2013assisted diagnosis of cerebral aneurysms using the HeadXNet model",
+            "year": "2019",
+            "citations": 224,
+            "link": "No link available"
+        },
+        {
+            "title": "Impact of a deep learning assistant on the histopathologic classification of liver cancer",
+            "year": "2020",
+            "citations": 223,
+            "link": "No link available"
+        },
+        {
+            "title": "Approximate planning in large POMDPs via reusable trajectories",
+            "year": "1999",
+            "citations": 223,
+            "link": "No link available"
+        },
+        {
+            "title": "Robotic grasping of novel objects",
+            "year": "2006",
+            "citations": 219,
+            "link": "No link available"
+        },
+        {
+            "title": "On feature selection: learning with exponentially many irreverent features as training examples",
+            "year": "1998",
+            "citations": 219,
+            "link": "No link available"
+        },
+        {
+            "title": "Expert-level detection of pathologies from unannotated chest X-ray images via self-supervised learning",
+            "year": "2022",
+            "citations": 215,
+            "link": "No link available"
+        },
+        {
+            "title": "Reactive grasping using optical proximity sensors",
+            "year": "2009",
+            "citations": 214,
+            "link": "No link available"
+        },
+        {
+            "title": "What artificial intelligence can and can\u2019t do right now",
+            "year": "2016",
+            "citations": 213,
+            "link": "No link available"
+        },
+        {
+            "title": "First-pass large vocabulary continuous speech recognition using bi-directional recurrent DNNs",
+            "year": "2014",
+            "citations": 213,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning grasp strategies with partial shape information.",
+            "year": "2008",
+            "citations": 210,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning of invariant features via simulated fixations in video",
+            "year": "2012",
+            "citations": 207,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical apprenticeship learning with application to quadruped locomotion",
+            "year": "2007",
+            "citations": 206,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning factor graphs in polynomial time and sample complexity",
+            "year": "2006",
+            "citations": 206,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust textual inference via graph matching",
+            "year": "2005",
+            "citations": 205,
+            "link": "No link available"
+        },
+        {
+            "title": "From uncertainty to belief: Inferring the specification within",
+            "year": "2006",
+            "citations": 203,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative training of kalman filters.",
+            "year": "2005",
+            "citations": 200,
+            "link": "No link available"
+        },
+        {
+            "title": "Moco pretraining improves representation and transferability of chest x-ray models",
+            "year": "2021",
+            "citations": 199,
+            "link": "No link available"
+        },
+        {
+            "title": "Lexicon-free conversational speech recognition with neural networks",
+            "year": "2015",
+            "citations": 190,
+            "link": "No link available"
+        },
+        {
+            "title": "Building DNN acoustic models for large vocabulary speech recognition",
+            "year": "2017",
+            "citations": 188,
+            "link": "No link available"
+        },
+        {
+            "title": "Chexnet: Radiologist-level pneumonia detection on chest x-rays with deep learning. arXiv",
+            "year": "2017",
+            "citations": 183,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural language correction with character-based attention",
+            "year": "2016",
+            "citations": 168,
+            "link": "No link available"
+        },
+        {
+            "title": "Solving the problem of cascading errors: Approximate bayesian inference for linguistic annotation pipelines",
+            "year": "2006",
+            "citations": 163,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparing speech and keyboard text entry for short messages in two languages on touchscreen phones",
+            "year": "2018",
+            "citations": 162,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast gaussian process regression using kd-trees",
+            "year": "2005",
+            "citations": 161,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic single-image 3d reconstructions of indoor manhattan world scenes",
+            "year": "2007",
+            "citations": 157,
+            "link": "No link available"
+        },
+        {
+            "title": "Bayesian estimation for autonomous object manipulation based on tactile sensors",
+            "year": "2006",
+            "citations": 157,
+            "link": "No link available"
+        },
+        {
+            "title": "Apprenticeship learning for motion planning with application to parking lot navigation",
+            "year": "2008",
+            "citations": 156,
+            "link": "No link available"
+        },
+        {
+            "title": "Shaping and policy search in reinforcement learning",
+            "year": "2003",
+            "citations": 156,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient multiple hyperparameter learning for log-linear models",
+            "year": "2007",
+            "citations": 151,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to open new doors",
+            "year": "2010",
+            "citations": 149,
+            "link": "No link available"
+        },
+        {
+            "title": "Grasping novel objects with depth segmentation",
+            "year": "2010",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "Noising and denoising natural language: Diverse backtranslation for grammar correction",
+            "year": "2018",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "A low-cost compliant 7-DOF robotic manipulator",
+            "year": "2011",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "Simultaneous mapping and localization with sparse extended information filters: Theory and initial results",
+            "year": "2004",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "Radgraph: Extracting clinical entities and relations from radiology reports",
+            "year": "2021",
+            "citations": 142,
+            "link": "No link available"
+        },
+        {
+            "title": "PENet\u2014a scalable deep-learning model for automated diagnosis of pulmonary embolism using volumetric CT imaging",
+            "year": "2020",
+            "citations": 137,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXNet: radiologist-level pneumonia detection on chest X-rays with deep learning. 2017",
+            "year": "2020",
+            "citations": 137,
+            "link": "No link available"
+        },
+        {
+            "title": "Grasping with application to an autonomous checkout robot",
+            "year": "2011",
+            "citations": 135,
+            "link": "No link available"
+        },
+        {
+            "title": "Stair: Hardware and software architecture",
+            "year": "2007",
+            "citations": 135,
+            "link": "No link available"
+        },
+        {
+            "title": "Apprenticeship learning for helicopter control",
+            "year": "2009",
+            "citations": 134,
+            "link": "No link available"
+        },
+        {
+            "title": "Integrating visual and range data for robotic object detection",
+            "year": "2008",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to grasp objects with multiple contact points",
+            "year": "2010",
+            "citations": 129,
+            "link": "No link available"
+        },
+        {
+            "title": "Benchmarking saliency methods for chest X-ray interpretation",
+            "year": "2022",
+            "citations": 126,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning vehicular dynamics, with application to modeling helicopters",
+            "year": "2005",
+            "citations": 121,
+            "link": "No link available"
+        },
+        {
+            "title": "High-accuracy 3d sensing for mobile manipulation: Improving object detection and door opening",
+            "year": "2009",
+            "citations": 118,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning 3-d object orientation from images",
+            "year": "2009",
+            "citations": 117,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to merge word senses",
+            "year": "2007",
+            "citations": 117,
+            "link": "No link available"
+        },
+        {
+            "title": "Peripheral-foveal vision for real-time object recognition and tracking in video",
+            "year": "2007",
+            "citations": 117,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust textual inference via learning and abductive reasoning",
+            "year": "2005",
+            "citations": 117,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXtransfer: performance and parameter efficiency of ImageNet models for chest X-Ray interpretation",
+            "year": "2021",
+            "citations": 115,
+            "link": "No link available"
+        },
+        {
+            "title": "The stanford littledog: A learning and rapid replanning approach to quadruped locomotion",
+            "year": "2011",
+            "citations": 111,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning yearning: Technical strategy for AI engineers, in the era of deep learning",
+            "year": "2018",
+            "citations": 110,
+            "link": "No link available"
+        },
+        {
+            "title": "UFLDL tutorial",
+            "year": "2012",
+            "citations": 109,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to grasp novel objects using vision",
+            "year": "2008",
+            "citations": 109,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic Mobile Manipulation in Dynamic Environments, with Application to Opening Doors.",
+            "year": "2007",
+            "citations": 109,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXaid: deep learning assistance for physician diagnosis of tuberculosis using chest x-rays in patients with HIV",
+            "year": "2020",
+            "citations": 108,
+            "link": "No link available"
+        },
+        {
+            "title": "Make3D: Depth Perception from a Single Still Image.",
+            "year": "2008",
+            "citations": 105,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning random walk models for inducing word dependency distributions",
+            "year": "2004",
+            "citations": 104,
+            "link": "No link available"
+        },
+        {
+            "title": "Clustering with the k-means algorithm",
+            "year": "2012",
+            "citations": 103,
+            "link": "No link available"
+        },
+        {
+            "title": "Dataperf: Benchmarks for data-centric ai development",
+            "year": "2024",
+            "citations": 99,
+            "link": "No link available"
+        },
+        {
+            "title": "A probabilistic approach to mixed open-loop and closed-loop control, with application to extreme autonomous driving",
+            "year": "2010",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "Exponential Family Sparse Coding with Application to Self-taught Learning.",
+            "year": "2009",
+            "citations": 96,
+            "link": "No link available"
+        },
+        {
+            "title": "Stereo vision and terrain modeling for quadruped robots",
+            "year": "2009",
+            "citations": 94,
+            "link": "No link available"
+        },
+        {
+            "title": "Origins of the modern MOOC (xMOOC)",
+            "year": "2014",
+            "citations": 92,
+            "link": "No link available"
+        },
+        {
+            "title": "Automated coronary calcium scoring using deep learning with multicenter external validation",
+            "year": "2021",
+            "citations": 90,
+            "link": "No link available"
+        },
+        {
+            "title": "AppendiXNet: deep learning for diagnosis of appendicitis from a small dataset of CT exams using video pretraining",
+            "year": "2020",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous autorotation of an RC helicopter",
+            "year": "2009",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning new facts from knowledge bases with neural tensor networks and semantic word vectors",
+            "year": "2013",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Inverse Reinforcement Learning.",
+            "year": "2010",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Medaug: Contrastive learning leveraging patient metadata improves representations for chest x-ray interpretation",
+            "year": "2021",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Spam Deobfuscation using a Hidden Markov Model.",
+            "year": "2005",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Nuts and bolts of building AI applications using Deep Learning",
+            "year": "2016",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning sound location from a single microphone",
+            "year": "2009",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy search via the signed derivative",
+            "year": "2010",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Solving uncertain Markov decision processes",
+            "year": "2001",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "Task-space trajectories via cubic spline optimization",
+            "year": "2009",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "Speech is 3x faster than typing for english and mandarin text entry on mobile devices",
+            "year": "2016",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Quadruped robot obstacle negotiation via reinforcement learning",
+            "year": "2006",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergence of object-selective features in unsupervised feature learning",
+            "year": "2012",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for speech transcription",
+            "year": "2020",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "Mechatronic design of an integrated robotic hand",
+            "year": "2014",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "A vision-based system for grasping novel objects in cluttered environments",
+            "year": "2011",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous sign reading for semantic mapping",
+            "year": "2011",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Retrieval-based chest x-ray report generation using a pre-trained contrastive language-image model",
+            "year": "2021",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "A probabilistic model for semantic word vectors",
+            "year": "2010",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Solving uncertain Markov decision problems",
+            "year": "2001",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Mura dataset: Towards radiologist-level abnormality detection in musculoskeletal radiographs",
+            "year": "2017",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint calibration of multiple sensors",
+            "year": "2009",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "A., and Jordan, M.(2003). Latent dirichlet allocation",
+            "year": "Unknown",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Online bounds for Bayesian algorithms",
+            "year": "2004",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of visual invariance with temporal coherence",
+            "year": "2011",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalable learning for object detection with GPU hardware",
+            "year": "2009",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "MLOps: From model-centric to data-centric AI",
+            "year": "2021",
+            "citations": 66,
+            "link": "No link available"
+        },
+        {
+            "title": "Countdown regression: sharp and calibrated survival predictions",
+            "year": "2020",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Ambulatory atrial fibrillation monitoring using wearable photoplethysmography with deep learning",
+            "year": "2019",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluation of a machine learning model based on pretreatment symptoms and electroencephalographic features to predict outcomes of antidepressant treatment in adults with \u2026",
+            "year": "2020",
+            "citations": 63,
+            "link": "No link available"
+        },
+        {
+            "title": "Demis Hassabis, John C",
+            "year": "2019",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial intelligence is the new electricity",
+            "year": "2017",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Cs294a lecture notes: Sparse autoencoder",
+            "year": "2010",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Weiss. Y.,\u201cOn spectral clustering: analysis and an algorithm,\u201d",
+            "year": "2002",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Offering verified credentials in massive open online courses: Moocs and technology to advance learning and learning research (ubiquity symposium)",
+            "year": "2014",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "ICRA workshop on open source software",
+            "year": "2009",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Gap-filling eddy covariance methane fluxes: Comparison of machine learning model predictions and uncertainties at FLUXNET-CH4 wetlands",
+            "year": "2021",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Vision-based classification of skin cancer using deep learning",
+            "year": "2016",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning models of primary cortical receptive fields and receptive field plasticity",
+            "year": "2011",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Low-cost accelerometers for robotic manipulator perception",
+            "year": "2010",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous operation of novel elevators for robot navigation",
+            "year": "2010",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-camera object detection for robotics",
+            "year": "2010",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "On local rewards and scaling distributed reinforcement learning",
+            "year": "2005",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "First spectroscopic imaging observations of the sun at low radio frequencies with the Murchison Widefield Array prototype",
+            "year": "2011",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "A crystal-free single-chip micro mote with integrated 802.15. 4 compatible transceiver, sub-mw ble compatible beacon transmitter, and cortex m0",
+            "year": "2019",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning. coursera",
+            "year": "2016",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine Learning and AI via Brain simulations",
+            "year": "2013",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "A Fast Data Collection and Augmentation Procedure for Object Recognition.",
+            "year": "2008",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Clinical Value of Predicting Individual Treatment Effects for Intensive Blood Pressure Therapy: A Machine Learning Experiment to Estimate Treatment Effects from Randomized \u2026",
+            "year": "2019",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "K means",
+            "year": "2013",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Journal of Machine Learning Research",
+            "year": "2003",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy search via density estimation",
+            "year": "1999",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust textual inference using diverse knowledge sources",
+            "year": "2005",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical Bayesian models for applications in information retrieval",
+            "year": "2003",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Forestnet: Classifying drivers of deforestation in indonesia using deep learning on satellite imagery",
+            "year": "2020",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "AI transformation playbook: How to lead your company into the AI era",
+            "year": "2018",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Arrangement and method for three-dimensional depth image construction",
+            "year": "2013",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "AI is the new electricity",
+            "year": "2018",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Advice for applying machine learning",
+            "year": "2011",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating progress in automatic chest x-ray radiology report generation",
+            "year": "2023",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Cardiologist-level arrhythmia detection with convolutional neural networks. arXiv 2017",
+            "year": "2011",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning omnidirectional path following using dimensionality reduction.",
+            "year": "2007",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning first-order Markov models for control",
+            "year": "2004",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "3KG: Contrastive learning of 12-lead electrocardiograms using physiologically-inspired augmentations",
+            "year": "2021",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning",
+            "year": "2014",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "3-d reconstruction from sparse views using monocular vision",
+            "year": "2007",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "RGS12 inhibits the progression and metastasis of multiple myeloma by driving M1 macrophage polarization and activation in the bone marrow microenvironment",
+            "year": "2022",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "RGS12 is a critical proinflammatory factor in the pathogenesis of inflammatory arthritis via acting in Cox2-RGS12-NF kappa B pathway activation loop",
+            "year": "2019",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Effective data fusion with generalized vegetation index: Evidence from land cover segmentation in agriculture",
+            "year": "2020",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Surfactant cocktail-aided extraction/precipitation/on-pellet digestion strategy enables efficient and reproducible sample preparation for large-scale quantitative proteomics",
+            "year": "2018",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning course",
+            "year": "2017",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "groupTime: preference based group scheduling",
+            "year": "2006",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "A chat with andrew on mlops: From model-centric to data-centric ai",
+            "year": "2021",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Incorporating machine learning and social determinants of health indicators into prospective risk adjustment for health plan payments",
+            "year": "2020",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning yearning. 2018",
+            "year": "2017",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Touch based perception for object manipulation",
+            "year": "2007",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Word-level acoustic modeling with convolutional vector regression",
+            "year": "2012",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal investment with inside information and parameter uncertainty",
+            "year": "2010",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXpedition: Investigating generalization challenges for translation of chest X-ray algorithms to the clinical setting",
+            "year": "2020",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks and deep learning",
+            "year": "2017",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "RGS12 is a novel critical NF-\u03baB activator in inflammatory arthritis",
+            "year": "2020",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning specialization",
+            "year": "2017",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for class-generic object detection",
+            "year": "2013",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Stable adaptive control with online learning",
+            "year": "2004",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "What data scientists should know about deep learning",
+            "year": "2015",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Development and validation of an artificial intelligence system to optimize clinician review of patient records",
+            "year": "2021",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning saliency maps do not accurately highlight diagnostically relevant regions for medical image interpretation",
+            "year": "2021",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling cortical representational plasticity with unsupervised feature learning",
+            "year": "2011",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "A steiner tree approach to efficient object detection",
+            "year": "2010",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "A Factor Graph Model for Software Bug Finding.",
+            "year": "2007",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "The online revolution: Education for everyone",
+            "year": "2013",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Data-centric AI competition",
+            "year": "2021",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "The 1st agriculture-vision challenge: Methods and results",
+            "year": "2020",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning by stanford university",
+            "year": "2018",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised feature learning and deep learning",
+            "year": "2013",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "CS294A Lecture notes",
+            "year": "2011",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Transfer learning by constructing informative priors",
+            "year": "2006",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems, methods and devices for augmenting video content",
+            "year": "2013",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning yearning. deeplearning. ai",
+            "year": "2018",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "The state of artificial intelligence",
+            "year": "2017",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent neural network feature enhancement: The 2nd CHiME challenge",
+            "year": "2013",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Applying online search techniques to continuous-state reinforcement learning",
+            "year": "1998",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Unbiggen ai",
+            "year": "2022",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXphoto: 10,000+ photos and transformations of chest X-rays for benchmarking deep learning robustness",
+            "year": "2020",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Have we met? MDP based speaker ID for robot dialogue.",
+            "year": "2006",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Contrastive learning of heart and lung sounds for label-efficient diagnosis",
+            "year": "2022",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving deep neural networks: Hyperparameter tuning, regularization and optimization",
+            "year": "2017",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating image similarity",
+            "year": "2014",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "A majorization-minimization algorithm for (multiple) hyperparameter learning",
+            "year": "2009",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "VisualCheXbert: addressing the discrepancy between radiology report labels and image labels",
+            "year": "2021",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating the disentanglement of deep generative models through manifold topology",
+            "year": "2020",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Breast density scoring with multiscale denoising autoencoders",
+            "year": "2012",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "The stair vision library (v2. 4)",
+            "year": "2009",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Convergence rates of the Voting Gibbs classi er, with application to Bayesian feature selection",
+            "year": "2001",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Nasopharyngeal metabolomics and machine learning approach for the diagnosis of influenza",
+            "year": "2021",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning assistance for the histopathologic diagnosis of Helicobacter pylori",
+            "year": "2020",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "DeepWind: Weakly supervised localization of wind turbines in satellite imagery",
+            "year": "2019",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Space-indexed dynamic programming: learning to follow trajectories",
+            "year": "2008",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Active perception: Interactive manipulation for improving object detection",
+            "year": "2008",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Approximate inference a lgorithms for two-layer bayesian networks",
+            "year": "1999",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Data augmentation with Mobius transformations",
+            "year": "2021",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "DLBCL-Morph: morphological features computed using deep learning for an annotated digital DLBCL image set",
+            "year": "2021",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for real-time neural text-to-speech",
+            "year": "2020",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Short-term solar irradiance forecasting using calibrated probabilistic models",
+            "year": "2020",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "How to choose your first AI project",
+            "year": "2019",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Cs 229 lecture notes: Support vector machines",
+            "year": "2012",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous helicopter tracking and localization using a self-surveying camera array",
+            "year": "2007",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "AI for Everyone",
+            "year": "2019",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous Helicopter Flight Using Reinforcement Learning.",
+            "year": "2010",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative learning algorithms",
+            "year": "2008",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "AI does not have to be too complicated or expensive for your business",
+            "year": "2021",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for the digital pathologic diagnosis of cholangiocarcinoma and hepatocellular carcinoma: evaluating the impact of a web-based diagnostic assistant",
+            "year": "2019",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "CS229 course notes: Deep learning",
+            "year": "2018",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning yearning: technical strategy for AI engineers in the era of deep learning. 2019",
+            "year": "2018",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to merge word senses",
+            "year": "2007",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Ognet: Towards a global oil and gas infrastructure database using deep learning on remotely sensed imagery",
+            "year": "2020",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "A low-power optical receiver for contact-free programming and 3D localization of autonomous microsystems",
+            "year": "2019",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial intelligence: the new electricity",
+            "year": "2019",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Distribution of parameter calculation for iterative optimization methods",
+            "year": "2015",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Open-loop plans in multi-robot POMDPs",
+            "year": "2005",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Marked crosswalks in US transit-oriented station areas, 2007\u20132020: A computer vision approach using street view imagery",
+            "year": "2023",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "From Model-centric to Data-centric AI",
+            "year": "2021",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Hiring your first chief AI officer",
+            "year": "2016",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Ion-current-based temporal proteomic profiling of influenza-a-virus-infected mouse lungs revealed underlying mechanisms of altered integrity of the lung microvascular barrier",
+            "year": "2016",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Mixtures of Gaussians and the EM algorithm",
+            "year": "2016",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-dimensional sentiment analysis with learned representations",
+            "year": "2011",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "ChatGPT prompt engineering for developers",
+            "year": "2023",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "i23-Rapid Interactive 3D Reconstruction from a Single Image.",
+            "year": "2009",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXseg: combining expert annotations with DNN-generated saliency maps for X-ray segmentation",
+            "year": "2021",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Q-Pain: a question answering dataset to measure social bias in pain management",
+            "year": "2021",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving hospital readmission prediction using individualized utility analysis",
+            "year": "2021",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXternal: Generalization of deep learning models for chest X-ray interpretation to photos of chest X-rays and external clinical settings",
+            "year": "2021",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "The stair vision library",
+            "year": "2010",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Meter-ml: A multi-sensor earth observation benchmark for automated methane source mapping",
+            "year": "2022",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural text style transfer via denoising and reranking",
+            "year": "2019",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "CS230 DeepLearning",
+            "year": "2018",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning from moocs",
+            "year": "2013",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "A chat with andrew on MLOps: From model-centric to data-centric AI. 2021",
+            "year": "Unknown",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Nuts and bolts of applying deep learning",
+            "year": "2016",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Using large-scale brain simulations for machine learning and AI",
+            "year": "2015",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "The online revolution: Learning without limits",
+            "year": "2013",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning neighborhood representation from multi-modal multi-graph: Image, text, mobility graph and beyond",
+            "year": "2021",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence models",
+            "year": "2018",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating image similarity",
+            "year": "2016",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXED: comparison of a deep learning model to a clinical decision support system for pneumonia in the emergency department",
+            "year": "2022",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Medselect: Selective labeling for medical image classification combining meta-learning with deep reinforcement learning",
+            "year": "2021",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Coursera-machine learning",
+            "year": "2020",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Ambulatory atrial fibrillation monitoring using wearable photoplethysmography with deep learning",
+            "year": "2018",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional neural networks, deep learning",
+            "year": "2018",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Why is deep learning taking off",
+            "year": "2011",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Effect of radiology report labeler quality on deep learning models for chest X-ray interpretation",
+            "year": "2021",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Identity verification for online education",
+            "year": "2016",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning lectures",
+            "year": "2016",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Moocs: the Coming Revolutions",
+            "year": "2012",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to machine learning",
+            "year": "2011",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning and apprenticeship learning for robotic control",
+            "year": "2006",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "A proof of concept for a deep learning system that can aid embryologists in predicting blastocyst survival after thaw",
+            "year": "2022",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "AI transformation playbook. Landing AI, 13 December",
+            "year": "2020",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine Learning Yearning. deeplearning. ai; 2017",
+            "year": "2019",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence Models, Deep Learning",
+            "year": "2018",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning yearning: Technical strategy for ai engineers in the era of deep learning draft version 0.5",
+            "year": "2016",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "What AI Can and Can\u2019t Do",
+            "year": "2015",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Identity verification for online education",
+            "year": "2014",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "The online revolution: education for everyone.",
+            "year": "2013",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "UFLDL tutorial",
+            "year": "2013",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Lecture notes for machine learning",
+            "year": "2010",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Guest editorial: Special issue on robot learning, Part A",
+            "year": "2009",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Data-centric ai",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Transfer learning enables prediction of myocardial injury from continuous single-lead electrocardiography",
+            "year": "2022",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "IFT80 negatively regulates osteoclast differentiation via association with Cbl-b to disrupt TRAF6 stabilization and activation",
+            "year": "2022",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "M3G: Learning urban neighborhood representation from multi-modal multi-graph",
+            "year": "2021",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Andrew Ng: Artificial intelligence is the new electricity",
+            "year": "2017",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Retention and Intention in Massive Open Online Courses: In Depth (EDUCAUSE Review)",
+            "year": "2013",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "The Online Revolution: Education at Scale",
+            "year": "2012",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal exercise of an executive stock option by an insider",
+            "year": "2011",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Support vector machines (Part V of CS229 machine learning course materials)",
+            "year": "2010",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Andrew Ng\u2013The State of Artificial Intelligence",
+            "year": "Unknown",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Big AI can centralize decision-making and power, and that\u2019sa problem",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Unbiggen AI. The AI Pioneer Says it\u2019s Time for Smart-sized,\u201cData-centric\u201d Solutions to Big Issues",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning-based sparse whole-slide image analysis for the diagnosis of gastric intestinal metaplasia",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Unbiggen AI\u2014IEEE Spectrum",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Data-centric ai competition, 2021",
+            "year": "2021",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Mlops: From model-centric to data-centric ai, 2021",
+            "year": "2021",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting inpatient discharge prioritization with electronic health records",
+            "year": "2018",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning yearning-draft",
+            "year": "2018",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "deeplearning. ai.\u201c",
+            "year": "2017",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Andrew Ng: What AI Can and Can\u2019t Do",
+            "year": "2016",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep speech 2: End-to-end speech recognition in english and mandarin. In International Conference on Machine Learning",
+            "year": "2016",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Driverseat: Crowdstrapping learning tasks for autonomous driving",
+            "year": "2015",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Robotic grasping on the Stanford artificial intelligence robot",
+            "year": "2008",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Why AI Is the New Electricity (2017)",
+            "year": "Unknown",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Programa especializado Aprendizaje profundo",
+            "year": "Unknown",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "AI transformation playbook. How to lead your company into the AI era. Landing AI",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Coursera. Model Selection and Train/Validation/Test Sets",
+            "year": "2019",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving Deep Neural Networks: Hyper parameter tuning",
+            "year": "2019",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning specialization. Coursera",
+            "year": "2018",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Why does batch norm work",
+            "year": "2017",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning: What's Next",
+            "year": "2016",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Coursera Machine Learning courses",
+            "year": "2012",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Cs294a lecture notes, 2011",
+            "year": "2011",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Ufldl tutorial on neural networks",
+            "year": "2011",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Chexbreak: Misclassification identification for deep learning models interpreting chest x-rays",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXseen: Unseen disease detection for deep learning interpretation of chest X-rays",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "GloFlow: Whole slide image stitching from video using optical flow and global image alignment",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "An information-theoretic analysis of hard and soft assignment methods for clustering",
+            "year": "2013",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "The online revolution: Education at scale",
+            "year": "2012",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Portable GPS Baseband Logging",
+            "year": "2007",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "A graphical framework for contextual search and name disambiguation in email",
+            "year": "2006",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous Helicopter Tracking and Localization Using a Self-Calibrating Camera Array",
+            "year": "2005",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Many-Shot In-Context Learning in Multimodal Foundation Models",
+            "year": "2024",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "LymphoML: An interpretable artificial intelligence-based method identifies morphologic features that correlate with lymphoma subtype",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "USat: A unified self-supervised encoder for multi-sensor satellite imagery",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Radiology report expert evaluation (rexval) dataset",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Detecting neighborhood gentrification at scale via street-level visual data",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "PENet\u2014a scalable deep-learning model for automated diagnosis of pulmonary embolism using volumetric CT imaging",
+            "year": "2020",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Linear regression",
+            "year": "2018",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Logistic Regression",
+            "year": "2017",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Y. 2009. Convolutional deep belief networks for scalable unsupervised learning of hierarchical representations",
+            "year": "2009",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "STAIR: The STanford Artificial Intelligence Robot project",
+            "year": "2008",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning with multiple demonstrations",
+            "year": "2007",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous helicopter tracking and localization using a self-surveying camera array",
+            "year": "2006",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic latent semantic analysis",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Weakly-semi-supervised object detection in remotely sensed imagery",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "MedSelect: Selective Labeling for Medical Image Classification Using Meta-Learning",
+            "year": "2022",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "CheXphotogenic: Generalization of Deep Learning Models for Chest X-ray Interpretation to Photos of Chest X-rays",
+            "year": "2020",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous aerobatic airplane control with reinforcement learning",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous sign reading for semantic mapping",
+            "year": "2011",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning for control from multiple demonstrations (Full version)",
+            "year": "2008",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Optical Illusion",
+            "year": "2007",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring the Utility of ResearchCyc for Reasoning from Natural Language",
+            "year": "2006",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Sparse sampling methods for planning and learning in large and partially observable markov decision processes",
+            "year": "1998",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Ultrasonic Sensor Network: Target Localization with Passive Self-Localization",
+            "year": "Unknown",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "An Empirical Study of Automated Mislabel Detection in Real World Vision Datasets",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Real-time neural text-to-speech",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "How to Train Your CheXDragon: Training Chest X-Ray Models for Transfer to Novel Tasks and Healthcare Systems",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving debris flow evacuation alerts in Taiwan using machine learning",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "AI-optimized harvester configured to maximize yield and minimize impurities",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "MedAug: Contrastive learning leveraging patient metadata improves representations for chest X-ray interpretation",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "GloFlow: Global Image Alignment for Creation of Whole Slide Images for Pathology from Video",
+            "year": "2020",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "PD60-05 automated detection of prostate cancer on multiparametric MRI using deep neural networks trained on spatial coordinates and pathology of biopsy cores",
+            "year": "2019",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Distribution of parameter calculation for iterative optimization methods",
+            "year": "2016",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Emotion classification on face images",
+            "year": "2015",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying News for Topic and Sentiment",
+            "year": "2013",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to open new doors",
+            "year": "2010",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "The International Journal of Robotics",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Rapid interactive 3d reconstruction from a single still image",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Titan's magnetospheric interaction",
+            "year": "2007",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "A cooperative expert system architecture for embedded avionics",
+            "year": "1988",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "A Complete Control Architecture for Quadruped Locomotion Over Rough Terrain",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material: Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Game Theory with Restricted Strategies",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for detecting and characterizing oil and gas well pads in satellite imagery",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic deforestation driver attribution using deep learning on satellite imagery",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Auto-Generating Weak Labels for Real & Synthetic Data to Improve Label-Scarce Medical Image Segmentation",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unlocking Robust Segmentation Across All Age Groups via Continual Learning",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "CloudTracks: A Dataset for Localizing Ship Tracks in Satellite Images of Clouds",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "AI-optimized harvester configured to maximize yield and minimize impurities",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A System for Automated Vehicle Damage Localization and Severity Estimation Using Deep Learning",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and methods for radiology image classification from noisy images",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "User-generated visual guide for the classification of images",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Guided workflow for deep learning error analysis",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "L\u2019IA TEND \u00c0 CENTRALISER LA PRISE DE D\u00c9CISIONS ET LE POUVOIR, ET C\u2019EST UN PROBL\u00c8ME",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning models for speech recognition",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic Prediction of Laboratory Test Information Yield",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "VetLLM: Large Language Model for Predicting Diagnosis from Veterinary Notes",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Model Management System for Improving Training Data Through Machine Learning Deployment",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Benchmarking saliency methods for chest X-ray interpretation",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards global mapping of oil and gas infrastructure for MethaneSAT source attribution",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Mapping Oil and Gas Infrastructure Globally using Deep Learning on Satellite Imagery",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "User-generated visual guide for the classification of images",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unseen Disease Detection for Deep Learning Interpretation of Chest X-rays",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Upscaling FLUXNET-CH4: Data-driven model performance, predictors, and regional to global methane emission estimates for freshwater wetlands",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning-based Helicobacter pylori detection for histopathology: A diagnostic study",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The 1st Agriculture-Vision Challenge: Methods and Results",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "FLUXNET Methane Synthesis: Modeling Wetland Methane Fluxes from Sites to the Globe",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Rgs12 enhances osteoclastogenesis by suppressing Nrf2 activity and promoting the formation of reactive oxygen species",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Project Final Report",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting Volatility in Equity Markets Using Macroeconomic News",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "In: ICCV (2009) Lan, T., Wang, Y., Mori, G.: Discriminative figure-centric models for joint action localization and recognition. In: 2011 IEEE International Conference on \u2026",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence (2009)",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-Scale Learning for Vision with GPUs",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Low-Cost Manipulation Powered by ROS.",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Value Iteration and DDP for an Inverted Pendulum",
+            "year": "2009",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "INTERNET ARTICLE COMMENT CLASSIFIER",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous Helicopter Tracking and Localization Using a Self-Surveying Camera Array Masayoshi Matsuoka, Alan Chen, Surya PN Singh, Adam Coates, Andrew Y. Ng, and Sebastian Thrun",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The First Conference on E\u2010mail and Anti\u2010Spam",
+            "year": "2005",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sebastian Thrun",
+            "year": "2004",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "BAYESIAN STATISTICS 7, PP. 25-43",
+            "year": "2003",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "David Stavens",
+            "year": "1982",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Decoding Dining Delight: Correlating Operational and Service Metrics with Restaurant Ratings",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "40.1 A brief history of machine learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Text Detectionand Character Recognitionin Scene Images with Unsupervised Feature Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Cell Biology",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Morphological features computed using deep learning for an annotated digital DLBCL image set",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Haptic Belt with Pedestrian Detection",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Appendix to Policy Search via the Signed Derivative",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Graphical Framework for Contextual Search and Dismabiguation in Email",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "CS 229: Observing Dark Worlds",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative Learning of Markov Random Fields for Segmentation of 3D Scan Data",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Introspective Computing for Prefetching",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Part 1-Keynotes",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material: Unsupervised learning models of primary cortical receptive fields and receptive field plasticity",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Peripheral-Foveal Vision for Real-time Object Recognition",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "OpenArms: Towards Low-cost Robotic Manipulation",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "M h L d AI Machine Learning and AI via Brain simulations",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Digital Communication and Signal Processing System Design",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Stacked Autoencoders for Semi-\u2010Supervised Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Portfolio Recommendation System",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving Text Classification by Shrinkage",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent Neural Networks for Signal Denoising in Robust ASR",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Sparse Sampling Algorithm for Near-Optimal Planning in Large Markov Decision Processes",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning of Invariant Features via Fixations in Video",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Sparse Sampling Algorithm for Near-Optimal Planning in Large Markov Decision Processes",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "On Discrim inative vs. Generative",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Exponential family sparse coding with application to self-taught learning with text documents",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Visual and Range Data",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Machine Learning, Deep Learning, AI"
+}

@@ -1,0 +1,3879 @@
+{
+    "author": "Yann LeCun",
+    "affiliation": "Chief AI Scientist at Facebook & Silver Professor at the Courant Institute, New York University",
+    "total_papers": 645,
+    "total_citations": 370627,
+    "publications": [
+        {
+            "title": "Deep learning",
+            "year": "2015",
+            "citations": 83709,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient-based learning applied to document recognition",
+            "year": "1998",
+            "citations": 68007,
+            "link": "No link available"
+        },
+        {
+            "title": "Backpropagation applied to handwritten zip code recognition",
+            "year": "1989",
+            "citations": 17252,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional networks for images, speech, and time series",
+            "year": "1995",
+            "citations": 8392,
+            "link": "No link available"
+        },
+        {
+            "title": "The MNIST database of handwritten digits",
+            "year": "1998",
+            "citations": 7831,
+            "link": "No link available"
+        },
+        {
+            "title": "OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks",
+            "year": "2014",
+            "citations": 7806,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient backprop",
+            "year": "2002",
+            "citations": 7306,
+            "link": "No link available"
+        },
+        {
+            "title": "Character-level convolutional networks for text classification",
+            "year": "2015",
+            "citations": 7014,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten digit recognition with a back-propagation network",
+            "year": "1990",
+            "citations": 6587,
+            "link": "No link available"
+        },
+        {
+            "title": "Spectral Networks and Locally Connected Networks on Graphs",
+            "year": "2014",
+            "citations": 6275,
+            "link": "No link available"
+        },
+        {
+            "title": "Dimensionality reduction by learning an invariant mapping",
+            "year": "2006",
+            "citations": 6240,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal Brain Damage",
+            "year": "1990",
+            "citations": 6095,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning a similarity metric discriminatively, with application to face verification",
+            "year": "2005",
+            "citations": 5383,
+            "link": "No link available"
+        },
+        {
+            "title": "Signature verification using a\" siamese\" time delay neural network",
+            "year": "1993",
+            "citations": 5111,
+            "link": "No link available"
+        },
+        {
+            "title": "MNIST handwritten digit database",
+            "year": "2010",
+            "citations": 4571,
+            "link": "No link available"
+        },
+        {
+            "title": "Geometric deep learning: going beyond euclidean data",
+            "year": "2017",
+            "citations": 3991,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Hierarchical Features for Scene Labeling",
+            "year": "2013",
+            "citations": 3522,
+            "link": "No link available"
+        },
+        {
+            "title": "A Closer Look at Spatiotemporal Convolutions for Action Recognition",
+            "year": "2017",
+            "citations": 3512,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularization of neural networks using dropconnect",
+            "year": "2013",
+            "citations": 3340,
+            "link": "No link available"
+        },
+        {
+            "title": "What is the best multi-stage architecture for object recognition?",
+            "year": "2009",
+            "citations": 3122,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional networks and applications in vision",
+            "year": "2010",
+            "citations": 3017,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep multi-scale video prediction beyond mean square error",
+            "year": "2015",
+            "citations": 2301,
+            "link": "No link available"
+        },
+        {
+            "title": "Barlow twins: Self-supervised learning via redundancy reduction",
+            "year": "2021",
+            "citations": 2271,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning fast approximations of sparse coding",
+            "year": "2010",
+            "citations": 2057,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploiting linear structure within convolutional networks for efficient evaluation",
+            "year": "2014",
+            "citations": 2052,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep convolutional networks on graph-structured data",
+            "year": "2015",
+            "citations": 2001,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint training of a convolutional network and a graphical model for human pose estimation",
+            "year": "2014",
+            "citations": 1983,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning methods for generic object recognition with invariance to pose and lighting",
+            "year": "2004",
+            "citations": 1916,
+            "link": "No link available"
+        },
+        {
+            "title": "A theoretical analysis of feature pooling in visual recognition",
+            "year": "2010",
+            "citations": 1911,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient learning of sparse representations with an energy-based model",
+            "year": "2006",
+            "citations": 1886,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling learning algorithms toward AI",
+            "year": "2007",
+            "citations": 1873,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient object localization using convolutional networks",
+            "year": "2014",
+            "citations": 1836,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparison of Learning Algorithms for Handwritten Digit Recognition",
+            "year": "1995",
+            "citations": 1769,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization and network design strategies",
+            "year": "1989",
+            "citations": 1758,
+            "link": "No link available"
+        },
+        {
+            "title": "Very deep convolutional networks for natural language processing",
+            "year": "2016",
+            "citations": 1699,
+            "link": "No link available"
+        },
+        {
+            "title": "A tutorial on energy-based learning",
+            "year": "2006",
+            "citations": 1679,
+            "link": "No link available"
+        },
+        {
+            "title": "Mnist handwritten digit database. ATT Labs",
+            "year": "2010",
+            "citations": 1660,
+            "link": "No link available"
+        },
+        {
+            "title": "Object recognition with gradient-based learning",
+            "year": "1999",
+            "citations": 1658,
+            "link": "No link available"
+        },
+        {
+            "title": "The Loss Surface of Multilayer Networks",
+            "year": "2015",
+            "citations": 1628,
+            "link": "No link available"
+        },
+        {
+            "title": "Energy-based generative adversarial network",
+            "year": "2016",
+            "citations": 1598,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of invariant feature hierarchies with applications to object recognition",
+            "year": "2007",
+            "citations": 1588,
+            "link": "No link available"
+        },
+        {
+            "title": "Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches",
+            "year": "2016",
+            "citations": 1587,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning made easier by linear transformations in perceptrons",
+            "year": "2012",
+            "citations": 1481,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning mid-level features for recognition",
+            "year": "2010",
+            "citations": 1450,
+            "link": "No link available"
+        },
+        {
+            "title": "Pushing stochastic gradient towards second-order methods\u2013backpropagation learning with transformations in nonlinearities",
+            "year": "2013",
+            "citations": 1262,
+            "link": "No link available"
+        },
+        {
+            "title": "Sparse feature learning for deep belief networks",
+            "year": "2008",
+            "citations": 1170,
+            "link": "No link available"
+        },
+        {
+            "title": "LeNet-5, convolutional neural networks",
+            "year": "2015",
+            "citations": 1169,
+            "link": "No link available"
+        },
+        {
+            "title": "VICReg: Variance-invariance-covariance regularization for self-supervised learning",
+            "year": "2022",
+            "citations": 1140,
+            "link": "No link available"
+        },
+        {
+            "title": "Pedestrian detection with unsupervised multi-stage feature learning",
+            "year": "2013",
+            "citations": 1108,
+            "link": "No link available"
+        },
+        {
+            "title": "A theoretical framework for back-propagation",
+            "year": "1988",
+            "citations": 1084,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparison of classifier methods: a case study in handwritten digit recognition",
+            "year": "1994",
+            "citations": 1075,
+            "link": "No link available"
+        },
+        {
+            "title": "Traffic sign recognition with multi-scale convolutional networks",
+            "year": "2011",
+            "citations": 1030,
+            "link": "No link available"
+        },
+        {
+            "title": "MNIST handwritten digit database. 2010",
+            "year": "2010",
+            "citations": 1018,
+            "link": "No link available"
+        },
+        {
+            "title": "Real-time continuous pose recovery of human hands using convolutional networks",
+            "year": "2014",
+            "citations": 977,
+            "link": "No link available"
+        },
+        {
+            "title": "Computing the stereo matching cost with a convolutional neural network",
+            "year": "2014",
+            "citations": 947,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional learning of spatio-temporal features",
+            "year": "2010",
+            "citations": 896,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten digit recognition: Applications of neural net chips and automatic learning",
+            "year": "1990",
+            "citations": 818,
+            "link": "No link available"
+        },
+        {
+            "title": "Entropy-sgd: Biasing gradient descent into wide valleys",
+            "year": "2016",
+            "citations": 814,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast Training of Convolutional Networks through FFTs",
+            "year": "2014",
+            "citations": 799,
+            "link": "No link available"
+        },
+        {
+            "title": "Text understanding from scratch",
+            "year": "2015",
+            "citations": 779,
+            "link": "No link available"
+        },
+        {
+            "title": "Mdetr-modulated detection for end-to-end multi-modal understanding",
+            "year": "2021",
+            "citations": 775,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional neural networks applied to house numbers digit classification",
+            "year": "2012",
+            "citations": 770,
+            "link": "No link available"
+        },
+        {
+            "title": "Off-road obstacle avoidance through end-to-end learning",
+            "year": "2006",
+            "citations": 753,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning convolutional feature hierarchies for visual recognition",
+            "year": "2010",
+            "citations": 748,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient pattern recognition using a new transformation distance",
+            "year": "1992",
+            "citations": 745,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning with elastic averaging SGD",
+            "year": "2015",
+            "citations": 733,
+            "link": "No link available"
+        },
+        {
+            "title": "Measuring the VC-dimension of a learning machine",
+            "year": "1994",
+            "citations": 679,
+            "link": "No link available"
+        },
+        {
+            "title": "Une proc\u00e9dure d'apprentissage pour r\u00e9seau \u00e0 seuil asym\u00e9trique (A learning scheme for asymmetric threshold networks)",
+            "year": "1985",
+            "citations": 669,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning for AI",
+            "year": "2021",
+            "citations": 652,
+            "link": "No link available"
+        },
+        {
+            "title": "3rd International Conference on Learning Representations",
+            "year": "2015",
+            "citations": 621,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving the convergence of back-propagation learning with second order methods",
+            "year": "1988",
+            "citations": 608,
+            "link": "No link available"
+        },
+        {
+            "title": "Large Scale Online Learning.",
+            "year": "2003",
+            "citations": 605,
+            "link": "No link available"
+        },
+        {
+            "title": "The role of over-parametrization in generalization of neural networks",
+            "year": "2019",
+            "citations": 597,
+            "link": "No link available"
+        },
+        {
+            "title": "Indoor Semantic Segmentation using depth information",
+            "year": "2013",
+            "citations": 594,
+            "link": "No link available"
+        },
+        {
+            "title": "Transformation invariance in pattern recognition\u2014tangent distance and tangent propagation",
+            "year": "2002",
+            "citations": 593,
+            "link": "No link available"
+        },
+        {
+            "title": "No more pesky learning rates",
+            "year": "2012",
+            "citations": 574,
+            "link": "No link available"
+        },
+        {
+            "title": "Disentangling factors of variation in deep representation using adversarial training",
+            "year": "2016",
+            "citations": 560,
+            "link": "No link available"
+        },
+        {
+            "title": "NeuFlow: A Runtime Reconfigurable Dataflow Processor for Vision",
+            "year": "2011",
+            "citations": 536,
+            "link": "No link available"
+        },
+        {
+            "title": "Synergistic face detection and pose estimation with energy-based model",
+            "year": "2005",
+            "citations": 524,
+            "link": "No link available"
+        },
+        {
+            "title": "Boosting and other ensemble methods",
+            "year": "1994",
+            "citations": 519,
+            "link": "No link available"
+        },
+        {
+            "title": "Mod\u00e8les connexionnistes de l\u2019apprentissage",
+            "year": "1987",
+            "citations": 515,
+            "link": "No link available"
+        },
+        {
+            "title": "Classification of patterns of EEG synchronization for seizure prediction",
+            "year": "2009",
+            "citations": 509,
+            "link": "No link available"
+        },
+        {
+            "title": "Cnp: An fpga-based processor for convolutional networks",
+            "year": "2009",
+            "citations": 504,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale learning with svm and convolutional nets for generic object categorization",
+            "year": "2006",
+            "citations": 504,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning long\u2010range vision for autonomous off\u2010road driving",
+            "year": "2009",
+            "citations": 479,
+            "link": "No link available"
+        },
+        {
+            "title": "Original approach for the localisation of objects in images",
+            "year": "1994",
+            "citations": 471,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning invariant features through topographic filter maps",
+            "year": "2009",
+            "citations": 458,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks: Tricks of the trade",
+            "year": "1998",
+            "citations": 448,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning process in an asymmetric threshold network",
+            "year": "1986",
+            "citations": 429,
+            "link": "No link available"
+        },
+        {
+            "title": "Toward automatic phenotyping of developing embryos from videos",
+            "year": "2005",
+            "citations": 417,
+            "link": "No link available"
+        },
+        {
+            "title": "Super-Resolution with Deep Convolutional Sufficient Statistics",
+            "year": "2015",
+            "citations": 413,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast Convolutional Nets With fbfft: A GPU Performance Evaluation",
+            "year": "2014",
+            "citations": 410,
+            "link": "No link available"
+        },
+        {
+            "title": "Hardware accelerated convolutional neural networks for synthetic vision systems",
+            "year": "2010",
+            "citations": 398,
+            "link": "No link available"
+        },
+        {
+            "title": "Transforming neural-net output levels to probability distributions",
+            "year": "1991",
+            "citations": 390,
+            "link": "No link available"
+        },
+        {
+            "title": "Augmented language models: a survey",
+            "year": "2023",
+            "citations": 388,
+            "link": "No link available"
+        },
+        {
+            "title": "High quality document image compression with DjVu",
+            "year": "1998",
+            "citations": 385,
+            "link": "No link available"
+        },
+        {
+            "title": "Ask the locals: multi-way local pooling for image recognition",
+            "year": "2011",
+            "citations": 382,
+            "link": "No link available"
+        },
+        {
+            "title": "Tangent prop-a formalism for specifying selected invariances in an adaptive network",
+            "year": "1992",
+            "citations": 375,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarially Regularized Autoencoders for Generating Discrete Structures",
+            "year": "2018",
+            "citations": 357,
+            "link": "No link available"
+        },
+        {
+            "title": "Stacked what-where auto-encoders",
+            "year": "2015",
+            "citations": 350,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving generalization performance using double backpropagation",
+            "year": "1992",
+            "citations": 344,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding dimensional collapse in contrastive self-supervised learning",
+            "year": "2021",
+            "citations": 332,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten zip code recognition with multilayer networks",
+            "year": "1990",
+            "citations": 319,
+            "link": "No link available"
+        },
+        {
+            "title": "Road scene segmentation from a single image",
+            "year": "2012",
+            "citations": 317,
+            "link": "No link available"
+        },
+        {
+            "title": "Predictive network modeling of the high-resolution dynamic plant transcriptome in response to nitrate",
+            "year": "2010",
+            "citations": 299,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast inference in sparse coding algorithms with applications to object recognition",
+            "year": "2010",
+            "citations": 297,
+            "link": "No link available"
+        },
+        {
+            "title": "Tracking the World State with Recurrent Entity Networks",
+            "year": "2016",
+            "citations": 291,
+            "link": "No link available"
+        },
+        {
+            "title": "The need for open source software in machine learning",
+            "year": "2007",
+            "citations": 277,
+            "link": "No link available"
+        },
+        {
+            "title": "Very deep multilingual convolutional neural networks for LVCSR",
+            "year": "2016",
+            "citations": 273,
+            "link": "No link available"
+        },
+        {
+            "title": "Design of a neural network character recognizer for a touch terminal",
+            "year": "1991",
+            "citations": 269,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning, reinforcement learning, and world models",
+            "year": "2022",
+            "citations": 264,
+            "link": "No link available"
+        },
+        {
+            "title": "Scene Parsing with Multiscale Feature Learning, Purity Trees, and Optimal Covers",
+            "year": "2012",
+            "citations": 264,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting Deeper into the Future of Semantic Segmentation",
+            "year": "2017",
+            "citations": 258,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-digit recognition using a space displacement neural network",
+            "year": "1993",
+            "citations": 246,
+            "link": "No link available"
+        },
+        {
+            "title": "An analog neural network processor with programmable topology",
+            "year": "1991",
+            "citations": 244,
+            "link": "No link available"
+        },
+        {
+            "title": "LeRec: A NN/HMM hybrid for on-line handwriting recognition",
+            "year": "1995",
+            "citations": 242,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional networks for images, speech, and time series. The handbook of brain theory and neural networks",
+            "year": "1995",
+            "citations": 239,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparing SVM and convolutional networks for epileptic seizure prediction from intracranial EEG",
+            "year": "2008",
+            "citations": 237,
+            "link": "No link available"
+        },
+        {
+            "title": "Transformation invariance in pattern recognition: Tangent distance and propagation",
+            "year": "2000",
+            "citations": 233,
+            "link": "No link available"
+        },
+        {
+            "title": "Eigenvalues of covariance matrices: Application to neural-network learning",
+            "year": "1991",
+            "citations": 231,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeep: A deep learning framework using motion features for human pose estimation",
+            "year": "2014",
+            "citations": 225,
+            "link": "No link available"
+        },
+        {
+            "title": "Boxlets: a fast convolution algorithm for signal processing and neural networks",
+            "year": "1999",
+            "citations": 214,
+            "link": "No link available"
+        },
+        {
+            "title": "Tunable efficient unitary neural networks (EUNN) and their application to RNNs",
+            "year": "2016",
+            "citations": 213,
+            "link": "No link available"
+        },
+        {
+            "title": "Moving beyond feature design: Deep architectures and automatic feature learning in music informatics.",
+            "year": "2012",
+            "citations": 212,
+            "link": "No link available"
+        },
+        {
+            "title": "A learning scheme for asymmetric threshold networks",
+            "year": "1985",
+            "citations": 210,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning invariant feature hierarchies",
+            "year": "2012",
+            "citations": 205,
+            "link": "No link available"
+        },
+        {
+            "title": "Application of the ANNA neural network chip to high-speed character recognition",
+            "year": "1992",
+            "citations": 205,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "1990",
+            "citations": 200,
+            "link": "No link available"
+        },
+        {
+            "title": "On\u2010line learning for very large data sets",
+            "year": "2005",
+            "citations": 199,
+            "link": "No link available"
+        },
+        {
+            "title": "Loss functions for discriminative training of energy-based models",
+            "year": "2005",
+            "citations": 198,
+            "link": "No link available"
+        },
+        {
+            "title": "Overfeat: Integrated recognition, localization and detection using convolutional networks. arXiv 2013",
+            "year": "Unknown",
+            "citations": 198,
+            "link": "No link available"
+        },
+        {
+            "title": "The mnist database of handwritten digits",
+            "year": "1998",
+            "citations": 194,
+            "link": "No link available"
+        },
+        {
+            "title": "A unified energy-based framework for unsupervised learning",
+            "year": "2007",
+            "citations": 188,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-supervised learning from images with a joint-embedding predictive architecture",
+            "year": "2023",
+            "citations": 184,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning Hardware: Past, Present, and Future",
+            "year": "2019",
+            "citations": 184,
+            "link": "No link available"
+        },
+        {
+            "title": "Orthogonal RNNs and Long-Memory Tasks",
+            "year": "2016",
+            "citations": 183,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of spatiotemporally coherent metrics",
+            "year": "2015",
+            "citations": 182,
+            "link": "No link available"
+        },
+        {
+            "title": "A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27",
+            "year": "2022",
+            "citations": 180,
+            "link": "No link available"
+        },
+        {
+            "title": "Globally trained handwritten word recognizer using spatial representation, convolutional neural networks, and hidden Markov models",
+            "year": "1993",
+            "citations": 180,
+            "link": "No link available"
+        },
+        {
+            "title": "Decoupled contrastive learning",
+            "year": "2022",
+            "citations": 178,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding Deep Architectures using a Recursive Convolutional Network",
+            "year": "2014",
+            "citations": 177,
+            "link": "No link available"
+        },
+        {
+            "title": "UNSUPERVISED LEARNING OF SPARSE FEATURES FOR SCALABLE AUDIO CLASSIFICATION",
+            "year": "2011",
+            "citations": 176,
+            "link": "No link available"
+        },
+        {
+            "title": "Second order properties of error surfaces: Learning time and generalization",
+            "year": "1990",
+            "citations": 175,
+            "link": "No link available"
+        },
+        {
+            "title": "Feature learning and deep architectures: New directions for music informatics",
+            "year": "2013",
+            "citations": 170,
+            "link": "No link available"
+        },
+        {
+            "title": "Method for sending multi-media messages using emoticons",
+            "year": "2006",
+            "citations": 160,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic learning rate maximization by on-line estimation of the Hessian\u2019s eigenvectors",
+            "year": "1993",
+            "citations": 160,
+            "link": "No link available"
+        },
+        {
+            "title": "Image and video coding-emerging standards and beyond",
+            "year": "1998",
+            "citations": 158,
+            "link": "No link available"
+        },
+        {
+            "title": "The mind of a mouse",
+            "year": "2020",
+            "citations": 156,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic recognition of biological particles in microscopic images",
+            "year": "2007",
+            "citations": 152,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning tutorial",
+            "year": "2013",
+            "citations": 148,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to linearize under uncertainty",
+            "year": "2015",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic",
+            "year": "2019",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale FPGA-based convolutional networks",
+            "year": "2011",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "Statistical machine learning and dissolved gas analysis: a review",
+            "year": "2012",
+            "citations": 144,
+            "link": "No link available"
+        },
+        {
+            "title": "Global training of document processing systems using graph transformer networks",
+            "year": "1997",
+            "citations": 143,
+            "link": "No link available"
+        },
+        {
+            "title": "Open problem: The landscape of the loss surfaces of multilayer networks",
+            "year": "2015",
+            "citations": 142,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical constrained automatic learning neural network for character recognition",
+            "year": "1991",
+            "citations": 140,
+            "link": "No link available"
+        },
+        {
+            "title": "NeuFlow: Dataflow vision processing system-on-a-chip",
+            "year": "2012",
+            "citations": 134,
+            "link": "No link available"
+        },
+        {
+            "title": "The MNIST database of handwritten digits (2010)",
+            "year": "2009",
+            "citations": 132,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep belief net learning in a long-range vision system for autonomous off-road driving",
+            "year": "2008",
+            "citations": 131,
+            "link": "No link available"
+        },
+        {
+            "title": "Reading checks with multilayer graph transformer networks",
+            "year": "1997",
+            "citations": 131,
+            "link": "No link available"
+        },
+        {
+            "title": "Catalyzing next-generation artificial intelligence through neuroai",
+            "year": "2023",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "Quand la machine apprend: la r\u00e9volution des neurones artificiels et de l'apprentissage profond",
+            "year": "2019",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "Design: Design inspiration from generative networks",
+            "year": "2018",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning in high dimension always amounts to extrapolation",
+            "year": "2021",
+            "citations": 125,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparing Dynamics: Deep Neural Networks versus Glassy Systems",
+            "year": "2018",
+            "citations": 123,
+            "link": "No link available"
+        },
+        {
+            "title": "Signal Recovery from Lp Pooling Representations",
+            "year": "2014",
+            "citations": 120,
+            "link": "No link available"
+        },
+        {
+            "title": "Contrastive and non-contrastive self-supervised learning recover global and local spectral embedding methods",
+            "year": "2022",
+            "citations": 119,
+            "link": "No link available"
+        },
+        {
+            "title": "Method for sending multi-media messages using customizable background images",
+            "year": "2006",
+            "citations": 116,
+            "link": "No link available"
+        },
+        {
+            "title": "A Mathematical Motivation for Complex-Valued Convolutional Networks",
+            "year": "2016",
+            "citations": 110,
+            "link": "No link available"
+        },
+        {
+            "title": "On the applications of multimedia processing to communications",
+            "year": "1998",
+            "citations": 107,
+            "link": "No link available"
+        },
+        {
+            "title": "Word-level training of a handwritten word recognizer based on convolutional neural networks",
+            "year": "1994",
+            "citations": 105,
+            "link": "No link available"
+        },
+        {
+            "title": "Coarse-to-fine vision-language pre-training with fusion in the backbone",
+            "year": "2022",
+            "citations": 104,
+            "link": "No link available"
+        },
+        {
+            "title": "Runtime reconfigurable dataflow processor with multi-port memory access module",
+            "year": "2018",
+            "citations": 101,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting Future Instance Segmentations by Forecasting Convolutional Features",
+            "year": "2018",
+            "citations": 101,
+            "link": "No link available"
+        },
+        {
+            "title": "Vicregl: Self-supervised learning of local visual features",
+            "year": "2022",
+            "citations": 97,
+            "link": "No link available"
+        },
+        {
+            "title": "Shape, contour and grouping in computer vision",
+            "year": "1999",
+            "citations": 97,
+            "link": "No link available"
+        },
+        {
+            "title": "3rd international conference on learning representations",
+            "year": "2015",
+            "citations": 96,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for biometric authentication in connection with camera equipped devices",
+            "year": "2014",
+            "citations": 94,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional networks for images",
+            "year": "1997",
+            "citations": 94,
+            "link": "No link available"
+        },
+        {
+            "title": "On the duality between contrastive and non-contrastive self-supervised learning",
+            "year": "2022",
+            "citations": 92,
+            "link": "No link available"
+        },
+        {
+            "title": "DjVu: Analyzing and compressing scanned documents for internet distribution",
+            "year": "1999",
+            "citations": 92,
+            "link": "No link available"
+        },
+        {
+            "title": "Method and apparatus for extracting a foreground image and a background image from a color document image",
+            "year": "1999",
+            "citations": 92,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularized estimation of image statistics by score matching",
+            "year": "2010",
+            "citations": 91,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient learning and second order methods",
+            "year": "1993",
+            "citations": 91,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-supervised Learning: The Dark Matter of Intelligence",
+            "year": "2021",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative Recurrent Sparse Auto-Encoders",
+            "year": "2013",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergence of complex-like cells in a temporal product network with local receptive fields",
+            "year": "2010",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparing different neural network architectures for classifying handwritten digits",
+            "year": "1989",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "The effects of regularization and data augmentation are class dependent",
+            "year": "2022",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparison between frame-constrained fix-pixel-value and frame-free spiking-dynamic-pixel convnets for visual processing",
+            "year": "2012",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "The handbook of brain theory and neural networks. chapter Convolutional Networks for Images, Speech, and Time Series",
+            "year": "1998",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "et HINTON, Geoffrey",
+            "year": "2015",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "An fpga-based stream processor for embedded real-time vision with convolutional networks",
+            "year": "2009",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Double backpropagation increasing generalization performance",
+            "year": "1991",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Eyes wide shut? exploring the visual shortcomings of multimodal llms",
+            "year": "2024",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeles connexionnistes de l\u2019apprentissage (connectionist learning models)",
+            "year": "1987",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "MNIST handwritten digit database, 1998",
+            "year": "1998",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised image matching and object discovery as optimization",
+            "year": "2019",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Semantic road segmentation via multi-scale ensembles of learned features",
+            "year": "2012",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "MNIST dataset",
+            "year": "1998",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Which encoding is the best for text classification in chinese, english, japanese and korean?",
+            "year": "2017",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "MNIST handwritten digit database",
+            "year": "2010",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning & convolutional networks.",
+            "year": "2015",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "Energy-based models in document recognition and computer vision",
+            "year": "2007",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization and network design strategies. Connectionism in perspective",
+            "year": "1989",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "MNIST handwritten digit database. ATT Labs (2010)",
+            "year": "2020",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "Reading handwritten digits: A ZIP code recognition system",
+            "year": "1992",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarially regularized autoencoders for generating discrete structures",
+            "year": "2017",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Constrained neural networks for unicon-strained handwritten digit recognition",
+            "year": "1990",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionism in perspective",
+            "year": "1989",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten character recognition using neural network architectures",
+            "year": "1990",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic factor graphs for time series modeling",
+            "year": "2009",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Explorations on high dimensional landscapes",
+            "year": "2014",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Online learning for offroad robots: Using spatial label propagation to learn long-range traversability",
+            "year": "2007",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Saturating Auto-Encoder",
+            "year": "2013",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Time delay neural network for printed and cursive handwritten character recognition",
+            "year": "1992",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Glomo: Unsupervised learning of transferable relational graphs",
+            "year": "2018",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Word normalization for online handwritten word recognition",
+            "year": "1994",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Solla",
+            "year": "1990",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Automata networks and artificial intelligence",
+            "year": "1987",
+            "citations": 62,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional matching pursuit and dictionary training",
+            "year": "2010",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "A multirange architecture for collision\u2010free off\u2010road robot navigation",
+            "year": "2009",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Shortest path segmentation: A method for training a neural network to recognize character strings",
+            "year": "1992",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "The Power and Limits of Deep Learning: In his IRI Medal address, Yann LeCun maps the development of machine learning techniques and suggests what the future may hold.",
+            "year": "2018",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Singularity of the hessian in deep learning",
+            "year": "2016",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale kernel machines",
+            "year": "2007",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Boosting and other machine learning algorithms",
+            "year": "1994",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Off line recognition of handwritten postal words using neural networks",
+            "year": "1993",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "The 4th International Conference on Learning Representations",
+            "year": "2016",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Computer Vision and Pattern Recognition",
+            "year": "2006",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Hardware requirements for neural network pattern classifiers: a case study and implementation",
+            "year": "1992",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "A generalization of vit/mlp-mixer to graphs",
+            "year": "2023",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "MNIST handwritten digit database. AT&T Labs {Online}",
+            "year": "2010",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "nature",
+            "year": "2015",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Mnist handwritten digit database, yann lecun, corinna cortes and chris burges",
+            "year": "2013",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Rankme: Assessing the downstream performance of pretrained self-supervised representations by their rank",
+            "year": "2023",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Toward next-generation artificial intelligence: Catalyzing the neuroai revolution",
+            "year": "2022",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Harnessing explanations: Llm-to-lm interpreter for enhanced text-attributed graph representation learning",
+            "year": "2023",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Implicit Rank-Minimizing Autoencoder",
+            "year": "2020",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep multi-scale video prediction beyond mean square error. arXiv 2015",
+            "year": "2015",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning. nature (2015)",
+            "year": "2015",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Dave: Autonomous off-road vehicle control using end-to-end learning",
+            "year": "2004",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Module for constructing trainable modular network in which each module inputs and outputs data structured as a graph",
+            "year": "2000",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "proc. IEEE",
+            "year": "1998",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "To compress or not to compress\u2014self-supervised learning and information theory: A review",
+            "year": "2024",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "A learning procedure for asymmetric network",
+            "year": "1985",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Mapping and planning under uncertainty in mobile robots with long-range perception",
+            "year": "2008",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Model-based planning with discrete and continuous actions",
+            "year": "2017",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic auto-encoders for semantic indexing",
+            "year": "2010",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural manifold clustering and embedding",
+            "year": "2022",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Method, system, and computer-accessible medium for classification of at least one ICTAL state",
+            "year": "2016",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised feature learning from temporal data",
+            "year": "2015",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Writer independent and writer adaptive neural network for on-line character recognition",
+            "year": "1992",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Gaia: a benchmark for general ai assistants",
+            "year": "2023",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast approximations to structured sparse coding and applications to object classification",
+            "year": "2012",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "A sparse and locally shift invariant feature extractor applied to document images",
+            "year": "2007",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Transformer visualization via dictionary learning: contextualized embedding as a linear superposition of transformer factors",
+            "year": "2021",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional nets and watershed cuts for real-time semantic labeling of rgbd videos",
+            "year": "2014",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Structured sparse coding via lateral inhibition",
+            "year": "2011",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Binary embeddings with structured hashed projections",
+            "year": "2015",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Graphical system for automated segmentation and recognition for image recognition systems",
+            "year": "1996",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical constrained automatic learning network for character recognition",
+            "year": "1991",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "GEMINI: gradient estimation through matrix inversion after noise injection",
+            "year": "1989",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "Memoires associatives distribuees",
+            "year": "1987",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning stable group invariant representations with convolutional networks",
+            "year": "2013",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "EVALUATION OF NETWORK ARCHITECTURES ON TEST LEARNING TASKS.",
+            "year": "1987",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "A spectral regularizer for unsupervised disentanglement",
+            "year": "2018",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Pattern Recognition and Neural Networks",
+            "year": "1995",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting deeper into the future of semantic segmentation",
+            "year": "2017",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Universum prescription: Regularization using unlabeled data",
+            "year": "2017",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Eblearn: Open-source energy-based learning in c++",
+            "year": "2009",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Reverse TDNN: an architecture for trajectory generation",
+            "year": "1992",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Memory-based character recognition using a transformation invariant metric",
+            "year": "1994",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "An efficient algorithm for learning invariance in adaptive classifiers",
+            "year": "1992",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "A hierarchical loss and its problems when classifying non-hierarchically",
+            "year": "2019",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Differentially-and non-differentially-private random decision trees",
+            "year": "2014",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning and the spatial structure of house prices and housing returns",
+            "year": "2008",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering the hidden structure of house prices with a non-parametric latent manifold model",
+            "year": "2007",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Pre-train your loss: Easy bayesian transfer learning with informative priors",
+            "year": "2022",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Causal graph-based video segmentation",
+            "year": "2013",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for sending multi-media messages using emoticons",
+            "year": "2011",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Time-delay neural networks and independent component analysis for eeg-based prediction of epileptic seizures propagation",
+            "year": "2007",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Real time voice processing with audiovisual feedback: toward autonomous agents with perfect pitch",
+            "year": "2003",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "G-retriever: Retrieval-augmented generation for textual graph understanding and question answering",
+            "year": "2024",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "A theoretical argument for complex-valued convolutional networks",
+            "year": "2015",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Guest editorial: Deep learning",
+            "year": "2015",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Scanning the Technology",
+            "year": "1998",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "A theoretical framework for back-propagation",
+            "year": "1992",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical loss for classification",
+            "year": "2017",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive learning rates and parallelization for stochastic, sparse, non-smooth gradients",
+            "year": "2013",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Reassessing FHA risk",
+            "year": "2010",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Browsing through high quality document images with DjVu",
+            "year": "1998",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Color documents on the web with DjVu",
+            "year": "1999",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Prediction under uncertainty with error-encoding networks",
+            "year": "2017",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast approximation of rotations and Hessians matrices",
+            "year": "2014",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Learning of Feature Hierarchies",
+            "year": "2009",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Energy-based models",
+            "year": "2007",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "M\u00e9moires associatives distribu\u00e9es: une comparaison (distributed associative memories: a comparison)",
+            "year": "1987",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Masked siamese convnets",
+            "year": "2022",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning about an exponential amount of conditional distributions",
+            "year": "2019",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive long range vision in unstructured terrain",
+            "year": "2007",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative feature and model design for automatic speech recognition.",
+            "year": "1997",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Structured sparse coding via lateral inhibition",
+            "year": "2011",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Optical character recognition and neural-net chips",
+            "year": "1990",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "The ssl interplay: Augmentations, inductive bias, and generalization",
+            "year": "2023",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-supervised learning: The dark matter of intelligence, 2021",
+            "year": "2021",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "L\u2019apprentissage profond, une r\u00e9volution en intelligence artificielle",
+            "year": "2016",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "A general segmentation scheme for DjVu document compression",
+            "year": "2002",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "An analog neural network processor and its application to high-speed character recognition",
+            "year": "1991",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-supervised learning of split invariant equivariant representations",
+            "year": "2023",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "La plus belle histoire de l'intelligence: des origines aux neurones artificiels: vers une nouvelle \u00e9tape de l'\u00e9volution",
+            "year": "2018",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for biometric authentication in connection with camera equipped devices",
+            "year": "2018",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Model-based planning in discrete action spaces",
+            "year": "2017",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Hardware requirements for neural-net optical character recognition",
+            "year": "1990",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization and network design strategies: Technical Report CRG-TR-89-4",
+            "year": "1989",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "projUNN: efficient method for training deep networks with unitary matrices",
+            "year": "2022",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Tico: Transformation invariance and covariance contrast for self-supervised visual representation learning",
+            "year": "2022",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "A multi-range vision strategy for autonomous offroad navigation",
+            "year": "2007",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Training system for neural networks",
+            "year": "1996",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "What do we maximize in self-supervised learning?",
+            "year": "2022",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Inspirational adversarial image generation",
+            "year": "2021",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Traffic signs and pedestrians vision with multi-scale convolutional networks",
+            "year": "2011",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Synergistic face detection and pose estimation with energy-based models",
+            "year": "2006",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-supervised learning",
+            "year": "2020",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient conversion of digital documents to multilayer raster formats",
+            "year": "2001",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "SN: A simulator for connectionist models",
+            "year": "1988",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Reverse engineering self-supervised learning",
+            "year": "2023",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "An information-theoretic perspective on variance-invariance-covariance regularization",
+            "year": "2023",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural information processing scaled for bioacoustics, from neurons to big data",
+            "year": "2013",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten digit recognition with a back-propagation network, 1989",
+            "year": "1989",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep generative models create new and diverse protein structures",
+            "year": "2021",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "What\u2019s wrong with deep learning",
+            "year": "2015",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Toward real-time indoor semantic segmentation using depth information",
+            "year": "2014",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Cambrian-1: A fully open, vision-centric exploration of multimodal llms",
+            "year": "2024",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Mc-jepa: A joint-embedding predictive architecture for self-supervised learning of motion and content features",
+            "year": "2023",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning representations by maximizing compression",
+            "year": "2011",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient learning and second-order methods, a tutorial at NIPS 93",
+            "year": "1993",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Une Procedure d\u015bapprentissage pour reseau a seuil assymetrique cog'nitiva 85: A la Frontiere de lqIntelligence Artificielle des Sciences de la Connais' sance des Neurosciences",
+            "year": "1985",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Haffner,\u201cGradient-based learning applied to document recognition,\u201d",
+            "year": "Unknown",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Emp-ssl: Towards self-supervised learning in one training epoch",
+            "year": "2023",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Volta: Vision-language transformer with weakly-supervised local-feature alignment",
+            "year": "2022",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "A data-augmentation is worth a thousand samples: Exact quantification from analytical augmented sample moments",
+            "year": "2022",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning maneuver dictionaries for ground robot planning",
+            "year": "2008",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "On-line recognition of limited-vocabulary Chinese character using multiple convolutional neural networks",
+            "year": "1993",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Blockwise self-supervised learning at scale",
+            "year": "2023",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning est mort. Vive Differentiable Programming",
+            "year": "2018",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "The MNIST database of handwritten digits. 1998",
+            "year": "2018",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Graph transformer networks for image recognition",
+            "year": "2005",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "E cient BackProp",
+            "year": "1998",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Using connectionist modules for decision support",
+            "year": "1990",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Universal halting times in optimization and machine learning",
+            "year": "2018",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Les enjeux de la recherche en intelligence artificielle",
+            "year": "2016",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Real-time adaptive off-road vehicle navigation and terrain classification",
+            "year": "2013",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Speed-range dilemmas for vision-based navigation in unstructured terrain",
+            "year": "2007",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Network Applications in Character Recognition and Document Analysis",
+            "year": "1994",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Method and apparatus for image segmentation",
+            "year": "1993",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural Versus",
+            "year": "1992",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "PhD thesis: Modeles connexionnistes de l'apprentissage (connectionist learning models)",
+            "year": "1987",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "A data-augmentation is worth a thousand samples: Analytical moments and sampling-free training",
+            "year": "2022",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Intra-instance vicreg: Bag of self-supervised image patch embedding",
+            "year": "2022",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Developing deep learning applications for life science and pharma industry",
+            "year": "2018",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast training of convolutional networks through ffts: International conference on learning representations (iclr2014), cbls, april 2014",
+            "year": "2014",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient off-road localization using visually corrected odometry",
+            "year": "2009",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "2001",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Constrained neural networks for pattern recognition",
+            "year": "1991",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to latent variable energy-based models: A path towards autonomous machine intelligence",
+            "year": "2023",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Active self-supervised learning: A few low-cost relationships are all you need",
+            "year": "2023",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural potts model",
+            "year": "2021",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning world models: The next step towards AI",
+            "year": "2018",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "My take on Ali Rahimi\u2019s \u2018Test of Time\u2019award talk at NIPS",
+            "year": "2017",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Source separation with scattering non-negative matrix factorization",
+            "year": "2015",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Hybrid hessians for flexible optimization of pose graphs",
+            "year": "2010",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Method and apparatus for standardization of inputs to word recognition systems",
+            "year": "1998",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "YoshuaBengio.\"",
+            "year": "1995",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Method and apparatus for symbol recognition using multidimensional preprocessing at multiple resolutions",
+            "year": "1994",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "D. henderson, re howard, w. hubbard, and lj jackel",
+            "year": "1990",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Revisiting feature prediction for learning visual representations from video",
+            "year": "2024",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "POLICE: Provably optimal linear constraint enforcement for deep neural networks",
+            "year": "2023",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Backpropagation for implicit spectral densities",
+            "year": "2018",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Overview of the djvu document compression technology",
+            "year": "2001",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Special issue on applications of artificial neural networks to image processing",
+            "year": "1998",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "The mnist database",
+            "year": "1998",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "DjVu: a compression method for distributing scanned documents in color over the internet",
+            "year": "1998",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "E cient pattern recognition using a new transformation distance, inAdvances in Neural Information Processing Systems'",
+            "year": "1993",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "VLSI implementations of electronic neural networks: An example in character recognition",
+            "year": "1990",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Backpropagation applied to handwritten zip code recognition, 1989",
+            "year": "Unknown",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "MNist dataset, 2000",
+            "year": "Unknown",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Language, common sense, and the Winograd schema challenge",
+            "year": "2023",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Variance covariance regularization enforces pairwise independence in self-supervised representations",
+            "year": "2022",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Methods, systems, and media for detecting spoofing in mobile authentication",
+            "year": "2020",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast incremental learning for off-road robot navigation",
+            "year": "2016",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Lush reference manual",
+            "year": "2002",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient learning and second-older methods, a tutorial",
+            "year": "1993",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving generalization performance in character recognition",
+            "year": "1991",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeles connexionnistes de l\u2019apprentissage (connectionist learning models)(Ph. D. thesis)",
+            "year": "1987",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint embedding self-supervised learning in the kernel regime",
+            "year": "2022",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Light-weight probing of unsupervised representations for reinforcement learning",
+            "year": "2022",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Sparse coding with multi-layer decoders using variance regularization",
+            "year": "2021",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Phase 4: Dcl system using deep learning approaches for land-based or ship-based real-time recognition and localization of marine mammals-distributed processing and big data \u2026",
+            "year": "2016",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges",
+            "year": "2015",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "High performance computer acoustic data accelerator (HPC-ADA): A new system for exploring marine mammal acoustics for big data applications",
+            "year": "2014",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Bio-inspired vision processor for ultra-fast object categorization",
+            "year": "2010",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Multimedia Processing for Advanced Communications Services",
+            "year": "1999",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Guest editorial applications of artificial neural networks to image processing",
+            "year": "1998",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "MNIST, dataset",
+            "year": "1998",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Reverse time delay neural network for pattern generation",
+            "year": "1995",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving the convergence of bavk-propagation learning with second order methods. In\" Proceedings, 1988 Connectionist models Summer School",
+            "year": "1988",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "V-jepa: Latent video prediction for visual representation learning",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Minimalistic unsupervised learning with the sparse manifold transform",
+            "year": "2022",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Qu\u2019est-ce que l\u2019intelligence artificielle",
+            "year": "2016",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "High performance computer acoustic data accelerator: A new system for exploring marine mammal acoustics for big data applications",
+            "year": "2015",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Audio source separation with discriminative scattering networks",
+            "year": "2015",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Hardware accelerated visual attention algorithm",
+            "year": "2011",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal brain damage. Advances of NIPS2",
+            "year": "1990",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "& Vapnik, V.(1995). Learning algorithms for classification: A comparison on handwritten digit recognition",
+            "year": "Unknown",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning by reconstruction produces uninformative features for perception",
+            "year": "2024",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-supervised learning with lie symmetries for partial differential equations",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint embedding predictive architectures focus on slow features",
+            "year": "2022",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Byte-level recursive convolutional auto-encoder for text",
+            "year": "2018",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Simultaneous learning of trees and representations for extreme classification, with application to language modeling",
+            "year": "2016",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Bioacoustic challenges in icml4b",
+            "year": "2013",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient learning of sparse invariant representations",
+            "year": "2011",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine Learning and Pattern Recognition",
+            "year": "2004",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "DjVu document browsing with on-demand loading and rendering of image components",
+            "year": "2000",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Networks and Gradient-Based Learning in OCR (invited talk)",
+            "year": "1997",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "A neural network approach to handprint character recognition.",
+            "year": "1991",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten digit recognition with a back-propagation network. NIPS",
+            "year": "1989",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "SN: Un simulateur pour r\u00e9seaux connexionnistes",
+            "year": "1988",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning",
+            "year": "2024",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning and leveraging world models in visual representation learning",
+            "year": "2024",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Separating the world and ego models for self-driving",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "DCL System Using Deep Learning Approaches for Land-Based or Ship-Based Real Time Recognition and Localization of Marine Mammals. Bioacoustics Research Program, Cornell \u2026",
+            "year": "2015",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "DjVu: un syst\u00e8me de compression d\u2019images pour la distribution r\u00e9ticulaire de documents num\u00e9ris\u00e9s",
+            "year": "2000",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient-based learning for object detection, segmentation and recognition",
+            "year": "1999",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Mnist",
+            "year": "1998",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Method and apparatus for symbol recognition using multidimensional preprocessing and symbol sorting",
+            "year": "1997",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization and network design strategies, chapter Learning",
+            "year": "1989",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Using curvature information to improve back-propagation",
+            "year": "1988",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Une procedure d\u2019apprentissage pour reseau a seuil asymetrique. proceedings of Cognitiva 85",
+            "year": "1985",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of structured representations via closed-loop transcription",
+            "year": "2022",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "AAAI\u20192020 keynotes turing award winners event",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "The deep learning revolution",
+            "year": "2019",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning",
+            "year": "2016",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "L\u2019apprentissage profond",
+            "year": "2016",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Fully Adaptive Visual Navigation for Autonomous Vehicles",
+            "year": "2010",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Scho lkopf",
+            "year": "2007",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "On-line handwriting recognition with neural networks: Spatial representation versus temporal representation",
+            "year": "1993",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Hardware Requirements for Neural Network Pattern Classifiers a Case Study and Implementation",
+            "year": "1992",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Optical character recognition: A technology driver for neural networks",
+            "year": "1990",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Mod les Connexionnistes de l'Apprentissage",
+            "year": "1987",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalization using back-propagation",
+            "year": "1987",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Jackel ea, LD (1990). Handwritten digit recognition with a back-propagation network",
+            "year": "Unknown",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "The entropy enigma: Success and failure of entropy minimization",
+            "year": "2024",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast and exact enumeration of deep networks partitions regions",
+            "year": "2024",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Variance-covariance regularization improves representation learning",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Adapting grounded visual question answering models to low resource languages",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Compact and optimal deep learning with recurrent parameter generators",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent parameter generators",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for biometric authentication in connection with camera-equipped devices",
+            "year": "2020",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional Neural Networks",
+            "year": "2018",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Design inspiration from generative networks",
+            "year": "2018",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Yann LeCun",
+            "year": "2018",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Guest editorial: Deep learning",
+            "year": "2015",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Indoor semantic segmentation using depth information: 1st international conference on learning representations, iclr 2013",
+            "year": "2013",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminative recurrent sparse auto-encoders: 1st international conference on learning representations, iclr 2013",
+            "year": "2013",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "HPC and Bioacoustics, Practical Considerations for Detection Classification for Big Data",
+            "year": "2013",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Tutorial: learning deep architectures",
+            "year": "2009",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Object Recognition, Computer Vision, and the Caltech 101: A Response to Pinto et al",
+            "year": "2008",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "On-line learning of long-range obstacle detection for off-road robots",
+            "year": "2006",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Conversion of digital documents to multilayer raster formats",
+            "year": "2001",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "The feasibility of applying numerical optimization techniques to back-propagation",
+            "year": "1988",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient-based planning with world models",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Methods, systems, and media for detecting spoofing in mobile authentication",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Tutorial: Geometric deep learning on graphs and manifolds",
+            "year": "2018",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Geometric deep learning on graphs and manifolds",
+            "year": "2017",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Phase 1: Dcl system research using advanced approaches for land-based or ship-based real-time recognition and localization of marine mammals-hpc system implementation",
+            "year": "2016",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Marc\u2019Aurelio Ranzato",
+            "year": "2013",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "NeuFlow: A Runtime Reconfigurable Dataflow Architecture for Vision (abstract)",
+            "year": "2011",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Building heterogeneous platforms for end-to-end online learning based on dataflow computing design. 78",
+            "year": "2010",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "An FPGA-Based Stream Processor for Embedded Real-Time Vision with Convolutional Networks",
+            "year": "2009",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Optical character recogntion for automatic teller machines",
+            "year": "1998",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Method and apparatus for symbol recognition using multidimensional preprocessing",
+            "year": "1997",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "L. bottou, Y. bengio, and P. haffner,\u201cGradient-based learning applied to document recognition,\u201d",
+            "year": "1990",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "An information theory perspective on variance-invariance-covariance regularization",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "An information-theoretic understanding of maximum manifold capacity representations",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "An information-theoretic understanding of maximum manifold capacity representations",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Minimalistic unsupervised representation learning with the sparse manifold transform",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning with Reflective Likelihoods",
+            "year": "2018",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "What is the Best Feature Learning Procedure in Hierarchical Recognition Architectures?",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "The bottleneck in human letter recognition: A computational model",
+            "year": "2014",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-end learning of vision-based obstacle avoidance for off-road robots",
+            "year": "2004",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Pattern recognition and neural networks",
+            "year": "1996",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Usability study of text entry interfaces for wireless personal organizers and communicators",
+            "year": "1995",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Localizing faces in images",
+            "year": "1993",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "JS Denker, D",
+            "year": "1990",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Object recognition with gradient-based learning",
+            "year": "1988",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Solla SA",
+            "year": "Unknown",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "JSD, and et al. 1990. Handwritten digit recognition with a back-propagation network",
+            "year": "Unknown",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "LiveBench: A Challenging, Contamination-Free LLM Benchmark",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Advancing human-centric AI for robust X-ray analysis through holistic self-supervised learning",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "An Information-Theoretic Understanding of Maximum Manifold Capacity Representations",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarially-Trained Normalized Noisy-Feature Auto-Encoder for Text Generation",
+            "year": "2018",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning with elastic averaging SGD: 3rd International Conference on Learning Representations, ICLR 2015",
+            "year": "2015",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning & Convolutional Networks In Vision (part 2)",
+            "year": "2013",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "High-Accuracy Object Recognition with a New Convolutional Net Architecture and Learning Algorithm (abstract)",
+            "year": "2009",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Editorial",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Loss functions for discriminative training of energy-based graphical models",
+            "year": "2005",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Applying neural network technologies",
+            "year": "1990",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Hardware Considerations for Neural-net Character Recognition Systems",
+            "year": "1990",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in artificial intelligence",
+            "year": "1986",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "PooDLe: Pooled and dense self-supervised learning from naturalistic videos",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "-Sample Contrastive Loss: Improving Contrastive Learning with Sample Similarity Graphs",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Just How Flexible are Neural Networks in Practice?",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards an Improved Understanding and Utilization of Maximum Manifold Capacity Representations",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical World Models as Visual Whole-Body Humanoid Controllers",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "EgoPet: Egomotion and Interaction Data from an Animal's Perspective",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning With Fewer Labels in Computer Vision",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient-based Planning with World Models",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-Supervised Learning for Understanding Text, Imaging, Equations and Everything Else",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient-based Planning with World Models",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "URLOST: Unsupervised Representation Learning without Stationarity or Topology",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting masked tokens in stochastic locations improves masked image modeling",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Cookbook of Self-Supervised Learning",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sistema de preven\u00e7\u00e3o de mistifica\u00e7\u00e3o de identidade",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "m\u00e9todos, sistemas e m\u00eddias para detectar a falsifica\u00e7\u00e3o em autentica\u00e7\u00e3o m\u00f3vel",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "System and method for biometric authentication in connection with camera-equipped devices",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Congratulations to the 2020 AAAI Fellows!",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "METHODS, SYSTEMS AND MEDIA FOR DETECTING MYSTIFICATION DURING MOBILE AUTHENTICATION",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning about an exponential amount of conditional distributions",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Informatique et sciences num\u00e9riques",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Advancing AI: From Academia to Facebook and Back",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Universality in halting time",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ENERGY-BASED GENERATIVE ADVERSARIAL NET",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "AAAI Workshop-Technical Report: Preface",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Transformation invariance in pattern recognition\u2013tangent distance and tangent propagation",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A New Computer Science Publishing Model",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "technical Perspective concerto for Violin and Markov Model",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Building Artificial Vision Systems with Machine Learning",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Concerto for violin and Markov model: technical perspective. Communications of the ACM, 54 (3), 86-86",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional K-SVD (abstract)",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Analysis of Feature Learning and Feature Pooling for Image Recognition (abstract)",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Workshop summary: Workshop on learning feature hierarchies",
+            "year": "2009",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "International Journal of Computer Vision",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Computer Vision and Pattern Recognition (CVPR). Conference",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Online Learning for Offroad Robots: Using Spatial Label Propagation to Learn Long-Range Traversability",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SEIZURE PREDICTION USING MACHINE LEARNING ON BIVARIATE FEATURES FROM EEG",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Learning and Inference of Sparse Overcomplete Representations (abstract)",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Analysis of ictal dynamics using generative neural networks",
+            "year": "2007",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Synergistic face detection and pose estimation with energy-based models",
+            "year": "2007",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Energy-Based Factor Graphs for Prediction in Relational Data",
+            "year": "2007",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Computer Vision and Pattern Recognition",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "III Recognition of Object Categories-Synergistic Face Detection and Pose Estimation with Energy-Based Models",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Message from the program and general chairs",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Prediction and analysis of ictal dynamics using computational neural networks",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Proceedings of the 2006 Computer Vision and Pattern Recognition Conference",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Technical report: Lush reference manual, code available at http://lush. sourceforge. net",
+            "year": "2002",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems: Proceedings of the first 12 conferences (CDROM)",
+            "year": "2001",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Transformation invariance in pattern recognition: Tangent distance and propagation The majority of this work was completed at AT& T Labs..",
+            "year": "2000",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "\" S1202",
+            "year": "1999",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting Learning Curves without the Ground Truth Hypothesis",
+            "year": "1999",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Future challenges",
+            "year": "1998",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Representing and Incorporating Prior Knowledge in Neural Network Training-12-Transformation Invariance in Pattern Recognition-Tangent Distance and Tangent Propagation",
+            "year": "1998",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient backprop",
+            "year": "1998",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Invited lecture Neural Networks and Gradient-Based Learning in OCR",
+            "year": "1997",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Invited lecture",
+            "year": "1997",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "DRAFT DOCUMENT",
+            "year": "1996",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Pen-based visitor registration system (PENGUIN)",
+            "year": "1994",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting transportpath degradation/failure based on recent performance history",
+            "year": "1994",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Localisation de visages dans des images",
+            "year": "1993",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Adams, M, Qian, Yi, Tomaszunas, J, Burtscheidt, J, Kaiser, E and lubasz, C",
+            "year": "1992",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "From Pixels to Features III: Frontiers in Handwriting Recognition S. Impedovo and JC Simon (eds.)\u00a9 1992 Elsevier Science Publishers BV All rights reserved. 467",
+            "year": "1992",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten digit",
+            "year": "1992",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Hardware for neural-net optical character recognition",
+            "year": "1990",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A time delay neural network character recognizer for a touch terminal",
+            "year": "1990",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten digit recognition: Applications of neural network chips and automatic learning",
+            "year": "1989",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Design Strategies",
+            "year": "1989",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving the Convergence of Back-Propagation Learning with",
+            "year": "1988",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "User manual: SN: A simulator for connectionist models",
+            "year": "1988",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "eeekkk kkk kkSkSkkSSS kk",
+            "year": "1988",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Mod\u00e8les connexionnistes de l'apprentissage| Theses. fr",
+            "year": "1987",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning in Automate Networks F. Fogelman Soulie Universit\u00e9 de Paris VI, Paris (France) P. Gallinari et S. Thiria CNAM, Paris (France)",
+            "year": "1987",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The Origins of Artificial Intelligence: A Comprehensive Overview",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Aemmm output synapses",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Intrinsic gradient networks: Highly recurrent neural networks with biologically plausible training",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic positional embeddings improve masked image modeling",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Silkman Statistical Journal",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "WILL LEARNING MACHINES TAKE OVER THE WORLD?",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning for AI How can neural networks learn the rich internal representations required for difficult tasks such as recognizing objects or understanding language?",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "VICRegL: Self-Supervised Learning of Local Visual",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deepak Madhavan Ruben Kuzniecky",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "5000 Forbes Avenue, Pittsburgh, PA 15213 USA Email: hebert@ ri. cmu. edu, Phone: 1-412-268-2585",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Sparse and Invariant Features Hierarchies",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep feature learning for real-time recognition and detection",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Blockwise self-supervised learning with Barlow Twins",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Masked Siamese ConvNets: Towards an Effective Masking Strategy for General-purpose Siamese Networks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Graph MLP-Mixer",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "What Do We Maximize in Self-Supervised Learning And Why Does Generalization Emerge?",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "An Analog Neural Network Processor and its Application to High-speed Character Recognition zyxwvutsrqpo",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Intra-Instance VICReg: Bag of Self-Supervised Image Patch Embedding Explains the Performance",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Leave your comfort zone!",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Case Study in Handwritten Digit Recognition",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Color Documents on the Web with DjVu",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Koray Kavukcuoglu",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Learning of Sparse and Invariant Features Hierarchies",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "FAST INCREMENTAL LEARNING FOR AUTONOMOUS GROUND NAVIGATION",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Hastie, T., Tibshirani, R. & Buja, A.(1992b), Flexible discriminant analysis by optimal scoring, To be published. Hertz, J., Krogh, A. & Palmer, R.(1991), Introduction to the \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Orthogonal RNNs and Long-Memory Tasks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "HS Baird, AT&T Bell Laboratories, Murray Hill NJ 07974",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Predicting Deeper into the Future of Semantic Segmentation\u2014Supplementary Material\u2014",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional Nets",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning Made Easier",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast approximate prediction of sparse codes",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient BackProp Efficient BackProp",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ALGORITHMS FOR HANDWRITTEN DIGIT",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Loss Functions for Energy-Based Models With Applications to Object Recognition.",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "KAROL GREGOR",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergence of complex like cells in a temporal product network and its smooth generalization",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Ask the locals: multi-way local pooling for image recognition Supplemental material.",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Pedestrian Detection with Unsupervised Multi-Stage Feature Learning (Supplementary Material)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning a Deep Hierarchy of Sparse and Invariant Features",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "An Analog Neural Network Processor and its Application to High-speed Character Recognition",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "http://yann. lecun. com",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning for Generic Object Recognition",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "EnergyBased Models: The Cure Against Bayesian Fundamentalism",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "LeRec: A NN/HMM Hybrid for On-Line Handwriting Recognition",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supervised and Unsupervised Methods for Learning Invariant Feature Hierarchies",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Datasets of the Unsupervised and Transfer Learning Challenge",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "an\u00a5 \u00a7 ritten igit Recognition \u00a7 it1 a Bac57ProBagation Fet \u00a7 or5",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Report from the NSF Workshop on Integrating Approaches to Computational Cognition",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Name and affiliation of the authors",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A MULTI-RANGE VISION STRATEGY FOR AUTONOMOUS OFFROAD NAVIGATION Raia Hadsell1 Ayse Erkan1",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "THROUGH MATRIX INVERSION AFTER NOISE INJECTION",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten Digit Recognition: Applications of Neural Network Chips",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Greedy structured dictionaries for fast sparse coding.",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "DECOUPLING THE DATA GEOMETRY FROM THE PARAMETER GEOMETRY FOR STOCHASTIC GRADIENTS",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional Networks Applied to House Numbers Digit Classification",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial neural networks are computationally powerful and exhibit brain-like dynamics. However, it is generally believed that the backpropagation algorithm, commonly used to \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Strategies for Learning Hierarchies of Invariant Features",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Invariant Feature Learning on a Mobile Robot",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous Learning for Long Range Vision in Mobile Robots",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-End Learning of Object Categorization with Invariance Pose, Illumination, and Clutter.",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Study of Parallel Computing for Machine Learning: which Platform for which Application?",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Energy-Based methods for Simultaneous Localization and Mapping",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SPECIAL ISSUE ON MULTIMEDIA SIGNAL PROCESSING, PART",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "AI, machine learning, computer vision, robotics, image compression"
+}

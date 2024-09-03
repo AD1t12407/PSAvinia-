@@ -1,0 +1,4323 @@
+{
+    "author": "J\u00fcrgen Schmidhuber",
+    "affiliation": "King Abdullah University of Science and Technology / The Swiss AI Lab, IDSIA / University of Lugano",
+    "total_papers": 719,
+    "total_citations": 260148,
+    "publications": [
+        {
+            "title": "Long Short-term Memory",
+            "year": "1997",
+            "citations": 110807,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning in neural networks: An overview",
+            "year": "2015",
+            "citations": 22756,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to forget: Continual prediction with LSTM",
+            "year": "2000",
+            "citations": 8545,
+            "link": "No link available"
+        },
+        {
+            "title": "LSTM: A search space odyssey",
+            "year": "2016",
+            "citations": 7369,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-column deep neural network for traffic sign classification",
+            "year": "2012",
+            "citations": 7153,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-column deep neural networks for image classification",
+            "year": "2012",
+            "citations": 6998,
+            "link": "No link available"
+        },
+        {
+            "title": "Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks",
+            "year": "2006",
+            "citations": 6890,
+            "link": "No link available"
+        },
+        {
+            "title": "Framewise phoneme classification with bidirectional LSTM and other neural network architectures",
+            "year": "2005",
+            "citations": 6289,
+            "link": "No link available"
+        },
+        {
+            "title": "Long short-term memory",
+            "year": "2012",
+            "citations": 3767,
+            "link": "No link available"
+        },
+        {
+            "title": "Training very deep networks",
+            "year": "2015",
+            "citations": 3406,
+            "link": "No link available"
+        },
+        {
+            "title": "A novel connectionist system for unconstrained handwriting recognition",
+            "year": "2008",
+            "citations": 2711,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient flow in recurrent nets: the difficulty of learning long-term dependencies",
+            "year": "2001",
+            "citations": 2701,
+            "link": "No link available"
+        },
+        {
+            "title": "Stacked convolutional auto-encoders for hierarchical feature extraction",
+            "year": "2011",
+            "citations": 2678,
+            "link": "No link available"
+        },
+        {
+            "title": "Highway networks",
+            "year": "2015",
+            "citations": 2657,
+            "link": "No link available"
+        },
+        {
+            "title": "Flexible, high performance convolutional neural networks for image classification",
+            "year": "2011",
+            "citations": 2212,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning precise timing with LSTM recurrent networks",
+            "year": "2002",
+            "citations": 2191,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep neural networks segment neuronal membranes in electron microscopy images",
+            "year": "2012",
+            "citations": 2100,
+            "link": "No link available"
+        },
+        {
+            "title": "Mitosis detection in breast cancer histology images with deep neural networks",
+            "year": "2013",
+            "citations": 1927,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep, big, simple neural nets for handwritten digit recognition",
+            "year": "2010",
+            "citations": 1643,
+            "link": "No link available"
+        },
+        {
+            "title": "Offline handwriting recognition with multidimensional recurrent neural networks",
+            "year": "2008",
+            "citations": 1584,
+            "link": "No link available"
+        },
+        {
+            "title": "LSTM can solve hard long time lag problems",
+            "year": "1996",
+            "citations": 1394,
+            "link": "No link available"
+        },
+        {
+            "title": "Bidirectional LSTM networks for improved phoneme classification and recognition",
+            "year": "2005",
+            "citations": 1185,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling attacks on physical unclonable functions",
+            "year": "2010",
+            "citations": 1145,
+            "link": "No link available"
+        },
+        {
+            "title": "World models",
+            "year": "2018",
+            "citations": 1141,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolutionary principles in self-referential learning, or on learning how to learn: the meta-meta-... hook",
+            "year": "1987",
+            "citations": 1126,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural evolution strategies",
+            "year": "2014",
+            "citations": 1067,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent world models facilitate policy evolution",
+            "year": "2018",
+            "citations": 1036,
+            "link": "No link available"
+        },
+        {
+            "title": "Formal theory of creativity, fun, and intrinsic motivation (1990\u20132010)",
+            "year": "2010",
+            "citations": 1017,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent nets that time and count",
+            "year": "2000",
+            "citations": 1006,
+            "link": "No link available"
+        },
+        {
+            "title": "Flat minima",
+            "year": "1997",
+            "citations": 985,
+            "link": "No link available"
+        },
+        {
+            "title": "LSTM recurrent networks learn simple context-free and context-sensitive languages",
+            "year": "2001",
+            "citations": 953,
+            "link": "No link available"
+        },
+        {
+            "title": "Max-pooling convolutional neural networks for vision-based hand gesture recognition",
+            "year": "2011",
+            "citations": 861,
+            "link": "No link available"
+        },
+        {
+            "title": "A machine learning approach to visual perception of forest trails for mobile robots",
+            "year": "2015",
+            "citations": 854,
+            "link": "No link available"
+        },
+        {
+            "title": "Curious model-building control systems",
+            "year": "1991",
+            "citations": 828,
+            "link": "No link available"
+        },
+        {
+            "title": "Long short-term memory",
+            "year": "1997",
+            "citations": 815,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional neural network committees for handwritten character classification",
+            "year": "2011",
+            "citations": 723,
+            "link": "No link available"
+        },
+        {
+            "title": "Framewise phoneme classification with bidirectional LSTM networks",
+            "year": "2005",
+            "citations": 723,
+            "link": "No link available"
+        },
+        {
+            "title": "A possibility for implementing curiosity and boredom in model-building neural controllers",
+            "year": "1991",
+            "citations": 714,
+            "link": "No link available"
+        },
+        {
+            "title": "A clockwork rnn",
+            "year": "2014",
+            "citations": 685,
+            "link": "No link available"
+        },
+        {
+            "title": "Applying LSTM to time series predictable through time-window approaches",
+            "year": "2001",
+            "citations": 674,
+            "link": "No link available"
+        },
+        {
+            "title": "PUF modeling attacks on simulated and silicon data",
+            "year": "2013",
+            "citations": 667,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning complex, extended sequences using the principle of history compression",
+            "year": "1992",
+            "citations": 653,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to control fast-weight memories: An alternative to dynamic recurrent networks",
+            "year": "1992",
+            "citations": 550,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent highway networks",
+            "year": "2017",
+            "citations": 542,
+            "link": "No link available"
+        },
+        {
+            "title": "Assessment of algorithms for mitosis detection in breast cancer histopathology images",
+            "year": "2015",
+            "citations": 515,
+            "link": "No link available"
+        },
+        {
+            "title": "PyBrain",
+            "year": "2010",
+            "citations": 462,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast image scanning with deep max-pooling convolutional neural networks",
+            "year": "2013",
+            "citations": 444,
+            "link": "No link available"
+        },
+        {
+            "title": "A first look at music composition using lstm recurrent neural networks",
+            "year": "2002",
+            "citations": 439,
+            "link": "No link available"
+        },
+        {
+            "title": "Developmental robotics, optimal artificial curiosity, creativity, music, and the fine arts",
+            "year": "2006",
+            "citations": 432,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-dimensional recurrent neural networks",
+            "year": "2007",
+            "citations": 430,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning factorial codes by predictability minimization",
+            "year": "1992",
+            "citations": 412,
+            "link": "No link available"
+        },
+        {
+            "title": "High-performance neural networks for visual object classification",
+            "year": "2011",
+            "citations": 409,
+            "link": "No link available"
+        },
+        {
+            "title": "An application of recurrent neural networks to discriminative keyword spotting",
+            "year": "2007",
+            "citations": 403,
+            "link": "No link available"
+        },
+        {
+            "title": "Steel defect classification with max-pooling convolutional neural networks",
+            "year": "2012",
+            "citations": 400,
+            "link": "No link available"
+        },
+        {
+            "title": "Parallel multi-dimensional LSTM, with application to fast biomedical volumetric image segmentation",
+            "year": "2015",
+            "citations": 385,
+            "link": "No link available"
+        },
+        {
+            "title": "Accelerated Neural Evolution through Cooperatively Coevolved Synapses.",
+            "year": "2008",
+            "citations": 383,
+            "link": "No link available"
+        },
+        {
+            "title": "Unconstrained on-line handwriting recognition with recurrent neural networks",
+            "year": "2007",
+            "citations": 379,
+            "link": "No link available"
+        },
+        {
+            "title": "Crowdsourcing the creation of image segmentation algorithms for connectomics",
+            "year": "2015",
+            "citations": 369,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic incremental program evolution",
+            "year": "1997",
+            "citations": 368,
+            "link": "No link available"
+        },
+        {
+            "title": "Parameter-exploring policy gradients",
+            "year": "2010",
+            "citations": 360,
+            "link": "No link available"
+        },
+        {
+            "title": "Finding temporal structure in music: Blues improvisation with LSTM recurrent networks",
+            "year": "2002",
+            "citations": 346,
+            "link": "No link available"
+        },
+        {
+            "title": "An experiment in automatic game design",
+            "year": "2008",
+            "citations": 331,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep networks with internal selective attention through feedback connections",
+            "year": "2014",
+            "citations": 328,
+            "link": "No link available"
+        },
+        {
+            "title": "Training recurrent networks by evolino",
+            "year": "2007",
+            "citations": 327,
+            "link": "No link available"
+        },
+        {
+            "title": "HQ-learning",
+            "year": "1997",
+            "citations": 322,
+            "link": "No link available"
+        },
+        {
+            "title": "A novel approach to on-line handwriting recognition based on bidirectional long short-term memory networks",
+            "year": "2007",
+            "citations": 318,
+            "link": "No link available"
+        },
+        {
+            "title": "Relational neural expectation maximization: Unsupervised discovery of objects and their interactions",
+            "year": "2018",
+            "citations": 312,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural expectation maximization",
+            "year": "2017",
+            "citations": 304,
+            "link": "No link available"
+        },
+        {
+            "title": "A system for robotic heart surgery that learns to tie knots using recurrent neural networks",
+            "year": "2008",
+            "citations": 299,
+            "link": "No link available"
+        },
+        {
+            "title": "Transfer learning for Latin and Chinese characters with deep neural networks",
+            "year": "2012",
+            "citations": 294,
+            "link": "No link available"
+        },
+        {
+            "title": "Highway and residual networks learn unrolled iterative estimation",
+            "year": "2016",
+            "citations": 270,
+            "link": "No link available"
+        },
+        {
+            "title": "On the binding problem in artificial neural networks",
+            "year": "2020",
+            "citations": 263,
+            "link": "No link available"
+        },
+        {
+            "title": "Lipreading with long short-term memory",
+            "year": "2016",
+            "citations": 261,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-column deep neural networks for offline handwritten Chinese character classification",
+            "year": "2015",
+            "citations": 259,
+            "link": "No link available"
+        },
+        {
+            "title": "Shifting inductive bias with success-story algorithm, adaptive Levin search, and incremental self-improvement",
+            "year": "1997",
+            "citations": 254,
+            "link": "No link available"
+        },
+        {
+            "title": "Compete to compute",
+            "year": "2013",
+            "citations": 241,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolving large-scale neural networks for vision-based reinforcement learning",
+            "year": "2013",
+            "citations": 240,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement driven information acquisition in non-deterministic environments",
+            "year": "1995",
+            "citations": 240,
+            "link": "No link available"
+        },
+        {
+            "title": "Simplifying neural nets by discovering flat minima",
+            "year": "1994",
+            "citations": 238,
+            "link": "No link available"
+        },
+        {
+            "title": "Solving deep memory POMDPs with recurrent policy gradients",
+            "year": "2007",
+            "citations": 232,
+            "link": "No link available"
+        },
+        {
+            "title": "Exponential natural evolution strategies",
+            "year": "2010",
+            "citations": 229,
+            "link": "No link available"
+        },
+        {
+            "title": "Multimodal similarity-preserving hashing",
+            "year": "2013",
+            "citations": 226,
+            "link": "No link available"
+        },
+        {
+            "title": "Driven by compression progress: A simple principle explains essential aspects of subjective beauty, novelty, surprise, interestingness, attention, curiosity, creativity, art \u2026",
+            "year": "2008",
+            "citations": 223,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal ordered problem solver",
+            "year": "2004",
+            "citations": 222,
+            "link": "No link available"
+        },
+        {
+            "title": "Are disentangled representations helpful for abstract visual reasoning?",
+            "year": "2019",
+            "citations": 212,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering neural nets with low Kolmogorov complexity and high generalization capability",
+            "year": "1997",
+            "citations": 210,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning in Markovian and non-Markovian environments",
+            "year": "1990",
+            "citations": 205,
+            "link": "No link available"
+        },
+        {
+            "title": "A Fixed Size Storage O(n3) Time Complexity Learning Algorithm for Fully Recurrent Continually Running Networks",
+            "year": "1992",
+            "citations": 199,
+            "link": "No link available"
+        },
+        {
+            "title": "A computer scientist's view of life, the universe, and everything",
+            "year": "2006",
+            "citations": 193,
+            "link": "No link available"
+        },
+        {
+            "title": "Planning to be surprised: Optimal bayesian exploration in dynamic environments",
+            "year": "2011",
+            "citations": 190,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient non-linear control through neuroevolution",
+            "year": "2006",
+            "citations": 184,
+            "link": "No link available"
+        },
+        {
+            "title": "Powerplay: Training an increasingly general problem solver by continually searching for the simplest still unsolvable problem",
+            "year": "2013",
+            "citations": 183,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning",
+            "year": "2015",
+            "citations": 181,
+            "link": "No link available"
+        },
+        {
+            "title": "G\u00f6del machines: Fully self-referential optimal universal self-improvers",
+            "year": "2007",
+            "citations": 181,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical reinforcement learning based on subgoal discovery and subpolicy specialization",
+            "year": "2004",
+            "citations": 178,
+            "link": "No link available"
+        },
+        {
+            "title": "Linear transformers are secretly fast weight programmers",
+            "year": "2021",
+            "citations": 176,
+            "link": "No link available"
+        },
+        {
+            "title": "Tagger: Deep unsupervised perceptual grouping",
+            "year": "2016",
+            "citations": 170,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent policy gradients",
+            "year": "2010",
+            "citations": 167,
+            "link": "No link available"
+        },
+        {
+            "title": "Kalman filters improve LSTM network performance in problems unsolvable by traditional recurrent nets",
+            "year": "2003",
+            "citations": 166,
+            "link": "No link available"
+        },
+        {
+            "title": "Super mario evolution",
+            "year": "2009",
+            "citations": 163,
+            "link": "No link available"
+        },
+        {
+            "title": "Medical Image Computing and Computer-Assisted Intervention\u2013MICCAI 2013",
+            "year": "2013",
+            "citations": 162,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-column deep neural networks for image classification In: 2012 IEEE conference on computer vision and pattern recognition",
+            "year": "2012",
+            "citations": 152,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolino: Hybrid neuroevolution/optimal linear search for sequence prediction",
+            "year": "2005",
+            "citations": 152,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolving deep unsupervised convolutional networks for vision-based reinforcement learning",
+            "year": "2014",
+            "citations": 150,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolving memory cell structures for sequence learning",
+            "year": "2009",
+            "citations": 149,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving generalization in meta reinforcement learning using learned objectives",
+            "year": "2019",
+            "citations": 147,
+            "link": "No link available"
+        },
+        {
+            "title": "High dimensions and heavy tails for natural evolution strategies",
+            "year": "2011",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient natural evolution strategies",
+            "year": "2009",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning dynamic algorithm portfolios",
+            "year": "2006",
+            "citations": 143,
+            "link": "No link available"
+        },
+        {
+            "title": "Low-complexity art",
+            "year": "1997",
+            "citations": 143,
+            "link": "No link available"
+        },
+        {
+            "title": "The Speed Prior: a new simplicity measure yielding near-optimal computable predictions",
+            "year": "2002",
+            "citations": 139,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning the long-term structure of the blues",
+            "year": "2002",
+            "citations": 138,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient model-based exploration",
+            "year": "1998",
+            "citations": 138,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to generate artificial fovea trajectories for target detection",
+            "year": "1991",
+            "citations": 138,
+            "link": "No link available"
+        },
+        {
+            "title": "A local learning algorithm for dynamic feedforward and recurrent networks",
+            "year": "1989",
+            "citations": 136,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequential neural text compression",
+            "year": "1996",
+            "citations": 134,
+            "link": "No link available"
+        },
+        {
+            "title": "Metalearning",
+            "year": "2010",
+            "citations": 131,
+            "link": "No link available"
+        },
+        {
+            "title": "Algorithmic theories of everything",
+            "year": "2000",
+            "citations": 131,
+            "link": "No link available"
+        },
+        {
+            "title": "On learning to think: Algorithmic information theory for novel combinations of reinforcement learning controllers and recurrent neural world models",
+            "year": "2015",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence labelling in structured domains with hierarchical recurrent neural networks",
+            "year": "2007",
+            "citations": 130,
+            "link": "No link available"
+        },
+        {
+            "title": "A neural network that embeds its own meta-levels",
+            "year": "1993",
+            "citations": 129,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast online Q (\u03bb)",
+            "year": "1998",
+            "citations": 128,
+            "link": "No link available"
+        },
+        {
+            "title": "On Learning how to Learn Learning Startegies",
+            "year": "1994",
+            "citations": 127,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement Learning Upside Down: Don't Predict Rewards--Just Map Them to Actions",
+            "year": "2019",
+            "citations": 125,
+            "link": "No link available"
+        },
+        {
+            "title": "A \u2018self-referential\u2019weight matrix",
+            "year": "1993",
+            "citations": 125,
+            "link": "No link available"
+        },
+        {
+            "title": "Training agents using upside-down reinforcement learning",
+            "year": "2019",
+            "citations": 124,
+            "link": "No link available"
+        },
+        {
+            "title": "Curiosity driven reinforcement learning for motion planning on humanoids",
+            "year": "2014",
+            "citations": 124,
+            "link": "No link available"
+        },
+        {
+            "title": "Biologically plausible speech recognition with LSTM neural nets",
+            "year": "2004",
+            "citations": 124,
+            "link": "No link available"
+        },
+        {
+            "title": "Simple principles of metalearning",
+            "year": "1996",
+            "citations": 121,
+            "link": "No link available"
+        },
+        {
+            "title": "The devil is in the detail: Simple tricks improve systematic generalization of transformers",
+            "year": "2021",
+            "citations": 120,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning nonregular languages: A comparison of simple recurrent networks and LSTM",
+            "year": "2002",
+            "citations": 120,
+            "link": "No link available"
+        },
+        {
+            "title": "Field Guide to Dynamical Recurrent Neural Networks",
+            "year": "2001",
+            "citations": 120,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring parameter space in reinforcement learning",
+            "year": "2010",
+            "citations": 118,
+            "link": "No link available"
+        },
+        {
+            "title": "An on-line algorithm for dynamic reinforcement learning and planning in reactive environments",
+            "year": "1990",
+            "citations": 116,
+            "link": "No link available"
+        },
+        {
+            "title": "Ultimate Cognition \u00e0 la G\u00f6del",
+            "year": "2009",
+            "citations": 114,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic search using the natural gradient",
+            "year": "2009",
+            "citations": 109,
+            "link": "No link available"
+        },
+        {
+            "title": "Simple algorithmic theory of subjective beauty, novelty, surprise, interestingness, attention, curiosity, creativity, art, science, music, jokes",
+            "year": "2009",
+            "citations": 108,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolving neural networks in compressed weight space",
+            "year": "2010",
+            "citations": 106,
+            "link": "No link available"
+        },
+        {
+            "title": "State-dependent exploration for policy gradient methods",
+            "year": "2008",
+            "citations": 106,
+            "link": "No link available"
+        },
+        {
+            "title": "Co-evolving recurrent neurons learn deep memory POMDPs",
+            "year": "2005",
+            "citations": 106,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive confidence and adaptive curiosity",
+            "year": "1991",
+            "citations": 106,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy gradients with parameter-based exploration for control",
+            "year": "2008",
+            "citations": 105,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning with self-modifying policies",
+            "year": "1998",
+            "citations": 104,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchies of generalized Kolmogorov complexities and nonenumerable universal measures computable in the limit",
+            "year": "2002",
+            "citations": 99,
+            "link": "No link available"
+        },
+        {
+            "title": "The Sacred Infrastructure for Computational Research.",
+            "year": "2017",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "Better digit recognition with a committee of simple neural nets",
+            "year": "2011",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring the predictable",
+            "year": "2003",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "Making the world differentiable: On using fully recurrent self-supervised neural networks for dynamic reinforcement learning and planning in non-stationary environments",
+            "year": "1990",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "Feature extraction through LOCOCODE",
+            "year": "1999",
+            "citations": 97,
+            "link": "No link available"
+        },
+        {
+            "title": "A robot that reinforcement-learns to identify and memorize important previous observations",
+            "year": "2003",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Reducing the ratio between learning complexity and number of time varying variables in fully recurrent nets",
+            "year": "1993",
+            "citations": 93,
+            "link": "No link available"
+        },
+        {
+            "title": "Are neural nets modular? inspecting functional modularity through differentiable weight masks",
+            "year": "2020",
+            "citations": 90,
+            "link": "No link available"
+        },
+        {
+            "title": "Simple algorithmic principles of discovery, subjective beauty, selective attention, curiosity & creativity",
+            "year": "2007",
+            "citations": 90,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning team strategies: Soccer case studies",
+            "year": "1998",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering solutions with low Kolmogorov complexity and high generalization capability",
+            "year": "1995",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "Hindsight policy gradients",
+            "year": "2017",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "A fast learning algorithm for image segmentation with max-pooling convolutional networks",
+            "year": "2013",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "What''s interesting?",
+            "year": "1997",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Highway networks. arXiv 2015",
+            "year": "2015",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling systems with internal state using evolino",
+            "year": "2005",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative adversarial networks are special cases of artificial curiosity (1990) and also closely related to predictability minimization (1991)",
+            "year": "2020",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust player imitation using multiobjective evolution",
+            "year": "2009",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "Semilinear predictability minimization produces well-known feature detectors",
+            "year": "1996",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to reason with third order tensor products",
+            "year": "2018",
+            "citations": 80,
+            "link": "No link available"
+        },
+        {
+            "title": "Cartesian genetic programming for image processing",
+            "year": "2013",
+            "citations": 80,
+            "link": "No link available"
+        },
+        {
+            "title": "Making the world differentiable: on using self supervised fully recurrent neural networks for dynamic reinforcement learning and planning in non-stationary environments",
+            "year": "1990",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "Meta learning backpropagation and improving it",
+            "year": "2021",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Solving POMDPs with Levin search and EIRA",
+            "year": "1996",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical controller learning in a first-person shooter",
+            "year": "2009",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural sequence chunkers",
+            "year": "1991",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to generate sub-goals for action sequences",
+            "year": "1991",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "Long short-term memory. 1997",
+            "year": "2021",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "G\u00f6del machines: self-referential universal problem solvers making provably optimal self-improvements",
+            "year": "2003",
+            "citations": 73,
+            "link": "No link available"
+        },
+        {
+            "title": "Enhancing the transformer with explicit relational encoding for math problem solving",
+            "year": "2019",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental slow feature analysis: Adaptive low-complexity slow feature updating from high-dimensional input streams",
+            "year": "2012",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering predictable classifications",
+            "year": "1993",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Continual curiosity-driven skill acquisition from high-dimensional video inputs for humanoid robots",
+            "year": "2017",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep big multilayer perceptrons for digit recognition",
+            "year": "2012",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural computation",
+            "year": "1997",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Bridging long time lags by weight guessing and \u201cLong Short-Term Memory\u201d",
+            "year": "1996",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolving modular fast-weight networks for control",
+            "year": "2005",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial curiosity based on discovering novel algorithmic predictability through coevolution",
+            "year": "1999",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "A reinforcement learning approach for individualizing erythropoietin dosages in hemodialysis patients",
+            "year": "2009",
+            "citations": 68,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning tactile skills through curious exploration",
+            "year": "2012",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic algorithm portfolios",
+            "year": "2006",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Der genetische algorithmus: Eine implementierung in prolog",
+            "year": "1987",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving speaker-independent lipreading with domain-adversarial training",
+            "year": "2017",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Going beyond linear transformers with recurrent fast weight programmers",
+            "year": "2021",
+            "citations": 63,
+            "link": "No link available"
+        },
+        {
+            "title": "First experiments with powerplay",
+            "year": "2013",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Quasi-online reinforcement learning for robots",
+            "year": "2006",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to forget: Continual prediction with LSTM",
+            "year": "2000",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Annotated history of modern ai and deep learning",
+            "year": "2022",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Highway networks. arXiv",
+            "year": "2015",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-scale pyramidal pooling network for generic steel defect classification",
+            "year": "2013",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Language identification from prosody without explicit features",
+            "year": "1999",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Measuring intelligence through games",
+            "year": "2011",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Phoneme recognition in TIMIT with BLSTM-CTC",
+            "year": "2008",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding locally competitive networks",
+            "year": "2014",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "A learning framework for morphological operators using counter\u2013harmonic mean",
+            "year": "2013",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Deepscores-a dataset for segmentation, detection and classification of tiny objects",
+            "year": "2018",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep watershed detector for music object recognition",
+            "year": "2018",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Facial expression recognition with recurrent neural networks",
+            "year": "2008",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning in LSTM recurrent neural networks",
+            "year": "2001",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning unambiguous reduced sequence descriptions",
+            "year": "1991",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning skills from play: artificial curiosity on a katana robot arm",
+            "year": "2012",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Algorithm selection as a bandit problem with unbounded losses",
+            "year": "2010",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Restart Strategies.",
+            "year": "2007",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "The neural data router: Adaptive control flow in transformers improves systematic generalization",
+            "year": "2021",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Bounded recursive self-improvement",
+            "year": "2013",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Planning simple trajectories using neural subgoal generators",
+            "year": "1993",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "A general method for multi-agent reinforcement learning in unrestricted environments",
+            "year": "1996",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient flow in recurrent nets: the difficulty of learning long-term dependencies.(2001)",
+            "year": "2001",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Mindstorms in natural language-based societies of mind",
+            "year": "2023",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Mt-cgp: Mixed type cartesian genetic programming",
+            "year": "2012",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning soccer teams with incomplete world models",
+            "year": "1999",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating diverse opponents with multiobjective evolution",
+            "year": "2008",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "New millennium AI and the convergence of history",
+            "year": "2007",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental self-improvement for life-time multi-agent reinforcement learning",
+            "year": "1996",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Investigating object compositionality in generative adversarial networks",
+            "year": "2020",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving differentiable neural computers through memory masking, de-allocation, and link distribution sharpness control",
+            "year": "2019",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Intrinsically motivated neuroevolution for vision-based reinforcement learning",
+            "year": "2011",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-organizing nets for optimization",
+            "year": "2004",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "The new AI: General & sound & relevant for physics",
+            "year": "2007",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "A general method for incremental self-improvement and multi-agent learning",
+            "year": "1999",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering problem solutions with low Kolmogorov complexity and high generalization capability",
+            "year": "1994",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning associative inference using fast weight memory",
+            "year": "2020",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Binding via reconstruction clustering",
+            "year": "2015",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Highway networks (2015)",
+            "year": "2015",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Handwritten digit recognition with a committee of deep neural nets on gpus",
+            "year": "2011",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving the asymptotic performance of Markov chain Monte-Carlo by inserting vortices",
+            "year": "2010",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Investigations on end-to-end audiovisual fusion",
+            "year": "2018",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "Online evolution of deep convolutional network for vision-based reinforcement learning",
+            "year": "2014",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "One big net for everything",
+            "year": "2018",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "On fast deep nets for AGI vision",
+            "year": "2011",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "A natural evolution strategy for multi-objective optimization",
+            "year": "2010",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Application of mismatched cellular nonlinear networks for physical cryptography",
+            "year": "2010",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Guessing can outperform many long time lag algorithms",
+            "year": "1996",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Netzwerkarchitekturen, Zielfunktionen und Kettenregel",
+            "year": "1993",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning: our miraculous year 1990-1991",
+            "year": "2020",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Algorithm portfolio selection as a bandit problem with unbounded losses",
+            "year": "2011",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-delimiting neural networks",
+            "year": "2012",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Ontogenetic and phylogenetic reinforcement learning",
+            "year": "2009",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Facial beauty and fractal geometry",
+            "year": "1998",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial curiosity with planning for autonomous perceptual and cognitive development",
+            "year": "2011",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "2006: Celebrating 75 years of AI-history and outlook: the next 25 years",
+            "year": "2007",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Continuous history compression",
+            "year": "1993",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning algorithms for networks with internal and external feedback",
+            "year": "1991",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Descriptor learning for omnidirectional image matching",
+            "year": "2014",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial General Intelligence",
+            "year": "2011",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Completely self-referential optimal reinforcement learners",
+            "year": "2005",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Accelerated learning in back-propagation nets",
+            "year": "1989",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Networks adjusting networks",
+            "year": "1990",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Who invented backpropagation",
+            "year": "2014",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "A linear time natural evolution strategy for non-separable functions",
+            "year": "2013",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Fitness expectation maximization",
+            "year": "2008",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive online time allocation to search algorithms",
+            "year": "2004",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "HQ-Learning: Discovering Markovian subgoals for non-Markovian reinforcement learning",
+            "year": "1996",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "A modern self-referential weight matrix that learns to modify itself",
+            "year": "2022",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Neural Network Frontend for Continuous EMG-Based Speech Recognition.",
+            "year": "2016",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental slow feature analysis",
+            "year": "2011",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "A neural network model for inter-problem adaptive online time allocation",
+            "year": "2005",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent networks adjusted by adaptive critics",
+            "year": "1990",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamische neuronale Netze und das fundamentale raumzeitliche Lernproblem",
+            "year": "1990",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards compositional learning with dynamic neural networks",
+            "year": "1990",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "The dual form of neural networks revisited: Connecting test time predictions to training patterns via spotlights of attention",
+            "year": "2022",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "A formal theory of creativity to model the creation of art",
+            "year": "2012",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Natural evolution strategies",
+            "year": "2011",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "A general method for incremental self-improvement and multi-agent learning in unrestricted environments",
+            "year": "1996",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to generate focus trajectories for attentive vision",
+            "year": "1990",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised object keypoint learning using local spatial predictability",
+            "year": "2020",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Gated fast weights for on-the-fly neural program generation",
+            "year": "2017",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "An intrinsic value system for developing multiple invariant representations with incremental slowness learning",
+            "year": "2013",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Mars terrain image classification using cartesian genetic programming",
+            "year": "2012",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Curiosity-driven optimization",
+            "year": "2011",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolino for recurrent support vector machines",
+            "year": "2005",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical reinforcement learning with subpolicies specializing for learned subgoals.",
+            "year": "2004",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Market-based reinforcement learning in partially observable worlds",
+            "year": "2001",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "R-sqair: Relational sequential attend, infer, repeat",
+            "year": "2019",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial curiosity for autonomous space exploration",
+            "year": "2011",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolino: Hybrid neuroevolution/optimal linear search for sequence learning",
+            "year": "2005",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-motivated development through rewards for predictor errors/improvements",
+            "year": "2005",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning in partially observable mobile robot domains using unsupervised event extraction",
+            "year": "2002",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Long short-term memory learns context free and context sensitive languages",
+            "year": "2001",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Continual prediction using LSTM with forget gates",
+            "year": "1999",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Growing recursive self-improvers",
+            "year": "2016",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Task-relevant roadmaps: A framework for humanoid motion planning",
+            "year": "2013",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Bias-optimal incremental problem solving",
+            "year": "2002",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Steps towards\\self-referential",
+            "year": "1992",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Is it enough to optimize CNN architectures on ImageNet?",
+            "year": "2022",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Domain-Adversarial Training for Session Independent EMG-based Speech Recognition.",
+            "year": "2018",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous learning of abstractions using curiosity-driven modular incremental slow feature analysis",
+            "year": "2012",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental learning using partial feedback for gesture-based human-swarm interaction",
+            "year": "2012",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "The modular behavioral environment for humanoids and other robots (mobee)",
+            "year": "2012",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Philosophers & futurists, catch up! Response to The Singularity",
+            "year": "2012",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Art & science as by-products of the search for novel patterns, or data compressible in unknown yet learnable ways",
+            "year": "2009",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "LOCOCODE performs nonlinear ICA without knowing the number of sources",
+            "year": "1999",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Predictive coding with neural nets: Application to text compression",
+            "year": "1994",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "The DeepScoresV2 dataset and benchmark for music object detection",
+            "year": "2021",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "The 2010s: our decade of deep learning/outlook on the 2020s",
+            "year": "2020",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "A perspective on objects and systematic generalization in model-based RL",
+            "year": "2019",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning spatial object localization from vision on a humanoid robot",
+            "year": "2012",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Transferring spatial perception between robots operating in a shared workspace",
+            "year": "2012",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalable neural networks for board games",
+            "year": "2009",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating benchmark problems by random guessing",
+            "year": "2001",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Parameter-based value functions",
+            "year": "2020",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive confidence and adaptive curiosity (No. FKI-149-91)",
+            "year": "1991",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "The neural bucket brigade",
+            "year": "1989",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Linear transformers are secretly fast weight memory systems",
+            "year": "2021",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "A wavelet-based encoding for neuroevolution",
+            "year": "2016",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Low complexity proto-value function learning from sensory observations with incremental slow feature analysis",
+            "year": "2012",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic discrimination among languages based on prosody alone",
+            "year": "1999",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "An'introspective'network that can learn to run its own weight change algorithm",
+            "year": "1993",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical relational inference",
+            "year": "2021",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering boolean gates in slime mould",
+            "year": "2018",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "A comparison of algorithms and humans for mitosis detection",
+            "year": "2014",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Characteristic kernels on structured domains excel in robotics and human action recognition",
+            "year": "2010",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Don't forget randomness is still just a hypothesis",
+            "year": "2006",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "G\u00f6del machines: Towards a technical justification of consciousness",
+            "year": "2003",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Speeding up Q (\u03bb)-learning",
+            "year": "1998",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Environment-independent reinforcement acceleration",
+            "year": "1995",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Confidence-based progress-driven self-generated goals for skill acquisition in developmental robots",
+            "year": "2013",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Maximizing fun by creating data with easily reducible subjective complexity",
+            "year": "2013",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "The two-dimensional organization of behavior",
+            "year": "2011",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequential constant size compressors for reinforcement learning",
+            "year": "2011",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Multimodal parameter-exploring policy gradients",
+            "year": "2010",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive curiosity and adaptive confidence",
+            "year": "1991",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent neural processes",
+            "year": "2019",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent neural networks",
+            "year": "2015",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy gradient critics",
+            "year": "2007",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Rapid retraining on speech data with lstm recurrent networks",
+            "year": "2005",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolutionary computation versus reinforcement learning",
+            "year": "2000",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Bounded seed-AGI",
+            "year": "2014",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards an actual g\u00f6del machine implementation: A lesson in self-reflective systems",
+            "year": "2012",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Coherence progress: a measure of interestingness based on fixed compressors",
+            "year": "2011",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "A comparison between spiking and differentiable recurrent neural networks on spoken digit recognition",
+            "year": "2004",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequential decision making based on direct search",
+            "year": "2001",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Direct policy search and uncertain policy evaluation",
+            "year": "1998",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Scientific integrity and the history of deep learning: The 2021 turing lecture, and the 2018 turing award",
+            "year": "2022",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Humanoid learns to detect its own hands",
+            "year": "2013",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental Basis Construction from Temporal Difference Error.",
+            "year": "2011",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "A family of G\u00f6del machine implementations",
+            "year": "2011",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "On-chip electric waves: An analog circuit approach to physical uncloneable functions",
+            "year": "2009",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Impact of censored sampling on the performance of restart strategies",
+            "year": "2006",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Classifying unprompted speech by retraining LSTM nets",
+            "year": "2005",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparing prosody across many languages",
+            "year": "1999",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised coding with lococode",
+            "year": "1997",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive decomposition of time",
+            "year": "1991",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Large language model programs",
+            "year": "2023",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Candidate sampling for neuron reconstruction from anisotropic electron microscopy volumes",
+            "year": "2014",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Searching for minimal neural networks in fourier space",
+            "year": "2010",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural predictors for detecting and removing redundant information",
+            "year": "1999",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "CMAC models learn to play soccer",
+            "year": "1998",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-agent learning with the success-story algorithm",
+            "year": "1996",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive history compression for learning to divide and conquer",
+            "year": "1991",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Reagent prediction with a molecular transformer improves reaction data quality",
+            "year": "2023",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "The benefits of model-based generalization in reinforcement learning",
+            "year": "2022",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative adversarial learning: architectures and applications",
+            "year": "2022",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "An integrated, modular framework for computer vision and cognitive robotics research (icVision)",
+            "year": "2013",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Compressed network complexity search",
+            "year": "2012",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Generalized compressed network search",
+            "year": "2012",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "On the size of the online kernel sparsification dictionary",
+            "year": "2012",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "icvision: A modular vision system for cognitive robotics research",
+            "year": "2012",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Modular deep belief networks that do not forget",
+            "year": "2011",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Planning to be surprised: optimal Bayesian exploration in dynamic environments",
+            "year": "2011",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards practical universal search",
+            "year": "2010",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Measuring and optimizing behavioral complexity for evolutionary reinforcement learning",
+            "year": "2009",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Countering poisonous inputs with memetic neuroevolution",
+            "year": "2008",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning context sensitive languages with LSTM trained with Kalman filters",
+            "year": "2002",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Model-based reinforcement learning for evolving soccer strategies",
+            "year": "2001",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolving soccer strategies",
+            "year": "1997",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning with interacting continually running fully recurrent networks",
+            "year": "1990",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Explore to see, learn to perceive, get the actions for free: Skillability",
+            "year": "2014",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Teleoperation of a 7 DOF humanoid robot arm using human arm accelerations and EMG signals",
+            "year": "2014",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning visual object detection and localisation using icVision",
+            "year": "2013",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial scientists & artists based on the formal theory of creativity",
+            "year": "2010",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-dimensional deep memory atari-go players for parameter exploring policy gradients",
+            "year": "2010",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy gradients for cryptanalysis",
+            "year": "2010",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "The IM-CLeVeR project: Intrinsically motivated cumulative learning versatile robots",
+            "year": "2009",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient non-linear control through neuroevolution",
+            "year": "2008",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Metric state space reinforcement learning for a vision-capable mobile robot",
+            "year": "2006",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Low-complexity coding and decoding",
+            "year": "1997",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Additional remarks on G. Lukes' review of Schmidhuber's paperRecurrent networks adjusted by adaptive critics'",
+            "year": "1990",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of temporal abstractions with slot-based transformers",
+            "year": "2023",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Anytime bounded rationality",
+            "year": "2015",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Continually adding self-invented problems to the repertoire: first experiments with powerplay",
+            "year": "2012",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "A scalable neural network architecture for board games",
+            "year": "2008",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Alle berechenbaren Universen",
+            "year": "2007",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "RNN-based learning of compact maps for efficient robot localization",
+            "year": "2007",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient-based reinforcement planning in policy-search methods",
+            "year": "2001",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Processing images by semi-linear predictability minimization",
+            "year": "1999",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "My first deep learning system of 1991+ deep learning timeline 1962-2013",
+            "year": "2013",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial neural networks for spatial perception: Towards visual object localisation in humanoid robots",
+            "year": "2013",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "The fastest way of computing all universes",
+            "year": "2013",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks for segmenting neuronal structures in EM stacks",
+            "year": "2012",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Episodic reinforcement learning by logistic reward-weighted regression",
+            "year": "2008",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolving structured programs with hierarchical instructions and skip nodes",
+            "year": "1998",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Goal-conditioned generators of deep policies",
+            "year": "2023",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "History of computer vision contests won by deep CNNs on GPU",
+            "year": "2017",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving robot vision models for object detection through interaction",
+            "year": "2014",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous acquisition of natural language",
+            "year": "2014",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Resource-bounded machines are motivated to be effective, efficient, and curious",
+            "year": "2013",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "New millennium AI and the convergence of history: update of 2012",
+            "year": "2013",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolution of national Nobel prize shares in the 20th century",
+            "year": "2010",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "An EM based training algorithm for recurrent neural networks",
+            "year": "2009",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards distributed algorithm portfolios",
+            "year": "2008",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Driven by compression progress",
+            "year": "2008",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "DEKF-LSTM.",
+            "year": "2002",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolving strategies for active flow control",
+            "year": "2000",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Approximating two-layer feedforward networks for efficient transformers",
+            "year": "2023",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural differential equations for learning to program neural nets through continuous learning rules",
+            "year": "2022",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous learning of robust visual object detection and identification on a humanoid",
+            "year": "2012",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Autoincsfa and vision-based developmental learning for humanoid robots",
+            "year": "2011",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Active learning with adaptive grids",
+            "year": "2001",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning team strategies with multiple policy-sharing agents: A soccer case study",
+            "year": "1997",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "On learning soccer strategies",
+            "year": "1997",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Realistic multi-agent reinforcement learning",
+            "year": "1996",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards compositional learning in dynamic networks",
+            "year": "1990",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Temporal difference-driven learning in recurrent networks",
+            "year": "1990",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "The neural heat exchanger",
+            "year": "1990",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Language agents as optimizable graphs",
+            "year": "2024",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to generalize with object-centric agents in the open world survival game crafter",
+            "year": "2023",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Eliminating meta optimization through self-referential meta learning",
+            "year": "2022",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "General policy evaluation and improvement by learning to identify few but crucial states",
+            "year": "2022",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Upside-down reinforcement learning can diverge in stochastic environments with episodic resets",
+            "year": "2022",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Reactive reaching and grasping on a humanoid: Towards closing the action-perception loop on the iCub",
+            "year": "2014",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient interactive multiclass learning from binary feedback",
+            "year": "2014",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Autonomous Acquisition of Natural Situated Communication",
+            "year": "2014",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Autocatalytic endogenous reflective architecture",
+            "year": "2013",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical incremental slow feature analysis",
+            "year": "2012",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental slow feature analysis: Adaptive and episodic learning from high-dimensional input streams",
+            "year": "2011",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Novel kernel-based recognizers of human actions",
+            "year": "2010",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust texture recognition using credal classifiers",
+            "year": "2010",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving long-term online prediction with decoupled extended Kalman filters",
+            "year": "2002",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "H-pipe: Facilitating hierarchical program evolution through skip nodes",
+            "year": "1998",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Source separation as a by-product of regularization",
+            "year": "1998",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Lococode",
+            "year": "1997",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "CTL++: evaluating generalization on never-seen compositional patterns of known functions, and compatibility of neural representations",
+            "year": "2022",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-referential meta learning",
+            "year": "2022",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep neural network representation and Generative Adversarial Learning",
+            "year": "2021",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Spatial dependency networks: Neural layers for improved generative image modeling",
+            "year": "2021",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptation of an EMG-based speech recognizer via meta-learning",
+            "year": "2019",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of low-level audio features for music similarity estimation",
+            "year": "2011",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Algorithmic complexity bounds on future prediction errors",
+            "year": "2007",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Lococode versus PCA and ICA",
+            "year": "1998",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "An O (n3) learning algorithm for fully recurrent networks",
+            "year": "1991",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring through random curiosity with general value functions",
+            "year": "2022",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "All you need is supervised learning: From imitation learning to meta-rl with upside down rl",
+            "year": "2022",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning in sparse-reward environments with hindsight policy gradients",
+            "year": "2021",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Testing hypotheses by regularized maximum mean discrepancy",
+            "year": "2013",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Bias-optimal incremental learning of control sequences for virtual robots",
+            "year": "2004",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Solving a complex prisoner's dilemma with self-modifying policies",
+            "year": "1998",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic incremental program evolution: stochastic search through program space",
+            "year": "1997",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Cross-attention makes inference cumbersome in text-to-image diffusion models",
+            "year": "2024",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Contrastive training of complex-valued autoencoders for object discovery",
+            "year": "2024",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Guiding online reinforcement learning with action-free offline pretraining",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to identify critical states for reinforcement learning from videos",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Bayesian brains and the R\u00e9nyi divergence",
+            "year": "2022",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Turing Oversold",
+            "year": "2021",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Critique of Honda Prize for Dr. Hinton",
+            "year": "2020",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Upper confidence weighted learning for efficient exploration in multiclass prediction with binary feedback",
+            "year": "2013",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Compression progress-based curiosity drive for developmental learning",
+            "year": "2011",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal artificial curiosity, developmental robotics, creativity, music, and the fine arts",
+            "year": "2006",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling non-linear dynamical systems with evolino",
+            "year": "2005",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "A new approach to continuous speech recognition using LSTM recurrent neural networks",
+            "year": "2003",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Compressing texts with neural nets",
+            "year": "2000",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning exploration policies with models",
+            "year": "1998",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Beyond\\genetic programming\": Incremental self-improvement",
+            "year": "1995",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Making the world differentiable",
+            "year": "1990",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Making the world differentiable: On using self-supervised fully recurrent n eu al networks for dynamic reinforcement learning and planning in non-stationary environments",
+            "year": "1990",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "15-year anniversary: 1st paper with\" learn deep\" in the title (2005)",
+            "year": "Unknown",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring the promise and limits of real-time recurrent learning",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Motion dynamics improve speaker-independent lipreading",
+            "year": "2020",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Meta-learning for recalibration of EMG-based upper limb prostheses",
+            "year": "2020",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Using neural networks to predict the functionality of reconfigurable nano-material networks",
+            "year": "2017",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Unconventional computing using evolution-in-nanomaterio: neural networks meet nanoparticle networks",
+            "year": "2016",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Citation bubble about to burst?",
+            "year": "2011",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "A Python Experiment Suite",
+            "year": "2011",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning what to ignore: Memetic climbing in topology and weight space",
+            "year": "2008",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Prototype resilient, self-modeling robots",
+            "year": "2007",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Colossus was the first electronic digital computer",
+            "year": "2006",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "9th International Conference on Artificial Neural Networks: ICANN'99",
+            "year": "1999",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Using sequential adaptive neuro-control for efficient learning of rotation and translation invariance",
+            "year": "1991",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Real world music object recognition",
+            "year": "2024",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Images as weight matrices: Sequential image generation through synaptic learning rules",
+            "year": "2022",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "The most cited neural networks all build on work done in my labs",
+            "year": "2021",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Are Neural Nets Modular",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal curiosity-driven modular incremental slow feature analysis",
+            "year": "2016",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "How to learn programs with artificial recurrent neural networks",
+            "year": "2009",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent support vector machines",
+            "year": "2005",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast color-based object recognition independent of position and orientation",
+            "year": "2005",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "IDSIA, galleria 2, 6928 Manno-Lugano",
+            "year": "2002",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal control using the transport equation: the Liouville machine",
+            "year": "2001",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards general-purpose in-context learning agents",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Practical computational power of linear transformers and their recurrent and self-referential extensions",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Analysis of neural network based proportional myoelectric hand prosthesis control",
+            "year": "2022",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Training and generating neural networks in compressed weight space",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving stateful premise selection with transformers",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Fusion Architectures for Word-Based Audiovisual Speech Recognition.",
+            "year": "2020",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement and shaping in learning action sequences with neural dynamics",
+            "year": "2014",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "My first deep learning system of 1991+ deep learning timeline 1960-2013",
+            "year": "2013",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Frontier Search",
+            "year": "2010",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust player imitation with multiobjective evolution",
+            "year": "2009",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent nets that time and count",
+            "year": "2000",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Nonlinear ICA through low-complexity autoencoders",
+            "year": "1999",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to predict through probabilistic incremental program evolution and automatic task decomposition",
+            "year": "1998",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "A novel unsupervised classification method",
+            "year": "1993",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Steps Towards\" self-referential\" Neural Learning: A Thought Experiment",
+            "year": "1992",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning temporary variable binding with dynamic links",
+            "year": "1991",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "The Languini Kitchen: Enabling Language Modelling Research at Different Scales of Compute",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning one abstract bit at a time through self-invented experiments encoded as neural networks",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Reward-weighted regression converges to a global optimum",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "An investigation into the open world survival game crafter",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "ImageNet as a representative basis for deriving generally effective CNN architectures",
+            "year": "2021",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Scientific Integrity, the 2021 Turing Lecture, and the 2018 Turing Award for Deep Learning",
+            "year": "2021",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Metalearning Machines Learn to Learn (1987)",
+            "year": "2020",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards spatial perception: Learning to locate objects from vision",
+            "year": "2012",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Turing in context",
+            "year": "2012",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Reflexive collision response with virtual skin-Roadmap planning meets reinforcement learning",
+            "year": "2012",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Stacked convolutional autoencoders for hierarchical feature extraction",
+            "year": "2011",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised modeling of partially observable environments",
+            "year": "2011",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "The new AI is general and mathematically rigorous",
+            "year": "2010",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Using data compressors to construct order tests for homogeneity and component independence",
+            "year": "2009",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "The last inventor of the telephone",
+            "year": "2008",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Computational intelligence and game design",
+            "year": "2008",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Overview of artificial curiosity and active exploration. with links to publications since 1990",
+            "year": "2004",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "From probabilities to programs with probabilistic incremental program evolution",
+            "year": "1999",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "LSTM CAN SOLVE HARD LO G TIME LAG PROBLEMS",
+            "year": "1997",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Highway reinforcement learning",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning useful representations of recurrent neural network weight matrices",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Musical Object Discovery from Audio",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to Control Rapidly Changing Synaptic Connections: An Alternative Type of Memory in Sequence Processing Artificial Neural Networks",
+            "year": "2022",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving baselines in the wild",
+            "year": "2021",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Bayesian brains and the r\\'enyi divergence",
+            "year": "2021",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Learning of Temporal Abstractions using Slot-based Transformers",
+            "year": "2021",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning adaptive control flow in transformers for improved systematic generalization",
+            "year": "2021",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial Curiosity & Creativity Since 1990-91",
+            "year": "2021",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Introducing sacred: A tool to facilitate reproducible research",
+            "year": "2015",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "An anti-hebbian learning rule to represent drive motivations for reinforcement learning",
+            "year": "2014",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement-driven shaping of sequence learning in neural dynamics",
+            "year": "2014",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "A frequency-domain encoding for neuroevolution",
+            "year": "2012",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "T-learning",
+            "year": "2011",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal direct policy search",
+            "year": "2011",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Greatest Thing Since...: What is the Most Significant Invention of the Past Decade, and What Do You Anticipate for the Future?",
+            "year": "2011",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Python Experiment Suite Implementation",
+            "year": "2011",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-dimensional Recurrent Neural Networks. In (de S\u00e1 JM, Alexandre LA, Duch W., Mandic D.): Artificial Neural Networks\u2013ICANN 2007",
+            "year": "2007",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Gambling in a computationally expensive casino: Algorithm selection as a bandit problem",
+            "year": "2006",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards life-long meta learning",
+            "year": "2005",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "LSTM and Timewarping: Spoken Digit Recognition with a Recurrent Neural Network",
+            "year": "2003",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical reinforcement learning based on automatic discovery of subgoals and specialization of subpolicies",
+            "year": "2003",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural processing of complex continual input streams",
+            "year": "2000",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Team Strategies: Soccer Case Studies",
+            "year": "1998",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Simple principles of metalearning",
+            "year": "1996",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Algorithmic art",
+            "year": "1994",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised extraction of predictable abstract features",
+            "year": "1993",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Using adaptive sequential neurocontrol for efficient learning of translation and rotation invariance",
+            "year": "1991",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "GPTSwarm: Language Agents as Optimizable Graphs",
+            "year": "Unknown",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Highway Value Iteration Networks",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient rotation invariance in deep neural networks through artificial mental rotation",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Accelerating neural self-improvement via bootstrapping",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Topological Neural Discrete Representation Learning\\a la Kohonen",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning relative return policies with upside-down reinforcement learning",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Upside-down reinforcement learning",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Augmenting classic algorithms with neural components for strong generalisation on ambiguous and high-dimensional data",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Genetic Programming for code of unlimited size (1987)",
+            "year": "2020",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "The Natural Gradient as a control signal for a humanoid robot",
+            "year": "2015",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "\u201cDeepMind\u2019s Nature Paper and Earlier Related Work",
+            "year": "2015",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Human-robot cooperation: fast, interactive learning from binary feedback",
+            "year": "2014",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Rapid humanoid motion learning through coordinated, parallel evolution",
+            "year": "2014",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "ALife in humanoids: developing a framework to employ artificial life techniques for high-level perception and cognition tasks on humanoid robots",
+            "year": "2013",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Applying LSTM to time series predictable through time-window approaches",
+            "year": "2012",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Object Recognition with Multi-Scale Pyramidal Pooling Networks",
+            "year": "2012",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Network: Computation in Neural Systems",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Asymmetric Planning for Incremental Real-Time Heuristic Search",
+            "year": "2006",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Prefix-like Complexities of Finite and Infinite Sequences on Generalized Turing Machines",
+            "year": "2005",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Special Session: Non-linear Predictive Models for Speech Processing-Bidirectional LSTM Networks for Improved Phoneme Classification and Recognition",
+            "year": "2005",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparing LSTM Recurrent Networks with Spiking Recurrent Networks on the Recognition of Spoken Digits",
+            "year": "2003",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Flying into history",
+            "year": "2003",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Speed Prior and Optimal Simulation of the Future",
+            "year": "2002",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence learning through pipe and automatic task decomposition",
+            "year": "1999",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "E cient Model-Based Exploration",
+            "year": "1998",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Semilinear predictability minimization produces orientation sensitive edge detectors",
+            "year": "1994",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Approaches to the Representation of Knowledge",
+            "year": "1990",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient Flow in Recurrent Nets: The Difficulty of Learning Long-Term D Ependencies* Sepp Hochreiter Fakult at f ur Informatik",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Kolmogorov Complexity and Applications",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "ScholarChemQA: Unveiling the Power of Language Models in Chemical Research Question Answering",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Goldfish: Vision-Language Understanding of Arbitrarily Long Videos",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Accelerating the inference of string generation-based chemical reaction models for industrial applications",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling Value Iteration Networks to 5000 Layers for Extreme Long-Term Planning",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent Complex-Weighted Autoencoders for Unsupervised Object Discovery",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "MoEUT: Mixture-of-Experts Universal Transformers",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Utilizing a Malfunctioning 3D Printer by Modeling Its Dynamics with Machine Learning",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence Compression Speeds Up Credit Assignment in Reinforcement Learning",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Lazy Layers to Make Fine-Tuned Diffusion Models More Traceable",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards a Robust Soft Baby Robot With Rich Interaction Ability for Advanced Machine Learning Algorithms",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Faster Diffusion via Temporal Attention Decomposition",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A reagent-driven visual method for analyzing chemical reaction data",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Tune-An-Ellipse: CLIP Has Potential to Find What You Want",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Continually Adapting Optimizers Improve Meta-Generalization",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Value Propagation with the Compositional Optimality Equation",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Automating Continual Learning",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "IDSIA/rtrl-elstm: Official repository for the paper\" Exploring the Promise and Limits of Real-Time Recurrent Learning\"",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "agopal42/slottar: Code repository complementing the Neural Computation 2022 journal paper\" Unsupervised Learning of Temporal Abstractions using Slot-based Transformers\"",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "On Narrative Information and the Distillation of Stories",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "dylanashley/story-distiller",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "RobertCsordas/ctlpp: Codebase for our EMNLP 2022 paper\" CTL++: Evaluating Generalization on Never-Seen Compositional Patterns of Known Functions, and Compatibility of Neural \u2026",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent Neural-Linear Posterior Sampling for Nonstationary Contextual Bandits",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Academich/reagents: Reagent prediction with Molecular Transformer. Improvement of data for reaction product prediction in a self-supervised fashion.",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "IDSIA/GoGePo: Official repository for the paper\" Goal-Conditioned Generators of Deep Policies\"",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "IDSIA/neuraldiffeq-fwp: Official repository for the paper\" Neural Differential Equations for Learning to Program Neural Nets Through Continuous Learning Rules\"(NeurIPS 2022)",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "RobertCsordas/linear_layer_as_attention: The official repository for our paper\" The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions to Training \u2026",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "IDSIA/modern-srwm: Official repository for the paper\" A Modern Self-Referential Weight Matrix That Learns to Modify Itself\"(ICML 2022 & NeurIPS 2021 Deep RL Workshop)",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic Embedding of Stories Into Collections of Independent Media",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "RobertCsordas/ndr: The official repository for our paper\" The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization\".",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative Data Intelligence",
+            "year": "2021",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Aviation pioneers missed out on publicity",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Zooming in on aviation history",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "NIPS (2017) Shahroudy, A., Liu, J., Ng, TT, Wang, G.: NTU RGB+ D: a large scale dataset for 3D human activity analysis. In: CVPR (2016) Sharma, S., Kiros, R., Salakhutdinov, R \u2026",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "GATED FAST WEIGHTS FOR ASSOCIATIVE RETRIEVAL",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Intelligent Systems",
+            "year": "2016",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The IM-CLeVeR project: Intrinsically Motivated Cumulative Learning Versatile Robots",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Algorithms for Networks with Internal and External",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Complete Publication List",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Publications Employed as Chapters and Contributions of the Candidate",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "LNAI 7999-Resource-Bounded Machines are Motivated to be Effective, Efficient, and Curious",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Erratum: Correction: novel kernel-based recognizers of human actions",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Kernel representations for evolving continuous functions",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Complexity search for compressed neural networks",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Turing: Keep his work in perspective",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Modular value iteration through regional decomposition",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "novel kernel-based recognizers of human actions (vol 2010, 202768, 2010)",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Mathematica-YARP Interface for Robotic Controller Neuroevolution",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Lifelong credit assignment with the success-story algorithm",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial General Intelligence. Proceedings of the 4th International Conference",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Randomness, Occam's Razor, AI, Creativity and Digital Physics",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental Slow Feature Analysis",
+            "year": "2011",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "STIFF: Enhancing biomorphic agility through variable stiffness",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "BAYER J. 1, WIERSTRA D. 1, SUN Y. 1, FELDER M. 2",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Python Experiment Suite Implementation.",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "1IDSIA, University of Lugano, Galleria 2, Manno-Lugano, 6900, Switzerland 2Technische Universit\u00e4t M\u00fcnchen, Garching D-86748, Germany",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Formal theory of fun and creativity",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Hierarchical Controller-learning in a First Person Shooter",
+            "year": "2009",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Comparing the legacies of Gauss, Pasteur and Darwin",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Parametric Policy Gradients for Robotics",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Robot Learning with State-Dependent Exploration",
+            "year": "2008",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Using Data Compressors to Construct Rank Tests",
+            "year": "2007",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Simple Algorithmic Principles of Artificial Curiosity, Creativity, Attention, and Subjective Beauty",
+            "year": "2007",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Goedel Machines",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Complexity Monotone in Conditions and Future Prediction Errors",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Prefix-like Complexities and Computability in the Limit",
+            "year": "2006",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "On decrease of a priori randomness deficiency",
+            "year": "2005",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "How to Learn a Program: Optimal Universal Learners & Goedel Machines.",
+            "year": "2005",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A neural network model for adaptive online time allocation",
+            "year": "2005",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast color-based object recognition independent of position and orientation",
+            "year": "2005",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial Neural Networks for System Modeling, Decision Making, Optimalization and Control-Evolving Modular Fast-Weight Networks for Control",
+            "year": "2005",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Turing's war work counts for more than computers",
+            "year": "2004",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Keynote Lecture G\u00f6del Machines and other Wonders of the New, Rigorous, Universal AI",
+            "year": "2004",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Recurrent Neural Networks",
+            "year": "2000",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Long Short-Term Memory Learns Context Free Languages",
+            "year": "2000",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Extracting predictable hyperstructure",
+            "year": "1999",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "12 REINFORCEMENT LEARNING",
+            "year": "1998",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Leslie Pack Kaelbling",
+            "year": "1998",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Team Strategies",
+            "year": "1998",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "EVALUATING LONG-TERM DEPENDENCY",
+            "year": "1997",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Processing Images by Semi-Linear Predictability Minimization",
+            "year": "1997",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "LOCOCODE",
+            "year": "1997",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SEMILINEAR PREDICTABILITY MINIMIZATION PRODUCES ORIENTATION SENSITIVE EDGE DETECTORS Technical Report FKI-201-94",
+            "year": "1994",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering Predictable Classifications; CU-CS-626-92",
+            "year": "1992",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Steps Towards' Self-Referential'Neural Learning: A Thought Experiment; CU-CS-627-92",
+            "year": "1992",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "TllllS of Colorado at Boulder",
+            "year": "1991",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Factorial Codes by Predictability Minimization; CU-CS-565-91",
+            "year": "1991",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "E~\u2018University of Colorado at Boulder",
+            "year": "1991",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Boosting Reinforcement Learning with Strongly Delayed Feedback Through Auxiliary Short Delays",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Few Heads are Enough",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "On the Distillation of Stories for Transferring Narrative Arcs in Collections of Independent Media",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Musical Object Discovery from Audio",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning to Identify Critical States for Reinforcement Learning from Videos Supplementary Materials",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Directing the KAUST AI Initiative since Oct 2021",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial Neural Networks For Spatial Perception",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Access to the Document",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The original successes required a precise understanding of the inner workings of GPUs [MLP1][GPUCNN1]. Today, convenient software packages shield the user from such details \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Recurrent Convolutional Neural Networks as an Approach to Position-Aware Myoelectric Prosthesis Control................ HE Williams, AW Shehata, MR Dawson, E. Scheme, JS Hebert \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Logo Zephyrnet By Plato",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "1. 1997 LSTM journal paper",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning Wins 2012 Brain Image Segmentation Contest",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Trending Articles",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Before 1991, no network learned by gradient descent to quickly compute the changes of the fast weight storage of another network or of itself. Such Fast Weight Programmers \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Today's most powerful neural networks (NNs) tend to be very deep, that is, they have many layers of neurons or many subsequent computational stages. In the 1980s, however \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "In 2010, my own team at the Swiss AI Lab IDSIA showed [MLP1] that unsupervised pre-training is not necessary to train deep NNs (a reviewer called this a\" wake-up call to the \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning & Planning with Recurrent World Models; Adversarial Generative Nets for Artificial Curiosity and related concepts (1990) In February 1990, I published the Technical \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Highway Networks (May 2015): First Working Really Deep Feedforward Neural Networks With Over 100 Layers",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The First Conference on Artificial General Intelligence (AGI-08)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Low Complexity Proto-Value Function Updating with Incremental Slow Feature Analysis",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "BioLNG Antrieb f\u00fcr schwere Skipisten-Pr\u00e4parierger\u00e4te",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Curiosity driven reinforcement learning for motion planning on humanoids",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Neural Networks Fight in a Minimax Game",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Challenges for recurrent neural networks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The Editor-in-Chief would like to thank the following colleagues who have helped maintain the standards set for a scientific journal, through their refereeing of the papers \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Evolving strategies for active flow control",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Main Results Accomplished by the EU-Funded Project IM-CLeVeR\u2013Intrinsically Motivated Cumulative Learning Versatile Robots",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A Digest of the Main Insights and Achievements of the Project IM-CLeVeR\u2013Intrinsically Motivated Cumulative Learning Versatile Robots",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Microsoft Research dominated the ImageNet 2015 contest with a very deep neural network of 150 layers [1]. Congrats to Kaiming He & Xiangyu Zhang & Shaoqing Ren & Jian Sun on \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Part IA Singularity of Artificial Superintelligence",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Hamza Chniter, Mohamed Khalgui and Fethi Jarray",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Interactive Multiclass Learning from Binary Feedback",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "One year after the victory of 2012, on September 22 at the MICCAI 2013 conference in Japan organised by the Society for Medical Image Computing and Computer Assisted \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "IJCNN 2011 competition in Silicon Valley: twice better than humans three times better than the closest artificial competitor six times better than the best non-neural method",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "To our knowledge, this was the first official image segmentation competition won by a deep feedforward NN. It should be mentioned, however, that our Long Short-Term Memory \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Training Recurrent Networks by Evolino",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The Select and Freeze Method for Recurrent Policy Gradients",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ANINTROSPECTIVE'NETWORK THAT CAN LEARN TO RUN ITS OWN WEIGHT CHANGE ALGORITHM In Proc. of the Intl. Conf. on Artificial Neural Networks, Brighton, pages 191-195. IEE, 1993.",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "In C. Freksa, ed., Foundations of Computer Science: Potential-Theory-Cognition Lecture Notes in Computer Science, pp. 201-208, Springer, 1997. A Computer Scientist's View of \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Technical Report FKI-222-97 (revised)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Active Learning with Adaptive Grids Michele Milano1, Jiurgen Schmidhuber2, and Petros Koumoutsakos1* 1 Institute for Computational Sciences, ETH Z| urich, Switzerland {milano \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "marco@ idsia. ch juergen@ idsia. ch IDSIA, Corso Elvezia 36 CH-6900 Lugano, Switzerland",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Learning in LSTM Recurrent Neural Networks Magdalena Klapper-Rybicka1, Nicol N. Schraudolph2, and Jiurgen Schmidhuber3 1 Institute of Computer Science, University \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "PLEXITY AND NUMBER OF TIME VARYING VARIABLES IN FULLY RECURRENT NETS In Proceedings of the International Conference on Artificial Neural Networks, Amsterdam, pages 460-463 \u2026",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Five Answers on Randomness",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Simple Algorithmic Principles of Discovery, Subjective Beauty, Selective Attention, Curiosity & Creativity (joint invited lecture for ALT 2007 and DS 2007)",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering solutions with low kolmogorov complexity and high generalization capability",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "computer science, artificial intelligence, reinforcement learning, neural networks, physics"
+}

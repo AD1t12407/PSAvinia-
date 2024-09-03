@@ -1,0 +1,1149 @@
+{
+    "author": "Ian Goodfellow",
+    "affiliation": "DeepMind",
+    "total_papers": 190,
+    "total_citations": 314186,
+    "publications": [
+        {
+            "title": "Generative adversarial networks",
+            "year": "2014",
+            "citations": 81956,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning",
+            "year": "2016",
+            "citations": 68779,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow: Large-scale machine learning on heterogeneous systems",
+            "year": "2015",
+            "citations": 31147,
+            "link": "No link available"
+        },
+        {
+            "title": "Explaining and Harnessing Adversarial Examples",
+            "year": "2014",
+            "citations": 21779,
+            "link": "No link available"
+        },
+        {
+            "title": "Intriguing properties of neural networks",
+            "year": "2013",
+            "citations": 17193,
+            "link": "No link available"
+        },
+        {
+            "title": "Improved techniques for training gans",
+            "year": "2016",
+            "citations": 10607,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial examples in the physical world",
+            "year": "2018",
+            "citations": 6542,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning with differential privacy",
+            "year": "2016",
+            "citations": 6486,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-attention generative adversarial networks",
+            "year": "2019",
+            "citations": 4742,
+            "link": "No link available"
+        },
+        {
+            "title": "Practical black-box attacks against machine learning",
+            "year": "2017",
+            "citations": 4130,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial machine learning at scale",
+            "year": "2016",
+            "citations": 3577,
+            "link": "No link available"
+        },
+        {
+            "title": "Mixmatch: A holistic approach to semi-supervised learning",
+            "year": "2019",
+            "citations": 3494,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial autoencoders",
+            "year": "2015",
+            "citations": 3351,
+            "link": "No link available"
+        },
+        {
+            "title": "Ensemble adversarial training: Attacks and defenses",
+            "year": "2017",
+            "citations": 3228,
+            "link": "No link available"
+        },
+        {
+            "title": "Maxout networks",
+            "year": "2013",
+            "citations": 3163,
+            "link": "No link available"
+        },
+        {
+            "title": "Nips 2016 tutorial: Generative adversarial networks",
+            "year": "2016",
+            "citations": 2657,
+            "link": "No link available"
+        },
+        {
+            "title": "Sanity checks for saliency maps",
+            "year": "2018",
+            "citations": 2230,
+            "link": "No link available"
+        },
+        {
+            "title": "Challenges in representation learning: A report on three machine learning contests",
+            "year": "2013",
+            "citations": 2113,
+            "link": "No link available"
+        },
+        {
+            "title": "Transferability in machine learning: from phenomena to black-box attacks using adversarial samples",
+            "year": "2016",
+            "citations": 2004,
+            "link": "No link available"
+        },
+        {
+            "title": "Theano: new features and speed improvements",
+            "year": "2012",
+            "citations": 1690,
+            "link": "No link available"
+        },
+        {
+            "title": "An empirical investigation of catastrophic forgetting in gradient-based neural networks",
+            "year": "2013",
+            "citations": 1534,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial training methods for semi-supervised text classification",
+            "year": "2016",
+            "citations": 1302,
+            "link": "No link available"
+        },
+        {
+            "title": "Realistic evaluation of deep semi-supervised learning algorithms",
+            "year": "2018",
+            "citations": 1220,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning for physical interaction through video prediction",
+            "year": "2016",
+            "citations": 1219,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-supervised knowledge transfer for deep learning from private training data",
+            "year": "2016",
+            "citations": 1162,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "2014",
+            "citations": 1013,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial attacks on neural network policies",
+            "year": "2017",
+            "citations": 1002,
+            "link": "No link available"
+        },
+        {
+            "title": "On evaluating adversarial robustness",
+            "year": "2019",
+            "citations": 987,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-digit number recognition from street view imagery using deep convolutional neural networks",
+            "year": "2013",
+            "citations": 928,
+            "link": "No link available"
+        },
+        {
+            "title": "Theano: A Python framework for fast computation of mathematical expressions",
+            "year": "2016",
+            "citations": 923,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving the robustness of deep neural networks via stability training",
+            "year": "2016",
+            "citations": 750,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial logit pairing",
+            "year": "2018",
+            "citations": 743,
+            "link": "No link available"
+        },
+        {
+            "title": "Net2net: Accelerating learning via knowledge transfer",
+            "year": "2015",
+            "citations": 740,
+            "link": "No link available"
+        },
+        {
+            "title": "Thermometer encoding: One hot way to resist adversarial examples",
+            "year": "2018",
+            "citations": 719,
+            "link": "No link available"
+        },
+        {
+            "title": "The space of transferable adversarial examples",
+            "year": "2017",
+            "citations": 646,
+            "link": "No link available"
+        },
+        {
+            "title": "Maskgan: better text generation via filling in the_",
+            "year": "2018",
+            "citations": 618,
+            "link": "No link available"
+        },
+        {
+            "title": "Qualitatively characterizing neural network optimization problems",
+            "year": "2014",
+            "citations": 611,
+            "link": "No link available"
+        },
+        {
+            "title": "Measuring invariances in deep networks",
+            "year": "2009",
+            "citations": 596,
+            "link": "No link available"
+        },
+        {
+            "title": "& Bengio, Y.(2020). Generative adversarial networks",
+            "year": "Unknown",
+            "citations": 554,
+            "link": "No link available"
+        },
+        {
+            "title": "Practical black-box attacks against deep learning systems using adversarial examples",
+            "year": "2016",
+            "citations": 506,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow: large-scale machine learning on heterogeneous distributed systems (2016)",
+            "year": "2015",
+            "citations": 502,
+            "link": "No link available"
+        },
+        {
+            "title": "Imperceptible, robust, and targeted adversarial examples for automatic speech recognition",
+            "year": "2019",
+            "citations": 476,
+            "link": "No link available"
+        },
+        {
+            "title": "Making machine learning robust against adversarial inputs",
+            "year": "2018",
+            "citations": 451,
+            "link": "No link available"
+        },
+        {
+            "title": "Technical report on the cleverhans v2. 1.0 adversarial examples library",
+            "year": "2016",
+            "citations": 418,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial spheres",
+            "year": "2018",
+            "citations": 403,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning. 2016",
+            "year": "2016",
+            "citations": 394,
+            "link": "No link available"
+        },
+        {
+            "title": "Intriguing properties of neural networks. arXiv 2013",
+            "year": "2013",
+            "citations": 370,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensorfuzz: Debugging neural networks with coverage-guided fuzzing",
+            "year": "2019",
+            "citations": 368,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial examples that fool both computer vision and time-limited humans",
+            "year": "2018",
+            "citations": 368,
+            "link": "No link available"
+        },
+        {
+            "title": "Theano: Deep learning on gpus with python",
+            "year": "2011",
+            "citations": 368,
+            "link": "No link available"
+        },
+        {
+            "title": "Pylearn2: a machine learning research library",
+            "year": "2013",
+            "citations": 362,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial attacks and defences competition",
+            "year": "2018",
+            "citations": 357,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative adversarial networks (2014)",
+            "year": "2019",
+            "citations": 334,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensorflow: Large-scale machine learning on heterogeneous distributed systems. CoRR abs/1603.04467 (2016)",
+            "year": "2016",
+            "citations": 333,
+            "link": "No link available"
+        },
+        {
+            "title": "cleverhans v2. 0.0: an adversarial machine learning library",
+            "year": "2016",
+            "citations": 327,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding and improving interpolation in autoencoders via an adversarial regularizer",
+            "year": "2018",
+            "citations": 307,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning (Vol. 1)",
+            "year": "2017",
+            "citations": 304,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised and transfer learning challenge: a deep learning approach",
+            "year": "2012",
+            "citations": 289,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow: Large-scale machine learning on heterogeneous systems (2015), software available from tensorflow. org",
+            "year": "2019",
+            "citations": 287,
+            "link": "No link available"
+        },
+        {
+            "title": "Pouget-Abadie, M",
+            "year": "2014",
+            "citations": 282,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning book",
+            "year": "2016",
+            "citations": 258,
+            "link": "No link available"
+        },
+        {
+            "title": "Many paths to equilibrium: GANs do not need to decrease a divergence at every step",
+            "year": "2017",
+            "citations": 257,
+            "link": "No link available"
+        },
+        {
+            "title": "Motivating the rules of the game for adversarial example research",
+            "year": "2018",
+            "citations": 253,
+            "link": "No link available"
+        },
+        {
+            "title": "Intriguing properties of neural networks",
+            "year": "2013",
+            "citations": 219,
+            "link": "No link available"
+        },
+        {
+            "title": "Theano: A Python framework for fast computation of mathematical expressions",
+            "year": "2016",
+            "citations": 215,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-prediction deep Boltzmann machines",
+            "year": "2013",
+            "citations": 194,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial reprogramming of neural networks",
+            "year": "2018",
+            "citations": 191,
+            "link": "No link available"
+        },
+        {
+            "title": "Aurko Roy",
+            "year": "2018",
+            "citations": 190,
+            "link": "No link available"
+        },
+        {
+            "title": "11 adversarial perturbations of deep neural networks",
+            "year": "2016",
+            "citations": 185,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional networks",
+            "year": "2016",
+            "citations": 175,
+            "link": "No link available"
+        },
+        {
+            "title": "6.2. 2.3 softmax units for multinoulli output distributions",
+            "year": "2016",
+            "citations": 172,
+            "link": "No link available"
+        },
+        {
+            "title": "On distinguishability criteria for estimating generative models",
+            "year": "2014",
+            "citations": 169,
+            "link": "No link available"
+        },
+        {
+            "title": "courville A",
+            "year": "2016",
+            "citations": 167,
+            "link": "No link available"
+        },
+        {
+            "title": "Discriminator rejection sampling",
+            "year": "2018",
+            "citations": 155,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow: Large-scale machine learning on heterogeneous systems. arXiv 2015",
+            "year": "2016",
+            "citations": 154,
+            "link": "No link available"
+        },
+        {
+            "title": "An empirical analysis of dropout in piecewise linear networks",
+            "year": "2013",
+            "citations": 146,
+            "link": "No link available"
+        },
+        {
+            "title": "Local explanation methods for deep neural networks lack sensitivity to parameter values",
+            "year": "2018",
+            "citations": 142,
+            "link": "No link available"
+        },
+        {
+            "title": "Is generator conditioning causally related to GAN performance?",
+            "year": "2018",
+            "citations": 142,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep feedforward networks",
+            "year": "2016",
+            "citations": 139,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning. Book in preparation for MIT Press",
+            "year": "2016",
+            "citations": 139,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning Cambridge",
+            "year": "2016",
+            "citations": 133,
+            "link": "No link available"
+        },
+        {
+            "title": "& bengio, y.(2014)",
+            "year": "2014",
+            "citations": 132,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning",
+            "year": "2016",
+            "citations": 119,
+            "link": "No link available"
+        },
+        {
+            "title": "Large-scale feature learning with spike-and-slab sparse coding",
+            "year": "2012",
+            "citations": 116,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularization for deep learning",
+            "year": "2016",
+            "citations": 115,
+            "link": "No link available"
+        },
+        {
+            "title": "Enabling certification of verification-agnostic networks via memory-efficient semidefinite programming",
+            "year": "2020",
+            "citations": 114,
+            "link": "No link available"
+        },
+        {
+            "title": "Unrestricted adversarial examples",
+            "year": "2018",
+            "citations": 105,
+            "link": "No link available"
+        },
+        {
+            "title": "MIT Press: Cambridge",
+            "year": "2016",
+            "citations": 103,
+            "link": "No link available"
+        },
+        {
+            "title": "FER-2013 face database",
+            "year": "2013",
+            "citations": 102,
+            "link": "No link available"
+        },
+        {
+            "title": "Nips 2016 tutorial: Generative adversarial networks. arXiv 2016",
+            "year": "Unknown",
+            "citations": 102,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative adversarial nets",
+            "year": "2014",
+            "citations": 101,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial examples in the physical world. arXiv 2016",
+            "year": "2016",
+            "citations": 100,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning [http://www. deeplearningbook. org]",
+            "year": "2016",
+            "citations": 96,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning methods and apparatus related to predicting motion (s) of object (s) in a robot's environment based on image (s) capturing the object (s) and based on \u2026",
+            "year": "2021",
+            "citations": 91,
+            "link": "No link available"
+        },
+        {
+            "title": "Advances in neural information processing systems",
+            "year": "2016",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "On the challenges of physical implementations of RBMs",
+            "year": "2014",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "Courville (2016) Deep learning",
+            "year": "2017",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "and Yoshua Bengio. Generative adversarial nets",
+            "year": "2014",
+            "citations": 84,
+            "link": "No link available"
+        },
+        {
+            "title": "Autoencoders",
+            "year": "2016",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "6.5 back-propagation and other differentiation algorithms",
+            "year": "2016",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient per-example gradient computations",
+            "year": "2015",
+            "citations": 83,
+            "link": "No link available"
+        },
+        {
+            "title": "Attacking machine learning with adversarial examples",
+            "year": "2017",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "Transferability in machine learning: From phenomena to black-box attacks using adversarial samples. arXiv 2016",
+            "year": "2016",
+            "citations": 82,
+            "link": "No link available"
+        },
+        {
+            "title": "Spike-and-slab sparse coding for unsupervised feature discovery",
+            "year": "2012",
+            "citations": 80,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence modeling: recurrent and recursive nets",
+            "year": "2016",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow",
+            "year": "2015",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "& Zheng",
+            "year": "2016",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial autoencoders. arXiv",
+            "year": "2015",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "cleverhans v0. 1: an adversarial machine learning library",
+            "year": "2016",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Courville 2016",
+            "year": "2016",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative adversarial nets. arXiv",
+            "year": "2014",
+            "citations": 66,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial autoencoders (2015)",
+            "year": "2021",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "On the protection of private information in machine learning systems: Two recent approches",
+            "year": "2017",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "NIPS 2016 tutorial: generative adversarial networks (2016)",
+            "year": "2016",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensorflow: Large-scale machine learning on heterogeneous distributed systems",
+            "year": "2016",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-attention generative adversarial networks. arXiv 2018",
+            "year": "1805",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial machine learning at scale. arXiv 2016",
+            "year": "2016",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Aaron Courville deep learning",
+            "year": "2016",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Jia, Y., Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur,... Xiaoqiang Zheng.(2015). TensorFlow: Large-scale machine learning on heterogeneous systems [Software available \u2026",
+            "year": "Unknown",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Pouget\u2043 Abadie J, Mirza M, et al",
+            "year": "2014",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling up spike-and-slab models for unsupervised feature learning",
+            "year": "2012",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "TensorFlow: Large-scale machine learning on heterogeneous systems, software available from tensorflow. org",
+            "year": "2015",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial machine learning at scale (2016)",
+            "year": "2017",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative models",
+            "year": "2016",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Theano: A Python framework for fast computation of mathematical expressions. arXiv",
+            "year": "2016",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning, volume 1",
+            "year": "2016",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Ensemble adversarial training: Attacks and defenses. arXiv 2017",
+            "year": "Unknown",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Defense against the dark arts: An overview of adversarial example security research and future research directions",
+            "year": "2018",
+            "citations": 44,
+            "link": "No link available"
+        },
+        {
+            "title": "Skill rating for generative models",
+            "year": "2018",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning. Das umfassende Handbuch: Grundlagen, aktuelle Verfahren und Algorithmen, neue Forschungsans\u00e4tze",
+            "year": "2018",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "A domain agnostic measure for monitoring and evaluating GANs",
+            "year": "2019",
+            "citations": 41,
+            "link": "No link available"
+        },
+        {
+            "title": "\u6df1\u5ea6\u5b66\u4e60",
+            "year": "2017",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "The stair vision library (v2. 4)",
+            "year": "2009",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Gradient masking causes clever to overestimate adversarial perturbation size",
+            "year": "2018",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence transcription with deep neural networks",
+            "year": "2015",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "The challenge of verification and testing of machine learning",
+            "year": "2017",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Theoretical insights into memorization in GANs",
+            "year": "2018",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "A research agenda: Dynamic models to defend against correlated attacks",
+            "year": "2019",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "The relationship between high-dimensional geometry and adversarial examples",
+            "year": "2018",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Maxout networks (2013)",
+            "year": "2017",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint training deep boltzmann machines for classification",
+            "year": "2013",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Is attacking machine learning easier than defending it",
+            "year": "2017",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Help me help you: Interfaces for personal robots",
+            "year": "2010",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning 1 (2)",
+            "year": "2016",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Technical report: Multidimensional, downsampled convolution for autoencoders",
+            "year": "2010",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Representation learning",
+            "year": "2016",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning: systemy ucz\u0105ce si\u0119",
+            "year": "2020",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Martin wa enberg, martin wicke, yuan yu, and xiaoqiang zheng. 2015. tensorflow: Large-scale machine learning on heterogeneous systems.(2015). hp",
+            "year": "2015",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Creating high resolution images with a latent adversarial generator",
+            "year": "2020",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Practical methodology",
+            "year": "2016",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-digit number recognition from street view imagery using deep convolutional neural networks",
+            "year": "2013",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Virtual adversarial training for semi-supervised text classification",
+            "year": "2016",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Subtle adversarial image manipulations influence both human and machine perception",
+            "year": "2023",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial training of neural networks",
+            "year": "2019",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluation methodology for attacks against confidence thresholding models",
+            "year": "2019",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Numerical computation",
+            "year": "2016",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning of representations and its application to computer vision",
+            "year": "2015",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive computation and machine learning series",
+            "year": "2016",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Intriguing properties of neural networks",
+            "year": "2014",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating larger neural networks",
+            "year": "2020",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "L'apprentissage profond",
+            "year": "2018",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Piecewise linear multilayer perceptrons and dropout",
+            "year": "2013",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial examples influence human visual perception",
+            "year": "2019",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Learning--Grundlagen, aktuelle Verfahren und Algorithmen, neue Forschungsans\u00e4tze",
+            "year": "2018",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Privacy and machine learning: two unexpected allies?",
+            "year": "2018",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial training of neural networks",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "New CleverHans feature: Better adversarial robustness evaluations with attack bundling",
+            "year": "2018",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint training of deep boltzmann machines",
+            "year": "2012",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "The STAIR Vision Library (v2. 4), 2011",
+            "year": "Unknown",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Sequence transcription with deep neural networks",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensorflow: large-scale machine learning on heterogeneous distributed systems. CoRR [Online], abs/1603.04467",
+            "year": "2016",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning methods and apparatus related to predicting motion (s) of object (s) in a robot's environment based on image (s) capturing the object (s) and based on \u2026",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Introduction to NIPS 2017 Competition Track",
+            "year": "2018",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine Learning with Privacy by Knowledge Aggregation and Transfer",
+            "year": "2016",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "\u751f\u6210\u5bf9\u6297\u7f51\u7edc",
+            "year": "2014",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Joint Training of Partially-Directed Deep Boltzmann Machines",
+            "year": "2012",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating super-resolution images using neural networks",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Author Correction: Subtle adversarial image manipulations influence both human and machine perception",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating larger neural networks",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversartail training of neural networks",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ECE49595CV: Computer Vision Fall 2023 Course Information Course number and title: ECE49595CV (003) Computer Vision CRN: 24034",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sampling from a generator neural network using a discriminator neural network",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Increasing security of neural networks by discretizing neural network inputs",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving Interpolation in Autoencoders",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The magazine archive includes every article published in Communications of the ACM for over the past 50 years.",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Perturbations, Optimization, and Statistics",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Making Machine Learning Robust Against Adversarial Inputs Such inputs distort how machine-learning-based systems are able to function in the world as it is.",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Example Notation for Deep Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Material for Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "1st Deep Learning and Security Workshop",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Deep Learning"
+}

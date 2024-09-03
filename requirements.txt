@@ -10,3 +10,5 @@ beautifulsoup4
 requests
 openpyxl
 python-docx
+scholarly
+nltk
