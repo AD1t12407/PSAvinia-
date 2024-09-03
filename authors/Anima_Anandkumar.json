@@ -1,0 +1,2919 @@
+{
+    "author": "Anima Anandkumar",
+    "affiliation": "California Institute of Technology and NVIDIA",
+    "total_papers": 485,
+    "total_citations": 33624,
+    "publications": [
+        {
+            "title": "SegFormer: Simple and efficient design for semantic segmentation with transformers",
+            "year": "2021",
+            "citations": 4016,
+            "link": "No link available"
+        },
+        {
+            "title": "Fourier Neural Operator for Parametric Partial Differential Equations",
+            "year": "2021",
+            "citations": 2199,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor decompositions for learning latent variable models",
+            "year": "2014",
+            "citations": 1372,
+            "link": "No link available"
+        },
+        {
+            "title": "signSGD: Compressed optimisation for non-convex problems",
+            "year": "2018",
+            "citations": 1187,
+            "link": "No link available"
+        },
+        {
+            "title": "Born again neural networks",
+            "year": "2018",
+            "citations": 1164,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic activation pruning for robust adversarial defense",
+            "year": "2018",
+            "citations": 695,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural operator: Graph kernel network for partial differential equations",
+            "year": "2020",
+            "citations": 687,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural operator: Learning maps between function spaces with applications to pdes",
+            "year": "2023",
+            "citations": 664,
+            "link": "No link available"
+        },
+        {
+            "title": "Fourcastnet: A global data-driven high-resolution weather model using adaptive fourier neural operators",
+            "year": "2022",
+            "citations": 581,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep active learning for named entity recognition",
+            "year": "2017",
+            "citations": 558,
+            "link": "No link available"
+        },
+        {
+            "title": "Voyager: An open-ended embodied agent with large language models",
+            "year": "2023",
+            "citations": 534,
+            "link": "No link available"
+        },
+        {
+            "title": "Scientific discovery in the age of artificial intelligence",
+            "year": "2023",
+            "citations": 532,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensorly: Tensor learning in python",
+            "year": "2019",
+            "citations": 422,
+            "link": "No link available"
+        },
+        {
+            "title": "Physics-informed machine learning: case studies for weather and climate modelling",
+            "year": "2021",
+            "citations": 421,
+            "link": "No link available"
+        },
+        {
+            "title": "A spectral algorithm for latent dirichlet allocation",
+            "year": "2012",
+            "citations": 404,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed algorithms for learning and cognitive medium access with logarithmic regret",
+            "year": "2011",
+            "citations": 404,
+            "link": "No link available"
+        },
+        {
+            "title": "A method of moments for mixture models and hidden Markov models",
+            "year": "2012",
+            "citations": 386,
+            "link": "No link available"
+        },
+        {
+            "title": "Multipole graph neural operator for parametric partial differential equations",
+            "year": "2020",
+            "citations": 356,
+            "link": "No link available"
+        },
+        {
+            "title": "Non-convex robust PCA",
+            "year": "2014",
+            "citations": 355,
+            "link": "No link available"
+        },
+        {
+            "title": "Physics-informed neural operator for learning partial differential equations",
+            "year": "2024",
+            "citations": 354,
+            "link": "No link available"
+        },
+        {
+            "title": "Diffusion models for adversarial purification",
+            "year": "2022",
+            "citations": 343,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural lander: Stable drone landing control using learned dynamics",
+            "year": "2019",
+            "citations": 311,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning latent tree graphical models",
+            "year": "2011",
+            "citations": 304,
+            "link": "No link available"
+        },
+        {
+            "title": "Beating the perils of non-convexity: Guaranteed training of neural networks using tensor methods",
+            "year": "2015",
+            "citations": 279,
+            "link": "No link available"
+        },
+        {
+            "title": "U-FNO\u2014An enhanced Fourier neural operator-based deep-learning model for multiphase flow",
+            "year": "2022",
+            "citations": 278,
+            "link": "No link available"
+        },
+        {
+            "title": "Minedojo: Building open-ended embodied agents with internet-scale knowledge",
+            "year": "2022",
+            "citations": 276,
+            "link": "No link available"
+        },
+        {
+            "title": "OrbNet: Deep learning for quantum chemistry using symmetry-adapted atomic-orbital features",
+            "year": "2020",
+            "citations": 258,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient token mixing for transformers via adaptive fourier neural operators",
+            "year": "2021",
+            "citations": 253,
+            "link": "No link available"
+        },
+        {
+            "title": "Long-term forecasting using tensor-train rnns",
+            "year": "2018",
+            "citations": 240,
+            "link": "No link available"
+        },
+        {
+            "title": "Regularized learning for domain adaptation under label shifts",
+            "year": "2019",
+            "citations": 217,
+            "link": "No link available"
+        },
+        {
+            "title": "Test-time prompt tuning for zero-shot generalization in vision-language models",
+            "year": "2022",
+            "citations": 205,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient exploration through bayesian deep q-networks",
+            "year": "2018",
+            "citations": 201,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor contraction layers for parsimonious deep nets",
+            "year": "2017",
+            "citations": 201,
+            "link": "No link available"
+        },
+        {
+            "title": "Opportunistic spectrum access with multiple users: Learning under competition",
+            "year": "2010",
+            "citations": 199,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning sparsely used overcomplete dictionaries via alternating minimization",
+            "year": "2016",
+            "citations": 196,
+            "link": "No link available"
+        },
+        {
+            "title": "Self-calibrating neural radiance fields",
+            "year": "2021",
+            "citations": 195,
+            "link": "No link available"
+        },
+        {
+            "title": "Probabilistic fasttext for multi-sense word embeddings",
+            "year": "2018",
+            "citations": 194,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning from noisy singly-labeled data",
+            "year": "2017",
+            "citations": 184,
+            "link": "No link available"
+        },
+        {
+            "title": "Fourier neural operator with learned deformations for pdes on general geometries",
+            "year": "2023",
+            "citations": 175,
+            "link": "No link available"
+        },
+        {
+            "title": "Pre-Trained Language Models for Interactive Decision-Making",
+            "year": "2022",
+            "citations": 174,
+            "link": "No link available"
+        },
+        {
+            "title": "Understanding the robustness in vision transformers",
+            "year": "2022",
+            "citations": 172,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient approaches for escaping higher order saddle points in non-convex optimization",
+            "year": "2016",
+            "citations": 172,
+            "link": "No link available"
+        },
+        {
+            "title": "MBEV: Multi-Camera Joint 3D Detection and Segmentation with Unified Birds-Eye View Representation",
+            "year": "2022",
+            "citations": 160,
+            "link": "No link available"
+        },
+        {
+            "title": "Guaranteed Non-Orthogonal Tensor Decomposition via Alternating Rank- Updates",
+            "year": "2014",
+            "citations": 154,
+            "link": "No link available"
+        },
+        {
+            "title": "Vima: General robot manipulation with multimodal prompts",
+            "year": "2022",
+            "citations": 153,
+            "link": "No link available"
+        },
+        {
+            "title": "Panoptic segformer: Delving deeper into panoptic segmentation with transformers",
+            "year": "2022",
+            "citations": 153,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast and guaranteed tensor decomposition via sketching",
+            "year": "2015",
+            "citations": 153,
+            "link": "No link available"
+        },
+        {
+            "title": "Eureka: Human-level reward design via coding large language models",
+            "year": "2023",
+            "citations": 149,
+            "link": "No link available"
+        },
+        {
+            "title": "Voxformer: Sparse voxel transformer for camera-based 3d semantic scene completion",
+            "year": "2023",
+            "citations": 149,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural-fly enables rapid learning for agile flight in strong winds",
+            "year": "2022",
+            "citations": 149,
+            "link": "No link available"
+        },
+        {
+            "title": "High-dimensional structure estimation in Ising models: Local separation criterion",
+            "year": "2012",
+            "citations": 146,
+            "link": "No link available"
+        },
+        {
+            "title": "MEGATRON-CNTRL: Controllable story generation with external knowledge using large-scale language models",
+            "year": "2020",
+            "citations": 145,
+            "link": "No link available"
+        },
+        {
+            "title": "A tensor spectral approach to learning mixed membership community models",
+            "year": "2013",
+            "citations": 144,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning of pomdps using spectral methods",
+            "year": "2016",
+            "citations": 141,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional tensor-train LSTM for spatio-temporal learning",
+            "year": "2020",
+            "citations": 135,
+            "link": "No link available"
+        },
+        {
+            "title": "High-dimensional Gaussian graphical model selection: Walk summability and local separation criterion",
+            "year": "2012",
+            "citations": 135,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor methods in computer vision and deep learning",
+            "year": "2021",
+            "citations": 129,
+            "link": "No link available"
+        },
+        {
+            "title": "Leandojo: Theorem proving with retrieval-augmented language models",
+            "year": "2024",
+            "citations": 127,
+            "link": "No link available"
+        },
+        {
+            "title": "Long-short transformer: Efficient transformers for language and vision",
+            "year": "2021",
+            "citations": 127,
+            "link": "No link available"
+        },
+        {
+            "title": "Meshfreeflownet: A physics-constrained deep continuous space-time super-resolution framework",
+            "year": "2020",
+            "citations": 123,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning sparsely used overcomplete dictionaries",
+            "year": "2014",
+            "citations": 122,
+            "link": "No link available"
+        },
+        {
+            "title": "Competitive gradient descent",
+            "year": "2019",
+            "citations": 119,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning topic models and latent Bayesian networks under expansion constraints",
+            "year": "2012",
+            "citations": 117,
+            "link": "No link available"
+        },
+        {
+            "title": "Provable tensor methods for learning mixtures of generalized linear models",
+            "year": "2016",
+            "citations": 116,
+            "link": "No link available"
+        },
+        {
+            "title": "Simulation intelligence: Towards a new generation of scientific methods",
+            "year": "2021",
+            "citations": 114,
+            "link": "No link available"
+        },
+        {
+            "title": "AugMax: Adversarial Composition of Random Augmentations for Robust Training",
+            "year": "2021",
+            "citations": 114,
+            "link": "No link available"
+        },
+        {
+            "title": "Causal discovery in physical systems from videos",
+            "year": "2020",
+            "citations": 109,
+            "link": "No link available"
+        },
+        {
+            "title": "Logarithmic regret bound in partially observable linear dynamical systems",
+            "year": "2020",
+            "citations": 107,
+            "link": "No link available"
+        },
+        {
+            "title": "Freesolo: Learning to segment objects without annotations",
+            "year": "2022",
+            "citations": 106,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor vs. matrix methods: Robust tensor decomposition under block sparse perturbations",
+            "year": "2016",
+            "citations": 103,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-modal molecule structure\u2013text model for text-based retrieval and editing",
+            "year": "2023",
+            "citations": 100,
+            "link": "No link available"
+        },
+        {
+            "title": "ISB: Image-to-Image Schr\\\"odinger Bridge",
+            "year": "2023",
+            "citations": 98,
+            "link": "No link available"
+        },
+        {
+            "title": "Informing geometric deep learning with electronic interactions to accelerate quantum chemistry",
+            "year": "2022",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "Online tensor methods for learning latent variable models",
+            "year": "2015",
+            "citations": 89,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast sampling of diffusion models via operator learning",
+            "year": "2023",
+            "citations": 88,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor contractions with extended BLAS kernels on CPU and GPU",
+            "year": "2016",
+            "citations": 87,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning overcomplete latent variable models through tensor methods",
+            "year": "2015",
+            "citations": 86,
+            "link": "No link available"
+        },
+        {
+            "title": "A large-deviation analysis of the maximum-likelihood learning of Markov tree structures",
+            "year": "2011",
+            "citations": 85,
+            "link": "No link available"
+        },
+        {
+            "title": "Automated synthetic-to-real generalization",
+            "year": "2020",
+            "citations": 84,
+            "link": "No link available"
+        },
+        {
+            "title": "Analyzing tensor power method dynamics in overcomplete regime",
+            "year": "2017",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Detection of Gauss\u2013Markov random fields with nearest-neighbor dependency",
+            "year": "2009",
+            "citations": 81,
+            "link": "No link available"
+        },
+        {
+            "title": "Provable methods for training neural networks with sparse connectivity",
+            "year": "2014",
+            "citations": 80,
+            "link": "No link available"
+        },
+        {
+            "title": "Vima: Robot manipulation with multimodal prompts",
+            "year": "2023",
+            "citations": 79,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial intelligence for science in quantum, atomistic, and continuum systems",
+            "year": "2023",
+            "citations": 78,
+            "link": "No link available"
+        },
+        {
+            "title": "Mimicplay: Long-horizon imitation learning by watching human play",
+            "year": "2023",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Training certifiably robust neural networks with efficient local lipschitz bounds",
+            "year": "2021",
+            "citations": 77,
+            "link": "No link available"
+        },
+        {
+            "title": "Discobox: Weakly supervised instance segmentation and semantic correspondence from box supervision",
+            "year": "2021",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Open vocabulary learning on source code with a graph-structured cache",
+            "year": "2019",
+            "citations": 76,
+            "link": "No link available"
+        },
+        {
+            "title": "Semi-supervised stylegan for disentanglement learning",
+            "year": "2020",
+            "citations": 75,
+            "link": "No link available"
+        },
+        {
+            "title": "OrbNet Denali: A machine learning potential for biological and organic chemistry with semi-empirical cost and DFT accuracy",
+            "year": "2021",
+            "citations": 74,
+            "link": "No link available"
+        },
+        {
+            "title": "Type-based random access for distributed detection over multiaccess fading channels",
+            "year": "2007",
+            "citations": 72,
+            "link": "No link available"
+        },
+        {
+            "title": "Minvis: A minimal video instance segmentation framework without video-based training",
+            "year": "2022",
+            "citations": 71,
+            "link": "No link available"
+        },
+        {
+            "title": "Spherical fourier neural operators: Learning stable dynamics on the sphere",
+            "year": "2023",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "# COVIDisAirborne: AI-enabled multiscale computational microscopy of delta SARS-CoV-2 in a respiratory aerosol",
+            "year": "2023",
+            "citations": 70,
+            "link": "No link available"
+        },
+        {
+            "title": "Controllable and compositional generation with latent-space energy-based models",
+            "year": "2021",
+            "citations": 69,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning a contact-adaptive controller for robust, efficient legged locomotion",
+            "year": "2021",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust regression for safe exploration in control",
+            "year": "2020",
+            "citations": 67,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning-based computer vision to recognize and classify suturing gestures in robot-assisted surgery",
+            "year": "2021",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Active learning with partial feedback",
+            "year": "2018",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Gaussian tree models: Analysis of error exponents and extremal structures",
+            "year": "2010",
+            "citations": 65,
+            "link": "No link available"
+        },
+        {
+            "title": "Spectral methods for learning multivariate latent tree structure",
+            "year": "2011",
+            "citations": 64,
+            "link": "No link available"
+        },
+        {
+            "title": "Turbulence forecasting via neural ode",
+            "year": "2019",
+            "citations": 63,
+            "link": "No link available"
+        },
+        {
+            "title": "GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics",
+            "year": "2023",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "A learning-based multiscale method and its application to inelastic impact problems",
+            "year": "2022",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Exact recovery of sparsely used overcomplete dictionaries",
+            "year": "2013",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "When are overcomplete topic models identifiable? uniqueness of tensor tucker decompositions with structured sparsity",
+            "year": "2013",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning mixtures of tree graphical models",
+            "year": "2012",
+            "citations": 61,
+            "link": "No link available"
+        },
+        {
+            "title": "Secant: Self-expert cloning for zero-shot generalization of visual policies",
+            "year": "2021",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Bongard-logo: A new benchmark for human-level concept learning and reasoning",
+            "year": "2020",
+            "citations": 60,
+            "link": "No link available"
+        },
+        {
+            "title": "Nonparametric estimation of multi-view latent variable models",
+            "year": "2014",
+            "citations": 59,
+            "link": "No link available"
+        },
+        {
+            "title": "Question type guided attention in visual question answering",
+            "year": "2018",
+            "citations": 58,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning loopy graphical models with latent variables: Efficient methods and guarantees",
+            "year": "2013",
+            "citations": 57,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust rate maximization game under bounded channel uncertainty",
+            "year": "2011",
+            "citations": 56,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring the limits of domain-adaptive training for detoxifying large-scale language models",
+            "year": "2022",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Advdo: Realistic adversarial attacks for trajectory prediction",
+            "year": "2022",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "Homotopy analysis for tensor PCA",
+            "year": "2017",
+            "citations": 55,
+            "link": "No link available"
+        },
+        {
+            "title": "A vision transformer for decoding surgeon activity from surgical videos",
+            "year": "2023",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Chance-constrained trajectory optimization for safe exploration and learning of nonlinear systems",
+            "year": "2020",
+            "citations": 54,
+            "link": "No link available"
+        },
+        {
+            "title": "Contrastive syn-to-real generalization",
+            "year": "2021",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning causal state representations of partially observable environments",
+            "year": "2019",
+            "citations": 53,
+            "link": "No link available"
+        },
+        {
+            "title": "Combining symbolic expressions and black-box function evaluations in neural programs",
+            "year": "2018",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "A clustering approach to learning sparsely used overcomplete dictionaries",
+            "year": "2016",
+            "citations": 52,
+            "link": "No link available"
+        },
+        {
+            "title": "Stability constrained reinforcement learning for real-time voltage control",
+            "year": "2022",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Angular visual hardness",
+            "year": "2020",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning high-dimensional Markov forest distributions: Analysis of error rates",
+            "year": "2011",
+            "citations": 51,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural networks with recurrent generative feedback",
+            "year": "2020",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Spectral learning on matrices and tensors",
+            "year": "2019",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Topology discovery of sparse random graphs with few participants",
+            "year": "2011",
+            "citations": 50,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarially robust 3d point cloud recognition using self-supervisions",
+            "year": "2021",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Score function features for discriminative learning: Matrix and tensor framework",
+            "year": "2014",
+            "citations": 49,
+            "link": "No link available"
+        },
+        {
+            "title": "Online and differentially-private tensor decomposition",
+            "year": "2016",
+            "citations": 48,
+            "link": "No link available"
+        },
+        {
+            "title": "Tracking in a spaghetti bowl: monitoring transactions using footprints",
+            "year": "2008",
+            "citations": 47,
+            "link": "No link available"
+        },
+        {
+            "title": "Real-time high-resolution CO 2 geological storage prediction using nested Fourier neural operators",
+            "year": "2023",
+            "citations": 46,
+            "link": "No link available"
+        },
+        {
+            "title": "Markov neural operators for learning chaotic systems",
+            "year": "2021",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Convolutional dictionary learning through tensor factorization",
+            "year": "2015",
+            "citations": 45,
+            "link": "No link available"
+        },
+        {
+            "title": "Shall we pretrain autoregressive language models with retrieval? a comprehensive study",
+            "year": "2023",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Fb-bev: Bev representation from forward-backward view transformations",
+            "year": "2023",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning with fast stabilization in linear dynamical systems",
+            "year": "2022",
+            "citations": 43,
+            "link": "No link available"
+        },
+        {
+            "title": "Feedback message passing for inference in Gaussian graphical models",
+            "year": "2012",
+            "citations": 42,
+            "link": "No link available"
+        },
+        {
+            "title": "A systematic review of virtual reality for the assessment of technical skills in neurosurgery",
+            "year": "2021",
+            "citations": 40,
+            "link": "No link available"
+        },
+        {
+            "title": "Focalformer3d: focusing on hard instance for 3d object detection",
+            "year": "2023",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Tesseract: Tensorised actors for multi-agent reinforcement learning",
+            "year": "2021",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Coach-player multi-agent reinforcement learning for dynamic team composition",
+            "year": "2021",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Explore more and improve regret in linear quadratic regulators",
+            "year": "2020",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning in rich-observation mdps using spectral methods",
+            "year": "2016",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers. arXiv 2021",
+            "year": "Unknown",
+            "citations": 39,
+            "link": "No link available"
+        },
+        {
+            "title": "Prismer: A vision-language model with an ensemble of experts",
+            "year": "2023",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "A text-guided protein design framework",
+            "year": "2023",
+            "citations": 38,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural operators for accelerating scientific simulations and design",
+            "year": "2024",
+            "citations": 37,
+            "link": "No link available"
+        },
+        {
+            "title": "Generating and characterizing scenarios for safety testing of autonomous vehicles",
+            "year": "2021",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Surprising negative results for generative adversarial tree search",
+            "year": "2018",
+            "citations": 36,
+            "link": "No link available"
+        },
+        {
+            "title": "Geometry-informed neural operator for large-scale 3d pdes",
+            "year": "2024",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Not all labels are equal: Rationalizing the labeling costs for training object detection",
+            "year": "2022",
+            "citations": 35,
+            "link": "No link available"
+        },
+        {
+            "title": "Implicit competitive regularization in GANs",
+            "year": "2019",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "StrassenNets: Deep learning with a multiplication budget",
+            "year": "2018",
+            "citations": 34,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust trajectory prediction against adversarial attacks",
+            "year": "2023",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial skill chaining for long-horizon robot manipulation via terminal state regularization",
+            "year": "2021",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Image-level or object-level? a tale of two resampling strategies for long-tailed detection",
+            "year": "2021",
+            "citations": 33,
+            "link": "No link available"
+        },
+        {
+            "title": "Acid: Action-conditional implicit visual dynamics for deformable object manipulation",
+            "year": "2022",
+            "citations": 32,
+            "link": "No link available"
+        },
+        {
+            "title": "State-specific protein\u2013ligand complex structure prediction with a multiscale deep generative model",
+            "year": "2024",
+            "citations": 31,
+            "link": "No link available"
+        },
+        {
+            "title": "Score-based diffusion models in function space",
+            "year": "2023",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Generative adversarial neural operators",
+            "year": "2022",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic-backbone protein-ligand structure prediction with multiscale generative diffusion models",
+            "year": "2022",
+            "citations": 30,
+            "link": "No link available"
+        },
+        {
+            "title": "Shaping the water-harvesting behavior of metal\u2013organic frameworks aided by fine-tuned GPT models",
+            "year": "2023",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Adaptive control and regret minimization in linear quadratic Gaussian (LQG) setting",
+            "year": "2021",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Energy scaling laws for distributed inference in random fusion networks",
+            "year": "2009",
+            "citations": 29,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast training of diffusion models with masked transformers",
+            "year": "2023",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "A multi-institutional study using artificial intelligence to provide reliable and fair feedback to surgeons",
+            "year": "2023",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Retrieval-based controllable molecule generation",
+            "year": "2022",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Variational quantum optimization with multibasis encodings",
+            "year": "2022",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Langevin monte carlo for contextual bandits",
+            "year": "2022",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Bongard-hoi: Benchmarking few-shot visual reasoning for human-object interactions",
+            "year": "2022",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Selective instrumentation of distributed applications for transaction monitoring",
+            "year": "2013",
+            "citations": 28,
+            "link": "No link available"
+        },
+        {
+            "title": "Human visual explanations mitigate bias in AI-based assessment of surgeon skills",
+            "year": "2023",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning chaotic dynamics in dissipative systems",
+            "year": "2022",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic linear bandits with hidden low rank structure",
+            "year": "2019",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Policy gradient in partially observable environments: Approximation and convergence",
+            "year": "2018",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Optimal node density for detection in energy-constrained random networks",
+            "year": "2008",
+            "citations": 27,
+            "link": "No link available"
+        },
+        {
+            "title": "Active learning under label shift",
+            "year": "2021",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning pose estimation for UAV autonomous navigation and landing using visual-inertial sensor data",
+            "year": "2020",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "A scale mixture perspective of multiplicative noise in neural networks",
+            "year": "2015",
+            "citations": 26,
+            "link": "No link available"
+        },
+        {
+            "title": "Model learning predictive control in nonlinear dynamical systems",
+            "year": "2021",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor dropout for robust learning",
+            "year": "2021",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Directivity modes of earthquake populations with unsupervised learning",
+            "year": "2020",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast detection of overlapping communities via online tensor methods on gpus",
+            "year": "2013",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Minimum cost data aggregation with localized processing for statistical inference",
+            "year": "2008",
+            "citations": 25,
+            "link": "No link available"
+        },
+        {
+            "title": "Symmetry-informed geometric representation for molecules, proteins, and crystalline materials",
+            "year": "2024",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural scene representation for locomotion on structured terrain",
+            "year": "2022",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "DensePure: Understanding Diffusion Models towards Adversarial Robustness",
+            "year": "2022",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Zero initialization: Initializing neural networks with only zeros and ones",
+            "year": "2021",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast uncertainty quantification for deep object pose estimation",
+            "year": "2021",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalable latent tree model and its application to health analytics",
+            "year": "2014",
+            "citations": 24,
+            "link": "No link available"
+        },
+        {
+            "title": "Densepure: Understanding diffusion models for adversarial robustness",
+            "year": "2023",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Autobiastest: Controllable sentence generation for automated and open-ended social bias testing in language models",
+            "year": "2023",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Generic lithography modeling with dual-band optics-inspired neural networks",
+            "year": "2022",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Relvit: Concept-guided vision transformer for visual relational reasoning",
+            "year": "2022",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "The potential dangers of artificial intelligence for radiology and radiologists",
+            "year": "2020",
+            "citations": 23,
+            "link": "No link available"
+        },
+        {
+            "title": "Surgical gestures as a method to quantify surgical performance and predict patient outcomes",
+            "year": "2022",
+            "citations": 22,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-Step Stochastic ADMM in High Dimensions: Applications to Sparse Optimization and Noisy Matrix Decomposition",
+            "year": "2014",
+            "citations": 21,
+            "link": "No link available"
+        },
+        {
+            "title": "Using neural networks to perform object detection, instance segmentation, and semantic correspondence from bounding box supervision",
+            "year": "2022",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Few-shot instruction prompts for pretrained language models to detect social biases",
+            "year": "2021",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Competitive policy optimization",
+            "year": "2021",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Regret bound of adaptive control in linear quadratic gaussian (lqg) systems",
+            "year": "2020",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning compositional functions via multiplicative weight updates",
+            "year": "2020",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Training input-output recurrent neural networks through spectral methods",
+            "year": "2016",
+            "citations": 20,
+            "link": "No link available"
+        },
+        {
+            "title": "Vision transformers are good mask auto-labelers",
+            "year": "2023",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Intelligent resolution: Integrating Cryo-EM with AI-driven multi-resolution simulations to observe the severe acute respiratory syndrome coronavirus-2 replication-transcription \u2026",
+            "year": "2022",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Augmenting deep classifiers with polynomial neural networks",
+            "year": "2022",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep learning to automate technical skills assessment in robotic surgery",
+            "year": "2021",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Active learning of multiple source multiple destination topologies",
+            "year": "2014",
+            "citations": 19,
+            "link": "No link available"
+        },
+        {
+            "title": "Galore: Memory-efficient llm training by gradient low-rank projection",
+            "year": "2024",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning dissipative dynamics in chaotic systems",
+            "year": "2021",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Regret minimization in partially observable linear quadratic control",
+            "year": "2020",
+            "citations": 18,
+            "link": "No link available"
+        },
+        {
+            "title": "Emergent hand morphology and control from optimizing robust grasps of diverse objects",
+            "year": "2021",
+            "citations": 17,
+            "link": "No link available"
+        },
+        {
+            "title": "Re-vilm: Retrieval-augmented visual language model for zero and few-shot image captioning",
+            "year": "2023",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Perfception: Perception using radiance fields",
+            "year": "2022",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Lns-madam: Low-precision training in logarithmic number system using multiplicative weight update",
+            "year": "2022",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust reinforcement learning: A constrained game-theoretic approach",
+            "year": "2021",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Spectral methods for correlated topic models",
+            "year": "2017",
+            "citations": 16,
+            "link": "No link available"
+        },
+        {
+            "title": "Plasma surrogate modelling using Fourier neural operators",
+            "year": "2024",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "InfoCNF: An efficient conditional continuous normalizing flow with adaptive solvers",
+            "year": "2019",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Higher-order count sketch: Dimensionality reduction that retains efficient tensor operations",
+            "year": "2019",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust deep networks with randomized tensor regression layers",
+            "year": "2019",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of word-sequence representations from scratch via convolutional tensor decomposition",
+            "year": "2016",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed latent dirichlet allocation via tensor factorization",
+            "year": "2014",
+            "citations": 15,
+            "link": "No link available"
+        },
+        {
+            "title": "Forecasting subcritical cylinder wakes with Fourier Neural Operators",
+            "year": "2023",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Thompson Sampling Achieves  Regret in Linear Quadratic Control",
+            "year": "2022",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Memory augmented recursive neural networks",
+            "year": "2019",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Prize-collecting data fusion for cost-performance tradeoff in distributed inference",
+            "year": "2009",
+            "citations": 14,
+            "link": "No link available"
+        },
+        {
+            "title": "Expert surgeons and deep learning models can predict the outcome of surgical hemorrhage from 1 min of video",
+            "year": "2022",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Open problem: Approximate planning of pomdps in the class of memoryless policies",
+            "year": "2016",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning mixed membership community models in social tagging networks through tensor methods",
+            "year": "2015",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "A large deviation analysis of detection over multi-access channels with random number of sensors",
+            "year": "2006",
+            "citations": 13,
+            "link": "No link available"
+        },
+        {
+            "title": "ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation",
+            "year": "2024",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Provable and practical: Efficient exploration in reinforcement learning via langevin monte carlo",
+            "year": "2023",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental fourier neural operator",
+            "year": "2022",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensorly-quantum: Quantum machine learning with tensor methods",
+            "year": "2021",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Coupled segmentation and edge learning via dynamic graph propagation",
+            "year": "2021",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Trust region policy optimization for pomdps",
+            "year": "2018",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-object classification and unsupervised scene understanding using deep learning features and latent tree probabilistic models",
+            "year": "2015",
+            "citations": 12,
+            "link": "No link available"
+        },
+        {
+            "title": "ClimSim: An open large-scale dataset for training high-resolution physics emulators in hybrid multi-scale climate simulators",
+            "year": "2023",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning accelerated pde backstepping observers",
+            "year": "2022",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Finite-time regret of thompson sampling algorithms for exponential family multi-armed bandits",
+            "year": "2022",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Fourier continuation for exact derivative computation in physics-informed neural operators",
+            "year": "2022",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Finite-time system identification and adaptive control in autoregressive exogenous systems",
+            "year": "2021",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Stable online control of linear time-varying systems",
+            "year": "2021",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-task learning for electronic structure to predict and explore molecular potential energy surfaces",
+            "year": "2020",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Contextbased meta-reinforcement learning with structured latent space",
+            "year": "2019",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed estimation via random access",
+            "year": "2008",
+            "citations": 11,
+            "link": "No link available"
+        },
+        {
+            "title": "Quantum Goemans-Williamson algorithm with the Hadamard test and approximate amplitude constraints",
+            "year": "2023",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Kcrl: Krasovskii-constrained reinforcement learning with guaranteed stability in nonlinear dynamical systems",
+            "year": "2022",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Use of surgical video\u2013based automated performance metrics to predict blood loss and success of simulated vascular injury control in neurosurgery: a pilot study",
+            "year": "2021",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning in factored action spaces using tensor decompositions",
+            "year": "2021",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Competitive mirror descent",
+            "year": "2020",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards solving differential equations through neural programming",
+            "year": "2018",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "High-dimensional covariance decomposition into sparse Markov and independence models",
+            "year": "2014",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Energy-latency tradeoff for in-network function computation in random networks",
+            "year": "2011",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Index-based sampling policies for tracking dynamic networks under sampling constraints",
+            "year": "2011",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Error exponents for composite hypothesis testing of Markov forest distributions",
+            "year": "2010",
+            "citations": 10,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards large-scale quantum optimization solvers with few qubits",
+            "year": "2024",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "PerAda: Parameter-Efficient Federated Learning Personalization with Generalization Guarantees",
+            "year": "2024",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "End-to-end 3d tracking with decoupled queries",
+            "year": "2023",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Context generation improves open domain question answering",
+            "year": "2022",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Oscar: Data-driven operational space control for adaptive and robust robot manipulation",
+            "year": "2022",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Utility of the simulated outcomes following carotid artery laceration video data set for machine learning applications",
+            "year": "2022",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamic social media monitoring for fast-evolving online discussions",
+            "year": "2021",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Triply robust off-policy evaluation",
+            "year": "2019",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Experimental results: Reinforcement learning of pomdps using spectral methods",
+            "year": "2017",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning high-dimensional mixtures of graphical models",
+            "year": "2012",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Two svds suffice: spectral decompositions for probabilistic topic models and latent dirichlet allocation",
+            "year": "2012",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Detection error exponent for spatially dependent samples in random networks",
+            "year": "2009",
+            "citations": 9,
+            "link": "No link available"
+        },
+        {
+            "title": "Pretraining codomain attention neural operators for solving multiphysics pdes",
+            "year": "2024",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Physics-informed neural operators with exact differentiation on arbitrary geometries",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Speeding up Fourier neural operators via mixed precision",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributionally robust policy gradient for offline contextual bandits",
+            "year": "2023",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor-based driving scenario characterization",
+            "year": "2022",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Bayesian quadrature policy optimization",
+            "year": "2021",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Out-of-distribution detection using neural rendering generative models",
+            "year": "2019",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural rendering model: Joint generation and prediction for semi-supervised learning",
+            "year": "2018",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning latent bayesian networks and topic models under expansion constraints",
+            "year": "2013",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Summary based structures with improved sublinear recovery for compressed sensing",
+            "year": "2011",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "Non-intrusive transaction monitoring using system logs",
+            "year": "2008",
+            "citations": 8,
+            "link": "No link available"
+        },
+        {
+            "title": "AI-aided geometric design of anti-infection catheters",
+            "year": "2024",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Ocean emulation with Fourier neural operators: Double gyre",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Inrank: Incremental low-rank learning",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast monocular scene reconstruction with global-sparse local-dense grids",
+            "year": "2023",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Large scale mask optimization via convolutional fourier neural operator and litho-guided self training",
+            "year": "2022",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Attribute-aware image generation using neural networks",
+            "year": "2022",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Accelerating carbon capture and storage modeling using fourier neural operators",
+            "year": "2022",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi sense embeddings from topic models",
+            "year": "2019",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Are you going to the party: Depends, who else is coming?:[Learning hidden group dynamics via conditional latent tree models]",
+            "year": "2015",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributed statistical inference using type based random access over multi-access fading channels",
+            "year": "2006",
+            "citations": 7,
+            "link": "No link available"
+        },
+        {
+            "title": "Dpot: Auto-regressive denoising operator transformer for large-scale pde pre-training",
+            "year": "2024",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-grid tensorized Fourier neural operator for high-resolution PDEs",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Thompson sampling for partially observable linear-quadratic control",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Assessing the efficacy of dissection gestures in robotic surgery",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Capturing fine-grained details for video-based automation of suturing skills assessment",
+            "year": "2023",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Using real-time feedback to improve surgical performance on a robotic tissue dissection task",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Heat: Hardware-efficient automatic tensor decomposition for transformer compression",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Validation of Machine Learning\u2013Based Automated Surgical Instrument Annotation Using Publicly Available Intraoperative Video",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep neural networks can accurately detect blood loss and hemorrhage control task success from video",
+            "year": "2022",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Cem-gd: Cross-entropy method with gradient descent planner for model-based reinforcement learning",
+            "year": "2021",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving adversarial robustness in 3D point cloud classification via self-supervisions",
+            "year": "2021",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Finding social media trolls: Dynamic keyword selection methods for rapidly-evolving online debates",
+            "year": "2019",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "A lagrangian method for inverse problems in reinforcement learning",
+            "year": "2019",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor computing for internet of things (dagstuhl perspectives workshop 16152)",
+            "year": "2016",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Distributionally Robust Learning for Uncertainty Calibration under Domain Shift",
+            "year": "Unknown",
+            "citations": 6,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural operators with localized integral and differential kernels",
+            "year": "2024",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Equivariant graph neural operator for modeling 3d dynamics",
+            "year": "2024",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Prismer: A vision-language model with multi-task experts",
+            "year": "2023",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Can you label less by using out-of-domain data? Active & transfer learning with few-shot instructions",
+            "year": "2023",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Spacetime surface regularization for neural dynamic scene reconstruction",
+            "year": "2023",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Stochastic linear bandits with unknown safety constraints and local feedback",
+            "year": "2023",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "The relationship between technical skills, cognitive workload, and errors during robotic surgical exercises",
+            "year": "2022",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Disentangling observed causal effects from latent confounders using method of moments",
+            "year": "2021",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "OCEAN: Online Task Inference for Compositional Tasks with Context Adaptation",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Multipole Graph Neural Operator for Parametric Partial Differential Equations 2020",
+            "year": "2020",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "A data-driven approach to modeling turbulent decay at non-asymptotic Reynolds numbers",
+            "year": "2019",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Compression by the signs: distributed learning is a two-way street",
+            "year": "2018",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Routing for statistical inference in sensor networks",
+            "year": "2009",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "Cost-performance tradeoff in multi-hop aggregation for statistical inference",
+            "year": "2008",
+            "citations": 5,
+            "link": "No link available"
+        },
+        {
+            "title": "T-stitch: Accelerating sampling in pre-trained diffusion models with trajectory stitching",
+            "year": "2024",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Calibrated uncertainty quantification for operator learning via conformal prediction",
+            "year": "2024",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "DeepSpeed4Science Initiative: Enabling Large-Scale Scientific Discovery through Sophisticated AI System Technologies",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Tipping point forecasting in non-stationary dynamics on function spaces",
+            "year": "2023",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Calibration of large neural weather models",
+            "year": "2022",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling fair learning to hundreds of intersectional groups",
+            "year": "2022",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Auditing ai models for verified deployment under semantic specifications",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards reducing labeling cost in deep object detection",
+            "year": "2021",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient tensor operations via compression and parallel computation",
+            "year": "2019",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "A bayesian perspective of convolutional neural networks through a deconvolutional generative model",
+            "year": "2018",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning of contextual mdps using spectral methods",
+            "year": "2016",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised learning of transcriptional regulatory networks via latent tree graphical models",
+            "year": "2016",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Detection of Gauss-Markov random fields under routing energy constraint",
+            "year": "2007",
+            "citations": 4,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards large language models as copilots for theorem proving in lean",
+            "year": "2024",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Exploring social bias in downstream applications of text-to-image foundation models",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Protein Generation via Genome-scale Language Models with Bio-physical Scoring",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Fully attentional networks with self-emerging token labeling",
+            "year": "2023",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards neural variational Monte Carlo that scales linearly with system size",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental spectral learning in Fourier neural operator",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "1st place solution of the robust vision challenge 2022 semantic segmentation track",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Machine learning training in logarithmic number system",
+            "year": "2022",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Stability and identification of random asynchronous linear time-invariant systems",
+            "year": "2021",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Systems and Methods for Determining Molecular Structures with Molecular-Orbital-Based Features",
+            "year": "2020",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "A deep learning based physics informed continuous spatio temporal super-resolution framework",
+            "year": "2020",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Reinforcement learning in structured and partially observable environments",
+            "year": "2019",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor contraction & regression networks",
+            "year": "2018",
+            "citations": 3,
+            "link": "No link available"
+        },
+        {
+            "title": "Near-term distributed quantum computation using mean-field corrections and auxiliary qubits",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Action-conditional implicit visual dynamics for deformable object manipulation",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Data selection based on uncertainty quantification",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Data selection based on uncertainty quantification",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "ChatGPT Based Data Augmentation for Improved Parameter-Efficient Debiasing of LLMs",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor methods in deep learning",
+            "year": "2024",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "EKGNet: A 10.96 \u03bcW Fully Analog Neural Network for Intra-Patient Arrhythmia Classification",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Empowering domain experts to detect social bias in generative ai with user-friendly interfaces",
+            "year": "2023",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "An adversarial active sampling-based data augmentation framework for manufacturable chip design",
+            "year": "2022",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Unsupervised Controllable Generation with Self-Training",
+            "year": "2021",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Convergence rate of sign stochastic gradient descent for non-convex functions, 2018",
+            "year": "2018",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Feast at play: Feature extraction using score function tensors",
+            "year": "2015",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Guarantees for multi-step stochastic ADMM in high dimensions",
+            "year": "2014",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Niranjan, Sujay Sanghavi, Animashree Anandkumar, and Prateek Jain",
+            "year": "2014",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Provable Learning of Overcomplete Latent Variable Models: Unsupervised and Semi-supervised Settings",
+            "year": "2014",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Scalable algorithms for distributed statistical inference",
+            "year": "2009",
+            "citations": 2,
+            "link": "No link available"
+        },
+        {
+            "title": "Solving Poisson Equations using Neural Walk-on-Spheres",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Combating Security and Privacy Issues in the Era of Large Language Models",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Autoformalizing Euclidean Geometry",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Artificial intelligence-based video feedback to improve novice performance on robotic suturing skills: a pilot study",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Trajectory generation",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "What is Point Supervision Worth in Video Instance Segmentation?",
+            "year": "2024",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "KCRL: Krasovskii-Constrained Reinforcement Learning with Guaranteed Stability in Nonlinear Discrete-Time Systems",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Perspectives on the State and Future of Deep Learning--2023",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "AI-based Video Feedback to Improve Novice Performance on Robotic Suturing Skills-A Pilot Study.",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust vision transformers",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Pretraining Neural-Networks with Neural-Fly for Rapid Online Learning",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "PD30-05 AI-based video feedback to improve novice performance on a robotic suturing task",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "A Multi-Grained Group Symmetric Framework for Learning Protein-Ligand Binding Dynamics",
+            "year": "2023",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Quantum semidefinite programming with the hadamard test and approximate amplitude constraints",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Quantification of robotic surgeries with vision-based deep learning",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Expert Surgeons and Deep Learning Models Can Predict the Outcome of Surgical Hemorrhage from One Minute of Video",
+            "year": "2022",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Polymatrix Competitive Gradient Descent",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network training technique",
+            "year": "2021",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Compact Tensor Pooling for Visual Question Answering",
+            "year": "2017",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Discovering neuronal cell types and their gene expression profiles using a spatial point process mixture model",
+            "year": "2016",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficiency of rate-maximization game under bounded channel uncertainty",
+            "year": "2010",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Scaling laws for learning high-dimensional Markov forest distributions",
+            "year": "2010",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Tracking Dynamic Networks under Sampling Constraints: Supporting Materials",
+            "year": "2010",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Selectively retrofitting monitoring in distributed systems",
+            "year": "2009",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "How do the structure and the parameters of Gaussian tree models affect structure learning?",
+            "year": "2009",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Min-Min times in peer-to-peer file sharing networks",
+            "year": "2008",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Dr-Fairness: Dynamic Data Ratio Adjustment for Fair Training on Real and Generated Data",
+            "year": "Unknown",
+            "citations": 1,
+            "link": "No link available"
+        },
+        {
+            "title": "Plasma surrogate modelling using Fourier neural operators",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ACM/IMS",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Physics-informed Neural-operator Predictive Control for Drag Reduction in Turbulent Flows",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "CONDITIONAL DIFFUSION MODEL FOR DATA-TO-DATA TRANSLATION",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sum-of-Squares inspired Quantum Metaheuristic for Polynomial Optimization with the Hadamard Test and Approximate Amplitude Constraints",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Beyond Closure Models: Learning Chaotic-Systems via Physics-Informed Neural Operators",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Long-range 3d object detection using 2d bounding boxes",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "MINI-SEQUENCE TRANSFORMER: Optimizing Intermediate Memory for Long Sequences Training",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamical Measure Transport and Neural PDE Solvers for Sampling",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Point-level supervision for video instance segmentation",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving Diffusion Inverse Problem Solving with Decoupled Noise Annealing",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "CARE: a Benchmark Suite for the Classification and Retrieval of Enzymes",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "ARDuP: Active Region Video Diffusion for Universal Policies",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SF3D: SlowFast Temporal 3D Object Detection",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial scenarios for safety testing of autonomous vehicles",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network-based perturbation removal",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network prompt tuning",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural network-based language restriction",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Performing visual relational reasoning",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Performing visual relational reasoning",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Video instance segmentation",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Techniques for weakly supervised referring image segmentation",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Improving Distant 3D Object Detection Using 2D Box Supervision",
+            "year": "2024",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Deep Multimodal Fusion for Surgical Feedback Classification",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Evaluating Data-Driven Forecasts of Extreme Weather",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "NVIDIA Earth-2: Towards km-scale interactive digital twins",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Image processing using coupled segmentation and edge learning",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Fine-tuning policies to facilitate chaining",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Calibrated Uncertainties for Domain Shift: A Distributionally Robust Learning Approach.",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Incrementally-Computable Neural Networks: Efficient Inference for Dynamic Inputs",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Guaranteed Approximation Bounds for Mixed-Precision Neural Operators",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "PD30-03 IMPORTANCE OF COGNITIVE LOAD FOR AUTOMATED ERROR DETECTION IN ROBOT-ASSISTED SURGERY EDUCATION",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Operators for Solving PDEs and Inverse Design",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Image generation using one or more neural networks",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Adversarial scenarios for safety testing of autonomous vehicles",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "AI-enabled multiscale modeling of SARS-CoV-2 replication transcription complex",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Efficient and Large-Scale Semidefinite Programming with Quantum Neural Networks",
+            "year": "2023",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards Digital Twins for NVIDIA's Earth-2 Initiative: Pushing the Limits of Deep Auto-regressive Fourier Neural Operator and Transformer models for Earth System Emulation",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "NVIDIA's Earth-2: The\" Hop, Skip, Tune, Leap\" strategy for accelerated km-scale hybrid ML-physics climate prediction",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Experimental application of neural operators for prediction of bluff body wakes",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental Spatial and Spectral Learning of Neural Operators for Solving Large-Scale PDEs",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "THE RELATIONSHIP OF TECHNICAL SKILLS AND COGNITIVE WORKLOAD TO ERRORS DURING ROBOTIC SURGICAL EXERCISES",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "MP10-15 BUILDING A REAL-TIME FEEDBACK SYSTEM TO IMPROVE PERFORMANCE ON A ROBOTIC TISSUE DISSECTION TASK",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "MP41-08 ADVANCED TECHNIQUES TO IMPROVE VIDEO-BASED AUTOMATION OF SUTURING SKILLS ASSESSMENT",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "MP41-05 EVALUATING THE EFFICACY OF TISSUE DISSECTION GESTURES DURING ROBOTIC SIMULATION TASK",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "MP41-01 DISSECTION ASSESSMENT FOR ROBOTIC TECHNIQUE (DART) TO EVALUATE NERVE-SPARE OF ROBOT-ASSISTED RADICAL PROSTATECTOMY",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "MP41-03 COMPUTER VISION FOR SURGICAL ERRORS DETECTION DURING ROBOTIC TISSUE DISSECTION",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Online task inference for compositional tasks with context adaptation",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Automatic Assessment of Surgical Performance Using Intraoperative Video and Deep Learning: A Comparison with Expert Surgeon Video Review",
+            "year": "2022",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Neural Networks with Recurrent Generative Feedback",
+            "year": "2020",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Learning Mixed Membership Community Models-A statistical and a Computational Framework",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Large Scale Cloud Deployment of Spectral Topic Modeling",
+            "year": "2019",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Dynamically Learning the Learning Rates: Online Hyperparameter Optimization",
+            "year": "2018",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Spectral Latent Dirichlet Allocation model on Spark",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Multi-Object Classification and Unsupervised Scene Understanding Using",
+            "year": "2017",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Tensor vs Matrix Methods: Robust Tensor Decomposition under Block Sparse",
+            "year": "2015",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Matrix and Tensor Features for Discriminative Learning",
+            "year": "2014",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Seeing through black boxes: Tracking transactions through queues under monitoring resource constraints",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Robust noncooperative rate-maximization game for MIMO Gaussian interference channels under bounded channel uncertainty",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "FCD: Fast-concurrent-distributed load balancing under switching costs and imperfect observations",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Sufficient Statistics",
+            "year": "2013",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Modeling dynamic social networks with vertex evolution via latent graphical models",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Latent graphical model selection: efficient methods For locally tree-like graphs",
+            "year": "2012",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Reconstruction of Random Graphs With Few Participants",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Limit laws for random spatial graphical models",
+            "year": "2010",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A low cost remotely operable cutting machine for segmenting metal clad ceramic fuel pellets",
+            "year": "1997",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Fourier Neural Operator based surrogates for  storage in realistic geologies",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Towards Enforcing Hard Physics Constraints in Operator Learning Frameworks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "An Equivariant Flow Matching Framework for Learning Molecular Crystallization",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Geometry Aware Deep Learning for Integrated Closed-shell and Open-shell Systems",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Physics-informed neural networks for sampling",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supporting Information for\u201d Directivity Modes of Earthquake Populations with Unsupervised Learning\u201d",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Dictionary Learning Using Tensor Methods",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Incremental Low-Rank Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "AutoBiasTest: Controllable Test Sentence Generation for Open-Ended Social Bias Testing in Language Models at Scale",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Fourier Neural Operator with Learned Deformations for PDEs on General Geometries, July 2022",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Utility of the Simulated Outcomes Following Carotid Artery Laceration Video Data Set for Machine Learning Applications",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Fast Monocular Scene Reconstruction with Global-Sparse Local-Dense Grids Supplementary Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Vision Transformers Are Good Mask Auto-Labelers Supplementary Material",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "SPHERICAL FOURIER NEURAL OPERATORS",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary: Coupled Segmentation and Edge Learning via Dynamic Graph Propagation",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Supplementary Materials: Robust Trajectory Prediction against Adversarial Attacks",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Shoubhik Debhath Anjul Patney Ankit B. Patel and Anima Anandkumar. 2020. Semi-Supervised StyleGAN for Disentanglement Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Cost-Sensitive Hierarchical Classification through Layer-wise Abstentions",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "A COMPARATIVE STUDY OF DISCRETE FRACTIONAL FOURIER TRANSFORMS",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Provable non-convex robust PCA",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Transferable Unsupervised Robust Representation Learning",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "The Latent-Dependent Deep Rendering Model",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Some Success Stories in Bridging Theory and Practice",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "On Mixed Conditional FFJORD with Large-Batch Training",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Fading Channels with Random Number of Sensors",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        },
+        {
+            "title": "Networked Statistical Inference: Cost-Performance Tradeoff",
+            "year": "Unknown",
+            "citations": 0,
+            "link": "No link available"
+        }
+    ],
+    "summary_of_fields": "Machine Learning and Artificial Intelligence"
+}
