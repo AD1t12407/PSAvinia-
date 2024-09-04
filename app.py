@@ -85,18 +85,14 @@ def main():
         if filtered_pubs:
             st.subheader("Research Metrics Plots")
             
-            # Plot: Number of Papers and Citations
+            # Plot: Number of Papers and Citations 
             total_papers = len(filtered_pubs)
             total_citations = sum(pub['citations'] for pub in filtered_pubs)
-            data = {
-                "Metrics": ["Total Papers", "Total Citations"],
-                "Count": [total_papers, total_citations]
-            }
-            df = pd.DataFrame(data)
-            fig = px.bar(df, x="Metrics", y="Count", title=f"Research Metrics for {selected_name}")
-            st.plotly_chart(fig)
+            st.write(f"Total Papers: {total_papers}")
+            st.write(f"Total Citations: {total_citations}")
             
-            # Plot: Publications per Year
+            
+            # Plot: Publications per Year bar plot
             publication_years = {}
             for pub in filtered_pubs:
                 year = pub['year']
@@ -112,8 +108,51 @@ def main():
                 "Publications": counts
             }
             df = pd.DataFrame(data)
-            fig = px.line(df, x="Year", y="Publications", title=f"Publications per Year for {selected_name}")
+            fig = px.bar(df, x="Year", y="Publications", title=f"Publications per Year for {selected_name}")
             st.plotly_chart(fig)
+            
+            # year wise citation growth graph
+            citation_years = {}
+            for pub in filtered_pubs:
+                year = pub['year']
+                if year in citation_years:
+                    citation_years[year] += pub['citations']
+                else:
+                    citation_years[year] = pub['citations']
+            
+            years = list(citation_years.keys())
+            counts = list(citation_years.values())
+            data = {
+                "Year": years,
+                "Citations": counts
+            }
+            df = pd.DataFrame(data)
+            fig = px.bar(df, x="Year", y="Citations", title=f"Citations per Year for {selected_name}")
+            st.plotly_chart(fig)
+            
+            # Plot: Citations culminated over the years graph
+            # sort citation years by year and then aggregate the citations till that year
+            citation_years = dict(sorted(citation_years.items()))
+            # make culmulative citations a dict with till that year as key and total citations till that year as value
+            cumulative_citations = {}
+            total = 0
+            for year, citation in citation_years.items():
+                total += citation
+                cumulative_citations[year] = total
+            
+            # now plot only the cumulative citations dict as bar plot
+            years = list(cumulative_citations.keys())
+            counts = list(cumulative_citations.values())
+            data = {
+                "Year": years,
+                "Citations": counts
+            }
+            df = pd.DataFrame(data)
+            # give nice looking gradient color to the bar plot
+            fig = px.bar(df, x="Year", y="Citations", title=f"Cumulative Citations per Year for {selected_name}", color='Citations')
+            st.plotly_chart(fig)
+            
+            
             
         # Summarization
         if st.button("Summarize Publications"):
