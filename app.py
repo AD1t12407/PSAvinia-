@@ -10,6 +10,24 @@ from scrape import fetch_scholar_data, save_author_data
 # Define the path to the authors folder
 AUTHORS_FOLDER = 'authors'
 
+# Define the gradient colors
+colors = ["red", "orange", "yellow", "blue", "purple"]
+
+# Function to determine the color based on the citation count
+def get_color(citations):
+    # Define citation thresholds
+    thresholds = [10, 50, 100, 200]  # Example thresholds, adjust according to your data
+    if citations < thresholds[0]:
+        return colors[0]  # red
+    elif citations < thresholds[1]:
+        return colors[1]  # orange
+    elif citations < thresholds[2]:
+        return colors[2]  # yellow
+    elif citations < thresholds[3]:
+        return colors[3]  # blue
+    else:
+        return colors[4]  # p
+
 def read_json_file(file_path):
     """Reads a JSON file and returns its content."""
     with open(file_path, 'r') as file:
@@ -48,6 +66,7 @@ def main():
             if author_data:
                 save_author_data(author_data)
                 st.write(f"Data saved for {new_name}")
+                json_data = read_json_file(os.path.join(AUTHORS_FOLDER, f"{new_name}.json"))
     except Exception as e:
         pass
     
@@ -76,10 +95,16 @@ def main():
         # Filter publications
         filtered_pubs = filter_publications(json_data['publications'], min_citations, start_year, end_year)
 
-        # Display filtered publications
+        # Display filtered publications as bullet points
         st.write(f"Found {len(filtered_pubs)} publications matching the criteria.")
+        count = 1
         for pub in filtered_pubs:
-            st.write(f"**{pub['title']}** ({pub['year']}) - {pub['citations']} citations")
+            #st.write(f"**{pub['title']}** ({pub['year']}) - {pub['citations']} citations")
+            color = get_color(pub["citations"])
+            st.write(f"{count}. **{pub['title']}** ({pub['year']}) - <span style='color:{color};'>{pub['citations']} citations</span>", unsafe_allow_html=True)
+            count += 1
+            
+            
 
         # Display plots
         if filtered_pubs:
