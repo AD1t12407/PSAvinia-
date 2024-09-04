@@ -14,3 +14,5 @@ scholarly
 nltk
 matplotlib 
 plotly
+pybtex 
+pybtex-docutils
