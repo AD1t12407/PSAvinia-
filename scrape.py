@@ -1,7 +1,12 @@
 from scholarly import scholarly
 import json
+import os
+
+# Define the path to the authors folder
+AUTHORS_FOLDER = 'authors'
 
 def fetch_scholar_data(faculty_name):
+    """Fetches data from Google Scholar for the given faculty name."""
     # Search for the author
     search_query = scholarly.search_author(faculty_name)
     author = next(search_query, None)
@@ -19,7 +24,7 @@ def fetch_scholar_data(faculty_name):
 
     for pub in author['publications']:
         title = pub['bib']['title']
-        citations = pub['num_citations']
+        citations = pub.get('num_citations', 0)
         year = pub['bib'].get('pub_year', 'Unknown')
         link = pub.get('eprint_url', 'No link available')
 
@@ -44,11 +49,15 @@ def fetch_scholar_data(faculty_name):
     return author_data
 
 def save_author_data(author_data):
-    with open(f"authors/{author_data['author'].replace(' ', '_')}.json", 'w') as f:
+    """Saves the author data to a JSON file."""
+    os.makedirs(AUTHORS_FOLDER, exist_ok=True)
+    file_name = f"{author_data['author'].replace(' ', '_')}.json"
+    file_path = os.path.join(AUTHORS_FOLDER, file_name)
+    
+    with open(file_path, 'w') as f:
         json.dump(author_data, f, indent=4)
 
 if __name__ == "__main__":
-    researcher = ["Geoffrey Hinton"]
     researchers = [
         "Geoffrey Hinton",
         "Yann LeCun",
@@ -76,6 +85,4 @@ if __name__ == "__main__":
         author_data = fetch_scholar_data(faculty_name)
         if author_data:
             save_author_data(author_data)
-            print(f"Author Data for {faculty_name} saved successfully")
-        
-            
+            print(f"Author data for {faculty_name} saved successfully.")
